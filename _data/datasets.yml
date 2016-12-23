@@ -2,6 +2,7 @@
   creator: Nick Ruest
   url: https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=hdl:10864/10830
   published: 2015-01-14
+  tweets: 
   tags:
     - politics
   description: > 
@@ -12,6 +13,7 @@
   creator: Microsoft
   url: https://www.microsoft.com/en-us/download/details.aspx?id=52598
   published: 2016-05-12
+  tweets: 38000000
   tags:
     - politics
   description: >
@@ -24,6 +26,7 @@
     further description of the dataset.
 
 - title: 2016 United States Presidential Election Tweet Ids
+  tweets: 280000000
   creator:
     - Justin Littman
     - Laura Wrubel
@@ -75,6 +78,7 @@
   creator: Ed Summers
   published: 2015-11-18
   url: https://archive.org/details/ferguson-tweet-ids
+  tweets: 28560078
   tags:
     - activism
     - blacklivesmatter
