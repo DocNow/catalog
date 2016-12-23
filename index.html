@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+  <div>
+  <ul class="datasets">
+    {% for dataset in site.data.datasets %}
+    <li class="dataset">
+      <a class="title" href="{{ dataset.url }}">{{ dataset.title }}</a>
+      <div class="creator">{{ dataset.creator | join: ', ' }}</div>
+      <div class="published">Published: {{ dataset.published }}</div>
+      <div class="description">
+        {{ dataset.description | markdownify }}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+  </div>
+

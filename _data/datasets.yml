@@ -1,0 +1,95 @@
+- title: "#JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets"
+  creator: Nick Ruest
+  url: https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=hdl:10864/10830
+  published: 2015-01-14
+  tags:
+    - politics
+  description: > 
+    Tweet ids for #JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo 
+    tweets.
+
+- title: Election 2012 Tweet ID dataset
+  creator: Microsoft
+  url: https://www.microsoft.com/en-us/download/details.aspx?id=52598
+  published: 2016-05-12
+  tags:
+    - politics
+  description: >
+    This data set identifies 38M tweets collected for the analysis of social
+    media messages related to the 2012 U.S. Presidential election. The data set
+    provides tweet IDs for tweets containing the words "obama", "romney", or
+    both (case-insensitive matching) during the period from July 1, 2012 through
+    November 7, 2012. The paper, “Online and Social Media Data As an Imperfect
+    Continuous Panel Survey.” PLoS ONE 11(1): e0145406 by Diaz et al.  provides
+    further description of the dataset.
+
+- title: 2016 United States Presidential Election Tweet Ids
+  creator:
+    - Justin Littman
+    - Laura Wrubel
+    - Daniel Kerchner
+  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FPDI7IN
+  published: 2016-11-29
+  tags:
+    - politics
+  description: >
+    This dataset contains the tweet ids of approximately 280 million tweets
+    related to the 2016 United States presidential election. They were collected
+    between July 13, 2016 and November 10, 2016 from the Twitter API using
+    Social Feed Manager.
+
+    These tweet ids are broken up into 12 collections. Each collection was
+    collected either from the GET statuses/user_timeline method of the Twitter
+    REST API or the POST statuses/filter method of the Twitter Stream API. The
+    collections are:
+
+    * Candidates and key election hashtags (Twitter filter): 
+      election-filter[1-6].txt
+    * Democratic candidates (Twitter user timeline):
+      democratic-candidate-timelines.txt
+    * Democratic Convention (Twitter filter):
+      democratic-convention-filter.txt 
+    * Democratic Party (Twitter user timeline):
+      democratic-party-timelines.txt 
+    * Election Day (Twitter filter):
+      election-day.txt 
+    * First presidential debate (Twitter filter):
+      first-debate.txt
+    * GOP Convention (Twitter filter):
+      republican-convention-filter.txt
+    * Republican candidates (Twitter user timeline):
+      republican-candidate-timelines.txt
+    * Republican Party (Twitter user timeline):
+      republican-party-timelines.txt
+    * Second presidential debate (Twitter filter):
+      second-debate.txt
+    * Third presidential debate (Twitter filter):
+      third-debate.txt
+    * Vice Presidential debate (Twitter filter):
+      vp-debate.txt
+
+    There is also a README.txt file for each collection containing additional
+    documentation on how it was collected.
+
+- title: Ferguson Tweets
+  creator: Ed Summers
+  published: 2015-11-18
+  url: https://archive.org/details/ferguson-tweet-ids
+  tags:
+    - activism
+    - blacklivesmatter
+  description: >
+    This item represents a collection of 13,480,000 tweet IDs that mentioned
+    'ferguson' from 2014-08-10 to 2014-08-27 and 15,080,078 tweet IDs that
+    mention "ferguson" between 2014-11-11 and 2014-12-08.
+
+    The first set includes tweets for the two week period after the shooting of
+    Michael Brown, and the second range includes tweets around the grand jury's
+    decision not to indict police office Darren Wilson which was announced on
+    2014-11-24.
+
+    The first set of tweets were collected by Ed Summers at the University of
+    Maryland and the second was a collaboration between Molly Loyd, Gregory
+    Coleman, Kimberly Lamke, Benjamin Sugar and Ed Summers.
+
+

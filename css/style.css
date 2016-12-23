@@ -1,0 +1,33 @@
+body {
+  margin: 20px 20% 5% 20%;
+  font-size: 14pt;
+  font-family: Helvetica, Garamond;
+  background-color: #eee;
+}
+
+header {
+  font-weight: bold;
+  font-size: 30pt;
+  text-align: center;
+}
+
+.datasets {
+  padding: 0;
+}
+
+.dataset {
+  list-style-type: none;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: solid thin #ddd;
+  background-color: white;
+}
+
+.dataset .title {
+  font-size: 16pt;
+  font-weight: bold;
+}
+
+a.title {
+  text-decoration: none;
+}

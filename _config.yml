@@ -1,1 +1,15 @@
-theme: jekyll-theme-time-machine
+title: Tweet ID Catalog
+email: ehs@pobox.com
+description: >
+  This is a catalog of tweet id datasets. Please add yours by 
+  submitting a pull request on Github.
+baseurl: "/catalog"
+url: "http://docnow.io"
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
