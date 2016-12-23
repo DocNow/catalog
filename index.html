@@ -7,8 +7,9 @@ layout: default
     {% for dataset in site.data.datasets %}
     <li class="dataset">
       <a class="title" href="{{ dataset.url }}">{{ dataset.title }}</a>
-      <div class="creator">{{ dataset.creator | join: ', ' }}</div>
+      <div class="creator">Creator: {{ dataset.creator | join: ', ' }}</div>
       <div class="published">Published: {{ dataset.published }}</div>
+      <div class="tags">Tags: {{ dataset.tags | join: ', '}}</div>
       <div class="description">
         {{ dataset.description | markdownify }}
       </div>
