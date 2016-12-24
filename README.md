@@ -22,7 +22,7 @@ locally you'll need to install Ruby and then:
 gem install bundler jekyll
 git clone https://github.com/docnow/catalog.git
 cd catalog
-jekyll serve
+bundle exec jekyll serve
 ```
 
 [datasets.yml]: https://github.com/DocNow/catalog/blob/master/_data/datasets.yml
