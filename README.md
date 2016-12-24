@@ -15,4 +15,4 @@ website please send along those pull requests and issues too.
 
 [datasets.yml]: https://github.com/DocNow/catalog/blob/master/_data/datasets.yml
 [issue tracker]: https://github.com/DocNow/catalog/issues
-[edit]: /DocNow/catalog/blob/master/images/edit.png?raw=true)
+[edit button]: /DocNow/catalog/blob/master/images/edit.png?raw=true)
