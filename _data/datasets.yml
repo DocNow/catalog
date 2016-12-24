@@ -1,13 +1,70 @@
+- title: "Yes All Women Twitter Dataset"
+  creator: Mark Phillips
+  published: 2014-06-08
+  url: http://digital.library.unt.edu/ark:/67531/metadc304853/
+  tweets: "2,805,763"
+  tags:
+    - harassment
+    - discrimination
+  description: >
+    This dataset contains Twitter JSON data for several Twitter search queries
+    that were collected around the #YesAllWomen Twitter "conversation" between
+    May 25, 2014 and June 8, 2014 using the twarc (https://github.com/edsu/twarc)
+    package that makes use of Twitter's search API. A total of 2,805,763 Tweets
+    and 34,532 images make up the combined dataset.
+
 - title: "#JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets"
   creator: Nick Ruest
-  url: https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=hdl:10864/10830
+  url: http://hdl.handle.net/10864/10830
   published: 2015-01-14
-  tweets: "4,584,714"
+  tweets: "13,968,293"
   tags:
     - politics
   description: > 
     Tweet ids for #JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo 
     tweets.
+
+- title: Ferguson Tweets
+  creator: Ed Summers
+  published: 2015-11-18
+  url: https://archive.org/details/ferguson-tweet-ids
+  tweets: "28,560,078"
+  tags:
+    - activism
+    - blacklivesmatter
+  description: >
+    This item represents a collection of 13,480,000 tweet IDs that mentioned
+    'ferguson' from 2014-08-10 to 2014-08-27 and 15,080,078 tweet IDs that
+    mention "ferguson" between 2014-11-11 and 2014-12-08.
+
+    The first set includes tweets for the two week period after the shooting of
+    Michael Brown, and the second range includes tweets around the grand jury's
+    decision not to indict police office Darren Wilson which was announced on
+    2014-11-24.
+
+    The first set of tweets were collected by Ed Summers at the University of
+    Maryland and the second was a collaboration between Molly Loyd, Gregory
+    Coleman, Kimberly Lamke, Benjamin Sugar and Ed Summers.
+
+- title: "#elxn42 tweets (42nd Canadian Federal Election)"
+  creator: Nick Ruest
+  url: http://hdl.handle.net/10864/11270
+  pulished: 2015-11-19
+  tweets: "3,039,804"
+  tags:
+    - politics
+  description: >
+    Tweet ids for #elxn42 tweets.
+
+ -title: "#elxn42 tweets (42nd Canadian Federal Election)"
+  creator: Library and Archives Canada
+  url: http://hdl.handle.net/10864/11270
+  pulished: 2015-12-04
+  tweets: "3,397,626"
+  tags:
+    - politics
+  description: >
+    Tweet ids for #elxn42 tweets.
 
 - title: "#elxn42 tweets (42nd Canadian Federal Election)"
   creator: 
@@ -15,7 +72,7 @@
     - Library and Archives Canada
   url: http://hdl.handle.net/10864/11311
   published: 2015-12-07
-  tweets: "3,989,044"
+  tweets: "3,918,932"
   tags:
     - politics
   description: >
@@ -25,7 +82,7 @@
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/11312
   published: 2015-12-12
-  tweets: "660,470"
+  tweets: "14,939,154"
   tags:
     - politics
   description: >
@@ -117,40 +174,3 @@
     collection was collected either from the GET statuses/user_timeline method
     of the Twitter REST API or the POST statuses/filter method of the Twitter
     Stream API.
-
-- title: Ferguson Tweets
-  creator: Ed Summers
-  published: 2015-11-18
-  url: https://archive.org/details/ferguson-tweet-ids
-  tweets: "28,560,078"
-  tags:
-    - activism
-    - blacklivesmatter
-  description: >
-    This item represents a collection of 13,480,000 tweet IDs that mentioned
-    'ferguson' from 2014-08-10 to 2014-08-27 and 15,080,078 tweet IDs that
-    mention "ferguson" between 2014-11-11 and 2014-12-08.
-
-    The first set includes tweets for the two week period after the shooting of
-    Michael Brown, and the second range includes tweets around the grand jury's
-    decision not to indict police office Darren Wilson which was announced on
-    2014-11-24.
-
-    The first set of tweets were collected by Ed Summers at the University of
-    Maryland and the second was a collaboration between Molly Loyd, Gregory
-    Coleman, Kimberly Lamke, Benjamin Sugar and Ed Summers.
-
-- title: "Yes All Women Twitter Dataset"
-  creator: Mark Phillips
-  published: 2014-06-08
-  url: http://digital.library.unt.edu/ark:/67531/metadc304853/
-  tweets: "2,805,763"
-  tags:
-    - harassment
-    - discrimination
-  description: >
-    This dataset contains Twitter JSON data for several Twitter search queries
-    that were collected around the #YesAllWomen Twitter "conversation" between
-    May 25, 2014 and June 8, 2014 using the twarc (https://github.com/edsu/twarc)
-    package that makes use of Twitter's search API. A total of 2,805,763 Tweets
-    and 34,532 images make up the combined dataset.
