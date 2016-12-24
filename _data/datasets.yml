@@ -10,7 +10,9 @@
     tweets.
 
 - title: "#elxn42 tweets (42nd Canadian Federal Election)"
-  creator: Nick Ruest, Library and Archives Canada (Library and Archives Canada, Government of Canada)
+  creator: 
+    - Nick Ruest
+    - Library and Archives Canada
   url: http://hdl.handle.net/10864/11311
   published: 2015-12-07
   tweets: "3,989,044"
@@ -94,7 +96,8 @@
     - Fort McMurry
     - Wildfire
   description: >
-    Tweet ids for #YMMfire tweets captured during the 2016 Fort McMurray Wildfire from 2016-05-01 to 2016-06-25.
+    Tweet ids for #YMMfire tweets captured during the 2016 Fort McMurray
+    Wildfire from 2016-05-01 to 2016-06-25.
 
 - title: 2016 United States Presidential Election Tweet Ids
   tweets: "272,968,886"
@@ -102,7 +105,7 @@
     - Justin Littman
     - Laura Wrubel
     - Daniel Kerchner
-  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FPDI7IN
+  url: http://hdl.handle.net/10.7910/DVN/PDI7IN
   published: 2016-11-29
   tags:
     - politics
