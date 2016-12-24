@@ -13,6 +13,18 @@ Someone on the team will then edit [datasets.yml] for you.
 If you have ideas or suggestions about the metadata or want to help design the 
 website please send along those pull requests and issues too.
 
+## Develop
+
+You can let GitHub Pages build the site for you, but if you want to run it
+locally you'll need to install Ruby and then:
+
+```
+gem install bundler jekyll
+git clone https://github.com/docnow/catalog.git
+cd catalog
+jekyll serve
+```
+
 [datasets.yml]: https://github.com/DocNow/catalog/blob/master/_data/datasets.yml
 [issue tracker]: https://github.com/DocNow/catalog/issues
 [edit button]: https://raw.githubusercontent.com/DocNow/catalog/master/images/edit.png
