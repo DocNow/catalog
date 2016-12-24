@@ -88,6 +88,16 @@
   description: >
     Tweet ids for #paris #Bataclan #parisattacks #porteouverte tweets.
 
+- title: "#cdnpoli tweets (Canadian Politics, 2015)"
+  creator: Library and Archives Canada
+  url: http://hdl.handle.net/10864/11348
+  published:  2016-01-18
+  tweets: "2,607,886"
+  tags:
+    - politics
+  description: >
+    Tweet IDs for tweets carrying the #cdnpoli hashtag, applied to Canadian politics, collected as part of a larger project centered on Canada's 42nd federal election.
+
 - title: "#MakeDonaldDrumpfAgain tweets"
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/11491
