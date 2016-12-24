@@ -2,13 +2,22 @@ body {
   margin: 20px 20% 5% 20%;
   font-size: 14pt;
   font-family: Helvetica, Garamond;
-  background-color: #eee;
+  background-image: url("/catalog/images/background.png");
+  background-repeat: repeat-y repeat-x;
+}
+
+section { 
+  background-color: white;
+  padding: 20px;
+  border: solid thin #ddd;
 }
 
 header {
   font-weight: bold;
-  font-size: 30pt;
+  font-size: 40pt;
   text-align: center;
+  margin-bottom: 20px;
+  padding: 20px;
 }
 
 .datasets {
@@ -29,4 +38,7 @@ header {
 
 a.title {
   text-decoration: none;
+}
+
+#description {
 }

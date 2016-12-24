@@ -2,7 +2,7 @@
   creator: Nick Ruest
   url: https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=hdl:10864/10830
   published: 2015-01-14
-  tweets: 
+  tweets: "4,584,714"
   tags:
     - politics
   description: > 
@@ -13,6 +13,7 @@
   creator: Nick Ruest, Library and Archives Canada (Library and Archives Canada, Government of Canada)
   url: http://hdl.handle.net/10864/11311
   published: 2015-12-07
+  tweets: "3,989,044"
   tags:
     - politics
   description: >
@@ -22,6 +23,7 @@
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/11312
   published: 2015-12-12
+  tweets: "660,470"
   tags:
     - politics
   description: >
@@ -31,6 +33,7 @@
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/11491
   published: 2016-03-03 
+  tweets: "1,828,643"
   tags:
     -politics
   description: >
@@ -40,6 +43,7 @@
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/11591
   published: 2016-04-13
+  tweets: "115,524"
   tags:
     - politics
   description: >
@@ -49,6 +53,7 @@
   creator: "Nick Ruest"
   url: http://hdl.handle.net/10864/11592
   published: 2016-04-13
+  tweets: "4,976,094"
   tags:
     - politics
   description: >
@@ -58,6 +63,7 @@
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/11674
   published: 2016-04-27 
+  tweets: "40,279"
   tags:
     - politics
   description: >
@@ -67,7 +73,7 @@
   creator: Microsoft
   url: https://www.microsoft.com/en-us/download/details.aspx?id=52598
   published: 2016-05-12
-  tweets: 38000000
+  tweets: "38,000,000"
   tags:
     - politics
   description: >
@@ -83,6 +89,7 @@
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/12033
   published: 2016-08-21
+  tweets: "782,495"
   tags:
     - Fort McMurry
     - Wildfire
@@ -90,7 +97,7 @@
     Tweet ids for #YMMfire tweets captured during the 2016 Fort McMurray Wildfire from 2016-05-01 to 2016-06-25.
 
 - title: 2016 United States Presidential Election Tweet Ids
-  tweets: 280000000
+  tweets: "272,968,886"
   creator:
     - Justin Littman
     - Laura Wrubel
@@ -103,46 +110,16 @@
     This dataset contains the tweet ids of approximately 280 million tweets
     related to the 2016 United States presidential election. They were collected
     between July 13, 2016 and November 10, 2016 from the Twitter API using
-    Social Feed Manager.
-
-    These tweet ids are broken up into 12 collections. Each collection was
-    collected either from the GET statuses/user_timeline method of the Twitter
-    REST API or the POST statuses/filter method of the Twitter Stream API. The
-    collections are:
-
-    * Candidates and key election hashtags (Twitter filter): 
-      election-filter[1-6].txt
-    * Democratic candidates (Twitter user timeline):
-      democratic-candidate-timelines.txt
-    * Democratic Convention (Twitter filter):
-      democratic-convention-filter.txt 
-    * Democratic Party (Twitter user timeline):
-      democratic-party-timelines.txt 
-    * Election Day (Twitter filter):
-      election-day.txt 
-    * First presidential debate (Twitter filter):
-      first-debate.txt
-    * GOP Convention (Twitter filter):
-      republican-convention-filter.txt
-    * Republican candidates (Twitter user timeline):
-      republican-candidate-timelines.txt
-    * Republican Party (Twitter user timeline):
-      republican-party-timelines.txt
-    * Second presidential debate (Twitter filter):
-      second-debate.txt
-    * Third presidential debate (Twitter filter):
-      third-debate.txt
-    * Vice Presidential debate (Twitter filter):
-      vp-debate.txt
-
-    There is also a README.txt file for each collection containing additional
-    documentation on how it was collected.
+    Social Feed Manager. These tweet ids are broken up into 12 collections. Each
+    collection was collected either from the GET statuses/user_timeline method
+    of the Twitter REST API or the POST statuses/filter method of the Twitter
+    Stream API.
 
 - title: Ferguson Tweets
   creator: Ed Summers
   published: 2015-11-18
   url: https://archive.org/details/ferguson-tweet-ids
-  tweets: 28560078
+  tweets: "28,560,078"
   tags:
     - activism
     - blacklivesmatter
