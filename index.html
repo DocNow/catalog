@@ -20,9 +20,11 @@ layout: default
       <div class="tweets">Tweets: {{ dataset.tweets | 
       <div class="published">Published: {{ dataset.published }}</div>
       <div class="tags">Tags: {{ dataset.tags | join: ', '}}</div>
-      <div class="description">
-        {{ dataset.description | markdownify }}
-      </div>
+      <br>
+      <details class="description">
+        <summary>Description</summary>
+        <p>{{ dataset.description | markdownify }}</p>
+      </details>
     </li>
     {% endfor %}
   </ul>
