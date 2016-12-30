@@ -184,3 +184,16 @@
     collection was collected either from the GET statuses/user_timeline method
     of the Twitter REST API or the POST statuses/filter method of the Twitter
     Stream API.
+
+- title: "The fall of Aleppo tweets; #aleppo 2016-12-13 through 2016-12-29"
+  creator: Nick Ruest
+  published: 2016-12-29
+  url: http://dx.doi.org/10.5683/SP/DJLHSB
+  tweets: "6,8724,29"
+  tags:
+    - aleppo
+    - syrian civil war
+  description: >
+    6,8724,29 tweet ids for #aleppo tweets captured during the fall of Aleppo in December 2015. Tweets can be "rehydrated" with Documenting the Now's twarc (https://github.com/DocNow/twarc). twarc.py --hydrate aleppo_tweet_ids.txt > aleppo.json
+
+
