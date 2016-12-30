@@ -3,6 +3,7 @@
   published: 2014-06-08
   url: http://digital.library.unt.edu/ark:/67531/metadc304853/
   tweets: "2,805,763"
+  dates: 2014-05-25 - 2014-06-08
   tags:
     - harassment
     - discrimination
@@ -32,6 +33,9 @@
   tags:
     - activism
     - blacklivesmatter
+  dates:
+    - 2014-08-10 - 2014-08-27
+    - 2014-11-11 - 2014-12-08
   description: >
     This item represents a collection of 13,480,000 tweet IDs that mentioned
     'ferguson' from 2014-08-10 to 2014-08-27 and 15,080,078 tweet IDs that
@@ -96,7 +100,9 @@
   tags:
     - politics
   description: >
-    Tweet IDs for tweets carrying the #cdnpoli hashtag, applied to Canadian politics, collected as part of a larger project centered on Canada's 42nd federal election.
+    Tweet IDs for tweets carrying the #cdnpoli hashtag, applied to Canadian
+    politics, collected as part of a larger project centered on Canada's 42nd
+    federal election.
 
 - title: "#MakeDonaldDrumpfAgain tweets"
   creator: Nick Ruest
@@ -143,6 +149,7 @@
   url: https://www.microsoft.com/en-us/download/details.aspx?id=52598
   published: 2016-05-12
   tweets: "38,000,000"
+  dates: 2012-07-01 - 2012-11-07
   tags:
     - politics
   description: >
@@ -159,6 +166,7 @@
   url: http://hdl.handle.net/10864/12033
   published: 2016-08-21
   tweets: "782,495"
+  dates: 2016-05-01 - 2016-06-25 
   tags:
     - Fort McMurry
     - Wildfire
@@ -176,6 +184,7 @@
   published: 2016-11-29
   tags:
     - politics
+  dates: 2016-07-13 - 2016-11-10
   description: >
     This dataset contains the tweet ids of approximately 280 million tweets
     related to the 2016 United States presidential election. They were collected
@@ -190,10 +199,14 @@
   published: 2016-12-29
   url: http://dx.doi.org/10.5683/SP/DJLHSB
   tweets: "6,8724,29"
+  dates: 2016-12-13 - 2016-12-29
   tags:
     - aleppo
     - syrian civil war
   description: >
-    6,8724,29 tweet ids for #aleppo tweets captured during the fall of Aleppo in December 2015. Tweets can be "rehydrated" with Documenting the Now's twarc (https://github.com/DocNow/twarc). twarc.py --hydrate aleppo_tweet_ids.txt > aleppo.json
+    6,8724,29 tweet ids for #aleppo tweets captured during the fall of Aleppo in
+    December 2015. Tweets can be "rehydrated" with Documenting the Now's twarc
+    (https://github.com/DocNow/twarc). twarc.py --hydrate aleppo_tweet_ids.txt >
+    aleppo.json
 
 
