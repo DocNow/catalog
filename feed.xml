@@ -1,0 +1,28 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
+    {% assign sorted_datasets = (site.data.datasets | sort: 'published' | reverse) %}
+    {% for dataset in sorted_datasets limit:10 %}
+      <item>
+        <title>{{ dataset.title | xml_escape }}</title>
+        {% if dataset.creator %}
+          <dc:creator>{{ dataset.creator | xml_escape }}</dc:creator>
+        {% endif %}
+        {% if dataset.description %}
+          <description>{{ dataset.description | xml_escape }}</description>
+        {% endif %}
+        {% if dataset.publication %}
+          <pubDate>{{ dataset.publication | date_to_rfc822 }}</pubDate>
+          {% endif %}  
+        <link>{{ dataset.url }}</link>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
