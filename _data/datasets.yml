@@ -1,7 +1,26 @@
+# To add your dataset copy and uncomment this item and replace the boilerplate
+# text with a description of your dataset.
+#
+# - title: My Tweet Dataset             (the title for the dataset)
+#   creator: Jack Dorsey                (creator of the dataset)
+#   url: http://example.com/my-dataset/ (web location of your dataset)
+#   published: 2014-06-08               (date when the dataset was published)
+#   added: 2016-12-24T10:14:07Z         (the current GMT time)
+#   tweets: "1,000,001"                 (number of tweets in the dataset)
+#   dates: 2009-01-01 - 2009-06-01      (date coverage in the dataset)
+#   tags:                               (one or more topical tags)
+#     - politics
+#     - sociology
+#   description: >        
+#     This is a free text description of the dataset. You can add details
+#     about how it was created and for what purpose. Add as much detail as 
+#     you want. 
+
 - title: "Yes All Women Twitter Dataset"
   creator: Mark Phillips
-  published: 2014-06-08
   url: http://digital.library.unt.edu/ark:/67531/metadc304853/
+  published: 2014-06-08
+  added: 2016-12-24T10:14:07-05:00
   tweets: "2,805,763"
   dates: 2014-05-25 - 2014-06-08
   tags:
@@ -18,6 +37,7 @@
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/10830
   published: 2015-01-14
+  added: 2016-12-23T17:03:14-05:00
   tweets: "13,968,293"
   tags:
     - politics
@@ -27,8 +47,9 @@
 
 - title: Ferguson Tweets
   creator: Ed Summers
-  published: 2015-11-18
   url: https://archive.org/details/ferguson-tweet-ids
+  published: 2015-11-18
+  added: 2016-12-24T10:14:07-05:00
   tweets: "28,560,078"
   tags:
     - activism
@@ -54,29 +75,8 @@
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/11270
   published: 2015-11-19
+  added: 2016-12-24T10:14:07-05:00
   tweets: "3,039,804"
-  tags:
-    - politics
-  description: >
-    Tweet ids for #elxn42 tweets.
-
-- title: "#elxn42 tweets (42nd Canadian Federal Election)"
-  creator: Library and Archives Canada
-  url: http://hdl.handle.net/10864/11270
-  published: 2015-12-04
-  tweets: "3,397,626"
-  tags:
-    - politics
-  description: >
-    Tweet ids for #elxn42 tweets.
-
-- title: "#elxn42 tweets (42nd Canadian Federal Election)"
-  creator: 
-    - Nick Ruest
-    - Library and Archives Canada
-  url: http://hdl.handle.net/10864/11311
-  published: 2015-12-07
-  tweets: "3,918,932"
   tags:
     - politics
   description: >
@@ -86,6 +86,7 @@
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/11312
   published: 2015-12-12
+  added: 2016-12-23T17:40:17-05:00
   tweets: "14,939,154"
   tags:
     - politics
@@ -96,6 +97,7 @@
   creator: Library and Archives Canada
   url: http://hdl.handle.net/10864/11348
   published: 2016-01-18
+  added: 2016-12-23T10:23:06-05:00
   tweets: "2,607,886"
   tags:
     - politics
@@ -108,6 +110,7 @@
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/11491
   published: 2016-03-03 
+  added: 2016-12-23T17:40:17-05:00
   tweets: "1,828,643"
   tags:
     - politics
@@ -118,6 +121,7 @@
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/11591
   published: 2016-04-13
+  added: 2016-12-23T17:40:17-05:00
   tweets: "115,524"
   tags:
     - politics
@@ -128,6 +132,7 @@
   creator: "Nick Ruest"
   url: http://hdl.handle.net/10864/11592
   published: 2016-04-13
+  added: 2016-12-23T17:40:17-05:00
   tweets: "4,976,094"
   tags:
     - politics
@@ -138,6 +143,7 @@
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/11674
   published: 2016-04-27 
+  added: 2016-12-23T17:40:17-05:00
   tweets: "40,279"
   tags:
     - politics
@@ -148,6 +154,7 @@
   creator: Microsoft
   url: https://www.microsoft.com/en-us/download/details.aspx?id=52598
   published: 2016-05-12
+  added: 2016-12-23T17:03:14-05:00
   tweets: "38,000,000"
   dates: 2012-07-01 - 2012-11-07
   tags:
@@ -165,6 +172,7 @@
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/12033
   published: 2016-08-21
+  added: 2016-12-23T17:40:17-05:00
   tweets: "782,495"
   dates: 2016-05-01 - 2016-06-25 
   tags:
@@ -182,6 +190,7 @@
     - Daniel Kerchner
   url: http://hdl.handle.net/10.7910/DVN/PDI7IN
   published: 2016-11-29
+  added: 2016-12-23T17:03:14-05:00
   tags:
     - politics
   dates: 2016-07-13 - 2016-11-10
@@ -197,6 +206,7 @@
 - title: "The fall of Aleppo tweets; #aleppo 2016-12-13 through 2016-12-29"
   creator: Nick Ruest
   published: 2016-12-29
+  added: 2016-12-30T01:36:05-05:00
   url: http://dx.doi.org/10.5683/SP/DJLHSB
   tweets: "6,8724,29"
   dates: 2016-12-13 - 2016-12-29
@@ -208,5 +218,3 @@
     December 2015. Tweets can be "rehydrated" with Documenting the Now's twarc
     (https://github.com/DocNow/twarc). twarc.py --hydrate aleppo_tweet_ids.txt >
     aleppo.json
-
-
