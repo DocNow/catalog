@@ -6,8 +6,8 @@ layout: null
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
+    <link>{{ site.url }}{{ site.baseurl }}</link>
+    <atom:link href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" rel="self" type="application/rss+xml" />
     {% assign sorted_datasets = (site.data.datasets | sort: 'published' | reverse) %}
     {% for dataset in sorted_datasets limit:10 %}
       <item>
