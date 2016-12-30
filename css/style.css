@@ -1,5 +1,16 @@
+@media only screen and (min-width: 600px) {
+  body {
+    margin: 20px 20% 5% 20%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    margin: 20px 20% 5% 20%;
+  }
+}
+
 body {
-  margin: 20px 20% 5% 20%;
   font-size: 14pt;
   font-family: Helvetica, Garamond;
   background-image: url("/catalog/images/background.png");
@@ -38,7 +49,4 @@ header {
 
 a.title {
   text-decoration: none;
-}
-
-#description {
 }
