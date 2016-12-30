@@ -1,10 +1,12 @@
 @media only screen and (min-width: 600px) {
+  /* tablets */
   body {
     margin: 20px 20% 5% 20%;
   }
 }
 
 @media only screen and (min-width: 768px) {
+  /* desktop */
   body {
     margin: 20px 20% 5% 20%;
   }
