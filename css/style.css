@@ -47,8 +47,10 @@ header {
 
 .dataset .title {
   font-weight: bold;
+  font-size: 16pt;
+  margin-bottom: 10px;
 }
 
-a.title {
+.title a {
   text-decoration: none;
 }

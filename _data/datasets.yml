@@ -16,7 +16,7 @@
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want. 
 
-- title: Beyond the Hashtags
+- title: "Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice"
   creator: Deen Freelon
   url: http://dfreelon.org/2017/01/03/beyond-the-hashtags-twitter-data/
   published: 2017-01-03
@@ -35,6 +35,23 @@
     period covers a critical time in which social media was used to 
     raise awareness about police killings of unarmed Black citizens in the 
     United States.
+
+- title: Tweet ids for final Tragically Hip concert
+  creator: Nick Ruest
+  url: http://dx.doi.org/10.5683/SP/NGMQNX
+  published: 2016-12-31
+  added: 2016-12-31T09:46:22-05:00
+  tweets: "228,086"
+  dates: 2016-08-12 - 2016-09-22
+  tags:
+    - tragically hip
+    - music
+  description: >
+    228,086 tweet ids for "TheHip, hipinkingston" captured during the 
+    Tragically Hip's final concert in Kingston, Ontario in August 2016. 
+    Tweets can be "rehydrated" with Documenting the Now's twarc 
+    (https://github.com/DocNow/twarc). twarc.py --hydrate 
+    th_final_concert_kingston_tweet_ids.txt > th_final_concert_kingston.json
 
 - title: Trump Early Primary Tweets
   creator: Ed Summers
@@ -244,18 +261,18 @@
     of the Twitter REST API or the POST statuses/filter method of the Twitter
     Stream API.
 
-- title: "The fall of Aleppo tweets; #aleppo 2016-12-13 through 2016-12-29"
+- title: "The fall of Aleppo tweets; Aleppo 2016-12-13 through 2016-12-29"
   creator: Nick Ruest
   published: 2016-12-29
   added: 2016-12-30T01:36:05-05:00
   url: http://dx.doi.org/10.5683/SP/DJLHSB
-  tweets: "6,8724,29"
-  dates: 2016-12-13 - 2016-12-29
+  tweets: "8,595,589"
+  dates: 2016-12-05 - 2016-12-29
   tags:
     - aleppo
     - syrian civil war
   description: >
-    6,8724,29 tweet ids for #aleppo tweets captured during the fall of Aleppo in
-    December 2015. Tweets can be "rehydrated" with Documenting the Now's twarc
+    8,595,589 tweet ids for aleppo tweets captured during the fall of Aleppo in
+    December 2016. Tweets can be "rehydrated" with Documenting the Now's twarc
     (https://github.com/DocNow/twarc). twarc.py --hydrate aleppo_tweet_ids.txt >
     aleppo.json

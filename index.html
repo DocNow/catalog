@@ -16,7 +16,7 @@ layout: default
     {% assign sorted_datasets = (site.data.datasets | sort: 'published' | reverse) %}
     {% for dataset in sorted_datasets %}
     <li class="dataset">
-      <a class="title" href="{{ dataset.url }}">{{ dataset.title }}</a>
+      <div class="title"><a href="{{ dataset.url }}">{{ dataset.title }}</a></div>
       <div class="creator">Creator: {{ dataset.creator | join: ', ' }}</div>
       <div class="tweets">Tweets: {{ dataset.tweets }}</div>
       <div class="published">Published: {{ dataset.published }}</div>
