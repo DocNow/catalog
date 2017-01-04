@@ -16,6 +16,26 @@
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want. 
 
+- title: Beyond the Hashtags
+  creator: Deen Freelon
+  url: http://dfreelon.org/2017/01/03/beyond-the-hashtags-twitter-data/
+  published: 2017-01-03
+  added: 2017-01-04T22:29:30Z
+  tweets: "40,815,975"
+  dates: 2014-06-04 - 2015-05-31
+  tags:
+    - blacklivesmatter
+    - activism
+  description: >
+    This is a dataset of ids for tweets purchased from Twitter as part of the
+    Beyond the Hashtags study
+    http://cmsimpact.org/resource/beyond-hashtags-ferguson-blacklivesmatter-online-struggle-offline-justice/
+    The dataset includes a year of tweets that mention one or more of 45 
+    keywords associated with the BlackLivesMatter movement. This 
+    period covers a critical time in which social media was used to 
+    raise awareness about police killings of unarmed Black citizens in the 
+    United States.
+
 - title: Trump Early Primary Tweets
   creator: Ed Summers
   url: https://archive.org/details/trump-tweet-ids
