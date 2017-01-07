@@ -276,3 +276,19 @@
     December 2016. Tweets can be "rehydrated" with Documenting the Now's twarc
     (https://github.com/DocNow/twarc). twarc.py --hydrate aleppo_tweet_ids.txt >
     aleppo.json
+
+- title: Bill 10 Twitter IDs
+  creator: Peter Binkley
+  url: http://dx.doi.org/10.7939/DVN/10971
+  published: 2017-01-06
+  added: 2017-01-07T03:33:07Z
+  tweets: "24,876"
+  dates: 2014-11-28 - 2014-12-06
+  tags:
+    - politics
+  description: >        
+  	A list of 24876 Twitter IDs for tweets harvested between Nov. 28 and Dec. 6 
+    2014 containing the hashtag #bill10. Bill 10 in the Alberta legislature would 
+    have given public and Catholic school boards the right to refuse student 
+    requests to form gay-straight alliances in schools. Under intense public 
+    interest it was withdrawn by the Conservative government.
