@@ -276,3 +276,70 @@
     December 2016. Tweets can be "rehydrated" with Documenting the Now's twarc
     (https://github.com/DocNow/twarc). twarc.py --hydrate aleppo_tweet_ids.txt >
     aleppo.json
+
+- title: Bill 10 Twitter IDs
+  creator: Peter Binkley
+  url: http://dx.doi.org/10.7939/DVN/10971
+  published: 2017-01-06
+  added: 2017-01-07T03:33:07Z
+  tweets: "24,876"
+  dates: 2014-11-28 - 2014-12-06
+  tags:
+    - politics
+  description: >
+    A list of 24876 Twitter IDs for tweets harvested between Nov. 28 and Dec. 6 
+    2014 containing the hashtag #bill10. Bill 10 in the Alberta legislature would 
+    have given public and Catholic school boards the right to refuse student 
+    requests to form gay-straight alliances in schools. Under intense public 
+    interest it was withdrawn by the Conservative government.
+
+- title: American Historical Association 2017 Conference Tweets
+  creator: Ian Milligan
+  url: http://dx.doi.org/10.5683/SP/CFVF1F
+  published: 2017-01-09
+  added: 2017-01-09T07:05:07Z
+  tweets: "10,538"
+  dates: 2017-01-04 - 2017-01-09
+  tags:
+    - history
+    - academia
+    - conference
+  description: >
+    A list of 10,538 Twitter IDs for tweets harvested between 
+    4 January at 11am and 9 January at 11am using Social Feed 
+    Manager. As this used the search API, the 4 January at 11am 
+    crawl went back about 5-9 days. Tweet IDs included, as is a 
+    log of the decisions made to curate this dataset.
+
+- title: North Carolina House Bill 2 Tweet IDs
+  creator:
+    - Jason Casden
+    - Brian Dietz
+  url: https://github.com/NCSU-Libraries/HB2-Twitter-data
+  published: 2017-01-12
+  added: 2017-01-12T12:00:00Z
+  tweets: "641,738"
+  dates: 2016-03-14 - 2017-01-12
+  tags:
+    - LGBT
+    - HB2
+    - North Carolina
+    - legal
+    - government
+    - politics
+  description: >
+    An ongoing collection of Tweets collected by NCSU Libraries using
+    twarc for the key terms "HB2", "WeAreNotThis", and "BoycottNC",
+    "KeepNCFair", and "ThisIsNotUs". "WeAreNotThis", "BoycottNC",
+    "ThisIsNotUs", and "North Carolina" beginning on 2016-03-24, and
+    "HB2" beginning on 2016-12-25. Only Tweets including "HB2", "bathroom",
+    "bill", or "KeepNCFair" are included from the "North Carolina" set.
+    These tags were used to discuss North Carolina House Bill 2
+    (The Public Facilities Privacy & Security Act), passed in March 2016,
+    which includes provisions (among others) that disallow local municipalities
+    from passing their own anti-discrimination ordinances and also require
+    individuals, when using use public bathrooms, to use those that align
+    with their sex as stated on their birth certificates rather than the
+    restroom that is consistent with their gender identity
+    (see: https://en.wikipedia.org/wiki/Public_Facilities_Privacy_%26_Security_Act).
+    This dataset is broken into files of no more than 50,000 Tweet IDs each.
