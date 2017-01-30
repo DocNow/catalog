@@ -27,10 +27,11 @@
     - blacklivesmatter
     - activism
   description: >
-    On January 12th, 2017 the Senate voted 51-48 to approve a budget resolution as the first step in 
-    repealing the Affordable Care Act. The hashtag #SaveACA began being used heavily on Twitter the same 
-    day as a response. This dataset includes tweet ids collected on four separate occasions on January 
-    12th and 13th, 2017 for the hashtag #SaveACA
+    On January 12th, 2017 the Senate voted 51-48 to approve a budget resolution
+    as the first step in repealing the Affordable Care Act. The hashtag 
+    #SaveACA began being used heavily on Twitter the same day as a response. 
+    This dataset includes tweet ids collected on four separate occasions on 
+    January 12th and 13th, 2017 for the hashtag #SaveACA
 
 - title: "#BLMKidnapping"
   creator: Bergis Jules
@@ -44,12 +45,14 @@
     - politics
     - race
   description: >
-    These 136,990 tweet ids represent reaction to a Facebook Live video that was posted on January 3rd, 
-    2017, showing four African American men violently attacking a white, mentally disabled man. 
-    The tweets were collected on 01/05/2017. After the video surfaced, the Twitter hashtag, 
-    #BLMkidnapping, was created and used to incorrectly attribute the violent attack to members of the 
-    Black Lives Matter movement. Police in Chicago, where the attack took place, have found no evidence 
-    the attack has any connection to the Black Lives Matter movement. This link is to a CNN story 
+    These 136,990 tweet ids represent reaction to a Facebook Live video that 
+    was posted on January 3rd, 2017, showing four African American men 
+    violently attacking a white, mentally disabled man. The tweets were 
+    collected on 01/05/2017. After the video surfaced, the Twitter hashtag, 
+    #BLMkidnapping, was created and used to incorrectly attribute the violent 
+    attack to members of the Black Lives Matter movement. Police in Chicago, 
+    where the attack took place, have found no evidence the attack has any 
+    connection to the Black Lives Matter movement. This link is to a CNN story 
     documenting the police denial of Black Lives Matter connection: 
     http://www.cnn.com/2017/01/05/us/black-lives-matter-chicago-facebook-live-beating/index.html 
 
@@ -65,11 +68,12 @@
     - activism
     - politics
   description: >
-    14,478,518 tweet ids for #WomensMarch collected with Documenting the Now's twarc from January 21-28, 
-    2017. Tweets can be "rehydrated" with Documenting the Now's twarc (https://github.com/DocNow/twarc). 
-    twarc.py –hydrate WomensMarch_tweet_ids.txt > WomensMarch.json Also included are the logs files for 
-    the Filter API and Search API queries. The Filter API query captures the cumulative number 
-    of dropped tweets.
+    14,478,518 tweet ids for #WomensMarch collected with Documenting the Now's
+    twarc from January 21-28, 2017. Tweets can be "rehydrated" with 
+    Documenting the Now's twarc (https://github.com/DocNow/twarc). twarc.py 
+    –hydrate WomensMarch_tweet_ids.txt > WomensMarch.json Also included are the
+    logs files for the Filter API and Search API queries. The Filter API query
+    captures the cumulative number of dropped tweets.
 
 - title: "Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice"
   creator: Deen Freelon
