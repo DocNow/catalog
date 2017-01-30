@@ -402,3 +402,16 @@
     restroom that is consistent with their gender identity
     (see: https://en.wikipedia.org/wiki/Public_Facilities_Privacy_%26_Security_Act).
     This dataset is broken into files of no more than 50,000 Tweet IDs each.
+
+- title: "#brexit: Summer 2016"
+  creator: Dmitrijs Milajevs
+  url: https://zenodo.org/record/263584
+  published: 2017-01-29
+  added: 2017-01-29T20:23:00Z
+  tweets: "23733133"
+  dates: 2016-05-06 - 2016-08-24
+  tags:
+    - brexit
+    - politics
+description: >
+    #brexit tweets collected from the 5th of May to the 24th August 2016.
