@@ -16,6 +16,43 @@
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want. 
 
+- title: "#SaveACA"
+  creator: Bergis Jules
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D17P4N
+  published: 2017-01-14
+  added: 2017-01-15T13:55:30Z
+  tweets: "409,887"
+  dates: 2017-01-12 - 2017-01-13
+  tags:
+    - blacklivesmatter
+    - activism
+  description: >
+    On January 12th, 2017 the Senate voted 51-48 to approve a budget resolution as the first step in 
+    repealing the Affordable Care Act. The hashtag #SaveACA began being used heavily on Twitter the same 
+    day as a response. This dataset includes tweet ids collected on four separate occasions on January 
+    12th and 13th, 2017 for the hashtag #SaveACA
+
+- title: "#BLMKidnapping"
+  creator: Bergis Jules
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1CC7X
+  published: 2017-01-06
+  added: 2017-01-15T13:55:30Z
+  tweets: "136,990"
+  dates: 2017-01-05 - 2017-01-05
+  tags:
+    - blacklivesmatter
+    - politics
+    - race
+  description: >
+    These 136,990 tweet ids represent reaction to a Facebook Live video that was posted on January 3rd, 
+    2017, showing four African American men violently attacking a white, mentally disabled man. 
+    The tweets were collected on 01/05/2017. After the video surfaced, the Twitter hashtag, 
+    #BLMkidnapping, was created and used to incorrectly attribute the violent attack to members of the 
+    Black Lives Matter movement. Police in Chicago, where the attack took place, have found no evidence 
+    the attack has any connection to the Black Lives Matter movement. This link is to a CNN story 
+    documenting the police denial of Black Lives Matter connection: 
+    http://www.cnn.com/2017/01/05/us/black-lives-matter-chicago-facebook-live-beating/index.html 
+
 - title: "#WomensMarch tweets January 12-28, 2017"
   creator: Nick Ruest
   url: http://dx.doi.org/10.5683/SP/ZEL1Q6
