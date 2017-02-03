@@ -417,7 +417,9 @@
     #brexit tweets collected from the 5th of May to the 24th August 2016.
 
 - title: "Women's March Tweet Ids"
-  creator: Justin Littman, Soomin Park (George Washington University)
+  creator:
+    - Justin Littman
+    - Soomin Park
   url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5ZVMOR
   published: 2017-02-03
   added: 2017-02-03T20:25:38Z
