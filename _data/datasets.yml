@@ -415,3 +415,19 @@
     - politics
   description: >
     #brexit tweets collected from the 5th of May to the 24th August 2016.
+
+- title: "Women's March Tweet Ids"
+  creator: Justin Littman, Soomin Park (George Washington University)
+  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5ZVMOR
+  published: 2017-02-03
+  added: 2017-02-03T20:25:38Z
+  tweets: "7,275,228"
+  dates: 2016-12-19 - 2017-01-23
+  tags:
+    - WomensMarch
+    - activism
+    - politics
+  description: >
+    This dataset contains the tweet ids of 7,275,228 tweets related to the Women's March on January 21, 2017. 
+    They were collected between December 19, 2016 and January 23, 2017 from the Twitter API using Social 
+    Feed Manager.  See included README.txt for additional information.
