@@ -31,7 +31,7 @@
     filter stream between 2017-02-09 and 2017-03-18 that used one or more 
     of the following hashtags: alternativefacts, fakenews, truthiness, 
     postfact, posttruth, factcheck.  The original tweets were collected 
-    using twaarc.
+    using twarc.
 
 - title: "#SaveACA"
   creator: Bergis Jules
