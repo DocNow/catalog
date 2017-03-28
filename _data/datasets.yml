@@ -16,6 +16,23 @@
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want. 
 
+- title: Fake News tweets
+  creator: Ed Summers
+  url: https://archive.org/details/fakenews-tweets
+  published: 2017-03-27
+  added: 2017-03-28T01:56:00Z
+  tweets: "2,711,011"
+  dates: 2017-02-09 - 2017-03-18
+  tags:
+    - politics
+    - sociology
+  description: >        
+    This bag contains 2,711,011 tweets identifiers collected from the Twitter 
+    filter stream between 2017-02-09 and 2017-03-18 that used one or more 
+    of the following hashtags: alternativefacts, fakenews, truthiness, 
+    postfact, posttruth, factcheck.  The original tweets were collected 
+    using twaarc.
+
 - title: "#SaveACA"
   creator: Bergis Jules
   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D17P4N
