@@ -16,6 +16,21 @@
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want.
 
+- title: "#MarchForScience tweets April 12-26, 2017"
+  creator: Nick Ruest
+  url: http://dx.doi.org/10.5683/SP/7BC9V1
+  published: 2017-04-26
+  added: 2017-04-26T12:52:37Z
+  tweets: "284,012"
+  dates: 2017-04-12 - 2017-04-26
+  tags:
+    - politics
+  description: >
+    1,276,220 tweet ids for #MarchForScience collected with Documenting the Now's 
+    twarc from January 22-26, 2017. Tweets can be "rehydrated" with Documenting the 
+    Now's twarc (https://github.com/DocNow/twarc). twarc.py hydrate 
+    MarchForScience_tweet-ids.txt > MarchForScience.json. 
+ 
 - title: "#BlackWomenAtWork"
   creator: Bergis Jules
   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1PP4P
