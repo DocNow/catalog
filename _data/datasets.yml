@@ -16,6 +16,21 @@
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want.
 
+- title: "J. K. Rowlng tweets/retweets"
+  creator: Ed Summers
+  url: https://archive.org/details/Jk_rowlingTweets
+  published: 2017-04-27
+  added: 2017-04-27T16:46:00Z
+  tweets: "10,159,892"
+  dates: 2015-07-08 - 2017-03-18
+  tags:
+    - writers
+    - fantasy
+  description: >
+    This bag contains 10,159,892 tweets and retweets sent by or to Twitter
+    user jk_rowling between 2015-07-08 and 2017-03-18. The tweets were 
+    collected with Social Feed Manager (m5_003).
+
 - title: "#MarchForScience tweets April 12-26, 2017"
   creator: Nick Ruest
   url: http://dx.doi.org/10.5683/SP/7BC9V1
