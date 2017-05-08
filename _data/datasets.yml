@@ -15,6 +15,23 @@
 #     This is a free text description of the dataset. You can add details
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want.
+- title: "#australianvalues tweets, 22-27 April 2017"
+  creator: Tim Sherratt
+  url: https://doi.org/10.6084/m9.figshare.4982747
+  published: 2017-05-08
+  added: 2017-05-08T11:43:26Z
+  tweets: "55,698"
+  dates: 2017-04-20 - 2017-04-27
+  tags:
+    - politics
+    - Australia
+  description: >
+    On 20 April 2017 the Australian Government announced that the Australian 
+    citizenship test would be made harder, with an increased focus on 'Australian 
+    values'. Suggestions as to what 'Australian values' might actually be soon 
+    started to be shared on Twitter using the hashtag #australianvalues. 55,698 
+    tweet ids for #australianvales collected with Documenting the Now's Twarc from 
+    20 to 27 April 2017.
 
 - title: "#climatemarch tweets April 19-May 3, 2017"
   creator: Nick Ruest
