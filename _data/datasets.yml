@@ -15,6 +15,27 @@
 #     This is a free text description of the dataset. You can add details
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want.
+#
+- title: "#MacronLeaks Tweets"
+  creator: Ed Summers
+  url: https://archive.org/details/MacronleaksTweets
+  published: 2017-05-17
+  added: 2017-05-17T13:57:22Z
+  tweets: "782,509"
+  dates: 2017-05-02 - 2017-05-10
+  tags:
+    - politics
+    - France
+  description: > 
+    Identifiers for 782,509 tweets that included the hashtag #macronleaks or
+    #macrongate that were sent between 2017-05-10 16:14:51 and 2017-05-02
+    07:02:05 UTC. The tweets were collected from the Twitter Search API using
+    twarc. The data does not include the first use of the #macrongate hashtag,
+    but it does include the first use of the #macronleaks hashtag which went
+    viral after Wikileaks retweeted it. More about the story of the #marconleaks
+    hashtag can be found at:
+    <a href="http://www.newyorker.com/news/news-desk/the-far-right-american-nationalist-who-tweeted-macronleaks">http://www.newyorker.com/news/news-desk/the-far-right-american-nationalist-who-tweeted-macronleaks</a>
+
 - title: "#australianvalues tweets, 20-27 April 2017"
   creator: Tim Sherratt
   url: https://doi.org/10.6084/m9.figshare.4982747
