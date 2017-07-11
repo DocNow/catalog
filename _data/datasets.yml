@@ -16,6 +16,7 @@
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want.
 #
+#
 - title: "Charlottesville KKK Tweets"
   creator: Jeremy Boggs
   url: https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi:10.18130/V3/MSCNLT
@@ -28,7 +29,7 @@
     - race
     - politics
     - activism
-  description:
+  description: >
     39,264 IDs for tweets related to the Charlottesville KKK rally on July 8, 2017.
     These tweet IDs matched a search for 'Charlottesville KKK OR #charlottesvilleKKK
     OR #blocKKK or #blocKKKparty'. These tweet IDs were collected with the twarc
