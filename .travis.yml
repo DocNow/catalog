@@ -1,0 +1,17 @@
+language: ruby
+rvm:
+- 2.3.3
+
+script: ./script/cibuild
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+sudo: false
+
+notifications:
+  slack:
+    secure: PY7GyhVBacVqytImbrcyKlDY/uVDTtOMMQ8bEDnhbH9XZA7nOD0dXsEffz93tA1ldJd1+0zsnt9itqdk4pYXBMTcZ6uWE5H2j7KIYylQa2A2Sj5GC3/KjrbFGfqMAXYs+rc9rrlqYkwjztu+bnNqTDnq0Y4Pw0YlMs23NT6GlMg=
+
+
