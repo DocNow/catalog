@@ -16,7 +16,23 @@
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want.
 #
-#
+
+- title: Ferguson (August 8-10, 2014)
+  creator: Ed Summers
+  url: https://archive.org/details/ferguson-201408
+  published: 2017-08-09
+  created: 2015-05-07
+  dates: 2014-08-08 - 2014-08-10
+  tags:
+    - blacklivesmatter
+    - activism
+  description: >
+    This dataset contains 32,056 tweets that mention "ferguson" between 
+    August 8 and August 10, 2014. They were collected on May 7th, 2015 
+    from the search form on Twitter's website. Some important side effects 
+    to be aware of is that the dataset does not include retweets and tweets 
+    that were deleted before May 7th, 2015.
+
 - title: "Charlottesville KKK Tweets"
   creator: Jeremy Boggs
   url: https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi:10.18130/V3/MSCNLT
@@ -251,6 +267,7 @@
   tags:
     - blacklivesmatter
     - activism
+    - Ferguson
   description: >
     This is a dataset of ids for tweets purchased from Twitter as part of the
     Beyond the Hashtags study
