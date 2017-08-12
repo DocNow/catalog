@@ -15,26 +15,36 @@
 #     This is a free text description of the dataset. You can add details
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want.
-#
-- title: #Charlottesville
+
+
+- title: "#Charlottesville"
   creator: Bergis Jules
   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D10T0B
-  published: 2017-12-08
-  added: 2017-12-08
-  tweets: 100,000
-  dates: 2017-11-08 - 2017-12-08
+  published: 2017-08-12
+  added: 2017-08-12T13:39:25Z
+  tweets: "100,000"
+  dates: 2017-08-12 - 2017-08-12
   tags:
-      - racism
-      - white nationalism
-      - politics
+    - racism
+    - white nationalism
+    - politics
   description: >
-    On Friday, August 11th, 2017 a large groups of racist white nationalists carrying torches marched on the University of Virginia campus in Charlottesville, VA as an intimidation tactic against proponents for the removal of confederate statues of Robert E. Lee. The Friday evening march was held ahead of a much larger racist white nationalist rally in the center of Charlottesville planned for Saturday, August 12th, 2017.  
+    On Friday, August 11th, 2017 a large groups of racist white nationalists 
+    carrying torches marched on the University of Virginia campus in 
+    Charlottesville, VA as an intimidation tactic against proponents for 
+    the removal of confederate statues of Robert E. Lee. The Friday evening 
+    march was held ahead of a much larger racist white nationalist rally in 
+    the center of Charlottesville planned for Saturday, August 12th, 2017. 
+    This dataset includes 100,000 tweet ids collected using the DocNow 
+    prototype http://app.docnow.io/ and includes tweets sent from 
+    01:13:56 - 7:11:36 EDT on August 12.
   
 - title: Ferguson (August 8-10, 2014)
   creator: Ed Summers
   url: https://archive.org/details/ferguson-201408
-  published: 2017-08-09
-  created: 2015-05-07
+  tweets: "32,056"
+  published: 2015-05-07
+  added: 2017-08-09T19:35:27Z
   dates: 2014-08-08 - 2014-08-10
   tags:
     - blacklivesmatter
@@ -50,7 +60,7 @@
   creator: Jeremy Boggs
   url: https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi:10.18130/V3/MSCNLT
   published: 2017-07-11
-  created: 2017-07-11
+  added: 2017-07-11T19:35:27Z
   tweets: "39,264"
   dates: 2017-06-28 - 2017-07-11
   tags:
