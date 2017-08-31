@@ -681,3 +681,20 @@
     This dataset contains the tweet ids of 7,275,228 tweets related to the Women's March on January 21, 2017. 
     They were collected between December 19, 2016 and January 23, 2017 from the Twitter API using Social 
     Feed Manager.  See included README.txt for additional information.
+    
+- title: "Dallas Police Shooting Twitter Dataset"
+  creator:
+    - Mark Phillips
+  url: https://digital.library.unt.edu/ark:/67531/metadc991469/
+  published: 2017-08-31
+  added: 2017-08-31T13:43:32Z
+  tweets: "7,146,993"
+  dates: 2016-07-05 - 2016-07-14 
+  tags:
+    - PoliceShooting
+    - activism
+  description: >
+    This dataset contains Twitter JSON data for several Twitter search queries that were collected the week
+    following the shooting of police officers in Dallas, Texas on July 7th 2017, using the twarc
+    (https://github.com/edsu/twarc) package that makes use of Twitter's search API. See included README.txt
+    for additional information.
