@@ -16,6 +16,25 @@
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want.
 
+- title: 115th U.S. Congress Tweet Ids
+  tweets: "1,430,133"
+  creator:
+    - Justin Littman
+    - Yonah Bromberg Graber
+  url: http://dx.doi.org/10.7910/DVN/UIVHQR
+  published: 2017-09-07
+  added: 2017-09-07T12:00:00-05:00
+  tags:
+    - politics
+    - government
+    - Congress
+  dates: - 2017-08-31
+  description: >
+    This dataset contains the tweet ids of 1,430,133 tweets from the Twitter 
+    accounts of members of the 115th U.S. Congress. They were collected 
+    between January 27, 2017 and August 31, 2017 from the Twitter API 
+    using Social Feed Manager. Some tweets may come before this time period. 
+    This collection will be updated periodically.
 - title: 2017 Eclipse
   creator: Ed Summers
   url: https://archive.org/details/eclipse-tweets.csv
