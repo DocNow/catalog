@@ -16,6 +16,31 @@
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want.
 
+- title: News Outlet Tweet Ids
+  tweets: "20,040,948"
+  creator:
+    - Justin Littman
+    - Laura Wrubel
+    - Daniel Kerchner
+    - Yonah Bromberg Gaber
+  url: http://dx.doi.org/10.7910/DVN/2FIFLH
+  published: 2017-09-08
+  added: 2017-09-08T12:00:00-05:00
+  tags:
+    - media
+    - news
+    - television
+    - newspapers
+  dates:  - 2017-09-08
+  description: >
+    This dataset contains the tweet ids of 20,040,948 tweets collected from the Twitter
+    accounts of aproximately 4,500 news outlets, i.e., accounts of media organizations
+    intended to disseminate news. The media organizations include everything from
+    local U.S. newspapers to foreign television stations. They were collected
+    between August 4, 2016 and September 28, 2017 from the Twitter API using
+    Social Feed Manager. Note that not all accounts may have been collected for
+    the entire duration and there may be tweets from before the time period. We
+    intend to update this dataset approximately every 3 months.
 - title: 115th U.S. Congress Tweet Ids
   tweets: "1,430,133"
   creator:
