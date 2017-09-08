@@ -16,6 +16,25 @@
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want.
 
+- title: End of Term 2016 U.S. Government Twitter Archive
+  creator: 
+    - Justin Littman
+    - Dan Kerchner
+    - Laura Wrubel
+  url: http://dx.doi.org/10.7910/DVN/TQBLWZ
+  published: 2017-08-30
+  added: 2017-09-07T12:00:00-05:00
+  tweets: "5,655,632"
+  dates: - 2017-01-21
+  tags:
+    - government
+    - Obama
+  description: >
+    This dataset contains the tweet ids of 5,655,632 tweets that were collected from approximately
+    3000 Twitter accounts affiliated with the U.S. government. They were collected between October
+    21, 2016 and January 21, 2017 from the Twitter API using Social Feed Manager. This dataset
+    was created as part of the End of Term Web Archiving initiative. The lists of accounts came
+    from the U.S. Digital Registry and by public submissions.
 - title: 115th U.S. Congress Tweet Ids
   tweets: "1,430,133"
   creator:
