@@ -204,12 +204,13 @@
     - politics
     - activism
   description: >
-    39,264 IDs for tweets related to the Charlottesville KKK rally on July 8, 2017.
-    These tweet IDs matched a search for 'Charlottesville KKK OR #charlottesvilleKKK
-    OR #blocKKK or #blocKKKparty'. These tweet IDs were collected with the twarc
-    command line tool from Documenting the Now. Using twarc's hydrate command,
-    researchers can retrieve the full content of those tweets—with additional
-    metadata provided by Twitter's API—provided the tweets still exist.
+    39,264 IDs for tweets related to the Charlottesville KKK rally on July 8,
+    2017.  These tweet IDs matched a search for 'Charlottesville KKK OR
+    #charlottesvilleKKK OR #blocKKK or #blocKKKparty'. These tweet IDs were
+    collected with the twarc command line tool from Documenting the Now. Using
+    twarc's hydrate command, researchers can retrieve the full content of those
+    tweets—with additional metadata provided by Twitter's API—provided the
+    tweets still exist.
 
 - title: "#HuelgaUPR tweets, April 20 - May 18 2017"
   creator: Joel A. Blanco-Rivera                
@@ -223,13 +224,19 @@
       - higher education
       - Puerto Rico
   description: >        
-     Identifiers for 25,489 tweets about the students' strike at the University of Puerto Rico. 
-     The tweets included the hashtag #HuelgaUPR or #Huelga2017 and are from April 11 to May 18, 2017. The tweets were collected
-     using twarc. For a list of resources about the strike visit <a href="http://puertoricosyllabus.wordpress.com/resistance-and-new-imaginaries/la-upr-no-se-vende-se-defiende-the-battle-for-the-university-of-puerto-rico/"> Puerto Rico Syllabus</a>.
+     Identifiers for 25,489 tweets about the students' strike at the University
+     of Puerto Rico.  The tweets included the hashtag #HuelgaUPR or #Huelga2017
+     and are from April 11 to May 18, 2017. The tweets were collected using
+     twarc. For a list of resources about the strike visit <a
+     href="http://puertoricosyllabus.wordpress.com/resistance-and-new-imaginaries/la-upr-no-se-vende-se-defiende-the-battle-for-the-university-of-puerto-rico/">
+     Puerto Rico Syllabus</a>.
      
-     Identificadores de 25,439 tuits sobre la huelga estudiantil en la Universidad de Puerto Rico. 
-     Los tuits fueron capturados utilizando twarc y cubren el periodo del 11 de abril al 18 de mayo. Para más información 
-     sobre la huelga visite <a href="http://puertoricosyllabus.wordpress.com/resistance-and-new-imaginaries/la-upr-no-se-vende-se-defiende-the-battle-for-the-university-of-puerto-rico/"> Puerto Rico Syllabus</a>. 
+     Identificadores de 25,439 tuits sobre la huelga estudiantil en la
+     Universidad de Puerto Rico.  Los tuits fueron capturados utilizando twarc y
+     cubren el periodo del 11 de abril al 18 de mayo. Para más información sobre
+     la huelga visite <a
+     href="http://puertoricosyllabus.wordpress.com/resistance-and-new-imaginaries/la-upr-no-se-vende-se-defiende-the-battle-for-the-university-of-puerto-rico/">
+     Puerto Rico Syllabus</a>. 
 
 
 - title: "#MacronLeaks Tweets"
@@ -263,12 +270,12 @@
     - politics
     - Australia
   description: >
-    On 20 April 2017 the Australian Government announced that the Australian 
-    citizenship test would be made harder, with an increased focus on 'Australian 
-    values'. Suggestions as to what 'Australian values' might actually be soon 
-    started to be shared on Twitter using the hashtag #australianvalues. 55,698 
-    tweet ids for #australianvales collected with Documenting the Now's Twarc from 
-    20 to 27 April 2017.
+    On 20 April 2017 the Australian Government announced that the Australian
+    citizenship test would be made harder, with an increased focus on
+    'Australian values'. Suggestions as to what 'Australian values' might
+    actually be soon started to be shared on Twitter using the hashtag
+    #australianvalues. 55,698 tweet ids for #australianvales collected with
+    #Documenting the Now's Twarc from 20 to 27 April 2017.
 
 - title: "#climatemarch tweets April 19-May 3, 2017"
   creator: Nick Ruest
@@ -280,9 +287,9 @@
   tags:
     - politics
   description: >
-    681,668 tweet ids for #climatemarch collected with Documenting the Now's 
-    twarc from January 22-26, 2017. Tweets can be "rehydrated" with Documenting the 
-    Now's twarc (https://github.com/DocNow/twarc). twarc.py hydrate 
+    681,668 tweet ids for #climatemarch collected with Documenting the Now's
+    twarc from January 22-26, 2017. Tweets can be "rehydrated" with Documenting
+    the Now's twarc (https://github.com/DocNow/twarc). twarc.py hydrate
     climatemarch_tweet_ids.txt > climatemarch.json. 
  
 - title: "J. K. Rowling tweets/retweets"
@@ -310,10 +317,10 @@
   tags:
     - politics
   description: >
-    1,276,220 tweet ids for #MarchForScience collected with Documenting the Now's 
-    twarc from January 22-26, 2017. Tweets can be "rehydrated" with Documenting the 
-    Now's twarc (https://github.com/DocNow/twarc). twarc.py hydrate 
-    MarchForScience_tweet-ids.txt > MarchForScience.json. 
+    1,276,220 tweet ids for #MarchForScience collected with Documenting the
+    Now's twarc from January 22-26, 2017. Tweets can be "rehydrated" with
+    Documenting the Now's twarc (https://github.com/DocNow/twarc). twarc.py
+    hydrate MarchForScience_tweet-ids.txt > MarchForScience.json. 
  
 - title: "#BlackWomenAtWork"
   creator: Bergis Jules
@@ -487,9 +494,10 @@
   description: >
     This dataset contains Twitter JSON data for several Twitter search queries
     that were collected around the #YesAllWomen Twitter "conversation" between
-    May 25, 2014 and June 8, 2014 using the twarc (https://github.com/edsu/twarc)
-    package that makes use of Twitter's search API. A total of 2,805,763 Tweets
-    and 34,532 images make up the combined dataset.
+    May 25, 2014 and June 8, 2014 using the twarc
+    (https://github.com/edsu/twarc) package that makes use of Twitter's search
+    API. A total of 2,805,763 Tweets and 34,532 images make up the combined
+    dataset.
 
 - title: "#JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets"
   creator: Nick Ruest
@@ -771,9 +779,10 @@
     - activism
     - politics
   description: >
-    This dataset contains the tweet ids of 7,275,228 tweets related to the Women's March on January 21, 2017. 
-    They were collected between December 19, 2016 and January 23, 2017 from the Twitter API using Social 
-    Feed Manager.  See included README.txt for additional information.
+    This dataset contains the tweet ids of 7,275,228 tweets related to the
+    Women's March on January 21, 2017.  They were collected between December 19,
+    2016 and January 23, 2017 from the Twitter API using Social Feed Manager.
+    See included README.txt for additional information.
     
 - title: "Dallas Police Shooting Twitter Dataset"
   creator:
@@ -787,7 +796,8 @@
     - PoliceShooting
     - activism
   description: >
-    This dataset contains Twitter JSON data for several Twitter search queries that were collected the week
-    following the shooting of police officers in Dallas, Texas on July 7th 2017, using the twarc
-    (https://github.com/edsu/twarc) package that makes use of Twitter's search API. See included README.txt
-    for additional information.
+    This dataset contains Twitter JSON data for several Twitter search queries
+    that were collected the week following the shooting of police officers in
+    Dallas, Texas on July 7th 2017, using the twarc
+    (https://github.com/edsu/twarc) package that makes use of Twitter's search
+    API. See included README.txt for additional information.
