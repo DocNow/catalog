@@ -17,20 +17,26 @@
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want.
 #
-- title: #DrawingWhileBlack            
-#   creator: Bergis Jules                
-#   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1DT02 
-#   published: 2017-17-09               
-#   added: 2017-17-09         
-#   tweets: "69,236"                 
-#   dates: 2017-15-09 - 2017-17-09      
-#   tags:                               
-#     - Black
-#     - Artists
-      - African American
-      - Art
-#   description: >        
-#     The hashtag #DrawingWhileBlack was started by artist, Annabelle, on September 15th, 2017 to celebrate the work of Black artists. The dataset includes 69,236 tweet ids collected 09/17/2017. Annabelle's website: http://sparklyfawn.tumblr.com/aboutme and Twitter profile: https://twitter.com/sparklyfawn
+
+- title: "#DrawingWhileBlack"
+  creator: Bergis Jules
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1DT02 
+  published: 2017-09-17
+  added: 2017-09-17T09:34:11-07:00
+  tweets: "69,236"
+  dates: 2017-09-15 - 2017-09-17
+  tags:
+    - Black
+    - Artists
+    - African American
+    - Art
+  description: >
+    The hashtag \#DrawingWhileBlack was started by artist, Annabelle, on 
+    September 15th, 2017 to celebrate the work of Black artists. The 
+    dataset includes 69,236 tweet ids collected 09/17/2017. Annabelle's 
+    Tumblr website can be found at 
+    <a href="http://sparklyfawn.tumblr.com/">http://sparklyfawn.tumblr.com/</a>
+    and her Twitter profile is <a href="https://twitter.com/sparklyfawn">@sparklyfawn</a>.
 
 - title: End of Term 2016 U.S. Government Twitter Archive
   creator: 
