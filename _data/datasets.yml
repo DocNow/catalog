@@ -842,4 +842,22 @@
     using the twarc (https://github.com/edsu/twarc) package that makes use of Twitter's
     search API. A total of 7,041,866 Tweets make up the combined dataset. See included
     README.txt for additional information.
+    
+    - title: "#NoTincPor"
+  creator:
+    - Grup de treball: Model de Maduresa en Gestió Documental per a la Transparència (Associació d'Arxivers - Gestors de Documents de Catalunya)
+  url: https://github.com/aniol/catalog/blob/master/datasets/NoTincPor%20search%2017.08.2017%20-%2026.08.2017.txt
+  published: 
+  added: 
+  tweets: "52,808"
+  dates: 2017-08-17 - 2017-08-26
+  tags:
+    - barcelona
+    - cambrils
+    - attack
+    - terrorism
+  description: >
+    2017 Catalonia attacks were a terrorism actions against pedestrians who were at La Rambla (Barcelona) and beach promenade of Cambrils on the afternoon and night of 17-18th August 2017. We selected #NoTincPor hashtag because was the motto of the demonstrations those days and the most positive message. None knew how the situation will go so the best option to collect the dataset was search API afterall and we limited in time between 17th and 26th August because the day 26 was the final demonstration in Barcelona for the victims.
+    
+    
    
