@@ -823,8 +823,7 @@
     API. See included README.txt for additional information.
     
 - title: "Hurricane Harvey Twitter Dataset"
-  creator:
-    - Mark Phillips
+  creator: Mark Phillips
   url: https://digital.library.unt.edu/ark:/67531/metadc993940/
   published: 2017-09-24
   added: 2017-09-24T12:55:24Z
@@ -837,18 +836,17 @@
     - Houston
     - Texas
   description: >
-    This dataset contains Twitter JSON data for Tweets related to Hurricane Harvey 
-    and the subsequent flooding along the Texas gulf region. This dataset was created
-    using the twarc (https://github.com/edsu/twarc) package that makes use of Twitter's
-    search API. A total of 7,041,866 Tweets make up the combined dataset. See included
-    README.txt for additional information.
+    This dataset contains Twitter JSON data for Tweets related to Hurricane
+    Harvey and the subsequent flooding along the Texas gulf region. This dataset
+    was created using the twarc (https://github.com/edsu/twarc) package that
+    makes use of Twitter's search API. A total of 7,041,866 Tweets make up the
+    combined dataset. See included README.txt for additional information.
     
-    - title: "#NoTincPor"
-  creator:
-    - Grup de treball: Model de Maduresa en Gestió Documental per a la Transparència (Associació d'Arxivers - Gestors de Documents de Catalunya)
+- title: "#NoTincPor"
+  creator: Grup de treball
   url: https://github.com/aniol/catalog/blob/master/datasets/NoTincPor%20search%2017.08.2017%20-%2026.08.2017.txt
-  published: 
-  added: 
+  published: 2017-09-26T13:37:19Z
+  added: 2017-09-26T12:30:45Z
   tweets: "52,808"
   dates: 2017-08-17 - 2017-08-26
   tags:
@@ -857,7 +855,11 @@
     - attack
     - terrorism
   description: >
-    2017 Catalonia attacks were a terrorism actions against pedestrians who were at La Rambla (Barcelona) and beach promenade of Cambrils on the afternoon and night of 17-18th August 2017. We selected #NoTincPor hashtag because was the motto of the demonstrations those days and the most positive message. None knew how the situation will go so the best option to collect the dataset was search API afterall and we limited in time between 17th and 26th August because the day 26 was the final demonstration in Barcelona for the victims.
-    
-    
-   
+    2017 Catalonia attacks were a terrorism action against pedestrians who were
+    at La Rambla (Barcelona) and beach promenade of Cambrils on the afternoon
+    and night of 17-18th August 2017. We selected #NoTincPor hashtag because it
+    was the motto of the demonstrations during that period and was the most
+    positive message. No one knew how the situation would go so the best 
+    option was to collect the dataset using the search API and limit by time 
+    between August 17 - 26, which was the final demonstration in Barcelona for 
+    the victims.
