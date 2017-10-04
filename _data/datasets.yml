@@ -18,19 +18,24 @@
 #     you want.
 #
 
-- title: #MarchForBlackWomen             
-#   creator: Bergis Jules                
-#   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D14D4Z 
-#   published: 2017-10-03               
-#   added: 2017-10-03T16:12:39Z         
-#   tweets: "18,646"                 
-#   dates: 2017-09-24 - 2017-10-03      
-#   tags:                               
-#     - Black Women
-#     - Racial Justice
-      - Activism
-#   description: >        
-#   This dataset contains 18, 646 tweet ids documenting the March for Black Women which was held on September 30th, 2017 in Washington D.C. The dataset contains 2,925 tweet ids for tweets that included the hashtag #marchforblackwomen and 15,271 tweet ids for tweets that included the hashtag #M4BW. The march website is here: https://www.mamablack.org/march-for-black-women.
+- title: "#MarchForBlackWomen"
+  creator: Bergis Jules
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D14D4Z 
+  published: 2017-10-03
+  added: 2017-10-03T16:12:39Z
+  tweets: "18,646"
+  dates: 2017-09-24 - 2017-10-03
+  tags:                               
+    - Black Women
+    - Racial Justice
+    - Activism
+  description: >        
+    This dataset contains 18, 646 tweet ids documenting the March for Black
+    Women which was held on September 30th, 2017 in Washington D.C. The dataset
+    contains 2,925 tweet ids for tweets that included the hashtag
+    #marchforblackwomen and 15,271 tweet ids for tweets that included the
+    #hashtag M4BW. The march website is here:
+    https://www.mamablack.org/march-for-black-women.
 
 - title: "#DrawingWhileBlack"
   creator: Bergis Jules
