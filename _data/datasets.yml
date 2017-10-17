@@ -31,10 +31,12 @@
   description: >
     This dataset contains 17,292,130 tweet ids for tweets collected from the
     Twitter filter stream API for #blm and #blacklivesmatter between 2016-01-29
-    and 2017-03-18 using twarc. The files are broken into segments because of
-    network connectivity problems, so there are varying time gaps present
-    between the files. Also when the hashtags were trending globally rate limits
-    may have prevented some tweets from being streamed over the API. 
+    and 2017-03-18. The data was collected using the twarc utility. The files 
+    are broken into segments because of network connectivity problems that 
+    were encountered during data collection. So there are varying time gaps 
+    present between the files. Also when the hashtags were trending globally 
+    rate limits may have prevented some tweets from being streamed over the 
+    API. 
 
 - title: Catalan Referendum
   creator: 
