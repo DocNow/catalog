@@ -17,6 +17,25 @@
 #     about how it was created and for what purpose. Add as much detail as 
 #     you want.
 
+- title: BlackLivesMatter 2016
+  creator: 
+    - Ed Summers
+  url: https://archive.org/details/blacklivesmatter-tweets-2016.txt
+  published: 2017-10-17
+  added: 2017-10-17T21:32:09Z
+  tweets: "17,292,130" 
+  dates: 2016-01-29 - 2017-03-18
+  tags:
+    - blacklivesmatter
+    - activism
+  description: >
+    This dataset contains 17,292,130 tweet ids for tweets collected from the
+    Twitter filter stream API for #blm and #blacklivesmatter between 2016-01-29
+    and 2017-03-18 using twarc. The files are broken into segments because of
+    network connectivity problems, so there are varying time gaps present
+    between the files. Also when the hashtags were trending globally rate limits
+    may have prevented some tweets from being streamed over the API. 
+
 - title: Catalan Referendum
   creator: 
     - Vicenç Ruiz Gómez
@@ -26,7 +45,7 @@
   published: 2017-10-17
   added: 2017-10-17T18:25:22Z
   tweets: "8,410,431" 
-  dates: 2017-10-11 - 2017-10-14
+  dates: 2017-10-19 - 2017-10-5
   tags:
     - Spain
     - Catalonia
