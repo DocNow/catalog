@@ -16,6 +16,7 @@
 #     This is a free text description of the dataset. You can add details
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
+
 - title: Hurricanes Harvey and Irma Tweet Ids
   tweets: "35,596,281"
   creator:
@@ -47,10 +48,7 @@
     - leaks
   description: >
     1,797,260 tweet ids for #paradisepapers collected with Documenting the
-    Now's twarc from November 5-26, 2017. Tweets can be "rehydrated" with
-    Documenting the Now’s twarc (https://github.com/DocNow/twarc). twarc.py
-    hydrate paradisepapers_ids.txt > paradisepapers.json. Or with Documenting
-    the Now's Hydrator https://github.com/DocNow/hydrator
+    Now's twarc from November 5-26, 2017.
 
 - title: "#PuertoRico"
   creator: Ed Summers
