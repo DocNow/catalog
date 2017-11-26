@@ -12,10 +12,28 @@
 #   tags:                               (one or more topical tags)
 #     - politics
 #     - sociology
-#   description: >        
+#   description: >
 #     This is a free text description of the dataset. You can add details
-#     about how it was created and for what purpose. Add as much detail as 
+#     about how it was created and for what purpose. Add as much detail as
 #     you want.
+
+- title: "#paradisepapers"
+  creator: Nick Ruest
+  url: http://dx.doi.org/10.5683/SP/D7R2WB
+  published: 2017-11-26
+  added: 2017-11-26T11:39:04Z
+  tweets: "1,797,260"
+  dates: 2017-11-03 - 2017-11-26
+  tags:
+    - Paradise Papers
+    - poltics
+    - leaks
+  description: >
+    1,797,260 tweet ids for #paradisepapers collected with Documenting the
+    Now's twarc from November 5-26, 2017. Tweets can be "rehydrated" with
+    Documenting the Now’s twarc (https://github.com/DocNow/twarc). twarc.py
+    hydrate paradisepapers_ids.txt > paradisepapers.json. Or with Documenting
+    the Now's Hydrator https://github.com/DocNow/hydrator
 
 - title: "#PuertoRico"
   creator: Ed Summers
@@ -37,10 +55,10 @@
     September 20. Tweets with ids greater than 919222753353457664 were collected
     from the streaming API, and the earlier tweets were collected using the
     search API. In both cases tweets using #PuertoRico were collected.
-    
+
 - title: "#BlackTheory"
   creator: Bergis Jules
-  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1JD4P 
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1JD4P
   published: 2017-10-27
   added: 2017-10-27T10:14:07Z
   tweets: "1,430"
