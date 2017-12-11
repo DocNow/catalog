@@ -17,6 +17,44 @@
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
 
+- title: "Tweets to Donald Trump (@realDonaldTrump)"
+  creator: Nick Ruest
+  url: http://dx.doi.org/10.5683/SP/8BAVQM
+  published: 2017-12-10
+  added: 2017-12-11T07:40:01Z
+  tweets: "59,261,490"
+  dates: 2017-05-07 - 2017-06-21, 2017-06-23 - 2017-12-05
+  tags:
+    - American Politics
+    - poltics
+    - Donald Trump
+  description: >
+    59,261,490 tweet ids for tweets directed at Donald Trump (@realDonaldTrump),
+    collected with Documenting the Now's twarc. Tweets can be "rehydrated"
+    with Documenting the Now’s twarc, or Hydrator.
+    twarc hydrate to_realdonaldtrump_ids.txt > to_donaltrump.jsonl.
+    Tweets from May 7, 2017 - June 21, 2017 of the dataset used a combination of
+    the Filter (Streaming) API and Search API. The Filter API failed on
+    June 21, 2017. From June 23, 2017 forward only the Search API was used to
+    collect. This is done every 5 days on a cron job. Collection is ongoing, and
+    this dataset will be periodically updated with additional tweet ids sets.
+
+- title: "#JeffSessions tweets"
+  creator: Nick Ruest
+  url: http://dx.doi.org/10.5683/SP/MQ3Y99
+  published: 2017-12-10
+  added: 2017-12-11T07:40:01Z
+  tweets: "2,278,757"
+  dates: 2017-06-05 - 2017-09-21, 2017-10-26 - 2017-12-09
+  tags:
+    - American Politics
+    - poltics
+    - Jeff Sessions
+  description: >
+    2,278,757 tweet ids for #JeffSessions collected with Documenting the Now's
+    twarc. Tweets can be “rehydrated” with Documenting the Now’s twarc,
+    or Hydrator.
+
 - title: Hurricanes Harvey and Irma Tweet Ids
   tweets: "35,596,281"
   creator:
