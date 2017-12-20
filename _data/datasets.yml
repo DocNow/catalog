@@ -325,7 +325,7 @@
     months.
 
 - title: 115th U.S. Congress Tweet Ids
-  tweets: "1,430,133"
+  tweets: "1,594,687"
   creator:
     - Justin Littman
     - Yonah Bromberg Graber
@@ -336,11 +336,11 @@
     - politics
     - government
     - Congress
-  dates: 2017-01-27 - 2017-08-31
+  dates: 2017-01-27 - 2017-12-19
   description: >
-    This dataset contains the tweet ids of 1,430,133 tweets from the Twitter 
+    This dataset contains the tweet ids of 1,594,687 tweets from the Twitter 
     accounts of members of the 115th U.S. Congress. They were collected 
-    between January 27, 2017 and August 31, 2017 from the Twitter API 
+    between January 27, 2017 and December 19, 2017 from the Twitter API 
     using Social Feed Manager. Some tweets may come before this time period. 
     This collection will be updated periodically.
 
