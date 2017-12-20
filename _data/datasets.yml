@@ -298,7 +298,7 @@
     accounts came from the U.S. Digital Registry and by public submissions.
 
 - title: News Outlet Tweet Ids
-  tweets: "20,040,948"
+  tweets: "26,700,007"
   creator:
     - Justin Littman
     - Laura Wrubel
@@ -312,13 +312,13 @@
     - news
     - television
     - newspapers
-  dates:  2016-08-04 - 2017-09-28
+  dates:  2016-08-04 - 2017-12-19
   description: >
-    This dataset contains the tweet ids of 20,040,948 tweets collected from the
+    This dataset contains the tweet ids of 26,700,007 tweets collected from the
     Twitter accounts of aproximately 4,500 news outlets, i.e., accounts of media
     organizations intended to disseminate news. The media organizations include
     everything from local U.S. newspapers to foreign television stations. They
-    were collected between August 4, 2016 and September 28, 2017 from the
+    were collected between August 4, 2016 and December 19, 2017 from the
     Twitter API using Social Feed Manager. Note that not all accounts may have
     been collected for the entire duration and there may be tweets from before
     the time period. We intend to update this dataset approximately every 3
