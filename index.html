@@ -13,7 +13,7 @@ layout: default
   </section>
 
   <ul class="datasets">
-    {% assign sorted_datasets = (site.data.datasets | sort: 'published' | reverse) %}
+    {% assign sorted_datasets = site.data.datasets | sort: 'published' | reverse %}
     {% for dataset in sorted_datasets %}
     <li class="dataset">
       <div class="title"><a href="{{ dataset.url }}">{{ dataset.title }}</a></div>
