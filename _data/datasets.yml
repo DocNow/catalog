@@ -17,6 +17,23 @@
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
 
+- title: UKLG Tweets
+  creator: Ed Summers
+  url: https://archive.org/details/uklg-tweet-ids
+  published: 2018-01-25
+  added: 2018-01-25T10:07:01-05:00
+  tweets: "251,287",
+  dates: 2018-01-14 - 2018-01-24
+  tags:
+    - scifi
+    - writers
+    - memorial
+  description: >
+    Ursula K Le Guin died on January 24, 2018 and there was an outpouring of
+    tweets that commemorated her life as a writer. This dataset contains tweet
+    identifiers for 251,287 tweets that mentioned the phrase "Le Guin" between
+    January 24 and January 14, 2018. They were collected with the twarc utility.
+
 - title: "BLKTwitterstorians January 2018 Chat"
   creator: Bergis Jules
   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1P07X
