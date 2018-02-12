@@ -17,6 +17,19 @@
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
 
+- title: #GifHistory             
+  creator: Bergis Jules                
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1CM12
+  published: 2018-02-11               
+  added: 2018-02-12T10:14:07Z         
+  tweets: "31,929"                 
+  dates: 2018-02-09 - 2018-02-12      
+  tags:                               
+    - gifs
+    - memes
+  description: >
+   This hashtag was used by Twitter user @MatthewACherry on February 9th, 2018 to start a conversation about the history of popular gifs on Twitter. Here is a link to the original tweet using the hashtag https://twitter.com/MatthewACherry/status/962011241815277568 
+
 - title: UKLG Tweets
   creator: Ed Summers
   url: https://archive.org/details/uklg-tweet-ids
