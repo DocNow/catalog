@@ -16,7 +16,28 @@
 #     This is a free text description of the dataset. You can add details
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
-
+- title: Immigration and Travel Ban Tweet Ids
+  tweets: "16,875,766"
+  creator:
+    - Justin Littman
+  url: http://dx.doi.org/10.7910/DVN/5CFLLJ
+  published: 2018-02-22
+  added: 2018-02-22T12:00:00-05:00
+  tags:
+    - immigration
+    - travel ban
+    - executive order
+  dates: 2017-01-30 - 2017-04-20
+  description: >
+    This dataset contains the tweet ids of 16,875,766 tweets related to the 
+    immigration and travel ban executive order announced by the Trump 
+    Administration in January 2017. They were collected between January 30, 
+    2017 and April 20, 2017 from the Twitter filter stream API using Social 
+    Feed Manager. The terms using for the filter were: #MuslimBan, 
+    #NoBanNoWall, #NoMuslimBan, #JFKTerminal4, #RefugeesWelcome, muslim ban, 
+    immigrant ban, immigration ban, travel ban, immigration order, 
+    #ImmigrationBan, #TravelBan.
+    
 - title: "#GifHistory"             
   creator: Bergis Jules                
   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1CM12
