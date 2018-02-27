@@ -16,6 +16,30 @@
 #     This is a free text description of the dataset. You can add details
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
+
+- title: "#ArchivesBlackHistory"
+  creator: Ed Summers
+  url: https://archive.org/details/archivesblackhistory-tweets
+  published: 2018-02-27
+  added: 2018-02-27T11:49:00-05:00
+  tweets: "1,402"
+  dates: 2018-02-17 - 2018-02-27
+  tags:
+    - History
+    - African Americans
+    - Archives
+  description: >
+    On February 27, 2018 the National Museum of African American History and
+    Culture hosted a Twitter chat with the Documenting the Now project.  Bergis
+    Jules from the Documenting the Now team coordinated the project responses
+    and delivered them as the @documentnow user on Twitter. Other people from
+    the project and elsewehere responded. The event started at 9:30 AM EST and
+    finished at 10:30 AM EST. Tweets with the designated hashtag
+    #ArchivesBlackHistory were collected using twarc at 11:30 AM on Feburary 27,
+    2018. It collected 1402 tweets, some of which were created prior to the
+    twitter chat, since it has been used in other promotional outreach by the
+    NMAAHC.
+
 - title: Immigration and Travel Ban Tweet Ids
   tweets: "16,875,766"
   creator:
@@ -76,7 +100,8 @@
   tweets: "400"
   dates: 2017-12-27 - 2018-01-06
   tags:
-    - African American Literatire
+    - African Americans
+    - Literatire
     - Twitter
     - History
   description: >
@@ -344,7 +369,7 @@
   tags:
     - Black
     - Artists
-    - African American
+    - African Americans
     - Art
   description: >
     The hashtag \#DrawingWhileBlack was started by artist, Annabelle, on 
