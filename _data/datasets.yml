@@ -16,7 +16,26 @@
 #     This is a free text description of the dataset. You can add details
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
-
+- title: Charlottesville Tweet Ids
+  tweets: "7,665,497"
+  creator:
+    - Justin Littman
+  url: http://dx.doi.org/10.7910/DVN/DVLJTO
+  published: 2018-03-02
+  added: 2018-03-02T12:00:00-05:00
+  tags:
+    - Charlottesville
+    - protests
+    - social movements
+  dates: 2017-08-08 - 2017-08-21
+  description: >
+    This dataset contains the tweet ids of approximately 280 million tweets
+    related to the 2016 United States presidential election. They were collected
+    between July 13, 2016 and November 10, 2016 from the Twitter API using
+    Social Feed Manager. These tweet ids are broken up into 12 collections. Each
+    collection was collected either from the GET statuses/user_timeline method
+    of the Twitter REST API or the POST statuses/filter method of the Twitter
+    Stream API.
 - title: "#ArchivesBlackHistory"
   creator: Ed Summers
   url: https://archive.org/details/archivesblackhistory-tweets
