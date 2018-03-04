@@ -29,13 +29,9 @@
     - social movements
   dates: 2017-08-08 - 2017-08-21
   description: >
-    This dataset contains the tweet ids of approximately 280 million tweets
-    related to the 2016 United States presidential election. They were collected
-    between July 13, 2016 and November 10, 2016 from the Twitter API using
-    Social Feed Manager. These tweet ids are broken up into 12 collections. Each
-    collection was collected either from the GET statuses/user_timeline method
-    of the Twitter REST API or the POST statuses/filter method of the Twitter
-    Stream API.
+    This dataset contains the tweet ids of 7,665,497 tweets related to events 
+    in Charlottesville, Virginia in August, 2017. They were collected from 
+    the Twitter search and filter stream APIs using Social Feed Manager.
 - title: "#ArchivesBlackHistory"
   creator: Ed Summers
   url: https://archive.org/details/archivesblackhistory-tweets
