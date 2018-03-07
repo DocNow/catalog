@@ -16,6 +16,24 @@
 #     This is a free text description of the dataset. You can add details
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
+- title: Winter Olympics 2018 Tweet Ids
+  tweets: "13,816,206"
+  creator:
+    - Justin Littman
+  url: http://dx.doi.org/10.7910/DVN/YMJPFC
+  published: 2018-03-07
+  added: 2018-03-07T12:00:00-05:00
+  tags:
+    - Olympics
+    - South Korea
+  dates: 2018-01-31 - 2018-02-27
+  description: >
+    This dataset contains the tweet ids of 13,816,206 tweets related to 
+    the 2018 Winter Olympics held in Pyeongchang, South Korea. They 
+    were collected between January 31, 2018 and February 27, 2018 
+    from the Twitter filter stream API (POST statuses/filter) 
+    using Social Feed Manager. The filter tracked: #olympics, 
+    #pyeongchang2018, #winterolympics, #평창동계올림픽
 - title: Charlottesville Tweet Ids
   tweets: "7,665,497"
   creator:
