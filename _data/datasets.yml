@@ -17,20 +17,20 @@
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
 - title: #twitterandnews             
-#   creator: Bergis Jules                
-#   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1337P 
-#   published: 2018-03-09               
-#   added: 2018-03-09T10:14:07Z         
-#   tweets: "364"                 
-#   dates: 2018-03-08 - 2018-03-08      
-#   tags:                               
-#     - Media
-#     - Race
-      - African Americans
-      - Asian Americans
-      - Feminism
-#   description: >
-#     Tweet ids and referenced urls collected from the #twitterandnews Twitter chat hosted by the Knight Foundation on Thursday, March 8th, 2018. The chat was about a newly released report on media converage of twitter subcultures. https://knightfoundation.org/features/twittermedia 
+  creator: Bergis Jules                
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1337P 
+  published: 2018-03-09               
+  added: 2018-03-09T10:14:07Z         
+  tweets: "364"                 
+  dates: 2018-03-08 - 2018-03-08      
+  tags:                               
+    - Media
+    - Race
+     - African Americans
+     - Asian Americans
+     - Feminism
+  description: >
+    Tweet ids and referenced urls collected from the #twitterandnews Twitter chat hosted by the Knight Foundation on Thursday, March 8th, 2018. The chat was about a newly released report on media converage of twitter subcultures. https://knightfoundation.org/features/twittermedia 
 - title: Charlottesville Tweet Ids
   tweets: "7,665,497"
   creator:
