@@ -16,6 +16,66 @@
 #     This is a free text description of the dataset. You can add details
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
+
+- title: "#Expo2015"
+  creator: "Renato Gabriele"
+  url: https://archive.org/details/Expo2015Oohmm201803271437301Ids
+  published: 2018-03-27
+  added: 2018-03-27T11:15:00Z
+  tweets: "1,437,301"
+  dates: 2015-4-23 - 2015-11-13
+  tags:
+    - Expo
+    - Expo2015
+    - Italy
+    - Sociology
+    - History
+    - Social Media
+    - Oohmm
+  description: >
+    #Expo2015 was a Universal Exposition hosted by Milan, Italy (https://goo.gl/iRi7Yf).
+    It opened on May 1 at 10:00 and closed on October 31. Milan hosted an exposition for the second time; the first was the 1906 Milan International.
+    The data set collection contains all conversations about #Expo2015 collected between 'April 23 2015' and 'November 13 2015' (1,437,301 Tweets by 218,641 users).
+    Being the first social media Expo the attached archive aims to show the debate through 7 months of conversations of events, protests, finances, media, marketing and politics related with #Expo2015. Presence of bot-repeaters and minor comprop.
+    Previously held in Shanghai, China 2010, next one in Dubai-UAE 2020. More info at Oohmm (src: @remagio @Oohmminfo https://oohmm.info/about).
+
+- title: "#EstamosporTI"
+  creator: "Renato Gabriele"
+  url: https://archive.org/details/EstamosporTIOohmm2018032618831Ids
+  published: 2018-03-26
+  added: 2018-03-26T15:57:00Z
+  tweets: "18,831"
+  dates: 2017-10-01 - 2017-10-24
+  tags:
+    - Catalunya
+    - Spain
+    - Comprop
+    - Oohmm
+  description: >
+    #EstamosporTI: A state-sponsored hashtag.
+    Spain’s Ministry of the Interior and security forces promoted a hashtag during the referendum shutdown & police repression in Catalunya.
+    More details and visualizations are available reading the Erin Gallagher's Medium post (https://goo.gl/ADWJ1Q) about the #EstamosporTI state sponsored hashtag.
+    The attached data set is a collection of 18,831 Tweet IDs using the #EstamosporTI hashtag covering some more days. First on Oct 1 12:07:02 UTC 2017, last on Oct 24 05:37:24 UTC 2017.
+    The attached Twitter IDs is part of a collection covering Catalan's events and elections since July 2017 (src: @remagio @Oohmminfo).
+
+- title: "#twitterandnews"             
+  creator: Bergis Jules                
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1337P 
+  published: 2018-03-09               
+  added: 2018-03-09T10:14:07Z         
+  tweets: "364"                 
+  dates: 2018-03-08 - 2018-03-08      
+  tags:                               
+    - Media
+    - Race
+     - African Americans
+     - Asian Americans
+     - Feminism
+  description: >
+    Tweet ids and referenced urls collected from the #twitterandnews Twitter chat hosted by the Knight 
+    Foundation on Thursday, March 8th, 2018. The chat was about a newly released report on media 
+    converage of twitter subcultures. https://knightfoundation.org/features/twittermedia
+
 - title: Winter Olympics 2018 Tweet Ids
   tweets: "13,816,206"
   creator:
@@ -34,6 +94,7 @@
     from the Twitter filter stream API (POST statuses/filter) 
     using Social Feed Manager. The filter tracked: #olympics, 
     #pyeongchang2018, #winterolympics, #평창동계올림픽
+
 - title: Charlottesville Tweet Ids
   tweets: "7,665,497"
   creator:
@@ -50,6 +111,7 @@
     This dataset contains the tweet ids of 7,665,497 tweets related to events 
     in Charlottesville, Virginia in August, 2017. They were collected from 
     the Twitter search and filter stream APIs using Social Feed Manager.
+
 - title: "#ArchivesBlackHistory"
   creator: Ed Summers
   url: https://archive.org/details/archivesblackhistory-tweets
@@ -106,7 +168,8 @@
     - gifs
     - memes
   description: >
-   This hashtag was used by Twitter user @MatthewACherry on February 9th, 2018 to start a conversation about the history of popular gifs on Twitter. Here is a link to the original tweet using the hashtag https://twitter.com/MatthewACherry/status/962011241815277568 
+   This hashtag was used by Twitter user @MatthewACherry on February 9th, 2018 to start a conversation 
+   about the history of popular gifs on Twitter. Here is a link to the original tweet using the hashtag https://twitter.com/MatthewACherry/status/962011241815277568 
 
 - title: Stockholm Attack 2017
   creator: Andreas Segerberg
@@ -120,7 +183,6 @@
     - attack
     - sweden
     - stockholm
-
   description: >
     On 7 April 2017, in central Stockholm, the capital of Sweden, a hijacked lorry 
     was deliberately driven into crowds along Drottninggatan (Queen Street) before
