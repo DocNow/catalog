@@ -16,6 +16,27 @@
 #     This is a free text description of the dataset. You can add details
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
+- title: "#Expo2015"
+  creator: "Renato Gabriele"
+  url: https://archive.org/details/Expo2015Oohmm201803271437301Ids
+  published: 2018-03-27
+  added: 2018-03-27T11:15:00Z
+  tweets: "1,437,301"
+  dates: 2015-4-23 - 2015-11-13
+  tags:
+    - Expo
+    - Expo2015
+    - Italy
+    - Sociology
+    - History
+    - Social Media
+    - Oohmm
+  description: >
+    #Expo2015 was a Universal Exposition hosted by Milan, Italy (https://goo.gl/iRi7Yf).
+    It opened on May 1 at 10:00 and closed on October 31. Milan hosted an exposition for the second time; the first was the 1906 Milan International.
+    The data set collection contains all conversations about #Expo2015 collected between 'April 23 2015' and 'November 13 2015' (1,437,301 Tweets by 218,641 users).
+    Being the first social media Expo the attached archive aims to show the debate through 7 months of conversations of events, protests, finances, media, marketing and politics related with #Expo2015. Presence of bot-repeaters and minor comprop.
+    Previously held in Shanghai, China 2010, next one in Dubai-UAE 2020. More info at Oohmm (src: @remagio @Oohmminfo https://oohmm.info/about).
 - title: "#EstamosporTI"
   creator: "Renato Gabriele"
   url: https://archive.org/details/EstamosporTIOohmm2018032618831Ids
