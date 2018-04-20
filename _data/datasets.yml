@@ -17,13 +17,32 @@
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
 
+- title: EAW18
+  creator: Ed Summers
+  url: https://archive.org/details/eaw18-tweet-ids
+  published: 2018-04-20
+  added: 2018-04-20T16:11:00Z
+  tweets: "3,627"
+  dates: 2018-03-15 - 2018-03-25
+  tags:
+    - Web Archives
+    - Ethics
+    - Conferences
+  description: >
+    This dataset contains tweets that were sent during the Ethics and 
+    Archiving the Web conference that was held at the New Museum in New 
+    York City, March 22 - 24, 2018. The total of 3,627 tweets included 
+    3,155 tweets that used the hashtag #eaw18 and 472 replies to those 
+    tweets. More about the conference itself can be found at 
+    https://eaw.rhizome.org 
+
 - title: "Macerata Attack 2018"
   creator: "Renato Gabriele"
   url: https://archive.org/details/MacerataOohmm20180327574925Ids
   published: 2018-03-27
   added: 2018-03-27T13:25:00Z
   tweets: "574,925"
-  dates: 2018-01-24 - 2017-02-19
+  dates: 2017-02-19 - 2018-01-24
   tags:
     - Italy
     - Macerata
