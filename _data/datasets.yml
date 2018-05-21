@@ -17,6 +17,18 @@
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
 
+- title: "Event datasets (2012-2016)"             
+  creator: Arkaitz Zubiaga
+  url: https://figshare.com/articles/Twitter_event_datasets_2012-2016_/5100460
+  published: 2017-09-20
+  added: 2018-05-21T16:56:24Z         
+  tweets: "147,055,035"                 
+  dates: 2012-02-03 - 2016-05-03
+  tags:                               
+     - 30 different events, see README file for details on events and tags
+  description: >
+    This collection includes data for 30 different Twitter datasets associated with real world events. The datasets were collected between 2012 and 2016, always using the streaming API with a set of keywords. More on this paper: https://doi.org/10.1002/asi.24026
+
 - title: "#Blackwomanhood"             
   creator: Bergis Jules                
   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1SM1S 
