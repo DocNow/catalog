@@ -17,6 +17,25 @@
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
 
+- title: Ireland 8th amendment referendum vote
+  tweets: "2,279,396"
+  creator:
+    - Justin Littman
+  url: https://doi.org/10.7910/DVN/PYCLPE
+  published: 2018-06-07
+  added: 2018-06-08T12:00:00-05:00
+  tags:
+    - Ireland
+    - abortion
+    - referendum
+  dates: 2018-04-13 - 2018-06-04
+  description: >
+    This dataset contains 2,279,396 tweets related to the referendum to 
+    repeal the 8th amendment to the Irish constitution on May 25, 
+    2018. They were collected between April 13, 2018 and June 4, 2018 
+    from the Twitter filter stream API. These hashtags were provided 
+    by Helena Byrne, British Library.
+    
 - title: "Event datasets (2012-2016)"             
   creator: Arkaitz Zubiaga
   url: https://figshare.com/articles/Twitter_event_datasets_2012-2016_/5100460
