@@ -17,6 +17,28 @@
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
 
+- title: Gaza
+  url: https://archive.org/details/gaza-tweets
+  tweets: "4,058,754"
+  creator:
+    - Ed Summers
+  published: 2018-06-08
+  added: 2018-06-08T10:05:00-05:00
+  tags:
+    - Politics
+    - Gaza
+    - Israel
+    - Palestine
+  dates: 2018-05-08 - 2018-05-19
+  description: >
+     4,058,754 tweets collected from the streaming and search APIs using the
+     keyword "gaza" covering the period to 2018-05-08 to 2018-05-19. The stream
+     and stream data collection was started on 2018-05-16. This time period
+     included the opening of the US Embassy in Jerusalem on May 14th.  On the
+     same day Israeli forces killed over over 60 Palestinians, and injured 2,700
+     who were part of a non-violent protest in the Gaza Strip.
+     https://www.democracynow.org/2018/5/24/after_latest_gaza_slaughter_open_an
+
 - title: Ireland 8th amendment referendum vote
   tweets: "2,279,396"
   creator:
