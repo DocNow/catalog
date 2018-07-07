@@ -17,6 +17,20 @@
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
 
+- title: "#J20"             
+  creator: Bergis Jules                
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D16Q2X
+  published: 2018-07-07               
+  added: 2018-07-07T10:19:20Z         
+  tweets: "184,759"                 
+  dates: 2017-01-20 - 2017-12-30      
+  tags:                               
+    - activism
+    - Protests
+    - Donald Trump
+  description: >
+    A collection of 184,759 tweet ids for tweets collected that included the hashtags #J20, #DisruptJ20, and #DefendJ20. On January 20th, 2017, during President Donald Trumps inauguration, 234 protestors were arrested in Washington D.C. and subsequently prosecuted by the U.S. federal government. 21 of the defendants plead guilty to various levels of charges over the course of the trials while all the other charges were dismissed. The last of the charges were dismissed on July 6th, 2018. Buzzfeed News: https://www.buzzfeed.com/zoetillman/the-government-is-dropping-all-charges-in-the-remaining?utm_term=.kvwGjgW4dN#.ii6kWOrp8D 7-6-2018 US Motion to Dismiss J20 Remaining: https://www.scribd.com/document/383351930/7-6-18-US-Motion-to-Dismiss-J20-Remaining
+    
 - title: Gaza
   url: https://archive.org/details/gaza-tweets
   tweets: "4,058,754"
