@@ -17,6 +17,25 @@
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
 
+- title: U.S. Government Tweet Ids
+  creator: 
+    - Justin Littman
+    - Dan Kerchner
+    - Laura Wrubel
+  url: https://doi.org/10.7910/DVN/2N3HHD
+  published: 2018-07-20
+  added: 2019-07-20T12:00:00-05:00
+  tweets: "9,673,959"
+  dates: 2007-04-22 - 2018-07-20
+  tags:
+    - government
+  description: >
+    This dataset contains the tweet ids of 9,673,959 tweets for approximately 
+    3400 U.S. government accounts. These are accounts that are associated with 
+    federal government agencies, not individuals. They were collected between 
+    January 20, 2017 and July 20, 2018 from the GET statuses/user_timeline 
+    method of the Twitter API using Social Feed Manager.
+
 - title: "#J20"             
   creator: Bergis Jules                
   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D16Q2X
@@ -647,49 +666,48 @@
     accounts came from the U.S. Digital Registry and by public submissions.
 
 - title: News Outlet Tweet Ids
-  tweets: "26,700,007"
+  tweets: "39,695,156"
   creator:
     - Justin Littman
     - Laura Wrubel
     - Daniel Kerchner
     - Yonah Bromberg Gaber
   url: http://dx.doi.org/10.7910/DVN/2FIFLH
-  published: 2017-09-08
+  published: 2018-07-20
   added: 2017-09-08T12:00:00-05:00
   tags:
     - media
     - news
     - television
     - newspapers
-  dates:  2016-08-04 - 2017-12-19
+  dates:  2016-08-04 - 2018-07-20
   description: >
-    This dataset contains the tweet ids of 26,700,007 tweets collected from the
+    This dataset contains the tweet ids of 39,695,156 tweets collected from the
     Twitter accounts of aproximately 4,500 news outlets, i.e., accounts of media
     organizations intended to disseminate news. The media organizations include
     everything from local U.S. newspapers to foreign television stations. They
-    were collected between August 4, 2016 and December 19, 2017 from the
+    were collected between August 4, 2016 and July 20, 2018 from the
     Twitter API using Social Feed Manager. Note that not all accounts may have
     been collected for the entire duration and there may be tweets from before
-    the time period. We intend to update this dataset approximately every 3
-    months.
+    the time period. We intend to update this dataset periodically.
 
 - title: 115th U.S. Congress Tweet Ids
-  tweets: "1,594,687"
+  tweets: "1,874,630"
   creator:
     - Justin Littman
     - Yonah Bromberg Graber
   url: http://dx.doi.org/10.7910/DVN/UIVHQR
-  published: 2017-09-07
+  published: 2018-07-20
   added: 2017-09-07T12:00:00-05:00
   tags:
     - politics
     - government
     - Congress
-  dates: 2017-01-27 - 2017-12-19
+  dates: 2017-01-27 - 2018-07-20
   description: >
-    This dataset contains the tweet ids of 1,594,687 tweets from the Twitter 
+    This dataset contains the tweet ids of 1,874,630 tweets from the Twitter 
     accounts of members of the 115th U.S. Congress. They were collected 
-    between January 27, 2017 and December 19, 2017 from the Twitter API 
+    between January 27, 2017 and July 20, 2019 from the Twitter API 
     using Social Feed Manager. Some tweets may come before this time period. 
     This collection will be updated periodically.
 
