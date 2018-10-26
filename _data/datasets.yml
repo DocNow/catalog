@@ -16,6 +16,69 @@
 #     This is a free text description of the dataset. You can add details
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
+#
+- title: iMCD Twitter Data
+  creator: Urban Big Data Centre
+  url: http://ubdc.gla.ac.uk/dataset/imcd-twitter-data
+  published: 2018-10-10
+  added: 2018-10-10T15:59:07Z
+  tweets: "65,000,000"
+  dates: 2014-07-01 - 2015-11-30
+  tags:
+   - Glasgow
+   - Scotland
+   - Politics
+  description: >
+    University of Glasgow’s unique Integrated Multimedia City Data (iMCD)
+    Survey is a cross-sectional survey based on a sample of the general
+    population in private residences across eight local authority areas of
+    Glasgow and Clyde Valley. The purpose of the iMCD dataset was to provide a
+    360° overview of a life in the city, combining various datasets and
+    methods of collection.
+     
+    The survey fieldwork was run by Ipsos MORI and took place between 15th
+    April 2015 and 21st November 2015. This project was funded by ESRC and it
+    was a result of collaboration across the University of Glasgow, Newcastle
+    and Sheffield. The intention was to provide new innovative datasets with
+    new methods and methodologies that could be used by the policy makers.
+     
+    iMCD consists of 5 main strands (Survey, GPS, life-logging devices, image
+    analysis, textual media and multimedia data). The core of the iMCD is the
+    Household Survey. Each of the five data strands are built on unique models
+    of data sampling. As a part of the project, we also collected for example
+    a sample of GPS and lifelogging sensors. Lifelogging sensors collected
+    data through GPS devices and wearable cameras. Out of all participants 90%
+    agreed to carry the sensor device.
+     
+    Concurrent to the collection of the iMCD Household Survey data UBDC
+    researchers have undertaken a significant information extraction exercise
+    to capture data streams related to Glasgow from a variety of online
+    sources. Twitter data comprises a large part of this collection, and this
+    dataset comprises a selection of tweets during the period 1/12/14 -
+    30/11/2015 that arose from the greater Glasgow area. This, for example,
+    may give insights into the citizens’ behaviour, reactions and moods in
+    certain contexts or at particular times. The dataset can be queried
+    through a bespoke online tool by specific hashtag or tweet term, in order
+    to return statistical information or specific Tweet IDs.  Captured tweets
+    were those geolocated in Glasgow (based on a polygon around the
+    geography), those from certain known Glasgow accounts (e.g. @BBCWestScot;
+    @policescotland) and containing certain terms or hashtags (e.g. glasgow,
+    or #glasgow2014).
+     
+    Tweets from Glasgow users: BBCWestScot, DailyMailUK, BBCScotWeather,
+    GlasgowCC, Daily_Record, GLA_Airport, WeatherCast_UK, STVGlasgow,
+    glabreakingnews, GreaterGlasgPol, OpenGlasgow, TheEveningTimes,
+    trafficscotland, policescotland, Herald_editor, TheScotsman, scotairquality,
+    GdnScotland, PeopleMakeGLA, EverttHerald, GlasgowSubway, newsundayherlad,
+    EducationScot, TheSunNewspaper, TravelineScot, BBCTravelScot, CBItweets,
+    MetroUK, FristinGlasgow, PeopleMakeGLA, FoEScot gtcs, WhatsOnGlasgow,
+    scdiglobal, edhubSctoland, Heart_Glasgow
+     
+    Tweet with certain terms or hashtags: glasgow, BetterTogether, GlasgowCC,
+    Yougov, glasgow2014, CommonWealthGame, GlasgowRoads, scotnight, indyref,
+    CWG2014, goforitscotland, BBCScotWeather, scotdecides, VoteYes, NoThanks,
+    the45, Scotland, yesScotland, AlexSalmond, CommonWealthGames, NoBecause,
+    VoteNo, Darling, train, undecided, HopeOverFear, PatronisingBTlady
 
 - title: "Hurricane Florence Twitter Dataset"
   creator: Mark Phillips
@@ -44,7 +107,7 @@
     - Ed Summers
   url: https://archive.org/details/aretha-tweets
   published: 2018-09-05
-  added: 2019-09-05T01:22:00Z
+  added: 2018-09-05T01:22:00Z
   tweets: "4,164,570"
   dates: "2018-08-08 - 2018-09-03"
   tags:
@@ -73,7 +136,7 @@
     - Laura Wrubel
   url: https://doi.org/10.7910/DVN/2N3HHD
   published: 2018-07-20
-  added: 2019-07-20T12:00:00-05:00
+  added: 2018-07-20T12:00:00-05:00
   tweets: "9,673,959"
   dates: 2007-04-22 - 2018-07-20
   tags:
@@ -756,7 +819,7 @@
   description: >
     This dataset contains the tweet ids of 1,874,630 tweets from the Twitter 
     accounts of members of the 115th U.S. Congress. They were collected 
-    between January 27, 2017 and July 20, 2019 from the Twitter API 
+    between January 27, 2017 and July 20, 2018 from the Twitter API 
     using Social Feed Manager. Some tweets may come before this time period. 
     This collection will be updated periodically.
 
