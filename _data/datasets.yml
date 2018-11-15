@@ -540,14 +540,14 @@
   url: http://dx.doi.org/10.5683/SP/8BAVQM
   published: 2017-12-10
   added: 2017-12-11T07:40:01Z
-  tweets: "59,261,490"
-  dates: 2017-05-07 - 2017-06-21, 2017-06-23 - 2017-12-05
+  tweets: "120,240,346"
+  dates: 2017-05-07 - 2017-06-21, 2017-06-23 - 2018-10-16
   tags:
     - American Politics
-    - poltics
+    - politics
     - Donald Trump
   description: >
-    59,261,490 tweet ids for tweets directed at Donald Trump (@realDonaldTrump),
+    120,240,346 tweet ids for tweets directed at Donald Trump (@realDonaldTrump),
     collected with Documenting the Now's twarc. Tweets can be "rehydrated"
     with Documenting the Now’s twarc, or Hydrator.
     twarc hydrate to_realdonaldtrump_ids.txt > to_donaltrump.jsonl.
@@ -566,7 +566,7 @@
   dates: 2017-06-05 - 2017-09-21, 2017-10-26 - 2017-12-09
   tags:
     - American Politics
-    - poltics
+    - politics
     - Jeff Sessions
   description: >
     2,278,757 tweet ids for #JeffSessions collected with Documenting the Now's
@@ -600,7 +600,7 @@
   dates: 2017-11-03 - 2017-11-26
   tags:
     - Paradise Papers
-    - poltics
+    - politics
     - leaks
   description: >
     1,797,260 tweet ids for #paradisepapers collected with Documenting the
