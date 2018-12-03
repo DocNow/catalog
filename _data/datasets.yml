@@ -2,20 +2,20 @@
 # To add your dataset copy and uncomment this item and replace the boilerplate
 # text with a description of your dataset.
 #
-# - title: My Tweet Dataset             (the title for the dataset)
-#   creator: Jack Dorsey                (creator of the dataset)
-#   url: http://example.com/my-dataset/ (web location of your dataset)
-#   published: 2014-06-08               (date when the dataset was published)
-#   added: 2016-12-24T10:14:07Z         (the current GMT time)
-#   tweets: "1,000,001"                 (number of tweets in the dataset)
-#   dates: 2009-01-01 - 2009-06-01      (date coverage in the dataset)
-#   tags:                               (one or more topical tags)
-#     - politics
-#     - sociology
-#   description: >
-#     This is a free text description of the dataset. You can add details
-#     about how it was created and for what purpose. Add as much detail as
-#     you want.
+ - title: Elections Integrity             
+   creator: Twitter                
+   url: https://about.twitter.com/en_us/values/elections-integrity.html#data
+   published: 2017-10-16               
+   added: 2018-12-03T21:36:07Z         
+   tweets: "10,000,001+"                 
+   dates: unknown - 2018-10-16(?)      
+   tags:                               
+     - politics
+     - sociology
+     - propaganda
+   description: >
+Our (Twitter's) initial disclosures cover two previously disclosed campaigns, and include information from 3,841 accounts believed to be connected to the Russian Internet Research Agency, and 770 accounts believed to originate in Iran. For additional information about this disclosure, see our announcement.
+These datasets include all public, nondeleted Tweets and media (e.g., images and videos) from accounts we believe are connected to state-backed information operations. Tweets deleted by these users prior to their suspension (which are not included in these datasets) comprise less than 1% of their overall activity. Note that not all of the accounts we identified as connected to these campaigns actively Tweeted, so the number of accounts represented in the datasets may be less than the total number of accounts listed here.
 
 - title: 2017 Shooting in Las Vegas
   creator:
