@@ -18,18 +18,25 @@
 #     you want.
 
 - title: Surviving R Kelly             
-#   creator: Bergis Jules and Ed Summers                
-#   url: https://archive.org/details/SurvivingRKellyTweets 
-#   published: 2019-01-19               
-#   added: 2019-01-18T10:14:07Z         
-#   tweets: "1,431,655"                 
-#   dates: 2018-12-25 - 2019-01-05      
-#   tags:                               
-#     - Sexual Violence
-#     - Black Women 
-#     - R Kelly
-#   description: >
-#     This tweet identifier dataset was collected from the Twitter streaming and search APIs to collect tweets containing the phrase "R Kelly" or the hashtag "#SurvivingRKelly" between December 25, 2018 and January 4, 2019. This partially covers the time period in which the 6 part Lifetime documentary Surviving R Kelly was released (January 3 to January 5). It includes 1,431,655. The documentary had an estimated 1.9 million viewers.
+  creator:
+    - Bergis Jules
+    - Ed Summers                
+  url: https://archive.org/details/SurvivingRKellyTweets 
+  published: 2019-01-19               
+  added: 2019-01-18T10:14:07Z         
+  tweets: "1,431,655"                 
+  dates: 2018-12-25 - 2019-01-05      
+  tags:                               
+    - Sexual Violence
+    - Black Women 
+    - R Kelly
+  description: >
+     This tweet identifier dataset was collected from the Twitter streaming and
+     search APIs to collect tweets containing the phrase "R Kelly" or the
+     hashtag "#SurvivingRKelly" between December 25, 2018 and January 4, 2019.
+     This partially covers the time period in which the 6 part Lifetime
+     documentary Surviving R Kelly was released (January 3 to January 5). It
+     includes 1,431,655. The documentary had an estimated 1.9 million viewers.
 
 - title: 2017 Shooting in Las Vegas
   creator:
