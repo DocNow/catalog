@@ -1,21 +1,44 @@
-#
-# To add your dataset copy and uncomment this item and replace the boilerplate
-# text with a description of your dataset.
-#
-# - title: My Tweet Dataset             (the title for the dataset)
-#   creator: Jack Dorsey                (creator of the dataset)
-#   url: http://example.com/my-dataset/ (web location of your dataset)
-#   published: 2014-06-08               (date when the dataset was published)
-#   added: 2016-12-24T10:14:07Z         (the current GMT time)
-#   tweets: "1,000,001"                 (number of tweets in the dataset)
-#   dates: 2009-01-01 - 2009-06-01      (date coverage in the dataset)
-#   tags:                               (one or more topical tags)
-#     - politics
-#     - sociology
-#   description: >
-#     This is a free text description of the dataset. You can add details
-#     about how it was created and for what purpose. Add as much detail as
-#     you want.
+- title: Twitter Internet Research Agency Dataset
+  creator: Twitter
+  url: https://archive.org/details/twitter-ira
+  published: 2018-10-17
+  added: 2018-12-04T10:14:07Z
+  tweets: "90,41,309"
+  dates: 2009-05-09 - 2018-06-21
+  tags:
+    - Politics
+    - Propaganda
+    - Russia
+    - Twitter
+    - Social Media
+  description: >
+    This dataset was released by Twitter on October 17, 2018 in order to
+    provide transparency for state sponsored propaganda that was alleged to
+    have occurred on their platform in the lead up to and directly following
+    the 2016 Presidential Election. The original dataset of deleted content
+    was downloaded from Twitter and deposited at the Internet Archive by
+    Ed Summers.
+
+- title: Twitter Iran Dataset
+  creator: Twitter
+  url: https://archive.org/details/twitter-iran
+  published: 2018-10-17
+  added: 2018-12-04T10:14:07Z
+  tweets: "1,122,937"
+  dates: 2010-12-26 - 2018-08-28
+  tags:
+    - Politics
+    - Propaganda
+    - Iran
+    - Twitter
+    - Social Media
+  description: >
+    This dataset was released by Twitter on October 17, 2018 in order to
+    provide transparency for state sponsored propaganda that was alleged to
+    have occurred on their platform in the lead up to and directly following
+    the 2016 Presidential Election. The original dataset of deleted content
+    was downloaded from Twitter and deposited at the Internet Archive by
+    Ed Summers.
 
 - title: Surviving R Kelly             
   creator:
@@ -52,17 +75,17 @@
     - Las Vegas
     - Mass Shooting
   description: >
-    This dataset contains 14,108,104 tweets that document the mass shooting that 
-    occurred in Las Vegas, Nevada on September 1, 2017. Data were gathered via 
-    concurrent queries to the Twitter search API for all tweets containing the term 
-    "vegas", occurring September 29 - October 7 before 5:00 PM PT. Because of the 
-    volume, and the fact that the tweets were being recorded after the event, but 
-    within the 7 day time window of the search API, the data was collected by 
+    This dataset contains 14,108,104 tweets that document the mass shooting that
+    occurred in Las Vegas, Nevada on September 1, 2017. Data were gathered via
+    concurrent queries to the Twitter search API for all tweets containing the term
+    "vegas", occurring September 29 - October 7 before 5:00 PM PT. Because of the
+    volume, and the fact that the tweets were being recorded after the event, but
+    within the 7 day time window of the search API, the data was collected by
     limiting the search to a particular day, for example, "vegas until:2017-10-03",
     "vegas until:2017-10-04", "vegas until:2017-10-05", etc. The resulting JSON
     data was then deduplicated using twarc's deduplicate.py utility, the identifers
     were then sorted chronologically.
- 
+
 - title: iMCD Twitter Data
   creator: Urban Big Data Centre
   url: http://ubdc.gla.ac.uk/dataset/imcd-twitter-data
@@ -81,20 +104,20 @@
     Glasgow and Clyde Valley. The purpose of the iMCD dataset was to provide a
     360° overview of a life in the city, combining various datasets and
     methods of collection.
-     
+
     The survey fieldwork was run by Ipsos MORI and took place between 15th
     April 2015 and 21st November 2015. This project was funded by ESRC and it
     was a result of collaboration across the University of Glasgow, Newcastle
     and Sheffield. The intention was to provide new innovative datasets with
     new methods and methodologies that could be used by the policy makers.
-     
+
     iMCD consists of 5 main strands (Survey, GPS, life-logging devices, image
     analysis, textual media and multimedia data). The core of the iMCD is the
     Household Survey. Each of the five data strands are built on unique models
     of data sampling. As a part of the project, we also collected for example
     a sample of GPS and lifelogging sensors. Lifelogging sensors collected
-    data through GPS devices and wearable cameras. 
-     
+    data through GPS devices and wearable cameras.
+
     Concurrent to the collection of the iMCD Household Survey data UBDC
     researchers have undertaken a significant information extraction exercise
     to capture data streams related to Glasgow from a variety of online
@@ -109,7 +132,7 @@
     geography), those from certain known Glasgow accounts (e.g. @BBCWestScot;
     @policescotland) and containing certain terms or hashtags (e.g. glasgow,
     or #glasgow2014).
-     
+
     Tweets from Glasgow users: BBCWestScot, DailyMailUK, BBCScotWeather,
     GlasgowCC, Daily_Record, GLA_Airport, WeatherCast_UK, STVGlasgow,
     glabreakingnews, GreaterGlasgPol, OpenGlasgow, TheEveningTimes,
@@ -118,7 +141,7 @@
     EducationScot, TheSunNewspaper, TravelineScot, BBCTravelScot, CBItweets,
     MetroUK, FristinGlasgow, PeopleMakeGLA, FoEScot gtcs, WhatsOnGlasgow,
     scdiglobal, edhubSctoland, Heart_Glasgow
-     
+
     Tweet with certain terms or hashtags: glasgow, BetterTogether, GlasgowCC,
     Yougov, glasgow2014, CommonWealthGame, GlasgowRoads, scotnight, indyref,
     CWG2014, goforitscotland, BBCScotWeather, scotdecides, VoteYes, NoThanks,
@@ -139,7 +162,7 @@
     - North Carolina
     - South Carolina
   description: >
-    This dataset contains Twitter JSON data for Tweets related to Hurricane 
+    This dataset contains Twitter JSON data for Tweets related to Hurricane
     Florence and the subsequent flooding along the Carolina coastal region.
     This dataset was created using the twarc (https://github.com/edsu/twarc)
     package that makes use of Twitter's search API. A total of 4,971,575 Tweets
@@ -175,7 +198,7 @@
     respectively.
 
 - title: U.S. Government Tweet Ids
-  creator: 
+  creator:
     - Justin Littman
     - Dan Kerchner
     - Laura Wrubel
@@ -187,26 +210,26 @@
   tags:
     - government
   description: >
-    This dataset contains the tweet ids of 9,673,959 tweets for approximately 
-    3400 U.S. government accounts. These are accounts that are associated with 
-    federal government agencies, not individuals. They were collected between 
-    January 20, 2017 and July 20, 2018 from the GET statuses/user_timeline 
+    This dataset contains the tweet ids of 9,673,959 tweets for approximately
+    3400 U.S. government accounts. These are accounts that are associated with
+    federal government agencies, not individuals. They were collected between
+    January 20, 2017 and July 20, 2018 from the GET statuses/user_timeline
     method of the Twitter API using Social Feed Manager.
 
-- title: "#J20"             
-  creator: Bergis Jules                
+- title: "#J20"
+  creator: Bergis Jules
   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D16Q2X
-  published: 2018-07-07               
-  added: 2018-07-07T10:19:20Z         
-  tweets: "184,759"                 
-  dates: 2017-01-20 - 2017-12-30      
-  tags:                               
+  published: 2018-07-07
+  added: 2018-07-07T10:19:20Z
+  tweets: "184,759"
+  dates: 2017-01-20 - 2017-12-30
+  tags:
     - activism
     - Protests
     - Donald Trump
   description: >
     A collection of 184,759 tweet ids for tweets collected that included the hashtags #J20, #DisruptJ20, and #DefendJ20. On January 20th, 2017, during President Donald Trumps inauguration, 234 protestors were arrested in Washington D.C. and subsequently prosecuted by the U.S. federal government. 21 of the defendants plead guilty to various levels of charges over the course of the trials while all the other charges were dismissed. The last of the charges were dismissed on July 6th, 2018. Buzzfeed News: https://www.buzzfeed.com/zoetillman/the-government-is-dropping-all-charges-in-the-remaining?utm_term=.kvwGjgW4dN#.ii6kWOrp8D 7-6-2018 US Motion to Dismiss J20 Remaining: https://www.scribd.com/document/383351930/7-6-18-US-Motion-to-Dismiss-J20-Remaining
-    
+
 - title: Gaza
   url: https://archive.org/details/gaza-tweets
   tweets: "4,058,754"
@@ -242,38 +265,38 @@
     - referendum
   dates: 2018-04-13 - 2018-06-04
   description: >
-    This dataset contains 2,279,396 tweets related to the referendum to 
-    repeal the 8th amendment to the Irish constitution on May 25, 
-    2018. They were collected between April 13, 2018 and June 4, 2018 
-    from the Twitter filter stream API. These hashtags were provided 
+    This dataset contains 2,279,396 tweets related to the referendum to
+    repeal the 8th amendment to the Irish constitution on May 25,
+    2018. They were collected between April 13, 2018 and June 4, 2018
+    from the Twitter filter stream API. These hashtags were provided
     by Helena Byrne, British Library.
-    
-- title: "Event datasets (2012-2016)"             
+
+- title: "Event datasets (2012-2016)"
   creator: Arkaitz Zubiaga
   url: https://figshare.com/articles/Twitter_event_datasets_2012-2016_/5100460
   published: 2017-09-20
-  added: 2018-05-21T16:56:24Z         
-  tweets: "147,055,035"                 
+  added: 2018-05-21T16:56:24Z
+  tweets: "147,055,035"
   dates: 2012-02-03 - 2016-05-03
-  tags:                               
+  tags:
      - 30 different events, see README file for details on events and tags
   description: >
     This collection includes data for 30 different Twitter datasets associated with real world events. The datasets were collected between 2012 and 2016, always using the streaming API with a set of keywords. More on this paper: https://doi.org/10.1002/asi.24026
 
-- title: "#Blackwomanhood"             
-  creator: Bergis Jules                
-  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1SM1S 
-  published: 2018-05-11               
-  added: 2018-05-11T10:14:07Z         
-  tweets: "917"                 
-  dates: 2018-05-01 - 2018-05-10      
-  tags:                               
+- title: "#Blackwomanhood"
+  creator: Bergis Jules
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1SM1S
+  published: 2018-05-11
+  added: 2018-05-11T10:14:07Z
+  tweets: "917"
+  dates: 2018-05-01 - 2018-05-10
+  tags:
      - black women
      - black queer women
      - black trans women
      - black history
   description: >
-    The #blackwomanhood Twitter chat took place on May 10th, 2018. It was a discussion around the syllabus for the Black Womanhood course taught by Martha Jones and Jessica Marie Johnson at Johns Hopkins University. The discussion coincided with the end of the course. http://dh.jmjafrx.com/2018/01/27/black-womanhood-the-syllabus/ 
+    The #blackwomanhood Twitter chat took place on May 10th, 2018. It was a discussion around the syllabus for the Black Womanhood course taught by Martha Jones and Jessica Marie Johnson at Johns Hopkins University. The discussion coincided with the end of the course. http://dh.jmjafrx.com/2018/01/27/black-womanhood-the-syllabus/
 
 - title: EAW18
   creator: Ed Summers
@@ -287,12 +310,12 @@
     - Ethics
     - Conferences
   description: >
-    This dataset contains tweets that were sent during the Ethics and 
-    Archiving the Web conference that was held at the New Museum in New 
-    York City, March 22 - 24, 2018. The total of 3,627 tweets included 
-    3,155 tweets that used the hashtag #eaw18 and 472 replies to those 
-    tweets. More about the conference itself can be found at 
-    https://eaw.rhizome.org 
+    This dataset contains tweets that were sent during the Ethics and
+    Archiving the Web conference that was held at the New Museum in New
+    York City, March 22 - 24, 2018. The total of 3,627 tweets included
+    3,155 tweets that used the hashtag #eaw18 and 472 replies to those
+    tweets. More about the conference itself can be found at
+    https://eaw.rhizome.org
 
 - title: "Macerata Attack 2018"
   creator: "Renato Gabriele"
@@ -359,22 +382,22 @@
     The attached data set is a collection of 18,831 Tweet IDs using the #EstamosporTI hashtag covering some more days. First on Oct 1 12:07:02 UTC 2017, last on Oct 24 05:37:24 UTC 2017.
     The attached Twitter IDs is part of a collection covering Catalan's events and elections since July 2017 (src: @remagio @Oohmminfo).
 
-- title: "#twitterandnews"             
-  creator: Bergis Jules                
-  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1337P 
-  published: 2018-03-09               
-  added: 2018-03-09T10:14:07Z         
-  tweets: "364"                 
-  dates: 2018-03-08 - 2018-03-08      
-  tags:                               
+- title: "#twitterandnews"
+  creator: Bergis Jules
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1337P
+  published: 2018-03-09
+  added: 2018-03-09T10:14:07Z
+  tweets: "364"
+  dates: 2018-03-08 - 2018-03-08
+  tags:
     - Media
     - Race
      - African Americans
      - Asian Americans
      - Feminism
   description: >
-    Tweet ids and referenced urls collected from the #twitterandnews Twitter chat hosted by the Knight 
-    Foundation on Thursday, March 8th, 2018. The chat was about a newly released report on media 
+    Tweet ids and referenced urls collected from the #twitterandnews Twitter chat hosted by the Knight
+    Foundation on Thursday, March 8th, 2018. The chat was about a newly released report on media
     converage of twitter subcultures. https://knightfoundation.org/features/twittermedia
 
 - title: Winter Olympics 2018 Tweet Ids
@@ -389,11 +412,11 @@
     - South Korea
   dates: 2018-01-31 - 2018-02-27
   description: >
-    This dataset contains the tweet ids of 13,816,206 tweets related to 
-    the 2018 Winter Olympics held in Pyeongchang, South Korea. They 
-    were collected between January 31, 2018 and February 27, 2018 
-    from the Twitter filter stream API (POST statuses/filter) 
-    using Social Feed Manager. The filter tracked: #olympics, 
+    This dataset contains the tweet ids of 13,816,206 tweets related to
+    the 2018 Winter Olympics held in Pyeongchang, South Korea. They
+    were collected between January 31, 2018 and February 27, 2018
+    from the Twitter filter stream API (POST statuses/filter)
+    using Social Feed Manager. The filter tracked: #olympics,
     #pyeongchang2018, #winterolympics, #평창동계올림픽
 
 - title: Charlottesville Tweet Ids
@@ -409,8 +432,8 @@
     - social movements
   dates: 2017-08-08 - 2017-08-21
   description: >
-    This dataset contains the tweet ids of 7,665,497 tweets related to events 
-    in Charlottesville, Virginia in August, 2017. They were collected from 
+    This dataset contains the tweet ids of 7,665,497 tweets related to events
+    in Charlottesville, Virginia in August, 2017. They were collected from
     the Twitter search and filter stream APIs using Social Feed Manager.
 
 - title: "#ArchivesBlackHistory"
@@ -449,28 +472,28 @@
     - executive order
   dates: 2017-01-30 - 2017-04-20
   description: >
-    This dataset contains the tweet ids of 16,875,766 tweets related to the 
-    immigration and travel ban executive order announced by the Trump 
-    Administration in January 2017. They were collected between January 30, 
-    2017 and April 20, 2017 from the Twitter filter stream API using Social 
-    Feed Manager. The terms using for the filter were: #MuslimBan, 
-    #NoBanNoWall, #NoMuslimBan, #JFKTerminal4, #RefugeesWelcome, muslim ban, 
-    immigrant ban, immigration ban, travel ban, immigration order, 
+    This dataset contains the tweet ids of 16,875,766 tweets related to the
+    immigration and travel ban executive order announced by the Trump
+    Administration in January 2017. They were collected between January 30,
+    2017 and April 20, 2017 from the Twitter filter stream API using Social
+    Feed Manager. The terms using for the filter were: #MuslimBan,
+    #NoBanNoWall, #NoMuslimBan, #JFKTerminal4, #RefugeesWelcome, muslim ban,
+    immigrant ban, immigration ban, travel ban, immigration order,
     #ImmigrationBan, #TravelBan.
-    
-- title: "#GifHistory"             
-  creator: Bergis Jules                
+
+- title: "#GifHistory"
+  creator: Bergis Jules
   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1CM12
-  published: 2018-02-11               
-  added: 2018-02-12T10:14:07Z         
-  tweets: "31,929"                 
-  dates: 2018-02-09 - 2018-02-12      
-  tags:                               
+  published: 2018-02-11
+  added: 2018-02-12T10:14:07Z
+  tweets: "31,929"
+  dates: 2018-02-09 - 2018-02-12
+  tags:
     - gifs
     - memes
   description: >
-   This hashtag was used by Twitter user @MatthewACherry on February 9th, 2018 to start a conversation 
-   about the history of popular gifs on Twitter. Here is a link to the original tweet using the hashtag https://twitter.com/MatthewACherry/status/962011241815277568 
+   This hashtag was used by Twitter user @MatthewACherry on February 9th, 2018 to start a conversation
+   about the history of popular gifs on Twitter. Here is a link to the original tweet using the hashtag https://twitter.com/MatthewACherry/status/962011241815277568
 
 - title: Stockholm Attack 2017
   creator: Andreas Segerberg
@@ -485,18 +508,18 @@
     - sweden
     - stockholm
   description: >
-    On 7 April 2017, in central Stockholm, the capital of Sweden, a hijacked lorry 
+    On 7 April 2017, in central Stockholm, the capital of Sweden, a hijacked lorry
     was deliberately driven into crowds along Drottninggatan (Queen Street) before
-    being crashed through a corner of an Åhléns department store. Five people were 
+    being crashed through a corner of an Åhléns department store. Five people were
     killed and 14 others were seriously injured. Police considered the attack an act
-    of terrorism. The Stockholm-attack-2017-ids.txt contains tweet identifiers for 
-    1067963 tweets that mentioned or tagged one or more of the following: 
+    of terrorism. The Stockholm-attack-2017-ids.txt contains tweet identifiers for
+    1067963 tweets that mentioned or tagged one or more of the following:
     #PrayForStockholm, #Stockholm, #Tukholma, #kärleksmanifestation, #lastnightinsweden,
-    #openstockholm, #prayforsweden, #stockholmimitthjärta, #stockholmterror, 
+    #openstockholm, #prayforsweden, #stockholmimitthjärta, #stockholmterror,
     #swedenattack, #swedenincident, Drottninggatan, Fridhemsplan, Hötorget, Märsta,
     Rakhmat Akilov, Sergels, Suecia, Swedish Police, Åhlens.
     This dataset were collected with the twarc utility.
-    
+
 - title: UKLG Tweets
   creator: Ed Summers
   url: https://archive.org/details/uklg-tweet-ids
@@ -555,7 +578,7 @@
     public, activists, archivists, library and museum professionals, and the
     academic community, to learn and share together in conversations about
     digital culture and digital archives that center blackness.
-    
+
 - title: "Tweets to Donald Trump (@realDonaldTrump)"
   creator: Nick Ruest
   url: http://dx.doi.org/10.5683/SP/8BAVQM
@@ -606,10 +629,10 @@
     - natural disasters
   dates: 2017-08-25 - 2017-09-13
   description: >
-    This dataset contains the tweet ids of 35,596,281 tweets related to 
-    Hurricanes Irma and Harvey. They were collected during these events 
-    from the Twitter API using Social Feed Manager. These tweet ids are 
-    broken up into 2 collections. Each collection was collected using 
+    This dataset contains the tweet ids of 35,596,281 tweets related to
+    Hurricanes Irma and Harvey. They were collected during these events
+    from the Twitter API using Social Feed Manager. These tweet ids are
+    broken up into 2 collections. Each collection was collected using
     the POST statuses/filter method of the Twitter Stream API.
 
 - title: "#paradisepapers"
@@ -667,12 +690,12 @@
     https://twitter.com/jmjafrx/status/911739572685438976
 
 - title: BlackLivesMatter 2016
-  creator: 
+  creator:
     - Ed Summers
   url: https://archive.org/details/blacklivesmatter-tweets-2016.txt
   published: 2017-10-17
   added: 2017-10-17T21:32:09Z
-  tweets: "17,292,130" 
+  tweets: "17,292,130"
   dates: 2016-01-29 - 2017-03-18
   tags:
     - blacklivesmatter
@@ -680,22 +703,22 @@
   description: >
     This dataset contains 17,292,130 tweet ids for tweets collected from the
     Twitter filter stream API for #blm and #blacklivesmatter between 2016-01-29
-    and 2017-03-18. The data was collected using the twarc utility. The files 
-    are broken into segments because of network connectivity problems that 
-    were encountered during data collection. So there are varying time gaps 
-    present between the files. Also when the hashtags were trending globally 
-    rate limits may have prevented some tweets from being streamed over the 
-    API. 
+    and 2017-03-18. The data was collected using the twarc utility. The files
+    are broken into segments because of network connectivity problems that
+    were encountered during data collection. So there are varying time gaps
+    present between the files. Also when the hashtags were trending globally
+    rate limits may have prevented some tweets from being streamed over the
+    API.
 
 - title: Catalan Referendum
-  creator: 
+  creator:
     - Vicenç Ruiz Gómez
     - Aniol Maria
     - Ed Summers
   url: https://archive.org/details/catalan-tweet-ids
   published: 2017-10-17
   added: 2017-10-17T18:25:22Z
-  tweets: "8,410,431" 
+  tweets: "8,410,431"
   dates: 2017-10-19 - 2017-10-5
   tags:
     - Spain
@@ -716,47 +739,47 @@
     for several hours on September 28 to determine what the top hashtags being
     used were. The tweets themselves were collected from the Twitter Search API
     using twarc and its twarc-archive utility. twarc-archive was run every hour
-    to collect the tweets that occurred since the last run. 
+    to collect the tweets that occurred since the last run.
 
-- title: "#AmplifyWomen"             
-  creator: Bergis Jules                
-  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1Q66X 
-  published: 2017-10-14               
-  added: 2017-10-14T09:33:32Z         
-  tweets: "10,894"                 
-  dates: 2017-10-11 - 2017-10-14      
-  tags:                               
+- title: "#AmplifyWomen"
+  creator: Bergis Jules
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1Q66X
+  published: 2017-10-14
+  added: 2017-10-14T09:33:32Z
+  tweets: "10,894"
+  dates: 2017-10-11 - 2017-10-14
+  tags:
     - Black Women
     - Race
     - Activism
-  description: >        
+  description: >
     This dataset includes 10,894 tweet ids for tweets that used that hashtag
     #AmplifyWomen. The tweets were collected on October 14th, 2017. The hashtag
     started being used in response a Twitter boycott that started in support of
-    actress Rose McGowan, after she revealed she was sexually assaulted by 
-    Harvey Weinstein. These two tweets by @bardgal and @Chatvert give some 
+    actress Rose McGowan, after she revealed she was sexually assaulted by
+    Harvey Weinstein. These two tweets by @bardgal and @Chatvert give some
     context for the purpose of the hashtag:
       https://twitter.com/bardgal/status/918729587625902080,
       https://twitter.com/Chatvert/status/918817455505575942.
 
-- title: "#WOCAffirmation"             
-  creator: Bergis Jules                
-  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1TW8H 
-  published: 2017-10-14               
-  added: 2017-10-14T09:20:23Z         
-  tweets: "80,339"                 
-  dates: 2017-10-11 - 2017-10-14      
-  tags:                               
+- title: "#WOCAffirmation"
+  creator: Bergis Jules
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1TW8H
+  published: 2017-10-14
+  added: 2017-10-14T09:20:23Z
+  tweets: "80,339"
+  dates: 2017-10-11 - 2017-10-14
+  tags:
     - Black Women
     - Race
-    - Activism 
-  description: >        
+    - Activism
+  description: >
     This dataset includes 80,339 tweet ids collected on October 14th, 2017 that
     use the hashtag #WOCAffirmation. The hashtag was started by April Reign
-    (@ReignOfApril) as a way to amplify voices of women of color and partly 
-    as a response to a Twitter boycott started in support of actress Rose 
-    McGowan, after she revealed that she was sexually assaulted by 
-    HarveyWeinstein. These tweets by April Reign show her calling for 
+    (@ReignOfApril) as a way to amplify voices of women of color and partly
+    as a response to a Twitter boycott started in support of actress Rose
+    McGowan, after she revealed that she was sexually assaulted by
+    HarveyWeinstein. These tweets by April Reign show her calling for
     Twitter users to use the hashtag:
       to https://twitter.com/ReignOfApril/status/918691938143834112,
       https://twitter.com/ReignOfApril/status/918695092587601920,
@@ -764,16 +787,16 @@
 
 - title: "#MarchForBlackWomen"
   creator: Bergis Jules
-  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D14D4Z 
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D14D4Z
   published: 2017-10-03
   added: 2017-10-03T16:12:39Z
   tweets: "18,646"
   dates: 2017-09-24 - 2017-10-03
-  tags:                               
+  tags:
     - Black Women
     - Racial Justice
     - Activism
-  description: >        
+  description: >
     This dataset contains 18, 646 tweet ids documenting the March for Black
     Women which was held on September 30th, 2017 in Washington D.C. The dataset
     contains 2,925 tweet ids for tweets that included the hashtag
@@ -783,7 +806,7 @@
 
 - title: "#DrawingWhileBlack"
   creator: Bergis Jules
-  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1DT02 
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1DT02
   published: 2017-09-17
   added: 2017-09-17T09:34:11-07:00
   tweets: "69,236"
@@ -794,15 +817,15 @@
     - African Americans
     - Art
   description: >
-    The hashtag \#DrawingWhileBlack was started by artist, Annabelle, on 
-    September 15th, 2017 to celebrate the work of Black artists. The 
-    dataset includes 69,236 tweet ids collected 09/17/2017. Annabelle's 
-    Tumblr website can be found at 
+    The hashtag \#DrawingWhileBlack was started by artist, Annabelle, on
+    September 15th, 2017 to celebrate the work of Black artists. The
+    dataset includes 69,236 tweet ids collected 09/17/2017. Annabelle's
+    Tumblr website can be found at
     <a href="http://sparklyfawn.tumblr.com/">http://sparklyfawn.tumblr.com/</a>
     and her Twitter profile is <a href="https://twitter.com/sparklyfawn">@sparklyfawn</a>.
 
 - title: End of Term 2016 U.S. Government Twitter Archive
-  creator: 
+  creator:
     - Justin Littman
     - Dan Kerchner
     - Laura Wrubel
@@ -862,10 +885,10 @@
     - Congress
   dates: 2017-01-27 - 2018-07-20
   description: >
-    This dataset contains the tweet ids of 1,874,630 tweets from the Twitter 
-    accounts of members of the 115th U.S. Congress. They were collected 
-    between January 27, 2017 and July 20, 2018 from the Twitter API 
-    using Social Feed Manager. Some tweets may come before this time period. 
+    This dataset contains the tweet ids of 1,874,630 tweets from the Twitter
+    accounts of members of the 115th U.S. Congress. They were collected
+    between January 27, 2017 and July 20, 2018 from the Twitter API
+    using Social Feed Manager. Some tweets may come before this time period.
     This collection will be updated periodically.
 
 - title: 2017 Eclipse
@@ -874,7 +897,7 @@
   published: 2017-09-01
   added: 2017-09-01T17:09:00Z
   tweets: "13,548,321"
-  dates: 2017-08-17 - 2017-08-23 
+  dates: 2017-08-17 - 2017-08-23
   tags:
      - astronomy
      - eclipse
@@ -887,28 +910,28 @@
     period August 17 to August 23, 2017.  The hashtags were were selected after
     watching Twitter's streaming API for the trending hashtag #solareclipse2017
     and counting the most popular co-occurring hashtags. The search API was used
-    instead of the filter stream API because the stream was emitting 
+    instead of the filter stream API because the stream was emitting
     notifications that many tweets were not delivered, since the volume was so
-    high. 
+    high.
 
-- title: "WITBragDay"      
+- title: "WITBragDay"
   creator: Laura Wrubel
   url: http://dx.doi.org/10.7910/DVN/IRNS5Z
   published: 2017-08-18
   added: 2017-08-24T21:16:00Z
   tweets: "52,457"
-  dates: 2017-08-12 - 2017-08-18 
+  dates: 2017-08-12 - 2017-08-18
   tags:
      - women
      - technology
-  description: >        
+  description: >
     The #WITBragDay hashtag was used starting August 12, 2017 by women sharing
     their accomplishments in technology. Tweets matching the query WITBragDay
-    were collected using using the POST statuses/filter method of the Twitter 
-    Stream API and the GET statuses/search Twitter REST API using Social Feed 
+    were collected using using the POST statuses/filter method of the Twitter
+    Stream API and the GET statuses/search Twitter REST API using Social Feed
     Manager. There are 34,266 ids for tweets retrieved from the filter stream
-    and 47,621 ids for tweets retrieved using the search API. The dataset 
-    includes a list of 52,457 unique tweet ids from both APIs. 
+    and 47,621 ids for tweets retrieved using the search API. The dataset
+    includes a list of 52,457 unique tweet ids from both APIs.
 
 - title: "#UniteTheRight"
   creator: Ed Summers
@@ -926,12 +949,12 @@
     protest in Charlottesville, Virginia, United States from August 11–12, 2017,
     to oppose the removal of a statue of Robert E. Lee in Emancipation Park,
     which itself was renamed from Lee Park two months earlier. Protesters
-    included white supremacists, white nationalists, neo-Confederates, 
-    neo-Nazis, and militias. This dataset contains 200,113 tweet ids 
-    collected with the #unitetheright hashtag. Data collection was performed 
-    twice from the search API using twarc: once at 2017-08-13 11:46:05 GMT 
-    and the other at 2017-08-15 12:03:48 GMT. The second search was run 
-    to collect only up to where the first search left off. The time ranges 
+    included white supremacists, white nationalists, neo-Confederates,
+    neo-Nazis, and militias. This dataset contains 200,113 tweet ids
+    collected with the #unitetheright hashtag. Data collection was performed
+    twice from the search API using twarc: once at 2017-08-13 11:46:05 GMT
+    and the other at 2017-08-15 12:03:48 GMT. The second search was run
+    to collect only up to where the first search left off. The time ranges
     for the tweets are from 2017-08-04 11:44:12 to 2017-08-15 16:03:30 GMT.
 
 - title: "#Charlottesville"
@@ -946,16 +969,16 @@
     - white nationalism
     - politics
   description: >
-    On Friday, August 11th, 2017 a large groups of racist white nationalists 
-    carrying torches marched on the University of Virginia campus in 
-    Charlottesville, VA as an intimidation tactic against proponents for 
-    the removal of confederate statues of Robert E. Lee. The Friday evening 
-    march was held ahead of a much larger racist white nationalist rally in 
-    the center of Charlottesville planned for Saturday, August 12th, 2017. 
-    This dataset includes 100,000 tweet ids collected using the DocNow 
-    prototype http://app.docnow.io/ and includes tweets sent from 
+    On Friday, August 11th, 2017 a large groups of racist white nationalists
+    carrying torches marched on the University of Virginia campus in
+    Charlottesville, VA as an intimidation tactic against proponents for
+    the removal of confederate statues of Robert E. Lee. The Friday evening
+    march was held ahead of a much larger racist white nationalist rally in
+    the center of Charlottesville planned for Saturday, August 12th, 2017.
+    This dataset includes 100,000 tweet ids collected using the DocNow
+    prototype http://app.docnow.io/ and includes tweets sent from
     01:13:56 - 7:11:36 EDT on August 12.
-  
+
 - title: Ferguson (August 8-10, 2014)
   creator: Ed Summers
   url: https://archive.org/details/ferguson-201408
@@ -967,10 +990,10 @@
     - blacklivesmatter
     - activism
   description: >
-    This dataset contains 32,056 tweets that mention "ferguson" between 
-    August 8 and August 10, 2014. They were collected on May 7th, 2015 
-    from the search form on Twitter's website. Some important side effects 
-    to be aware of is that the dataset does not include retweets and tweets 
+    This dataset contains 32,056 tweets that mention "ferguson" between
+    August 8 and August 10, 2014. They were collected on May 7th, 2015
+    from the search form on Twitter's website. Some important side effects
+    to be aware of is that the dataset does not include retweets and tweets
     that were deleted before May 7th, 2015.
 
 - title: "Charlottesville KKK Tweets"
@@ -995,30 +1018,30 @@
     tweets still exist.
 
 - title: "#HuelgaUPR tweets, April 20 - May 18 2017"
-  creator: Joel A. Blanco-Rivera                
+  creator: Joel A. Blanco-Rivera
   url: https://archive.org/details/tweet-ids_HuelgaUPR20170420-0518
-  published: 2017-05-19               
-  added: 2017-05-19T20:13:07Z         
-  tweets: "25,439"                 
-  dates: 2017-04-11 - 2017-05-18      
-  tags:                               
+  published: 2017-05-19
+  added: 2017-05-19T20:13:07Z
+  tweets: "25,439"
+  dates: 2017-04-11 - 2017-05-18
+  tags:
       - activism
       - higher education
       - Puerto Rico
-  description: >        
+  description: >
      Identifiers for 25,489 tweets about the students' strike at the University
      of Puerto Rico.  The tweets included the hashtag #HuelgaUPR or #Huelga2017
      and are from April 11 to May 18, 2017. The tweets were collected using
      twarc. For a list of resources about the strike visit <a
      href="http://puertoricosyllabus.wordpress.com/resistance-and-new-imaginaries/la-upr-no-se-vende-se-defiende-the-battle-for-the-university-of-puerto-rico/">
      Puerto Rico Syllabus</a>.
-     
+
      Identificadores de 25,439 tuits sobre la huelga estudiantil en la
      Universidad de Puerto Rico.  Los tuits fueron capturados utilizando twarc y
      cubren el periodo del 11 de abril al 18 de mayo. Para más información sobre
      la huelga visite <a
      href="http://puertoricosyllabus.wordpress.com/resistance-and-new-imaginaries/la-upr-no-se-vende-se-defiende-the-battle-for-the-university-of-puerto-rico/">
-     Puerto Rico Syllabus</a>. 
+     Puerto Rico Syllabus</a>.
 
 
 - title: "#MacronLeaks Tweets"
@@ -1031,7 +1054,7 @@
   tags:
     - politics
     - France
-  description: > 
+  description: >
     Identifiers for 782,509 tweets that included the hashtag #macronleaks or
     #macrongate that were sent between 2017-05-10 16:14:51 and 2017-05-02
     07:02:05 UTC. The tweets were collected from the Twitter Search API using
@@ -1072,8 +1095,8 @@
     681,668 tweet ids for #climatemarch collected with Documenting the Now's
     twarc from January 22-26, 2017. Tweets can be "rehydrated" with Documenting
     the Now's twarc (https://github.com/DocNow/twarc). twarc.py hydrate
-    climatemarch_tweet_ids.txt > climatemarch.json. 
- 
+    climatemarch_tweet_ids.txt > climatemarch.json.
+
 - title: "J. K. Rowling tweets/retweets"
   creator: Ed Summers
   url: https://archive.org/details/Jk_rowlingTweets
@@ -1086,7 +1109,7 @@
     - fantasy
   description: >
     This bag contains 10,159,892 tweets and retweets sent by or to Twitter
-    user jk_rowling between 2015-07-08 and 2017-03-18. The tweets were 
+    user jk_rowling between 2015-07-08 and 2017-03-18. The tweets were
     collected with Social Feed Manager (m5_003).
 
 - title: "#MarchForScience tweets April 12-26, 2017"
@@ -1102,8 +1125,8 @@
     1,276,220 tweet ids for #MarchForScience collected with Documenting the
     Now's twarc from January 22-26, 2017. Tweets can be "rehydrated" with
     Documenting the Now's twarc (https://github.com/DocNow/twarc). twarc.py
-    hydrate MarchForScience_tweet-ids.txt > MarchForScience.json. 
- 
+    hydrate MarchForScience_tweet-ids.txt > MarchForScience.json.
+
 - title: "#BlackWomenAtWork"
   creator: Bergis Jules
   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1PP4P
@@ -1127,7 +1150,7 @@
     bwaw1 (10,000 tweets), bwaw2 (41,256 tweets), bwaw3 (92,756 tweets) were
     collected on March 28th, the day the hashtag began trending. bwaw4 (140,000
     tweets) was collected on March 29th.
-   
+
 - title: Fake News tweets
   creator: Ed Summers
   url: https://archive.org/details/fakenews-tweets
@@ -1138,11 +1161,11 @@
   tags:
     - politics
     - sociology
-  description: >        
-    This bag contains 2,711,011 tweets identifiers collected from the Twitter 
-    filter stream between 2017-02-09 and 2017-03-18 that used one or more 
-    of the following hashtags: alternativefacts, fakenews, truthiness, 
-    postfact, posttruth, factcheck.  The original tweets were collected 
+  description: >
+    This bag contains 2,711,011 tweets identifiers collected from the Twitter
+    filter stream between 2017-02-09 and 2017-03-18 that used one or more
+    of the following hashtags: alternativefacts, fakenews, truthiness,
+    postfact, posttruth, factcheck.  The original tweets were collected
     using twarc.
 
 - title: "#SaveACA"
@@ -1157,9 +1180,9 @@
     - activism
   description: >
     On January 12th, 2017 the Senate voted 51-48 to approve a budget resolution
-    as the first step in repealing the Affordable Care Act. The hashtag 
-    #SaveACA began being used heavily on Twitter the same day as a response. 
-    This dataset includes tweet ids collected on four separate occasions on 
+    as the first step in repealing the Affordable Care Act. The hashtag
+    #SaveACA began being used heavily on Twitter the same day as a response.
+    This dataset includes tweet ids collected on four separate occasions on
     January 12th and 13th, 2017 for the hashtag #SaveACA
 
 - title: "#BLMKidnapping"
@@ -1174,16 +1197,16 @@
     - politics
     - race
   description: >
-    These 136,990 tweet ids represent reaction to a Facebook Live video that 
-    was posted on January 3rd, 2017, showing four African American men 
-    violently attacking a white, mentally disabled man. The tweets were 
-    collected on 01/05/2017. After the video surfaced, the Twitter hashtag, 
-    #BLMkidnapping, was created and used to incorrectly attribute the violent 
-    attack to members of the Black Lives Matter movement. Police in Chicago, 
-    where the attack took place, have found no evidence the attack has any 
-    connection to the Black Lives Matter movement. This link is to a CNN story 
-    documenting the police denial of Black Lives Matter connection: 
-    http://www.cnn.com/2017/01/05/us/black-lives-matter-chicago-facebook-live-beating/index.html 
+    These 136,990 tweet ids represent reaction to a Facebook Live video that
+    was posted on January 3rd, 2017, showing four African American men
+    violently attacking a white, mentally disabled man. The tweets were
+    collected on 01/05/2017. After the video surfaced, the Twitter hashtag,
+    #BLMkidnapping, was created and used to incorrectly attribute the violent
+    attack to members of the Black Lives Matter movement. Police in Chicago,
+    where the attack took place, have found no evidence the attack has any
+    connection to the Black Lives Matter movement. This link is to a CNN story
+    documenting the police denial of Black Lives Matter connection:
+    http://www.cnn.com/2017/01/05/us/black-lives-matter-chicago-facebook-live-beating/index.html
 
 - title: "#WomensMarch tweets January 12-28, 2017"
   creator: Nick Ruest
@@ -1198,8 +1221,8 @@
     - politics
   description: >
     14,478,518 tweet ids for #WomensMarch collected with Documenting the Now's
-    twarc from January 21-28, 2017. Tweets can be "rehydrated" with 
-    Documenting the Now's twarc (https://github.com/DocNow/twarc). twarc.py 
+    twarc from January 21-28, 2017. Tweets can be "rehydrated" with
+    Documenting the Now's twarc (https://github.com/DocNow/twarc). twarc.py
     –hydrate WomensMarch_tweet_ids.txt > WomensMarch.json Also included are the
     logs files for the Filter API and Search API queries. The Filter API query
     captures the cumulative number of dropped tweets.
@@ -1219,10 +1242,10 @@
     This is a dataset of ids for tweets purchased from Twitter as part of the
     Beyond the Hashtags study
     http://cmsimpact.org/resource/beyond-hashtags-ferguson-blacklivesmatter-online-struggle-offline-justice/
-    The dataset includes a year of tweets that mention one or more of 45 
-    keywords associated with the BlackLivesMatter movement. This 
-    period covers a critical time in which social media was used to 
-    raise awareness about police killings of unarmed Black citizens in the 
+    The dataset includes a year of tweets that mention one or more of 45
+    keywords associated with the BlackLivesMatter movement. This
+    period covers a critical time in which social media was used to
+    raise awareness about police killings of unarmed Black citizens in the
     United States.
 
 - title: Tweet ids for final Tragically Hip concert
@@ -1236,10 +1259,10 @@
     - tragically hip
     - music
   description: >
-    228,086 tweet ids for "TheHip, hipinkingston" captured during the 
-    Tragically Hip's final concert in Kingston, Ontario in August 2016. 
-    Tweets can be "rehydrated" with Documenting the Now's twarc 
-    (https://github.com/DocNow/twarc). twarc.py --hydrate 
+    228,086 tweet ids for "TheHip, hipinkingston" captured during the
+    Tragically Hip's final concert in Kingston, Ontario in August 2016.
+    Tweets can be "rehydrated" with Documenting the Now's twarc
+    (https://github.com/DocNow/twarc). twarc.py --hydrate
     th_final_concert_kingston_tweet_ids.txt > th_final_concert_kingston.json
 
 - title: Trump Early Primary Tweets
@@ -1254,12 +1277,12 @@
     - trump
   description: >
     These are tweets that were collected between August 27, 2015 and
-    January 4, 2016 that mention the word "trump". This period marked 
-    important early months in the Republican primaries. They were 
+    January 4, 2016 that mention the word "trump". This period marked
+    important early months in the Republican primaries. They were
     collected from Twitter's streaming API using twarc.
-     
-    There are 40,202,199 tweet identifiers in all.  Due to network 
-    outages there are gaps at the following points: 2015-08-27 19:12:37 - 
+
+    There are 40,202,199 tweet identifiers in all.  Due to network
+    outages there are gaps at the following points: 2015-08-27 19:12:37 -
     2015-08-27 20:13:44 ; 2015-11-02 02:02:13 - 2015-11-05 16:20:35 ;
     2015-12-28 02:02:42 - 2015-12-28 02:04:00
 
@@ -1289,8 +1312,8 @@
   tweets: "13,968,293"
   tags:
     - politics
-  description: > 
-    Tweet ids for #JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo 
+  description: >
+    Tweet ids for #JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo
     tweets.
 
 - title: Ferguson Tweets
@@ -1357,7 +1380,7 @@
 - title: "#MakeDonaldDrumpfAgain tweets"
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/11491
-  published: 2016-03-03 
+  published: 2016-03-03
   added: 2016-12-23T17:40:17-05:00
   tweets: "1,828,643"
   tags:
@@ -1390,7 +1413,7 @@
 - title: "#NDP2016 tweets"
   creator: Nick Ruest
   url: http://hdl.handle.net/10864/11674
-  published: 2016-04-27 
+  published: 2016-04-27
   added: 2016-12-23T17:40:17-05:00
   tweets: "40,279"
   tags:
@@ -1422,7 +1445,7 @@
   published: 2016-08-21
   added: 2016-12-23T17:40:17-05:00
   tweets: "782,495"
-  dates: 2016-05-01 - 2016-06-25 
+  dates: 2016-05-01 - 2016-06-25
   tags:
     - Fort McMurry
     - Wildfire
@@ -1477,10 +1500,10 @@
   tags:
     - politics
   description: >
-    A list of 24876 Twitter IDs for tweets harvested between Nov. 28 and Dec. 6 
-    2014 containing the hashtag #bill10. Bill 10 in the Alberta legislature would 
-    have given public and Catholic school boards the right to refuse student 
-    requests to form gay-straight alliances in schools. Under intense public 
+    A list of 24876 Twitter IDs for tweets harvested between Nov. 28 and Dec. 6
+    2014 containing the hashtag #bill10. Bill 10 in the Alberta legislature would
+    have given public and Catholic school boards the right to refuse student
+    requests to form gay-straight alliances in schools. Under intense public
     interest it was withdrawn by the Conservative government.
 
 - title: American Historical Association 2017 Conference Tweets
@@ -1495,10 +1518,10 @@
     - academia
     - conference
   description: >
-    A list of 10,538 Twitter IDs for tweets harvested between 
-    4 January at 11am and 9 January at 11am using Social Feed 
-    Manager. As this used the search API, the 4 January at 11am 
-    crawl went back about 5-9 days. Tweet IDs included, as is a 
+    A list of 10,538 Twitter IDs for tweets harvested between
+    4 January at 11am and 9 January at 11am using Social Feed
+    Manager. As this used the search API, the 4 January at 11am
+    crawl went back about 5-9 days. Tweet IDs included, as is a
     log of the decisions made to curate this dataset.
 
 - title: North Carolina House Bill 2 Tweet IDs
@@ -1565,7 +1588,7 @@
     Women's March on January 21, 2017.  They were collected between December 19,
     2016 and January 23, 2017 from the Twitter API using Social Feed Manager.
     See included README.txt for additional information.
-    
+
 - title: "Dallas Police Shooting Twitter Dataset"
   creator:
     - Mark Phillips
@@ -1573,7 +1596,7 @@
   published: 2017-08-31
   added: 2017-08-31T13:43:32Z
   tweets: "7,146,993"
-  dates: 2016-07-05 - 2016-07-14 
+  dates: 2016-07-05 - 2016-07-14
   tags:
     - PoliceShooting
     - activism
@@ -1583,14 +1606,14 @@
     Dallas, Texas on July 7th 2017, using the twarc
     (https://github.com/edsu/twarc) package that makes use of Twitter's search
     API. See included README.txt for additional information.
-    
+
 - title: "Hurricane Harvey Twitter Dataset"
   creator: Mark Phillips
   url: https://digital.library.unt.edu/ark:/67531/metadc993940/
   published: 2017-09-24
   added: 2017-09-24T12:55:24Z
   tweets: "7,041,866"
-  dates: 2017-08-18 - 2017-09-22 
+  dates: 2017-08-18 - 2017-09-22
   tags:
     - hurricane
     - disaster
@@ -1603,7 +1626,7 @@
     was created using the twarc (https://github.com/edsu/twarc) package that
     makes use of Twitter's search API. A total of 7,041,866 Tweets make up the
     combined dataset. See included README.txt for additional information.
-    
+
 - title: "#NoTincPor"
   creator: Society of Catalan Archivists
   url: http://www.docnow.io/catalog/datasets/F48D674F-C859-4E4F-AC83-510181DA3545.csv.gz
@@ -1621,8 +1644,8 @@
     at La Rambla (Barcelona) and beach promenade of Cambrils on the afternoon
     and night of 17-18th August 2017. We selected #NoTincPor hashtag because it
     was the motto of the demonstrations during that period and was the most
-    positive message. No one knew how the situation would go so the best 
-    option was to collect the dataset using the search API and limit by time 
-    between August 17 - 26, which was the final demonstration in Barcelona for 
+    positive message. No one knew how the situation would go so the best
+    option was to collect the dataset using the search API and limit by time
+    between August 17 - 26, which was the final demonstration in Barcelona for
     the victims.
 
