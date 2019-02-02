@@ -584,14 +584,14 @@
   url: http://dx.doi.org/10.5683/SP/8BAVQM
   published: 2017-12-10
   added: 2017-12-11T07:40:01Z
-  tweets: "120,240,346"
-  dates: 2017-05-07 - 2017-06-21, 2017-06-23 - 2018-10-16
+  tweets: "146,341,720"
+  dates: 2017-05-07 - 2017-06-21, 2017-06-23 - 2019-01-21
   tags:
     - American Politics
     - politics
     - Donald Trump
   description: >
-    120,240,346 tweet ids for tweets directed at Donald Trump (@realDonaldTrump),
+    146,341,720 tweet ids for tweets directed at Donald Trump (@realDonaldTrump),
     collected with Documenting the Now's twarc. Tweets can be "rehydrated"
     with Documenting the Now’s twarc, or Hydrator.
     twarc hydrate to_realdonaldtrump_ids.txt > to_donaltrump.jsonl.
