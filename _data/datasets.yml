@@ -1,3 +1,24 @@
+- title: 2018 U.S. Congressional Election 
+  creator: 
+    - Justin Littman
+    - Laura Wrubel
+    - Dan Kerchner
+  url: https://doi.org/10.7910/DVN/AEZPLU
+  published: 2019-02-05
+  added: 2019-02-22T19:00:00Z
+  tweets: "171,248,476"
+  dates: 2018-01-22 - 2019-01-03
+  tags:
+    - elections
+    - Congress
+    - politics
+  description: >
+    This dataset contains the tweet ids of 171,248,476 tweets related to 
+    the 2018 U.S. Congressional Election, collected between January 22, 
+    2018 and January 3, 2019. The collection includes tweets by Senate 
+    candidates, tweets by House candidates, election-related hashags, 
+    partisan Republican hashtags, and partisan Democratic hashtags.
+
 - title: Twitter Internet Research Agency Dataset
   creator: Twitter
   url: https://archive.org/details/twitter-ira
@@ -872,24 +893,23 @@
     the time period. We intend to update this dataset periodically.
 
 - title: 115th U.S. Congress Tweet Ids
-  tweets: "1,874,630"
+  tweets: "2,041,399"
   creator:
     - Justin Littman
     - Yonah Bromberg Graber
   url: http://dx.doi.org/10.7910/DVN/UIVHQR
-  published: 2018-07-20
-  added: 2017-09-07T12:00:00-05:00
+  published: 2019-02-05
+  added: 2019-02-22T00:00:00Z
   tags:
     - politics
     - government
     - Congress
-  dates: 2017-01-27 - 2018-07-20
+  dates: 2017-01-27 - 2019-01-02
   description: >
-    This dataset contains the tweet ids of 1,874,630 tweets from the Twitter
+    This dataset contains the tweet ids of 2,041,399 tweets from the Twitter
     accounts of members of the 115th U.S. Congress. They were collected
-    between January 27, 2017 and July 20, 2018 from the Twitter API
+    between January 27, 2017 and January 2, 2019 from the Twitter API
     using Social Feed Manager. Some tweets may come before this time period.
-    This collection will be updated periodically.
 
 - title: 2017 Eclipse
   creator: Ed Summers
