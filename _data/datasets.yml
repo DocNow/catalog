@@ -1669,3 +1669,18 @@
     between August 17 - 26, which was the final demonstration in Barcelona for
     the victims.
 
+- title: "Replies to Ocasio-Cortez Tweets"
+  creator: Nick Doiron
+  url: https://github.com/mapmeld/aoc_reply_dataset/blob/master/all_tweets/ids.csv
+  published: 2019-05-08
+  added: 2019-05-08T10:29:00Z
+  tweets: "109,201"
+  dates: 2017-05-03 - 2019-04-28
+  tags:
+    - environment
+    - politics
+  description: >
+    Any replies to Tweets and Retweets by Rep. Alexandria Ocasio-Cortez's Tweets and Retweets in March 2019.
+    Includes Green New Deal developments, MSNBC town hall with Chris Hayes, links to articles.
+    Some retweets surfaced older Tweets and their replies from before March 2019.
+  
