@@ -1669,3 +1669,18 @@
     between August 17 - 26, which was the final demonstration in Barcelona for
     the victims.
 
+- title: "Insight4news Hashtagged Tweet Dataset"
+  creator: Gevorg Poghosyan 
+  url: https://doi.org/10.6084/m9.figshare.7932422
+  published: 2019-04-01
+  added: 2019-04-01T17:00:00Z
+  tweets: "198,725,860"
+  dates: "2015-07-15 - 2017-05-24"
+  tags:
+    - news
+    - Ireland
+  description: >
+    These tweets have been collected with the Hashtagger platform, 
+    which considered these tweets relevant to the monitored stream of 
+    news from Irish sources (The Irish Times, Irish Examiner, etc.).
+    All 198'725'860 tweets contain at least one hashtag.
