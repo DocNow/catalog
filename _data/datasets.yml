@@ -1,3 +1,16 @@
+- title: BestofThrowBackBlackTwitter
+  creator:
+    - Bergis Jules
+  url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D15D5N
+  published: 2019-07-14
+  added: 2019-07-14T12:31:00Z
+  tweets: "402,650"
+  dates: 2018-05-02 - 2019-07-14
+  tags:
+    - Black Twitter
+  description: >
+    This dataset consists of 402,650 tweet ids depicting commentary and memes from Black Twitter.
+
 - title: Obama Hope Tweets
   creator:
     - Aaron Beveridge
