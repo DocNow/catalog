@@ -9,7 +9,7 @@
   tags:
     - Black Twitter
   description: >
-    This dataset consists of 402,650 tweet ids depicting commentary and memes from Black Twitter.
+    This dataset consists of 402,650 tweet ids depicting commentary and memes from Black Twitter. Tweets containing the hashtag #BestofThrowbackBlackTwitter were collected from July 12th, 2019 to July 14th, 2019 using the DocNow demo Twitter data collection tool. 
 
 - title: Obama Hope Tweets
   creator:
