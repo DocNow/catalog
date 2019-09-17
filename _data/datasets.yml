@@ -1,8 +1,8 @@
-title: 2015 Greek Referendum (#greferendum) tweets
+- title: 2015 Greek Referendum (#greferendum) tweets
   creator: Sofia Papastamkou
   url: https://zenodo.org/record/887993
   published: 2017-09-09
-  added: 2019-09-17
+  added: 2019-09-17T16:08:01Z
   tweets: "204,713"
   dates: 2015-07-06 - 2015-07-16
   tags:
@@ -11,9 +11,12 @@ title: 2015 Greek Referendum (#greferendum) tweets
     - Greferendum
     - Grexit
   description: > 
-    This file provides the tweet identifiers of a dataset created after the July 5, 2015 Greek referendum. A sample of 204 713 tweets
-    with the hashtag #greferendum were collected with NodeXL software from July 6 to July 16 2015. Thus, the dataset provides tweets
-    produced in the aftermath of the Greek vote during the short period that led to a third financial assistance programme. 
+    This file provides the tweet identifiers of a dataset created after the July
+    5, 2015 Greek referendum. A sample of 204,713 tweets with the hashtag
+    #greferendum were collected with NodeXL software from July 6 to July 16
+    2015. Thus, the dataset provides tweets produced in the aftermath of the
+    Greek vote during the short period that led to a third financial assistance
+    programme. 
 
 - title: German Twitter Snapshot
   creator: Tatjana Scheffler
