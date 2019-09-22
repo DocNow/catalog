@@ -1,3 +1,24 @@
+- title: demdebate
+  creator:
+    - Ed Summers
+    - Matthew Salzano
+  url: https://archive.org/details/demdebate-20190912
+  published: 2017-09-22
+  added: 2019-09-22T15:12:01Z
+  tweets: "1,280,956"
+  dates: 2019-09-12 - 2019-09-14
+  tags:
+    - politics
+  description: >
+    These tweets were collected for the third Democratic Party Debate held on 
+    September 12, 2019 at Texas Southern University in Houston, Texas. The official
+    hashtag #demdebate was collected from the Twitter filter stream API using twarc 
+    from 2019-09-12 15:44 to 2019-09-14 10:09 UTC. The API reported that 195,725 tweets
+    were not delivered due to rate limiting during high volume periods. The total
+    number of tweets collected was 1,280,956 tweets. This dataset was created as 
+    part of a collaboration between the Maryland Institute for Technology in the 
+    Humanities and the Department of Communication at the University of Maryland.
+
 - title: 2015 Greek Referendum (#greferendum) tweets
   creator: Sofia Papastamkou
   url: https://zenodo.org/record/887993
