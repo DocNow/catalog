@@ -1,4 +1,4 @@
-- title: RickyRenuncia tweets July 10 to 25, 2019
+- title: RickyRenuncia
   creator:
     - Joel A. Blanco-Rivera
   url: https://archive.org/details/tweetsRickyRenuncia-final
@@ -11,17 +11,41 @@
     - Puerto Rico
     - protests
   description: >
-    On July 24, 2019, after two weeks of mass protests in Puerto Rico, Governor Ricardo Roselló 
-    announced he was resigning from office effective August 2nd. This collection contains 1,113,759 IDs 
-    for tweets related to the protests, with the hashtags 'RickyRenuncia' and 'RickyVeteYa'. 
-    Along with this collection, there's the "#RickyRenuncia web collection", part of the 
-    Internet Archive Global Events (https://archive-it.org/collections/12491). / El 24 de julio 
-    de 2019, luego dos semanas de protestas masivas en Puerto Rico, el gobernador Ricardo Roselló 
-    anunció que renunciaba a su puesto efectivo el 2 de agosto. Esta colección contiene 1,113,759 
-    identificadores de tuits relacionados a las protestas, con las etiquetas 'RickyRenuncia' y 
-    'RickyVeteYa'. Además, puede acceder a la "Colección Web #RickyRenuncia", la cual es parte del 
-    Internet Archive Global Events (https://archive-it.org/collections/12491).
+    On July 24, 2019, after two weeks of mass protests in Puerto Rico, Governor
+    Ricardo Roselló announced he was resigning from office effective August 2nd.
+    This collection contains 1,113,759 IDs for tweets related to the protests,
+    with the hashtags 'RickyRenuncia' and 'RickyVeteYa'.  Along with this
+    collection, there's the "#RickyRenuncia web collection", part of the
+    Internet Archive Global Events (https://archive-it.org/collections/12491). /
+    El 24 de julio de 2019, luego dos semanas de protestas masivas en Puerto
+    Rico, el gobernador Ricardo Roselló anunció que renunciaba a su puesto
+    efectivo el 2 de agosto. Esta colección contiene 1,113,759 identificadores
+    de tuits relacionados a las protestas, con las etiquetas 'RickyRenuncia' y
+    'RickyVeteYa'. Además, puede acceder a la "Colección Web #RickyRenuncia", la
+    cual es parte del Internet Archive Global Events
+    (https://archive-it.org/collections/12491).
 
+- title: Hurricane Dorian Tweets
+  creator:
+    - Ben Rachunok
+  url: https://doi.org/10.4231/CPGM-E419
+  published: 2019-11-11
+  added: 2019-11-11T10:00:01Z
+  tweets: "9,186,118"
+  dates: 2019-08-30 - 2019-09-16
+  tags:
+    - disasters
+    - hurricanes
+    - dorian
+    - weather
+  description: >
+    These tweets were collected during Hurricane Dorian as it made landfall on the
+    east coast of the US in late August -early September 2019. Tweets were collected
+    using Social Feed Manager based on the keywords #dorian, #hurricane, #hurricanedorian,
+    and the search term 'hurricane dorian'. This dataset is stored in the Purdue University
+    Research Repository via the doi listed. Summaries of the data are available at 
+    the associated github repo: https://github.com/brachunok/dorian-tweets
+    
 - title: demdebate
   creator:
     - Ed Summers
