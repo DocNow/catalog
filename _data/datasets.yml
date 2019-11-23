@@ -1,3 +1,20 @@
+- title: "#elxn43 tweets (43rd Canadian Federal Election)"
+  creator:
+    - Nick Ruest
+  url: https://doi.org/10.5683/SP2/QAMPPI
+  published: 2019-11-23
+  added: 2019-11-23T14:05:00Z
+  tweets: "2,944,525"
+  dates: 2019-09-01 - 2019-11-23
+  tags:
+    - politics
+    - Canada
+    - elections
+  description: >
+    2,944,525 tweet ids for #elxn43 tweets. Tweets were collected via the
+    Standard Search API on a cron job every five days from September 9,
+    2019 - November 23, 2019.
+
 - title: RickyRenuncia
   creator:
     - Joel A. Blanco-Rivera
