@@ -1,3 +1,33 @@
+- title: "EveTAR: a large-scale multi-task test collection over Arabic tweets"
+  creator:
+    - bigIR research group
+  url: http://qufaculty.qu.edu.qa/telsayed/evetar/
+  published: 2017-12-21
+  added: 2019-12-04T06:04:14Z
+  tweets: "355,821,033"
+  dates: 2014-12-30 - 2015-02-02
+  tags:
+    - Arabic 
+    - Twitter 
+    - Microblogs 
+    - Event detection 
+    - Ad-hoc search 
+    - Real-time summarization 
+    - Timeline generation 
+    - Dialects 
+  description: >
+    EveTAR test collection, the first Arabic freely-available Test Collection 
+    for multiple information retrieval tasks in Twitter. It supports 
+    Event Detection (ED), Ad-hoc search (AS), Timeline generation (TTG), Real-time 
+    summarization (RTS).  EveTAR includes a crawl of 355M Arabic tweets and covers 
+    50 significant events for which about 62K tweets were judged with substantial 
+    average inter-annotator agreement (Kappa value of 0.71). Besides the full 
+    collection (EveTAR-F), we provide four different subsets of EveTAR: 
+    (1) EveTAR-S: Random sample of 15M tweets
+    (2) EveTAR-S.m: MSA tweets of the sample 
+    (3) EveTAR-S.d: Dialectal tweets of the sample 
+    (4) EveTAR-Q: Judged tweets only
+   
 - title: "#elxn43 tweets (43rd Canadian Federal Election)"
   creator:
     - Nick Ruest
