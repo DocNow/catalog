@@ -1,3 +1,36 @@
+- title: "1619 Project"
+  creator:
+    - Ed Summers
+    - Bergis Jules
+  url: https://archive.org/details/1619project-tweets
+  published: 2019-11-23
+  added: 2019-12-20T00:52:27Z
+  tweets: "58,506"
+  dates: 2011-02-11 - 2020-01-08
+  tags:
+    - History
+    - African Americans
+  description: >
+    The 1619 Project was developed by The New York Times Magazine in 2019 with
+    the goal of re-examining the legacy of slavery in the United States and timed
+    for the 400th anniversary of the arrival in America of the first enslaved
+    people from West Africa. It is an interactive project by Nikole Hannah-Jones,
+    a reporter for The New York Times, with contributions by the paper's writers,
+    including essays, poems, short fiction, and a photo essay.[1] Originally
+    conceived of as a special issue for August 20, 2019, it was soon turned into
+    a full-fledged project, including a special broadsheet section in the
+    newspaper, live events, and a multi-episode podcast series. (from Wikipedia)
+
+    This bag contains metadata for 58,506 tweets related to the hashtag #1619project.
+    They were collected on January 8, 2020 using twint and the keyword
+    1619project.
+
+    twint -s '1619project' --csv --output twint.csv
+
+    twint scrapes Twitter's search results and writes the results as CSV. The
+    tweet identifiers were extracted from this CSV and included as the ids.txt
+    file.
+
 - title: "#elxn43 tweets (43rd Canadian Federal Election)"
   creator:
     - Nick Ruest
