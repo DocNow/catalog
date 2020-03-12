@@ -1,3 +1,27 @@
+# Note: this is commented out until the URL the data format can be determined.
+# 
+# https://github.com/DocNow/catalog/pull/72#issuecomment-598198955
+#
+#- title: "COVID Project"
+#  creator:
+#    - Drew MacFarlane
+#  url: https://archive.org/details/covidproject-tweets
+#  published: 2020-03-12
+#  added: 2020-03-12
+#  tweets: 
+#  dates: 2020-01-01 - 2020-03-12
+#  tags:
+#    - Covid-19
+#    - Coronavirus
+#  description: >
+#    The Covid Project was created to find data on the social media presence of COVID-19
+#
+#    twint -s 'covidproject' --csv --output twint.csv
+#
+#    twint scrapes Twitter's search results and writes the results as CSV. The
+#    tweet identifiers were extracted from this CSV and included as the ids.txt
+#    file.
+
 - title: "EveTAR: a large-scale multi-task test collection over Arabic tweets"
   creator:
     - bigIR research group
