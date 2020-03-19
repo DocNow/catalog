@@ -22,6 +22,31 @@
 #    tweet identifiers were extracted from this CSV and included as the ids.txt
 #    file.
 
+- title: "#COVID-19"
+  creator:
+    - Emily Chen
+    - Kristina Lerman
+    - Emilio Ferrara
+  url: https://github.com/echen102/COVID-19-TweetIDs
+  published: 2020-03-16
+  added: 2020-03-19T00:15:00Z
+  tweets: "8,919,411"
+  dates: 2020-01-22 - 2020-03-12
+  tags:
+    - Health
+    - COVID-19
+  description: >
+    The dataset contains an ongoing collection of tweets IDs associated with the
+    novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28,
+    2020. Twitter’s search API was used to gather historical Tweets from the
+    preceding 7 days, leading to the first Tweets in our dataset dating back to
+    January 22, 2020. Twitter’s streaming API was leveraged to follow specified
+    accounts and also collect in real-time tweets that mention specific
+    keywords, which include: Coronavirus, Koronavirus, Corona, CDC,
+    Wuhancoronavirus, Wuhanlockdown, Ncov, Wuhan, N95, Kungflu, Epidemic,
+    outbreak, Sinophobia, China, covid-19, corona virus, covid, covid19,
+    sars-cov-2, COVIDー19, COVD, pandemic.
+
 - title: "EveTAR: a large-scale multi-task test collection over Arabic tweets"
   creator:
     - bigIR research group
