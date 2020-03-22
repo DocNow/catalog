@@ -1,5 +1,5 @@
-catalog is a minimal registry of tweet identifier datasets. If you'd like to add
-a dataset please follow these instructions:
+**catalog** is a minimal registry of tweet identifier datasets. If you'd like to
+add a dataset please follow these instructions:
 
 1. Open the [datasets.yml] file here on GitHub.
 2. Click on the ![edit button] to edit it.
