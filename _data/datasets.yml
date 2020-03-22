@@ -21,7 +21,26 @@
 #    twint scrapes Twitter's search results and writes the results as CSV. The
 #    tweet identifiers were extracted from this CSV and included as the ids.txt
 #    file.
-
+- title: Coronavirus Tweets
+  creator: 
+    - Dan Kerchner
+    - Laura Wrubel
+  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LW0BTB
+  published: 2020-03-21
+  added: 2020-03-22
+  tweets: "51,798,932"
+  dates: 2020-03-03 - 2020-03-19
+  tags:
+     - COVID-19
+     - Coronavirus
+     - Epidemiology
+  description: >
+    This dataset contains the tweet ids of 51,798,932 tweets related to Coronavirus or 
+    COVID-19. They were collected between March 3, 2020 and March 19, 2020 (midnight UTC-0) 
+    from the Twitter API using Social Feed Manager. These tweets were collected using the 
+    POST statuses/filter method of the Twitter Stream API, using the track parameter with 
+    the following keywords: #Coronavirus, #Coronaoutbreak, #COVID19.  
+  
 - title: "#COVID-19"
   creator:
     - Emily Chen
