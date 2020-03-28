@@ -1,3 +1,18 @@
+- title: CORONA VIRUS (COVID-19) TWEETS DATASET
+  creator: 
+    - Rabindra Lamsal
+  url: https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset
+  published: 2020-03-13
+  added: March 28, 2020 2:35:43 PM GMT+05:45
+  tweets: "10M plus" (new collection is added everyday)
+  dates: 2020-03-20 - Ongoing
+  tags:
+     - COVID-19
+     - Corona Virus
+     - Corona Virus Sentiment
+  description: >
+    This dataset includes CSV files which contain more than 10M tweet IDs. The tweets have been collected by the LSTM model deployed at sentiment.live. The model monitors the real-time Twitter feed for corona virus-related tweets (filters - language:en, word: corona). Schema of the CSV files: First column: tweet ID, Second column: Sentiment score for the particular tweet. Note: This dataset should be solely used for non-commercial research purpose.
+
 - title: Coronavirus Tweets
   creator: 
     - Dan Kerchner
