@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-
-# halt script on error
-set -e
-
-bundle exec jekyll build -d _site/catalog
-bundle exec htmlproofer --only-4xx ./_site
