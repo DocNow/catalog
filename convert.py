@@ -2,6 +2,7 @@
 
 import re
 import yaml
+import slugify
 from datetime import date, datetime
 
 from dateutil.parser import parse
@@ -37,7 +38,9 @@ for d in datasets:
 
     meta = yaml.dump(d, default_flow_style=False)
 
-    path = "src/datasets/{0:05n}.md".format(id)
+    slug = slugify.slugify(d['title'])
+    dt = d['added'].strftime('%Y%m%d')
+    path = "src/datasets/{}-{}.md".format(dt, slug)
     fh = open(path, 'w')
     fh.write('---\n')
     fh.write(meta)
