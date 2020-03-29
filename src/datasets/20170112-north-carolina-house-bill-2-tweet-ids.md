@@ -7,6 +7,7 @@ dates:
 - end: 2017-01-12
   start: 2016-03-14
 published: 2017-01-12
+slug: 20170112-north-carolina-house-bill-2-tweet-ids
 tags:
 - LGBT
 - HB2

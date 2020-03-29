@@ -11,6 +11,7 @@ async function makeDatasets(createPage, graphql, pathPrefix) {
       allMarkdownRemark {
         nodes {
           frontmatter {
+            slug
             title
             creator
             added
@@ -24,7 +25,6 @@ async function makeDatasets(createPage, graphql, pathPrefix) {
             url
           }
           html
-          fileAbsolutePath
         }
       }
     }
@@ -32,14 +32,12 @@ async function makeDatasets(createPage, graphql, pathPrefix) {
 
   const datasets = []
   for (let dataset of results.data.allMarkdownRemark.nodes) {
-    const id = Number.parseInt(path.basename(dataset.fileAbsolutePath))
     const context = {
-      id: id,
-      description: dataset.html,
-      ...dataset.frontmatter
+      ...dataset.frontmatter,
+      description: dataset.html
     }
     createPage({
-      path: `/datasets/${id}/`,
+      path: `/datasets/${dataset.frontmatter.slug}/`,
       component: require.resolve(`./src/templates/dataset.js`),
       context: context
     })

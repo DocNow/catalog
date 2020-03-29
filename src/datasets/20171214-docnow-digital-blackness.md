@@ -6,6 +6,7 @@ dates:
 - end: 2017-12-14
   start: 2017-12-05
 published: 2017-12-14
+slug: 20171214-docnow-digital-blackness
 tags:
 - African Americans
 - Archives

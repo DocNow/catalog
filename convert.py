@@ -3,8 +3,8 @@
 import re
 import yaml
 import slugify
-from datetime import date, datetime
 
+from datetime import date, datetime
 from dateutil.parser import parse
 
 datasets = yaml.load(open('static/data/datasets.yml'), Loader=yaml.Loader)
@@ -20,10 +20,7 @@ def unpack_date(s):
     dates = list(map(lambda d: parse(d).date(), dates))
     return {"start": dates[0], "end": dates[1]}
 
-id = 0
 for d in datasets:
-    id += 1
-    print(id, d['title'])
 
     desc = d['description']
     del d['description']
@@ -36,13 +33,19 @@ for d in datasets:
     else:
         d['dates'] = [unpack_date(d['dates'])]
 
+
+    title = slugify.slugify(d['title'])
+    dt = d['added'].strftime('%Y%m%d')
+    slug = "{}-{}".format(dt, title)
+    path = "src/datasets/{}.md".format(slug)
+
+    d['slug'] = slug
     meta = yaml.dump(d, default_flow_style=False)
 
-    slug = slugify.slugify(d['title'])
-    dt = d['added'].strftime('%Y%m%d')
-    path = "src/datasets/{}-{}.md".format(dt, slug)
     fh = open(path, 'w')
     fh.write('---\n')
     fh.write(meta)
     fh.write('---\n\n')
     fh.write(desc)
+
+    print(slug)

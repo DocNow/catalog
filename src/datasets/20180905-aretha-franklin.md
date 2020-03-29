@@ -7,6 +7,7 @@ dates:
 - end: 2018-09-03
   start: 2018-08-08
 published: 2018-09-05
+slug: 20180905-aretha-franklin
 tags:
 - Music
 - Civil Rights Movement

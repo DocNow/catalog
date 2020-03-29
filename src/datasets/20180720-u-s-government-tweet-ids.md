@@ -8,6 +8,7 @@ dates:
 - end: 2018-07-20
   start: 2007-04-22
 published: 2018-07-20
+slug: 20180720-u-s-government-tweet-ids
 tags:
 - government
 title: U.S. Government Tweet Ids

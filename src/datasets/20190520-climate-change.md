@@ -7,6 +7,7 @@ dates:
 - end: 2019-05-17
   start: 2017-09-21
 published: 2019-05-20
+slug: 20190520-climate-change
 tags:
 - climate change
 - environment

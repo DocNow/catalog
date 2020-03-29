@@ -6,6 +6,7 @@ dates:
 - end: 2018-06-04
   start: 2018-04-13
 published: 2018-06-07
+slug: 20180608-ireland-8th-amendment-referendum-vote
 tags:
 - Ireland
 - abortion

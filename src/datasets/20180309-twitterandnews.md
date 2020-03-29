@@ -6,6 +6,7 @@ dates:
 - end: 2018-03-08
   start: 2018-03-08
 published: 2018-03-09
+slug: 20180309-twitterandnews
 tags:
 - Media
 - Race - African Americans - Asian Americans - Feminism

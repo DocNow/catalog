@@ -7,6 +7,7 @@ dates:
 - end: 2020-03-19
   start: 2020-03-03
 published: 2020-03-21
+slug: 20200322-coronavirus-tweets
 tags:
 - COVID-19
 - Coronavirus

@@ -8,6 +8,7 @@ dates:
 - end: 2020-03-21
   start: 2017-06-23
 published: 2017-12-10
+slug: 20171211-tweets-to-donald-trump-realdonaldtrump
 tags:
 - American Politics
 - politics

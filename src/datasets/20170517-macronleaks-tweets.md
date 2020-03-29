@@ -6,6 +6,7 @@ dates:
 - end: 2017-05-10
   start: 2017-05-02
 published: 2017-05-17
+slug: 20170517-macronleaks-tweets
 tags:
 - politics
 - France

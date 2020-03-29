@@ -8,6 +8,7 @@ dates:
 - end: 2017-10-05
   start: 2017-09-19
 published: 2017-10-17
+slug: 20171017-catalan-referendum
 tags:
 - Spain
 - Catalonia

@@ -6,6 +6,7 @@ dates:
 - end: 2018-02-27
   start: 2018-02-17
 published: 2018-02-27
+slug: 20180227-archivesblackhistory
 tags:
 - History
 - African Americans

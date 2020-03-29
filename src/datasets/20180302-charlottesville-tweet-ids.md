@@ -6,6 +6,7 @@ dates:
 - end: 2017-08-21
   start: 2017-08-08
 published: 2018-03-02
+slug: 20180302-charlottesville-tweet-ids
 tags:
 - Charlottesville
 - protests

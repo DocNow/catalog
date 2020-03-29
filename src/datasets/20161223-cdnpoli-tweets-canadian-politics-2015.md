@@ -6,6 +6,7 @@ dates:
 - end: 2015-10-28
   start: 2015-08-06
 published: 2016-01-18
+slug: 20161223-cdnpoli-tweets-canadian-politics-2015
 tags:
 - politics
 title: '#cdnpoli tweets (Canadian Politics, 2015)'

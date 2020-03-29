@@ -6,6 +6,7 @@ dates:
 - end: 2019-07-14
   start: 2018-05-02
 published: 2019-07-14
+slug: 20190714-bestofthrowbackblacktwitter
 tags:
 - Black Twitter
 title: BestofThrowBackBlackTwitter

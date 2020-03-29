@@ -6,6 +6,7 @@ dates:
 - end: 2014-12-06
   start: 2014-11-28
 published: 2017-01-06
+slug: 20170107-bill-10-twitter-ids
 tags:
 - politics
 title: Bill 10 Twitter IDs

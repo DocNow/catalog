@@ -7,6 +7,7 @@ dates:
 - end: 2016-12-31
   start: 2008-01-01
 published: 2019-06-20
+slug: 20190624-obama-hope-tweets
 tags:
 - Shepard Fairey
 - Obama Hope

@@ -6,6 +6,7 @@ dates:
 - end: 2017-05-03
   start: 2017-04-19
 published: 2017-05-03
+slug: 20170503-climatemarch-tweets-april-19-may-3-2017
 tags:
 - politics
 title: '#climatemarch tweets April 19-May 3, 2017'

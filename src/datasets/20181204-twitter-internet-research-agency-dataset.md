@@ -6,6 +6,7 @@ dates:
 - end: 2018-06-21
   start: 2009-05-09
 published: 2018-10-17
+slug: 20181204-twitter-internet-research-agency-dataset
 tags:
 - Politics
 - Propaganda

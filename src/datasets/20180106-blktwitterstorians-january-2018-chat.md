@@ -6,6 +6,7 @@ dates:
 - end: 2018-01-06
   start: 2017-12-27
 published: 2018-01-06
+slug: 20180106-blktwitterstorians-january-2018-chat
 tags:
 - African Americans
 - Literatire

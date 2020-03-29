@@ -6,6 +6,7 @@ dates:
 - end: 2019-04-28
   start: 2017-05-03
 published: 2019-05-08
+slug: 20190508-replies-to-ocasio-cortez-tweets
 tags:
 - environment
 - politics

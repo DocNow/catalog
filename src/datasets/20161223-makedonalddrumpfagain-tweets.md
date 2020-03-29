@@ -6,6 +6,7 @@ dates:
 - end: 2016-04-08
   start: 2016-02-29
 published: 2016-03-03
+slug: 20161223-makedonalddrumpfagain-tweets
 tags:
 - politics
 title: '#MakeDonaldDrumpfAgain tweets'

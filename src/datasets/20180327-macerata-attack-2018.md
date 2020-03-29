@@ -6,6 +6,7 @@ dates:
 - end: 2018-01-24
   start: 2017-02-19
 published: 2018-03-27
+slug: 20180327-macerata-attack-2018
 tags:
 - Italy
 - Macerata

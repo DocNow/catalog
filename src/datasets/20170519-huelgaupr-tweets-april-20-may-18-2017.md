@@ -6,6 +6,7 @@ dates:
 - end: 2017-05-18
   start: 2017-04-11
 published: 2017-05-19
+slug: 20170519-huelgaupr-tweets-april-20-may-18-2017
 tags:
 - activism
 - higher education

@@ -6,6 +6,7 @@ dates:
 - end: 2017-09-19
   start: 2017-09-18
 published: 2017-10-27
+slug: 20171027-blacktheory
 tags:
 - Black History
 - Race

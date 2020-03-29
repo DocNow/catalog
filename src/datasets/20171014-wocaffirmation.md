@@ -6,6 +6,7 @@ dates:
 - end: 2017-10-14
   start: 2017-10-13
 published: 2017-10-14
+slug: 20171014-wocaffirmation
 tags:
 - Black Women
 - Race

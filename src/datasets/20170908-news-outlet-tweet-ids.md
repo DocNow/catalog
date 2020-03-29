@@ -9,6 +9,7 @@ dates:
 - end: 2018-07-20
   start: 2016-08-04
 published: 2018-07-20
+slug: 20170908-news-outlet-tweet-ids
 tags:
 - media
 - news

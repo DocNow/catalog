@@ -6,6 +6,7 @@ dates:
 - end: 2017-08-12
   start: 2017-08-12
 published: 2017-08-12
+slug: 20170812-charlottesville
 tags:
 - racism
 - white nationalism

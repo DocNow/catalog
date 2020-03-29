@@ -6,6 +6,7 @@ dates:
 - end: 2016-06-06
   start: 2016-04-03
 published: 2016-04-13
+slug: 20161223-thechalkening-tweets
 tags:
 - politics
 title: '#thechalkening tweets'

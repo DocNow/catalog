@@ -6,6 +6,7 @@ dates:
 - end: 2015-11-05
   start: 2015-07-25
 published: 2015-11-19
+slug: 20161224-elxn42-tweets-42nd-canadian-federal-election
 tags:
 - politics
 title: '#elxn42 tweets (42nd Canadian Federal Election)'

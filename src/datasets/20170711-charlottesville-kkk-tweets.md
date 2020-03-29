@@ -6,6 +6,7 @@ dates:
 - end: 2017-07-11
   start: 2017-06-28
 published: 2017-07-11
+slug: 20170711-charlottesville-kkk-tweets
 tags:
 - Charlottesville
 - race

@@ -6,6 +6,7 @@ dates:
 - end: 2016-01-04
   start: 2015-08-27
 published: 2016-12-30
+slug: 20161230-trump-early-primary-tweets
 tags:
 - politics
 - trump

@@ -6,6 +6,7 @@ dates:
 - end: 2017-11-26
   start: 2017-11-03
 published: 2017-11-26
+slug: 20171126-paradisepapers
 tags:
 - Paradise Papers
 - politics

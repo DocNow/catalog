@@ -6,6 +6,7 @@ dates:
 - end: 2019-11-23
   start: 2019-09-01
 published: 2019-11-23
+slug: 20191123-elxn43-tweets-43rd-canadian-federal-election
 tags:
 - politics
 - Canada

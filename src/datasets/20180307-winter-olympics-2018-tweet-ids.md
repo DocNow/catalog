@@ -6,6 +6,7 @@ dates:
 - end: 2018-02-27
   start: 2018-01-31
 published: 2018-03-07
+slug: 20180307-winter-olympics-2018-tweet-ids
 tags:
 - Olympics
 - South Korea

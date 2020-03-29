@@ -7,6 +7,7 @@ dates:
 - end: 2019-09-14
   start: 2019-09-12
 published: 2017-09-22
+slug: 20190922-demdebate
 tags:
 - politics
 title: demdebate
