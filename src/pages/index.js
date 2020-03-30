@@ -10,9 +10,7 @@ class IndexPage extends React.Component {
     return (
       <Layout>
         <SEO title="Home" />
-        <div>
-          <Datasets />
-        </div>
+        <Datasets />
       </Layout>
     )
   }

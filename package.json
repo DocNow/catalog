@@ -5,12 +5,15 @@
   "version": "0.0.1",
   "author": "Documenting the Now <info@docnow.io>",
   "dependencies": {
+    "@material-ui/core": "^4.9.8",
+    "@material-ui/styles": "^4.9.6",
     "gatsby": "^2.19.45",
+    "gatsby-plugin-material-ui": "^2.1.6",
     "gatsby-plugin-react-helmet": "^3.1.24",
     "gatsby-source-filesystem": "^2.1.56",
     "gatsby-transformer-json": "^2.3.1",
     "gatsby-transformer-remark": "^2.7.1",
-    "gatsby-transformer-yaml": "^2.3.1",
+    "material-table": "^1.57.2",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -22,7 +25,8 @@
     "prettier": "^1.19.1"
   },
   "keywords": [
-    "twitter"
+    "twitter",
+    "data"
   ],
   "license": "MIT",
   "scripts": {
