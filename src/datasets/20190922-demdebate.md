@@ -1,6 +1,6 @@
 ---
 added: 2019-09-22 15:12:01+00:00
-creator:
+creators:
 - Ed Summers
 - Matthew Salzano
 dates:
@@ -8,10 +8,10 @@ dates:
   start: 2019-09-12
 published: 2017-09-22
 slug: 20190922-demdebate
-tags:
+subjects:
 - politics
 title: demdebate
-tweets: 1,280,956
+tweets: 1280956
 url: https://archive.org/details/demdebate-20190912
 ---
 

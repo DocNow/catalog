@@ -1,6 +1,6 @@
 ---
 added: 2016-12-24 10:14:07-05:00
-creator:
+creators:
 - Ed Summers
 dates:
 - end: 2014-08-27
@@ -9,11 +9,11 @@ dates:
   start: 2014-11-11
 published: 2015-11-18
 slug: 20161224-ferguson-tweets
-tags:
+subjects:
 - activism
 - blacklivesmatter
 title: Ferguson Tweets
-tweets: 28,560,078
+tweets: 28560078
 url: https://archive.org/details/ferguson-tweet-ids
 ---
 

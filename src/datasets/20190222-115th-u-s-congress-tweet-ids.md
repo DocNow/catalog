@@ -1,6 +1,6 @@
 ---
 added: 2019-02-22 00:00:00+00:00
-creator:
+creators:
 - Justin Littman
 - Yonah Bromberg Graber
 dates:
@@ -8,12 +8,12 @@ dates:
   start: 2017-01-27
 published: 2019-02-05
 slug: 20190222-115th-u-s-congress-tweet-ids
-tags:
+subjects:
 - politics
 - government
 - Congress
 title: 115th U.S. Congress Tweet Ids
-tweets: 2,041,399
+tweets: 2041399
 url: http://dx.doi.org/10.7910/DVN/UIVHQR
 ---
 

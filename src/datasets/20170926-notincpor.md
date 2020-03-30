@@ -1,19 +1,19 @@
 ---
 added: 2017-09-26 12:30:45+00:00
-creator:
+creators:
 - Society of Catalan Archivists
 dates:
 - end: 2017-08-26
   start: 2017-08-17
 published: 2017-09-26
 slug: 20170926-notincpor
-tags:
+subjects:
 - barcelona
 - cambrils
 - attack
 - terrorism
 title: '#NoTincPor'
-tweets: 52,808
+tweets: 52808
 url: http://www.docnow.io/catalog/datasets/F48D674F-C859-4E4F-AC83-510181DA3545.csv.gz
 ---
 

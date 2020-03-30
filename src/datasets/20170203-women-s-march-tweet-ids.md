@@ -1,6 +1,6 @@
 ---
 added: 2017-02-03 20:25:38+00:00
-creator:
+creators:
 - Justin Littman
 - Soomin Park
 dates:
@@ -8,12 +8,12 @@ dates:
   start: 2016-12-19
 published: 2017-02-03
 slug: 20170203-women-s-march-tweet-ids
-tags:
+subjects:
 - WomensMarch
 - activism
 - politics
 title: Women's March Tweet Ids
-tweets: 7,275,228
+tweets: 7275228
 url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5ZVMOR
 ---
 

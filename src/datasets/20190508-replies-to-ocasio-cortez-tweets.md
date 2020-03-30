@@ -1,17 +1,17 @@
 ---
 added: 2019-05-08 10:29:00+00:00
-creator:
+creators:
 - Nick Doiron
 dates:
 - end: 2019-04-28
   start: 2017-05-03
 published: 2019-05-08
 slug: 20190508-replies-to-ocasio-cortez-tweets
-tags:
+subjects:
 - environment
 - politics
 title: Replies to Ocasio-Cortez Tweets
-tweets: 109,201
+tweets: 109201
 url: https://github.com/mapmeld/aoc_reply_dataset/blob/master/all_tweets/ids.csv
 ---
 

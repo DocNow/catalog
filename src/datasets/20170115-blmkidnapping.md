@@ -1,18 +1,18 @@
 ---
 added: 2017-01-15 13:55:30+00:00
-creator:
+creators:
 - Bergis Jules
 dates:
 - end: 2017-01-05
   start: 2017-01-05
 published: 2017-01-06
 slug: 20170115-blmkidnapping
-tags:
+subjects:
 - blacklivesmatter
 - politics
 - race
 title: '#BLMKidnapping'
-tweets: 136,990
+tweets: 136990
 url: https://dx.doi.org/10.6086/D1CC7X
 ---
 

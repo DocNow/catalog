@@ -1,19 +1,19 @@
 ---
 added: 2018-03-26 15:57:00+00:00
-creator:
+creators:
 - Renato Gabriele
 dates:
 - end: 2017-10-24
   start: 2017-10-01
 published: 2018-03-26
 slug: 20180326-estamosporti
-tags:
+subjects:
 - Catalunya
 - Spain
 - Comprop
 - Oohmm
 title: '#EstamosporTI'
-tweets: 18,831
+tweets: 18831
 url: https://archive.org/details/EstamosporTIOohmm2018032618831Ids
 ---
 

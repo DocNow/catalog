@@ -1,6 +1,6 @@
 ---
 added: 2017-09-08 12:00:00-05:00
-creator:
+creators:
 - Justin Littman
 - Laura Wrubel
 - Daniel Kerchner
@@ -10,13 +10,13 @@ dates:
   start: 2016-08-04
 published: 2018-07-20
 slug: 20170908-news-outlet-tweet-ids
-tags:
+subjects:
 - media
 - news
 - television
 - newspapers
 title: News Outlet Tweet Ids
-tweets: 39,695,156
+tweets: 39695156
 url: http://dx.doi.org/10.7910/DVN/2FIFLH
 ---
 

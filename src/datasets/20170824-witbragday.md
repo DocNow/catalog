@@ -1,17 +1,17 @@
 ---
 added: 2017-08-24 21:16:00+00:00
-creator:
+creators:
 - Laura Wrubel
 dates:
 - end: 2017-08-18
   start: 2017-08-12
 published: 2017-08-18
 slug: 20170824-witbragday
-tags:
+subjects:
 - women
 - technology
 title: WITBragDay
-tweets: 52,457
+tweets: 52457
 url: http://dx.doi.org/10.7910/DVN/IRNS5Z
 ---
 

@@ -1,17 +1,17 @@
 ---
 added: 2017-04-27 16:46:00+00:00
-creator:
+creators:
 - Ed Summers
 dates:
 - end: 2017-03-18
   start: 2015-07-08
 published: 2017-04-27
 slug: 20170427-j-k-rowling-tweets-retweets
-tags:
+subjects:
 - writers
 - fantasy
 title: J. K. Rowling tweets/retweets
-tweets: 10,159,892
+tweets: 10159892
 url: https://archive.org/details/Jk_rowlingTweets
 ---
 

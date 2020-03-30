@@ -1,16 +1,16 @@
 ---
 added: 2019-07-14 12:31:00+00:00
-creator:
+creators:
 - Bergis Jules
 dates:
 - end: 2019-07-14
   start: 2018-05-02
 published: 2019-07-14
 slug: 20190714-bestofthrowbackblacktwitter
-tags:
+subjects:
 - Black Twitter
 title: BestofThrowBackBlackTwitter
-tweets: 402,650
+tweets: 402650
 url: https://dx.doi.org/10.6086/D15D5N
 ---
 

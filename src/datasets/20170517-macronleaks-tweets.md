@@ -1,17 +1,17 @@
 ---
 added: 2017-05-17 13:57:22+00:00
-creator:
+creators:
 - Ed Summers
 dates:
 - end: 2017-05-10
   start: 2017-05-02
 published: 2017-05-17
 slug: 20170517-macronleaks-tweets
-tags:
+subjects:
 - politics
 - France
 title: '#MacronLeaks Tweets'
-tweets: 782,509
+tweets: 782509
 url: https://archive.org/details/MacronleaksTweets
 ---
 

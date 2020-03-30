@@ -1,18 +1,18 @@
 ---
 added: 2018-03-02 12:00:00-05:00
-creator:
+creators:
 - Justin Littman
 dates:
 - end: 2017-08-21
   start: 2017-08-08
 published: 2018-03-02
 slug: 20180302-charlottesville-tweet-ids
-tags:
+subjects:
 - Charlottesville
 - protests
 - social movements
 title: Charlottesville Tweet Ids
-tweets: 7,665,497
+tweets: 7665497
 url: http://dx.doi.org/10.7910/DVN/DVLJTO
 ---
 

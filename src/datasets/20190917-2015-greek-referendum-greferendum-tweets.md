@@ -1,19 +1,19 @@
 ---
 added: 2019-09-17 16:08:01+00:00
-creator:
+creators:
 - Sofia Papastamkou
 dates:
 - end: 2015-07-16
   start: 2015-07-06
 published: 2017-09-09
 slug: 20190917-2015-greek-referendum-greferendum-tweets
-tags:
+subjects:
 - Greece
 - 2015 Greek referendum
 - Greferendum
 - Grexit
 title: 2015 Greek Referendum (#greferendum) tweets
-tweets: 204,713
+tweets: 204713
 url: https://zenodo.org/record/887993
 ---
 

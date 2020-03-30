@@ -1,18 +1,18 @@
 ---
 added: 2018-02-22 12:00:00-05:00
-creator:
+creators:
 - Justin Littman
 dates:
 - end: 2017-04-20
   start: 2017-01-30
 published: 2018-02-22
 slug: 20180222-immigration-and-travel-ban-tweet-ids
-tags:
+subjects:
 - immigration
 - travel ban
 - executive order
 title: Immigration and Travel Ban Tweet Ids
-tweets: 16,875,766
+tweets: 16875766
 url: http://dx.doi.org/10.7910/DVN/5CFLLJ
 ---
 

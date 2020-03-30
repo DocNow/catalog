@@ -1,6 +1,6 @@
 ---
 added: 2019-06-24 12:40:00+00:00
-creator:
+creators:
 - Aaron Beveridge
 - Nicholas M. Van Horn
 dates:
@@ -8,12 +8,12 @@ dates:
   start: 2008-01-01
 published: 2019-06-20
 slug: 20190624-obama-hope-tweets
-tags:
+subjects:
 - Shepard Fairey
 - Obama Hope
 - Twitter
 title: Obama Hope Tweets
-tweets: 14,588
+tweets: 14588
 url: https://archive.org/details/obama_hope_tweet_IDs.txt
 ---
 

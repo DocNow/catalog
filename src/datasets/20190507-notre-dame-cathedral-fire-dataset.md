@@ -1,19 +1,19 @@
 ---
 added: 2019-05-07 00:00:00+00:00
-creator:
+creators:
 - Mark Phillips
 dates:
 - end: 2019-04-29
   start: 2019-04-08
 published: 2019-05-07
 slug: 20190507-notre-dame-cathedral-fire-dataset
-tags:
+subjects:
 - fire
 - Notre Dame Cathedral
 - fire damage
 - cathedral
 title: Notre Dame Cathedral Fire Dataset
-tweets: 8,046,185
+tweets: 8046185
 url: https://digital.library.unt.edu/ark:/67531/metadc1477117/
 ---
 

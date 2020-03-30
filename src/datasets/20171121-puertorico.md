@@ -1,19 +1,19 @@
 ---
 added: 2017-11-21 18:55:30+00:00
-creator:
+creators:
 - Ed Summers
 dates:
 - end: 2017-11-07
   start: 2017-10-04
 published: 2017-11-21
 slug: 20171121-puertorico
-tags:
+subjects:
 - Puerto Rico
 - hurricane
 - disaster
 - climate change
 title: '#PuertoRico'
-tweets: 987,938
+tweets: 987938
 url: https://archive.org/details/puertorico-tweets
 ---
 

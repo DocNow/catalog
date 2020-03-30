@@ -1,18 +1,18 @@
 ---
 added: 2017-01-09 07:05:07+00:00
-creator:
+creators:
 - Ian Milligan
 dates:
 - end: 2017-01-09
   start: 2017-01-04
 published: 2017-01-09
 slug: 20170109-american-historical-association-2017-conference-tweets
-tags:
+subjects:
 - history
 - academia
 - conference
 title: American Historical Association 2017 Conference Tweets
-tweets: 10,538
+tweets: 10538
 url: http://dx.doi.org/10.5683/SP/CFVF1F
 ---
 

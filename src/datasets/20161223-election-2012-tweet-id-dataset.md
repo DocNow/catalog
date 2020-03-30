@@ -1,16 +1,16 @@
 ---
 added: 2016-12-23 17:03:14-05:00
-creator:
+creators:
 - Microsoft
 dates:
 - end: 2012-11-07
   start: 2012-07-01
 published: 2016-05-12
 slug: 20161223-election-2012-tweet-id-dataset
-tags:
+subjects:
 - politics
 title: Election 2012 Tweet ID dataset
-tweets: 38,000,000
+tweets: 38000000
 url: https://www.microsoft.com/en-us/download/details.aspx?id=52598
 ---
 

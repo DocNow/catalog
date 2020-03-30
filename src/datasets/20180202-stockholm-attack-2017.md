@@ -1,19 +1,19 @@
 ---
 added: 2018-02-02 08:22:00+00:00
-creator:
+creators:
 - Andreas Segerberg
 dates:
 - end: 2017-04-07
   start: 2017-04-07
 published: 2018-02-02
 slug: 20180202-stockholm-attack-2017
-tags:
+subjects:
 - terrorism
 - attack
 - sweden
 - stockholm
 title: Stockholm Attack 2017
-tweets: 1,067,963
+tweets: 1067963
 url: https://archive.org/details/StockholmAttack2017Ids
 ---
 

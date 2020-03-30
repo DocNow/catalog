@@ -33,6 +33,13 @@ for d in datasets:
     else:
         d['dates'] = [unpack_date(d['dates'])]
 
+    d['subjects'] = d['tags']
+    del d['tags']
+
+    d['creators'] = d['creator']
+    del d['creator']
+
+    d['tweets'] = int(d['tweets'].replace(',', ''))
 
     title = slugify.slugify(d['title'])
     dt = d['added'].strftime('%Y%m%d')

@@ -1,16 +1,16 @@
 ---
 added: 2017-01-07 03:33:07+00:00
-creator:
+creators:
 - Peter Binkley
 dates:
 - end: 2014-12-06
   start: 2014-11-28
 published: 2017-01-06
 slug: 20170107-bill-10-twitter-ids
-tags:
+subjects:
 - politics
 title: Bill 10 Twitter IDs
-tweets: 24,876
+tweets: 24876
 url: http://dx.doi.org/10.7939/DVN/10971
 ---
 

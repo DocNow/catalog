@@ -1,17 +1,17 @@
 ---
 added: 2016-12-23 17:40:17-05:00
-creator:
+creators:
 - Nick Ruest
 dates:
 - end: 2016-06-25
   start: 2016-05-01
 published: 2016-08-21
 slug: 20161223-ymmfire-tweets
-tags:
+subjects:
 - Fort McMurry
 - Wildfire
 title: '#YMMfire tweets'
-tweets: 782,495
+tweets: 782495
 url: http://hdl.handle.net/10864/12033
 ---
 

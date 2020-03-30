@@ -1,18 +1,18 @@
 ---
 added: 2017-11-26 11:39:04+00:00
-creator:
+creators:
 - Nick Ruest
 dates:
 - end: 2017-11-26
   start: 2017-11-03
 published: 2017-11-26
 slug: 20171126-paradisepapers
-tags:
+subjects:
 - Paradise Papers
 - politics
 - leaks
 title: '#paradisepapers'
-tweets: 1,797,260
+tweets: 1797260
 url: http://dx.doi.org/10.5683/SP/D7R2WB
 ---
 

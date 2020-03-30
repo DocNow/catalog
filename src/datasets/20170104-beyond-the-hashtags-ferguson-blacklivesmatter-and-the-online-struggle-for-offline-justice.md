@@ -1,19 +1,19 @@
 ---
 added: 2017-01-04 22:29:30+00:00
-creator:
+creators:
 - Deen Freelon
 dates:
 - end: 2015-05-31
   start: 2014-06-04
 published: 2017-01-03
 slug: 20170104-beyond-the-hashtags-ferguson-blacklivesmatter-and-the-online-struggle-for-offline-justice
-tags:
+subjects:
 - blacklivesmatter
 - activism
 - Ferguson
 title: 'Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle
   for Offline Justice'
-tweets: 40,815,975
+tweets: 40815975
 url: http://dfreelon.org/2017/01/03/beyond-the-hashtags-twitter-data/
 ---
 

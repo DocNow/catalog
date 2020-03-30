@@ -1,17 +1,17 @@
 ---
 added: 2016-12-24 10:14:07-05:00
-creator:
+creators:
 - Mark Phillips
 dates:
 - end: 2014-06-08
   start: 2014-05-25
 published: 2014-06-08
 slug: 20161224-yes-all-women-twitter-dataset
-tags:
+subjects:
 - harassment
 - discrimination
 title: Yes All Women Twitter Dataset
-tweets: 2,805,763
+tweets: 2805763
 url: http://digital.library.unt.edu/ark:/67531/metadc304853/
 ---
 

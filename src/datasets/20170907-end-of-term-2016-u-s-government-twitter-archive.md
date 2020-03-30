@@ -1,6 +1,6 @@
 ---
 added: 2017-09-07 12:00:00-05:00
-creator:
+creators:
 - Justin Littman
 - Dan Kerchner
 - Laura Wrubel
@@ -9,11 +9,11 @@ dates:
   start: 2016-10-21
 published: 2017-08-30
 slug: 20170907-end-of-term-2016-u-s-government-twitter-archive
-tags:
+subjects:
 - government
 - Obama
 title: End of Term 2016 U.S. Government Twitter Archive
-tweets: 5,655,632
+tweets: 5655632
 url: http://dx.doi.org/10.7910/DVN/TQBLWZ
 ---
 

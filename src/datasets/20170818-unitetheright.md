@@ -1,18 +1,18 @@
 ---
 added: 2017-08-18 20:57:41+00:00
-creator:
+creators:
 - Ed Summers
 dates:
 - end: 2017-08-15
   start: 2017-08-04
 published: 2017-08-18
 slug: 20170818-unitetheright
-tags:
+subjects:
 - racism
 - white nationalism
 - politics
 title: '#UniteTheRight'
-tweets: 200,113
+tweets: 200113
 url: https://archive.org/details/unitetheright-ids
 ---
 

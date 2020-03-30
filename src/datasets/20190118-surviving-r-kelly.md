@@ -1,6 +1,6 @@
 ---
 added: 2019-01-18 10:14:07+00:00
-creator:
+creators:
 - Bergis Jules
 - Ed Summers
 dates:
@@ -8,12 +8,12 @@ dates:
   start: 2018-12-25
 published: 2019-01-19
 slug: 20190118-surviving-r-kelly
-tags:
+subjects:
 - Sexual Violence
 - Black Women
 - R Kelly
 title: Surviving R Kelly
-tweets: 1,431,655
+tweets: 1431655
 url: https://archive.org/details/SurvivingRKellyTweets
 ---
 

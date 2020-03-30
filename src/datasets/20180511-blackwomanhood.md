@@ -1,19 +1,19 @@
 ---
 added: 2018-05-11 10:14:07+00:00
-creator:
+creators:
 - Bergis Jules
 dates:
 - end: 2018-05-10
   start: 2018-05-01
 published: 2018-05-11
 slug: 20180511-blackwomanhood
-tags:
+subjects:
 - black women
 - black queer women
 - black trans women
 - black history
 title: '#Blackwomanhood'
-tweets: '917'
+tweets: 917
 url: https://dx.doi.org/10.6086/D1SM1S
 ---
 

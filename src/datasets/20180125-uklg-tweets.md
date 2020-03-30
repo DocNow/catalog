@@ -1,18 +1,18 @@
 ---
 added: 2018-01-25 10:07:01-05:00
-creator:
+creators:
 - Ed Summers
 dates:
 - end: 2018-01-24
   start: 2018-01-14
 published: 2018-01-25
 slug: 20180125-uklg-tweets
-tags:
+subjects:
 - scifi
 - writers
 - memorial
 title: UKLG Tweets
-tweets: 251,287
+tweets: 251287
 url: https://archive.org/details/uklg-tweet-ids
 ---
 

@@ -1,20 +1,20 @@
 ---
 added: 2018-12-04 10:14:07+00:00
-creator:
+creators:
 - Twitter
 dates:
 - end: 2018-06-21
   start: 2009-05-09
 published: 2018-10-17
 slug: 20181204-twitter-internet-research-agency-dataset
-tags:
+subjects:
 - Politics
 - Propaganda
 - Russia
 - Twitter
 - Social Media
 title: Twitter Internet Research Agency Dataset
-tweets: 90,41,309
+tweets: 9041309
 url: https://archive.org/details/twitter-ira
 ---
 

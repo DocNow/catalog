@@ -1,17 +1,17 @@
 ---
 added: 2017-03-28 01:56:00+00:00
-creator:
+creators:
 - Ed Summers
 dates:
 - end: 2017-03-18
   start: 2017-02-09
 published: 2017-03-27
 slug: 20170328-fake-news-tweets
-tags:
+subjects:
 - politics
 - sociology
 title: Fake News tweets
-tweets: 2,711,011
+tweets: 2711011
 url: https://archive.org/details/fakenews-tweets
 ---
 

@@ -1,17 +1,17 @@
 ---
 added: 2016-12-30 13:32:40-05:00
-creator:
+creators:
 - Ed Summers
 dates:
 - end: 2016-01-04
   start: 2015-08-27
 published: 2016-12-30
 slug: 20161230-trump-early-primary-tweets
-tags:
+subjects:
 - politics
 - trump
 title: Trump Early Primary Tweets
-tweets: 40,202,199
+tweets: 40202199
 url: https://archive.org/details/trump-tweet-ids
 ---
 

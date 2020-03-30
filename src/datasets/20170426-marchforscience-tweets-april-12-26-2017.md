@@ -1,16 +1,16 @@
 ---
 added: 2017-04-26 12:52:37+00:00
-creator:
+creators:
 - Nick Ruest
 dates:
 - end: 2017-04-26
   start: 2017-04-12
 published: 2017-04-26
 slug: 20170426-marchforscience-tweets-april-12-26-2017
-tags:
+subjects:
 - politics
 title: '#MarchForScience tweets April 12-26, 2017'
-tweets: 284,012
+tweets: 284012
 url: http://dx.doi.org/10.5683/SP/7BC9V1
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: 2020-03-22 00:15:00+00:00
-creator:
+creators:
 - Dan Kerchner
 - Laura Wrubel
 dates:
@@ -8,12 +8,12 @@ dates:
   start: 2020-03-03
 published: 2020-03-21
 slug: 20200322-coronavirus-tweets
-tags:
+subjects:
 - COVID-19
 - Coronavirus
 - Epidemiology
 title: Coronavirus Tweets
-tweets: 51,798,932
+tweets: 51798932
 url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LW0BTB
 ---
 

@@ -1,17 +1,17 @@
 ---
 added: 2017-10-17 21:32:09+00:00
-creator:
+creators:
 - Ed Summers
 dates:
 - end: 2017-03-18
   start: 2016-01-29
 published: 2017-10-17
 slug: 20171017-blacklivesmatter-2016
-tags:
+subjects:
 - blacklivesmatter
 - activism
 title: BlackLivesMatter 2016
-tweets: 17,292,130
+tweets: 17292130
 url: https://archive.org/details/blacklivesmatter-tweets-2016.txt
 ---
 

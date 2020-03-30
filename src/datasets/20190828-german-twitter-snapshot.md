@@ -1,16 +1,16 @@
 ---
 added: 2019-08-28 16:28:00+00:00
-creator:
+creators:
 - Tatjana Scheffler
 dates:
 - end: 2013-04-30
   start: 2013-04-01
 published: 2019-01-24
 slug: 20190828-german-twitter-snapshot
-tags:
+subjects:
 - Germany
 title: German Twitter Snapshot
-tweets: 24,179,871
+tweets: 24179871
 url: https://github.com/TScheffler/GermanTwitterApril2013
 ---
 

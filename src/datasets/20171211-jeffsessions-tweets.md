@@ -1,6 +1,6 @@
 ---
 added: 2017-12-11 07:40:01+00:00
-creator:
+creators:
 - Nick Ruest
 dates:
 - end: 2017-09-21
@@ -9,12 +9,12 @@ dates:
   start: 2017-10-26
 published: 2017-12-10
 slug: 20171211-jeffsessions-tweets
-tags:
+subjects:
 - American Politics
 - politics
 - Jeff Sessions
 title: '#JeffSessions tweets'
-tweets: 2,278,757
+tweets: 2278757
 url: http://dx.doi.org/10.5683/SP/MQ3Y99
 ---
 

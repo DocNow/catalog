@@ -1,18 +1,18 @@
 ---
 added: 2017-10-03 16:12:39+00:00
-creator:
+creators:
 - Bergis Jules
 dates:
 - end: 2017-10-03
   start: 2017-09-24
 published: 2017-10-03
 slug: 20171003-marchforblackwomen
-tags:
+subjects:
 - Black Women
 - Racial Justice
 - Activism
 title: '#MarchForBlackWomen'
-tweets: 18,646
+tweets: 18646
 url: https://dx.doi.org/10.6086/D14D4Z
 ---
 

@@ -1,20 +1,20 @@
 ---
 added: 2017-09-24 12:55:24+00:00
-creator:
+creators:
 - Mark Phillips
 dates:
 - end: 2017-09-22
   start: 2017-08-18
 published: 2017-09-24
 slug: 20170924-hurricane-harvey-twitter-dataset
-tags:
+subjects:
 - hurricane
 - disaster
 - flooding
 - Houston
 - Texas
 title: Hurricane Harvey Twitter Dataset
-tweets: 7,041,866
+tweets: 7041866
 url: https://digital.library.unt.edu/ark:/67531/metadc993940/
 ---
 

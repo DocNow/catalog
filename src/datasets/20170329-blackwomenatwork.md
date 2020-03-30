@@ -1,18 +1,18 @@
 ---
 added: 2017-03-29 14:10:10+00:00
-creator:
+creators:
 - Bergis Jules
 dates:
 - end: 2017-03-29
   start: 2017-03-28
 published: 2017-03-29
 slug: 20170329-blackwomenatwork
-tags:
+subjects:
 - black women
 - race
 - politics
 title: '#BlackWomenAtWork'
-tweets: 284,012
+tweets: 284012
 url: https://dx.doi.org/10.6086/D1PP4P
 ---
 

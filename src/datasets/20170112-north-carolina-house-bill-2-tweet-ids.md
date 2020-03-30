@@ -1,6 +1,6 @@
 ---
 added: 2017-01-12 12:00:00+00:00
-creator:
+creators:
 - Jason Casden
 - Brian Dietz
 dates:
@@ -8,7 +8,7 @@ dates:
   start: 2016-03-14
 published: 2017-01-12
 slug: 20170112-north-carolina-house-bill-2-tweet-ids
-tags:
+subjects:
 - LGBT
 - HB2
 - North Carolina
@@ -16,7 +16,7 @@ tags:
 - government
 - politics
 title: North Carolina House Bill 2 Tweet IDs
-tweets: 641,738
+tweets: 641738
 url: https://github.com/NCSU-Libraries/HB2-Twitter-data
 ---
 

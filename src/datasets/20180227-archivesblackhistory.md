@@ -1,18 +1,18 @@
 ---
 added: 2018-02-27 11:49:00-05:00
-creator:
+creators:
 - Ed Summers
 dates:
 - end: 2018-02-27
   start: 2018-02-17
 published: 2018-02-27
 slug: 20180227-archivesblackhistory
-tags:
+subjects:
 - History
 - African Americans
 - Archives
 title: '#ArchivesBlackHistory'
-tweets: 1,402
+tweets: 1402
 url: https://archive.org/details/archivesblackhistory-tweets
 ---
 

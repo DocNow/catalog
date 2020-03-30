@@ -1,6 +1,6 @@
 ---
 added: 2019-02-22 19:00:00+00:00
-creator:
+creators:
 - Justin Littman
 - Laura Wrubel
 - Dan Kerchner
@@ -9,12 +9,12 @@ dates:
   start: 2018-01-22
 published: 2019-02-05
 slug: 20190222-2018-u-s-congressional-election
-tags:
+subjects:
 - elections
 - Congress
 - politics
 title: 2018 U.S. Congressional Election
-tweets: 171,248,476
+tweets: 171248476
 url: https://doi.org/10.7910/DVN/AEZPLU
 ---
 

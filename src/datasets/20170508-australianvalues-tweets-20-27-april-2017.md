@@ -1,17 +1,17 @@
 ---
 added: 2017-05-08 11:43:26+00:00
-creator:
+creators:
 - Tim Sherratt
 dates:
 - end: 2017-04-27
   start: 2017-04-20
 published: 2017-05-08
 slug: 20170508-australianvalues-tweets-20-27-april-2017
-tags:
+subjects:
 - politics
 - Australia
 title: '#australianvalues tweets, 20-27 April 2017'
-tweets: 55,698
+tweets: 55698
 url: https://doi.org/10.6084/m9.figshare.4982747
 ---
 

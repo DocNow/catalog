@@ -1,13 +1,13 @@
 ---
 added: 2018-03-27 13:25:00+00:00
-creator:
+creators:
 - Renato Gabriele
 dates:
 - end: 2018-01-24
   start: 2017-02-19
 published: 2018-03-27
 slug: 20180327-macerata-attack-2018
-tags:
+subjects:
 - Italy
 - Macerata
 - Election
@@ -18,7 +18,7 @@ tags:
 - Terrorism
 - Oohmm
 title: Macerata Attack 2018
-tweets: 574,925
+tweets: 574925
 url: https://archive.org/details/MacerataOohmm20180327574925Ids
 ---
 

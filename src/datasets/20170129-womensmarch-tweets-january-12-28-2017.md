@@ -1,18 +1,18 @@
 ---
 added: 2017-01-29 17:39:38+00:00
-creator:
+creators:
 - Nick Ruest
 dates:
 - end: 2017-01-28
   start: 2017-01-12
 published: 2017-01-29
 slug: 20170129-womensmarch-tweets-january-12-28-2017
-tags:
+subjects:
 - WomensMarch
 - activism
 - politics
 title: '#WomensMarch tweets January 12-28, 2017'
-tweets: 14,478,518
+tweets: 14478518
 url: http://dx.doi.org/10.5683/SP/ZEL1Q6
 ---
 

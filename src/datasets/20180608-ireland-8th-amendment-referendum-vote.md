@@ -1,18 +1,18 @@
 ---
 added: 2018-06-08 12:00:00-05:00
-creator:
+creators:
 - Justin Littman
 dates:
 - end: 2018-06-04
   start: 2018-04-13
 published: 2018-06-07
 slug: 20180608-ireland-8th-amendment-referendum-vote
-tags:
+subjects:
 - Ireland
 - abortion
 - referendum
 title: Ireland 8th amendment referendum vote
-tweets: 2,279,396
+tweets: 2279396
 url: https://doi.org/10.7910/DVN/PYCLPE
 ---
 

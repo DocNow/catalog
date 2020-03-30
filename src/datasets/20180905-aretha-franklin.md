@@ -1,6 +1,6 @@
 ---
 added: 2018-09-05 01:22:00+00:00
-creator:
+creators:
 - Bergis Jules
 - Ed Summers
 dates:
@@ -8,12 +8,12 @@ dates:
   start: 2018-08-08
 published: 2018-09-05
 slug: 20180905-aretha-franklin
-tags:
+subjects:
 - Music
 - Civil Rights Movement
 - African Americans
 title: Aretha Franklin
-tweets: 4,164,570
+tweets: 4164570
 url: https://archive.org/details/aretha-tweets
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: 2017-12-11 07:40:01+00:00
-creator:
+creators:
 - Nick Ruest
 dates:
 - end: 2017-06-21
@@ -9,12 +9,12 @@ dates:
   start: 2017-06-23
 published: 2017-12-10
 slug: 20171211-tweets-to-donald-trump-realdonaldtrump
-tags:
+subjects:
 - American Politics
 - politics
 - Donald Trump
 title: Tweets to Donald Trump (@realDonaldTrump)
-tweets: 238,991,027
+tweets: 238991027
 url: http://dx.doi.org/10.5683/SP/8BAVQM
 ---
 

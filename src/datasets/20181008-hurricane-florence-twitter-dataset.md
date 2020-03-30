@@ -1,20 +1,20 @@
 ---
 added: 2018-10-08 13:44:00+00:00
-creator:
+creators:
 - Mark Phillips
 dates:
 - end: 2018-10-03
   start: 2018-09-05
 published: 2018-10-08
 slug: 20181008-hurricane-florence-twitter-dataset
-tags:
+subjects:
 - hurricane
 - disaster
 - flooding
 - North Carolina
 - South Carolina
 title: Hurricane Florence Twitter Dataset
-tweets: 4,971,575
+tweets: 4971575
 url: https://digital.library.unt.edu/ark:/67531/metadc1259406/
 ---
 

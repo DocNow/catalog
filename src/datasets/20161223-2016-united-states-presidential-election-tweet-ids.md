@@ -1,6 +1,6 @@
 ---
 added: 2016-12-23 17:03:14-05:00
-creator:
+creators:
 - Justin Littman
 - Laura Wrubel
 - Daniel Kerchner
@@ -9,10 +9,10 @@ dates:
   start: 2016-07-13
 published: 2016-11-29
 slug: 20161223-2016-united-states-presidential-election-tweet-ids
-tags:
+subjects:
 - politics
 title: 2016 United States Presidential Election Tweet Ids
-tweets: 272,968,886
+tweets: 272968886
 url: http://hdl.handle.net/10.7910/DVN/PDI7IN
 ---
 

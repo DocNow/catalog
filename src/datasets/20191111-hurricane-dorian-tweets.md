@@ -1,19 +1,19 @@
 ---
 added: 2019-11-11 10:00:01+00:00
-creator:
+creators:
 - Ben Rachunok
 dates:
 - end: 2019-09-16
   start: 2019-08-30
 published: 2019-11-11
 slug: 20191111-hurricane-dorian-tweets
-tags:
+subjects:
 - disasters
 - hurricanes
 - dorian
 - weather
 title: Hurricane Dorian Tweets
-tweets: 9,186,118
+tweets: 9186118
 url: https://doi.org/10.4231/CPGM-E419
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: 2017-10-17 18:25:22+00:00
-creator:
+creators:
 - "Vicen\xE7 Ruiz G\xF3mez"
 - Aniol Maria
 - Ed Summers
@@ -9,13 +9,13 @@ dates:
   start: 2017-09-19
 published: 2017-10-17
 slug: 20171017-catalan-referendum
-tags:
+subjects:
 - Spain
 - Catalonia
 - activism
 - politics
 title: Catalan Referendum
-tweets: 8,410,431
+tweets: 8410431
 url: https://archive.org/details/catalan-tweet-ids
 ---
 

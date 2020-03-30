@@ -1,19 +1,19 @@
 ---
 added: 2020-03-28 14:35:43-05:45
-creator:
+creators:
 - Rabindra Lamsal
 dates:
 - end: 2020-03-28
   start: 2020-03-19
 published: 2020-03-13
 slug: 20200328-coronavirus-covid-19-tweets
-tags:
+subjects:
 - COVID-19
 - Coronavirus
 - Sentiment Analysis
 - Machine Learning
 title: Coronavirus (COVID-19) Tweets
-tweets: 12,278,467
+tweets: 12278467
 url: https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: 2019-05-20 09:00:00+00:00
-creator:
+creators:
 - Justin Littman
 - Laura Wrubel
 dates:
@@ -8,12 +8,12 @@ dates:
   start: 2017-09-21
 published: 2019-05-20
 slug: 20190520-climate-change
-tags:
+subjects:
 - climate change
 - environment
 - politics
 title: Climate Change
-tweets: 39,622,026
+tweets: 39622026
 url: https://doi.org/10.7910/DVN/5QCCUU
 ---
 

@@ -1,18 +1,18 @@
 ---
 added: 2018-10-10 15:59:07+00:00
-creator:
+creators:
 - Urban Big Data Centre
 dates:
 - end: 2015-11-30
   start: 2014-07-01
 published: 2018-10-10
 slug: 20181010-imcd-twitter-data
-tags:
+subjects:
 - Glasgow
 - Scotland
 - Politics
 title: iMCD Twitter Data
-tweets: 65,000,000
+tweets: 65000000
 url: http://ubdc.gla.ac.uk/dataset/imcd-twitter-data
 ---
 

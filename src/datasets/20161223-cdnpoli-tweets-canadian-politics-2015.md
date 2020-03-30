@@ -1,16 +1,16 @@
 ---
 added: 2016-12-23 10:23:06-05:00
-creator:
+creators:
 - Library and Archives Canada
 dates:
 - end: 2015-10-28
   start: 2015-08-06
 published: 2016-01-18
 slug: 20161223-cdnpoli-tweets-canadian-politics-2015
-tags:
+subjects:
 - politics
 title: '#cdnpoli tweets (Canadian Politics, 2015)'
-tweets: 2,607,886
+tweets: 2607886
 url: http://hdl.handle.net/10864/11348
 ---
 

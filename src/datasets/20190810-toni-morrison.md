@@ -1,19 +1,19 @@
 ---
 added: 2019-08-10 12:49:05+00:00
-creator:
+creators:
 - Melanie Walsh
 dates:
 - end: 2019-08-09
   start: 2019-08-06
 published: 2019-08-10
 slug: 20190810-toni-morrison
-tags:
+subjects:
 - Literature
 - Humanities
 - Nobel Laureate
 - Black Women Writers
 title: Toni Morrison
-tweets: 1,170,032
+tweets: 1170032
 url: https://archive.org/details/toni-morrison-tweets
 ---
 

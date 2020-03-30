@@ -1,6 +1,6 @@
 ---
 added: 2019-06-07 16:49:00+00:00
-creator:
+creators:
 - Bergis Jules
 - Yusef Omowale
 - Ed Summers
@@ -9,13 +9,13 @@ dates:
   start: 2019-03-28
 published: 2019-06-07
 slug: 20190607-nipsey-hussle
-tags:
+subjects:
 - Los Angeles
 - Music
 - Rap
 - Activism
 title: Nipsey Hussle
-tweets: 11,642,103
+tweets: 11642103
 url: https://archive.org/details/nipsey-hustle-tweets
 ---
 

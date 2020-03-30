@@ -1,18 +1,18 @@
 ---
 added: 2017-12-14 03:34:00+00:00
-creator:
+creators:
 - Bergis Jules
 dates:
 - end: 2017-12-14
   start: 2017-12-05
 published: 2017-12-14
 slug: 20171214-docnow-digital-blackness
-tags:
+subjects:
 - African Americans
 - Archives
 - Social Media
 title: DocNow Digital Blackness
-tweets: 4,883
+tweets: 4883
 url: https://dx.doi.org/10.6086/D1808K
 ---
 

@@ -1,18 +1,18 @@
 ---
 added: 2017-08-12 13:39:25+00:00
-creator:
+creators:
 - Bergis Jules
 dates:
 - end: 2017-08-12
   start: 2017-08-12
 published: 2017-08-12
 slug: 20170812-charlottesville
-tags:
+subjects:
 - racism
 - white nationalism
 - politics
 title: '#Charlottesville'
-tweets: 100,000
+tweets: 100000
 url: https://dx.doi.org/10.6086/D10T0B
 ---
 

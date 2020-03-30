@@ -1,6 +1,6 @@
 ---
 added: 2018-11-14 23:01:43+00:00
-creator:
+creators:
 - Thomas Padilla
 - Miranda Barrie
 - Tammi Kim
@@ -9,11 +9,11 @@ dates:
   start: 2017-09-29
 published: 2018-11-14
 slug: 20181114-2017-shooting-in-las-vegas
-tags:
+subjects:
 - Las Vegas
 - Mass Shooting
 title: 2017 Shooting in Las Vegas
-tweets: 14,108,104
+tweets: 14108104
 url: http://d.library.unlv.edu/digital/collection/p17304coll5/id/20087/rec/1
 ---
 

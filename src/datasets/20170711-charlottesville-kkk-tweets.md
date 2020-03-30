@@ -1,19 +1,19 @@
 ---
 added: 2017-07-11 19:35:27+00:00
-creator:
+creators:
 - Jeremy Boggs
 dates:
 - end: 2017-07-11
   start: 2017-06-28
 published: 2017-07-11
 slug: 20170711-charlottesville-kkk-tweets
-tags:
+subjects:
 - Charlottesville
 - race
 - politics
 - activism
 title: Charlottesville KKK Tweets
-tweets: 39,264
+tweets: 39264
 url: https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi:10.18130/V3/MSCNLT
 ---
 

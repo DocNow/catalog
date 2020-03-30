@@ -1,6 +1,6 @@
 ---
 added: 2018-07-20 12:00:00-05:00
-creator:
+creators:
 - Justin Littman
 - Dan Kerchner
 - Laura Wrubel
@@ -9,10 +9,10 @@ dates:
   start: 2007-04-22
 published: 2018-07-20
 slug: 20180720-u-s-government-tweet-ids
-tags:
+subjects:
 - government
 title: U.S. Government Tweet Ids
-tweets: 9,673,959
+tweets: 9673959
 url: https://doi.org/10.7910/DVN/2N3HHD
 ---
 

@@ -1,20 +1,20 @@
 ---
 added: 2018-12-04 10:14:07+00:00
-creator:
+creators:
 - Twitter
 dates:
 - end: 2018-08-28
   start: 2010-12-26
 published: 2018-10-17
 slug: 20181204-twitter-iran-dataset
-tags:
+subjects:
 - Politics
 - Propaganda
 - Iran
 - Twitter
 - Social Media
 title: Twitter Iran Dataset
-tweets: 1,122,937
+tweets: 1122937
 url: https://archive.org/details/twitter-iran
 ---
 
