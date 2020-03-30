@@ -8,8 +8,8 @@ dates:
 published: 2019-05-08
 slug: 20190508-replies-to-ocasio-cortez-tweets
 subjects:
-- environment
-- politics
+- Environment
+- Politics
 title: Replies to Ocasio-Cortez Tweets
 tweets: 109201
 url: https://github.com/mapmeld/aoc_reply_dataset/blob/master/all_tweets/ids.csv

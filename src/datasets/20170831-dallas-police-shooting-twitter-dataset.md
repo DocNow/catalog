@@ -8,8 +8,8 @@ dates:
 published: 2017-08-31
 slug: 20170831-dallas-police-shooting-twitter-dataset
 subjects:
-- PoliceShooting
-- activism
+- Policeshooting
+- Activism
 title: Dallas Police Shooting Twitter Dataset
 tweets: 7146993
 url: https://digital.library.unt.edu/ark:/67531/metadc991469/

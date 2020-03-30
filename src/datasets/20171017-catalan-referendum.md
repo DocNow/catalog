@@ -12,8 +12,8 @@ slug: 20171017-catalan-referendum
 subjects:
 - Spain
 - Catalonia
-- activism
-- politics
+- Activism
+- Politics
 title: Catalan Referendum
 tweets: 8410431
 url: https://archive.org/details/catalan-tweet-ids

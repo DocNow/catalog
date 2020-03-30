@@ -8,7 +8,7 @@ dates:
 published: 2017-05-17
 slug: 20170517-macronleaks-tweets
 subjects:
-- politics
+- Politics
 - France
 title: '#MacronLeaks Tweets'
 tweets: 782509

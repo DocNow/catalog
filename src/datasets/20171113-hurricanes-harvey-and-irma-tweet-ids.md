@@ -8,8 +8,8 @@ dates:
 published: 2017-11-13
 slug: 20171113-hurricanes-harvey-and-irma-tweet-ids
 subjects:
-- hurricanes
-- natural disasters
+- Hurricanes
+- Natural Disasters
 title: Hurricanes Harvey and Irma Tweet Ids
 tweets: 35596281
 url: http://dx.doi.org/10.7910/DVN/QRKIBW

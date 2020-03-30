@@ -8,7 +8,7 @@ dates:
 published: 2015-11-19
 slug: 20161224-elxn42-tweets-42nd-canadian-federal-election
 subjects:
-- politics
+- Politics
 title: '#elxn42 tweets (42nd Canadian Federal Election)'
 tweets: 3039804
 url: http://hdl.handle.net/10864/11270

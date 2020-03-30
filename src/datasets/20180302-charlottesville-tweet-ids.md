@@ -9,8 +9,8 @@ published: 2018-03-02
 slug: 20180302-charlottesville-tweet-ids
 subjects:
 - Charlottesville
-- protests
-- social movements
+- Protests
+- Social Movements
 title: Charlottesville Tweet Ids
 tweets: 7665497
 url: http://dx.doi.org/10.7910/DVN/DVLJTO

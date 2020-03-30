@@ -8,7 +8,7 @@ dates:
 published: 2017-01-06
 slug: 20170107-bill-10-twitter-ids
 subjects:
-- politics
+- Politics
 title: Bill 10 Twitter IDs
 tweets: 24876
 url: http://dx.doi.org/10.7939/DVN/10971

@@ -8,8 +8,8 @@ dates:
 published: 2016-12-31
 slug: 20161231-tweet-ids-for-final-tragically-hip-concert
 subjects:
-- tragically hip
-- music
+- Tragically Hip
+- Music
 title: Tweet ids for final Tragically Hip concert
 tweets: 228086
 url: http://dx.doi.org/10.5683/SP/NGMQNX

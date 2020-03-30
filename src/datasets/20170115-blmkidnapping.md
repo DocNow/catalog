@@ -8,9 +8,9 @@ dates:
 published: 2017-01-06
 slug: 20170115-blmkidnapping
 subjects:
-- blacklivesmatter
-- politics
-- race
+- Blacklivesmatter
+- Politics
+- Race
 title: '#BLMKidnapping'
 tweets: 136990
 url: https://dx.doi.org/10.6086/D1CC7X

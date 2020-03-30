@@ -8,8 +8,8 @@ dates:
 published: 2018-02-11
 slug: 20180212-gifhistory
 subjects:
-- gifs
-- memes
+- Gifs
+- Memes
 title: '#GifHistory'
 tweets: 31929
 url: https://dx.doi.org/10.6086/D1CM12

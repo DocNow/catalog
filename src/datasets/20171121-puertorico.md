@@ -9,9 +9,9 @@ published: 2017-11-21
 slug: 20171121-puertorico
 subjects:
 - Puerto Rico
-- hurricane
-- disaster
-- climate change
+- Hurricane
+- Disaster
+- Climate Change
 title: '#PuertoRico'
 tweets: 987938
 url: https://archive.org/details/puertorico-tweets

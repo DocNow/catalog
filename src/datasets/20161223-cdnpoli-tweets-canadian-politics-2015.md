@@ -8,7 +8,7 @@ dates:
 published: 2016-01-18
 slug: 20161223-cdnpoli-tweets-canadian-politics-2015
 subjects:
-- politics
+- Politics
 title: '#cdnpoli tweets (Canadian Politics, 2015)'
 tweets: 2607886
 url: http://hdl.handle.net/10864/11348

@@ -33,7 +33,10 @@ for d in datasets:
     else:
         d['dates'] = [unpack_date(d['dates'])]
 
-    d['subjects'] = d['tags']
+    subjects = []
+    for tag in d['tags']:
+        subjects.append(' '.join([t.capitalize() for t in tag.split()]))
+    d['subjects'] = subjects
     del d['tags']
 
     d['creators'] = d['creator']

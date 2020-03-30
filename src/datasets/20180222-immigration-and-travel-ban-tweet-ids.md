@@ -8,9 +8,9 @@ dates:
 published: 2018-02-22
 slug: 20180222-immigration-and-travel-ban-tweet-ids
 subjects:
-- immigration
-- travel ban
-- executive order
+- Immigration
+- Travel Ban
+- Executive Order
 title: Immigration and Travel Ban Tweet Ids
 tweets: 16875766
 url: http://dx.doi.org/10.7910/DVN/5CFLLJ

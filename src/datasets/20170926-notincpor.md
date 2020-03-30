@@ -8,10 +8,10 @@ dates:
 published: 2017-09-26
 slug: 20170926-notincpor
 subjects:
-- barcelona
-- cambrils
-- attack
-- terrorism
+- Barcelona
+- Cambrils
+- Attack
+- Terrorism
 title: '#NoTincPor'
 tweets: 52808
 url: http://www.docnow.io/catalog/datasets/F48D674F-C859-4E4F-AC83-510181DA3545.csv.gz

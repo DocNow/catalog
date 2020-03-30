@@ -8,9 +8,9 @@ dates:
 published: 2018-01-25
 slug: 20180125-uklg-tweets
 subjects:
-- scifi
-- writers
-- memorial
+- Scifi
+- Writers
+- Memorial
 title: UKLG Tweets
 tweets: 251287
 url: https://archive.org/details/uklg-tweet-ids

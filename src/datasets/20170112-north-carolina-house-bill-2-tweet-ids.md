@@ -9,12 +9,12 @@ dates:
 published: 2017-01-12
 slug: 20170112-north-carolina-house-bill-2-tweet-ids
 subjects:
-- LGBT
-- HB2
+- Lgbt
+- Hb2
 - North Carolina
-- legal
-- government
-- politics
+- Legal
+- Government
+- Politics
 title: North Carolina House Bill 2 Tweet IDs
 tweets: 641738
 url: https://github.com/NCSU-Libraries/HB2-Twitter-data

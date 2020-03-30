@@ -10,7 +10,7 @@ dates:
 published: 2018-07-20
 slug: 20180720-u-s-government-tweet-ids
 subjects:
-- government
+- Government
 title: U.S. Government Tweet Ids
 tweets: 9673959
 url: https://doi.org/10.7910/DVN/2N3HHD

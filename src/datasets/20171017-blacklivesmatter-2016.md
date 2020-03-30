@@ -8,8 +8,8 @@ dates:
 published: 2017-10-17
 slug: 20171017-blacklivesmatter-2016
 subjects:
-- blacklivesmatter
-- activism
+- Blacklivesmatter
+- Activism
 title: BlackLivesMatter 2016
 tweets: 17292130
 url: https://archive.org/details/blacklivesmatter-tweets-2016.txt

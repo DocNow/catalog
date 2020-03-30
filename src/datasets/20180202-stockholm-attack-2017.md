@@ -8,10 +8,10 @@ dates:
 published: 2018-02-02
 slug: 20180202-stockholm-attack-2017
 subjects:
-- terrorism
-- attack
-- sweden
-- stockholm
+- Terrorism
+- Attack
+- Sweden
+- Stockholm
 title: Stockholm Attack 2017
 tweets: 1067963
 url: https://archive.org/details/StockholmAttack2017Ids

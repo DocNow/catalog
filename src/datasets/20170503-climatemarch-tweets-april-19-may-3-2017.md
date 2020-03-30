@@ -8,7 +8,7 @@ dates:
 published: 2017-05-03
 slug: 20170503-climatemarch-tweets-april-19-may-3-2017
 subjects:
-- politics
+- Politics
 title: '#climatemarch tweets April 19-May 3, 2017'
 tweets: 284012
 url: http://dx.doi.org/10.5683/SP/KZZVZW

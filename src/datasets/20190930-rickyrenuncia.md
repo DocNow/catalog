@@ -8,9 +8,9 @@ dates:
 published: 2019-09-30
 slug: 20190930-rickyrenuncia
 subjects:
-- politics
+- Politics
 - Puerto Rico
-- protests
+- Protests
 title: RickyRenuncia
 tweets: 1113759
 url: https://archive.org/details/tweetsRickyRenuncia-final

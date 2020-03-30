@@ -8,8 +8,8 @@ dates:
 published: 2016-12-30
 slug: 20161230-trump-early-primary-tweets
 subjects:
-- politics
-- trump
+- Politics
+- Trump
 title: Trump Early Primary Tweets
 tweets: 40202199
 url: https://archive.org/details/trump-tweet-ids

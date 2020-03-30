@@ -8,9 +8,9 @@ dates:
 published: 2017-03-29
 slug: 20170329-blackwomenatwork
 subjects:
-- black women
-- race
-- politics
+- Black Women
+- Race
+- Politics
 title: '#BlackWomenAtWork'
 tweets: 284012
 url: https://dx.doi.org/10.6086/D1PP4P

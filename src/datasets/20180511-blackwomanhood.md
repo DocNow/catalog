@@ -8,10 +8,10 @@ dates:
 published: 2018-05-11
 slug: 20180511-blackwomanhood
 subjects:
-- black women
-- black queer women
-- black trans women
-- black history
+- Black Women
+- Black Queer Women
+- Black Trans Women
+- Black History
 title: '#Blackwomanhood'
 tweets: 917
 url: https://dx.doi.org/10.6086/D1SM1S

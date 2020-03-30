@@ -8,9 +8,9 @@ dates:
 published: 2017-01-29
 slug: 20170129-womensmarch-tweets-january-12-28-2017
 subjects:
-- WomensMarch
-- activism
-- politics
+- Womensmarch
+- Activism
+- Politics
 title: '#WomensMarch tweets January 12-28, 2017'
 tweets: 14478518
 url: http://dx.doi.org/10.5683/SP/ZEL1Q6

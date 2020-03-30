@@ -9,8 +9,8 @@ dates:
 published: 2019-02-05
 slug: 20190222-115th-u-s-congress-tweet-ids
 subjects:
-- politics
-- government
+- Politics
+- Government
 - Congress
 title: 115th U.S. Congress Tweet Ids
 tweets: 2041399

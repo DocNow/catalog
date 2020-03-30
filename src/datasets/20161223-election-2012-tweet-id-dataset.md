@@ -8,7 +8,7 @@ dates:
 published: 2016-05-12
 slug: 20161223-election-2012-tweet-id-dataset
 subjects:
-- politics
+- Politics
 title: Election 2012 Tweet ID dataset
 tweets: 38000000
 url: https://www.microsoft.com/en-us/download/details.aspx?id=52598

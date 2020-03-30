@@ -8,9 +8,9 @@ dates:
 published: 2017-08-12
 slug: 20170812-charlottesville
 subjects:
-- racism
-- white nationalism
-- politics
+- Racism
+- White Nationalism
+- Politics
 title: '#Charlottesville'
 tweets: 100000
 url: https://dx.doi.org/10.6086/D10T0B

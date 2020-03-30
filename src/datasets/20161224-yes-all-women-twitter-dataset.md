@@ -8,8 +8,8 @@ dates:
 published: 2014-06-08
 slug: 20161224-yes-all-women-twitter-dataset
 subjects:
-- harassment
-- discrimination
+- Harassment
+- Discrimination
 title: Yes All Women Twitter Dataset
 tweets: 2805763
 url: http://digital.library.unt.edu/ark:/67531/metadc304853/

@@ -9,7 +9,7 @@ published: 2017-09-09
 slug: 20190917-2015-greek-referendum-greferendum-tweets
 subjects:
 - Greece
-- 2015 Greek referendum
+- 2015 Greek Referendum
 - Greferendum
 - Grexit
 title: 2015 Greek Referendum (#greferendum) tweets

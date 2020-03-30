@@ -8,10 +8,10 @@ dates:
 published: 2019-11-11
 slug: 20191111-hurricane-dorian-tweets
 subjects:
-- disasters
-- hurricanes
-- dorian
-- weather
+- Disasters
+- Hurricanes
+- Dorian
+- Weather
 title: Hurricane Dorian Tweets
 tweets: 9186118
 url: https://doi.org/10.4231/CPGM-E419

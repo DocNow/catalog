@@ -9,9 +9,9 @@ published: 2017-07-11
 slug: 20170711-charlottesville-kkk-tweets
 subjects:
 - Charlottesville
-- race
-- politics
-- activism
+- Race
+- Politics
+- Activism
 title: Charlottesville KKK Tweets
 tweets: 39264
 url: https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi:10.18130/V3/MSCNLT

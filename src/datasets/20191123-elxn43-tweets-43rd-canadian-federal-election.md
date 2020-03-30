@@ -8,9 +8,9 @@ dates:
 published: 2019-11-23
 slug: 20191123-elxn43-tweets-43rd-canadian-federal-election
 subjects:
-- politics
+- Politics
 - Canada
-- elections
+- Elections
 title: '#elxn43 tweets (43rd Canadian Federal Election)'
 tweets: 2944525
 url: https://doi.org/10.5683/SP2/QAMPPI

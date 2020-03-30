@@ -8,9 +8,9 @@ dates:
 published: 2017-09-24
 slug: 20170924-hurricane-harvey-twitter-dataset
 subjects:
-- hurricane
-- disaster
-- flooding
+- Hurricane
+- Disaster
+- Flooding
 - Houston
 - Texas
 title: Hurricane Harvey Twitter Dataset

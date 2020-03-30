@@ -10,8 +10,8 @@ dates:
 published: 2015-11-18
 slug: 20161224-ferguson-tweets
 subjects:
-- activism
-- blacklivesmatter
+- Activism
+- Blacklivesmatter
 title: Ferguson Tweets
 tweets: 28560078
 url: https://archive.org/details/ferguson-tweet-ids

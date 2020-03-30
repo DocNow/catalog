@@ -8,7 +8,7 @@ dates:
 published: 2016-08-21
 slug: 20161223-ymmfire-tweets
 subjects:
-- Fort McMurry
+- Fort Mcmurry
 - Wildfire
 title: '#YMMfire tweets'
 tweets: 782495

@@ -8,9 +8,9 @@ dates:
 published: 2018-10-08
 slug: 20181008-hurricane-florence-twitter-dataset
 subjects:
-- hurricane
-- disaster
-- flooding
+- Hurricane
+- Disaster
+- Flooding
 - North Carolina
 - South Carolina
 title: Hurricane Florence Twitter Dataset

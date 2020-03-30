@@ -8,10 +8,10 @@ dates:
 published: 2019-05-07
 slug: 20190507-notre-dame-cathedral-fire-dataset
 subjects:
-- fire
+- Fire
 - Notre Dame Cathedral
-- fire damage
-- cathedral
+- Fire Damage
+- Cathedral
 title: Notre Dame Cathedral Fire Dataset
 tweets: 8046185
 url: https://digital.library.unt.edu/ark:/67531/metadc1477117/

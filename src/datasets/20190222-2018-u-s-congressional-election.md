@@ -10,9 +10,9 @@ dates:
 published: 2019-02-05
 slug: 20190222-2018-u-s-congressional-election
 subjects:
-- elections
+- Elections
 - Congress
-- politics
+- Politics
 title: 2018 U.S. Congressional Election
 tweets: 171248476
 url: https://doi.org/10.7910/DVN/AEZPLU

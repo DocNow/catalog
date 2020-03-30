@@ -8,9 +8,9 @@ dates:
 published: 2017-08-18
 slug: 20170818-unitetheright
 subjects:
-- racism
-- white nationalism
-- politics
+- Racism
+- White Nationalism
+- Politics
 title: '#UniteTheRight'
 tweets: 200113
 url: https://archive.org/details/unitetheright-ids

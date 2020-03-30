@@ -9,9 +9,9 @@ dates:
 published: 2019-05-20
 slug: 20190520-climate-change
 subjects:
-- climate change
-- environment
-- politics
+- Climate Change
+- Environment
+- Politics
 title: Climate Change
 tweets: 39622026
 url: https://doi.org/10.7910/DVN/5QCCUU

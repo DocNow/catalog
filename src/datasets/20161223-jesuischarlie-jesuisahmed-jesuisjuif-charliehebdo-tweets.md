@@ -8,7 +8,7 @@ dates:
 published: 2015-01-14
 slug: 20161223-jesuischarlie-jesuisahmed-jesuisjuif-charliehebdo-tweets
 subjects:
-- politics
+- Politics
 title: '#JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets'
 tweets: 13968293
 url: http://hdl.handle.net/10864/10830

@@ -8,7 +8,7 @@ dates:
 published: 2015-12-12
 slug: 20161223-paris-bataclan-parisattacks-porteouverte-tweets
 subjects:
-- politics
+- Politics
 title: '#paris #Bataclan #parisattacks #porteouverte tweets'
 tweets: 14939154
 url: http://hdl.handle.net/10864/11312

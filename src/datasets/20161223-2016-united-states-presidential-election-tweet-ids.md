@@ -10,7 +10,7 @@ dates:
 published: 2016-11-29
 slug: 20161223-2016-united-states-presidential-election-tweet-ids
 subjects:
-- politics
+- Politics
 title: 2016 United States Presidential Election Tweet Ids
 tweets: 272968886
 url: http://hdl.handle.net/10.7910/DVN/PDI7IN

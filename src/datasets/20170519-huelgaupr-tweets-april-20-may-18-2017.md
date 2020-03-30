@@ -8,8 +8,8 @@ dates:
 published: 2017-05-19
 slug: 20170519-huelgaupr-tweets-april-20-may-18-2017
 subjects:
-- activism
-- higher education
+- Activism
+- Higher Education
 - Puerto Rico
 title: '#HuelgaUPR tweets, April 20 - May 18 2017'
 tweets: 25439

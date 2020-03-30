@@ -11,7 +11,7 @@ published: 2017-12-10
 slug: 20171211-tweets-to-donald-trump-realdonaldtrump
 subjects:
 - American Politics
-- politics
+- Politics
 - Donald Trump
 title: Tweets to Donald Trump (@realDonaldTrump)
 tweets: 238991027

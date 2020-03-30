@@ -11,7 +11,7 @@ published: 2017-12-10
 slug: 20171211-jeffsessions-tweets
 subjects:
 - American Politics
-- politics
+- Politics
 - Jeff Sessions
 title: '#JeffSessions tweets'
 tweets: 2278757

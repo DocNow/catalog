@@ -8,7 +8,7 @@ dates:
 published: 2016-04-13
 slug: 20161223-panamapapers-tweets
 subjects:
-- politics
+- Politics
 title: '#panamapapers tweets'
 tweets: 4976094
 url: http://hdl.handle.net/10864/11592

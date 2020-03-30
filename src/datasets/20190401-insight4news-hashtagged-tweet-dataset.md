@@ -8,7 +8,7 @@ dates:
 published: 2019-04-01
 slug: 20190401-insight4news-hashtagged-tweet-dataset
 subjects:
-- news
+- News
 - Ireland
 title: Insight4news Hashtagged Tweet Dataset
 tweets: 198725860

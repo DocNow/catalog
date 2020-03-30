@@ -8,8 +8,8 @@ dates:
 published: 2017-08-18
 slug: 20170824-witbragday
 subjects:
-- women
-- technology
+- Women
+- Technology
 title: WITBragDay
 tweets: 52457
 url: http://dx.doi.org/10.7910/DVN/IRNS5Z

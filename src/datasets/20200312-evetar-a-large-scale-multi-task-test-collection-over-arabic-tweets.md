@@ -11,10 +11,10 @@ subjects:
 - Arabic
 - Twitter
 - Microblogs
-- Event detection
-- Ad-hoc search
-- Real-time summarization
-- Timeline generation
+- Event Detection
+- Ad-hoc Search
+- Real-time Summarization
+- Timeline Generation
 - Dialects
 title: 'EveTAR: a large-scale multi-task test collection over Arabic tweets'
 tweets: 355821033

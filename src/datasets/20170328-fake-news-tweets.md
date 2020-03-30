@@ -8,8 +8,8 @@ dates:
 published: 2017-03-27
 slug: 20170328-fake-news-tweets
 subjects:
-- politics
-- sociology
+- Politics
+- Sociology
 title: Fake News tweets
 tweets: 2711011
 url: https://archive.org/details/fakenews-tweets

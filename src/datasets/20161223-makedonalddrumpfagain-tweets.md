@@ -8,7 +8,7 @@ dates:
 published: 2016-03-03
 slug: 20161223-makedonalddrumpfagain-tweets
 subjects:
-- politics
+- Politics
 title: '#MakeDonaldDrumpfAgain tweets'
 tweets: 1828643
 url: http://hdl.handle.net/10864/11491

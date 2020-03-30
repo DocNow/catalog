@@ -9,8 +9,8 @@ published: 2018-06-07
 slug: 20180608-ireland-8th-amendment-referendum-vote
 subjects:
 - Ireland
-- abortion
-- referendum
+- Abortion
+- Referendum
 title: Ireland 8th amendment referendum vote
 tweets: 2279396
 url: https://doi.org/10.7910/DVN/PYCLPE

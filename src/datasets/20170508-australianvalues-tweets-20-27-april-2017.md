@@ -8,7 +8,7 @@ dates:
 published: 2017-05-08
 slug: 20170508-australianvalues-tweets-20-27-april-2017
 subjects:
-- politics
+- Politics
 - Australia
 title: '#australianvalues tweets, 20-27 April 2017'
 tweets: 55698

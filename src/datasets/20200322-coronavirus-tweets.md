@@ -9,7 +9,7 @@ dates:
 published: 2020-03-21
 slug: 20200322-coronavirus-tweets
 subjects:
-- COVID-19
+- Covid-19
 - Coronavirus
 - Epidemiology
 title: Coronavirus Tweets

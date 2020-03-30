@@ -8,8 +8,8 @@ dates:
 published: 2017-01-03
 slug: 20170104-beyond-the-hashtags-ferguson-blacklivesmatter-and-the-online-struggle-for-offline-justice
 subjects:
-- blacklivesmatter
-- activism
+- Blacklivesmatter
+- Activism
 - Ferguson
 title: 'Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle
   for Offline Justice'

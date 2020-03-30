@@ -9,9 +9,9 @@ dates:
 published: 2017-02-03
 slug: 20170203-women-s-march-tweet-ids
 subjects:
-- WomensMarch
-- activism
-- politics
+- Womensmarch
+- Activism
+- Politics
 title: Women's March Tweet Ids
 tweets: 7275228
 url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5ZVMOR

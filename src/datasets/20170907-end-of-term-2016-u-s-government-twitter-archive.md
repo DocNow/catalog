@@ -10,7 +10,7 @@ dates:
 published: 2017-08-30
 slug: 20170907-end-of-term-2016-u-s-government-twitter-archive
 subjects:
-- government
+- Government
 - Obama
 title: End of Term 2016 U.S. Government Twitter Archive
 tweets: 5655632

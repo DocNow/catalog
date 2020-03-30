@@ -8,7 +8,7 @@ dates:
 published: 2016-04-13
 slug: 20161223-thechalkening-tweets
 subjects:
-- politics
+- Politics
 title: '#thechalkening tweets'
 tweets: 115524
 url: http://hdl.handle.net/10864/11591

@@ -8,7 +8,7 @@ dates:
 published: 2020-03-13
 slug: 20200328-coronavirus-covid-19-tweets
 subjects:
-- COVID-19
+- Covid-19
 - Coronavirus
 - Sentiment Analysis
 - Machine Learning

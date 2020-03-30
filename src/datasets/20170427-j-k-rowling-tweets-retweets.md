@@ -8,8 +8,8 @@ dates:
 published: 2017-04-27
 slug: 20170427-j-k-rowling-tweets-retweets
 subjects:
-- writers
-- fantasy
+- Writers
+- Fantasy
 title: J. K. Rowling tweets/retweets
 tweets: 10159892
 url: https://archive.org/details/Jk_rowlingTweets

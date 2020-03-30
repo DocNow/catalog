@@ -9,7 +9,7 @@ dates:
 published: 2017-09-22
 slug: 20190922-demdebate
 subjects:
-- politics
+- Politics
 title: demdebate
 tweets: 1280956
 url: https://archive.org/details/demdebate-20190912
