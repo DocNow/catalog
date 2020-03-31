@@ -1,0 +1,30 @@
+.dataset {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.metadata {
+  flex: 1;
+}
+
+.metadata dl {
+  margin-top: 0px;
+}
+
+.description {
+  flex: 1;
+}
+
+.dataset dt, .dataset .label {
+  font-weight: bold;
+}
+
+@media only screen and (min-width: 768px) {
+  .dataset {
+    flex-direction: row;
+    max-width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
