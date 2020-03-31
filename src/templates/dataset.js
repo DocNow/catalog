@@ -8,7 +8,7 @@ const Dataset = ({ pageContext: dataset }) => (
       <dd>{dataset.title}</dd>
       <dt>Creator:</dt>
       <dd>
-        {dataset.creator.map(a => (
+        {dataset.creators.map(a => (
           <span>{a}</span>
         ))}
       </dd>

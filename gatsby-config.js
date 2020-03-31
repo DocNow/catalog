@@ -4,6 +4,7 @@ module.exports = {
     description: `A catalog of tweet identifier datasets`,
     author: `Documenting the Now`,
   },
+  pathPrefix: `/catalog`,
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-json`,

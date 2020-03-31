@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react"
+import { Link, withPrefix } from "gatsby"
 import FormControl from "@material-ui/core/FormControl"
 import Select from "@material-ui/core/Select"
 import InputLabel from "@material-ui/core/InputLabel"
@@ -28,7 +29,8 @@ const Datasets = () => {
   // and *only* when the component mounts
   useEffect(() => {
     async function fetchData() {
-      const resp = await fetch('/data/datasets.json')
+      const url = withPrefix('/data/datasets.json')
+      const resp = await fetch(url)
       const datasets = await resp.json()
       setDatasets(datasets)
 
