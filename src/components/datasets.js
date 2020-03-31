@@ -18,49 +18,64 @@ import moment from "moment"
 import style from "./datasets.module.css"
 
 const Datasets = () => {
+
+  // set up some hooks to manage state
   const [datasets, setDatasets] = useState([])
+  const [filtered, setFiltered] = useState([])
   const [subjects, setSubjects] = useState([])
   const [start, setStart] = useState('2010-01-01')
-  const [end, setEnd] = useState('2020-01-01')
-  const [subjectFilter, setSubjectFilter] = useState('All')
+  const [end, setEnd] = useState(moment().format('YYYY-MM-DD'))
+  const [subject, setSubject] = useState('All')
   const [search, setSearch] = useState('')
 
-  // load all the datasets when the component mounts
-  // and *only* when the component mounts
+  // load initial datasets data when the component mounts
   useEffect(() => {
+    // note: useEffect warns about being given an async function
     async function fetchData() {
+
+      // get the datasets.json data
       const url = withPrefix('/data/datasets.json')
       const resp = await fetch(url)
       const datasets = await resp.json()
-      datasets.sort((a, b) => new Date(b.added) - new Date(a.added))
+
+      // sort the datasets by added date, descending
+      datasets.sort((a, b) => new Date(b.dates[0].start) - new Date(a.dates[0].start))
+
+      // update the display with latest data
       setDatasets(datasets)
-
-      let subjects = new Set()
-      let start, end = null
-
-      for (const d of datasets) {
-
-        for (const s of d.subjects) {
-          subjects.add(s)
-        }
-
-        for (const r of d.dates) {
-          let s = new Date(r.start)
-          let e = new Date(r.end)
-          if (start == null || s < start) start = s
-          if (end == null || e > end) end = e
-        }
-
-      }
-
-      subjects = Array.from(subjects).sort()
-      setSubjects(subjects)
-      setStart(moment(start).format('YYYY-MM-DD'))
-      setEnd(moment(end).format('YYYY-MM-DD'))
+      setFiltered(datasets.map(d => d.slug))
+      setSubjects(getSubjects(datasets))
+      setStart(getEarliestDate(datasets))
     }
+
     fetchData()
   }, [])
 
+  // filter by subject
+  useEffect(() => {
+    if (subject !== 'All') {
+      console.log('subject:', subject)
+      const slugs = datasets
+        .filter(d => d.subjects.includes(subject))
+        .map(d => d.slug)
+      setFiltered(slugs)
+    }
+  }, [subject, datasets])
+
+  // filter by start, end
+  useEffect(() => {
+    const slugs = []
+    for (const dataset of datasets) {
+      for (const date of dataset.dates) {
+        if (date.start >= start && date.start <= end && date.end >= start && date.end <= end) {
+          slugs.push(dataset.slug)
+        }
+      }
+    }
+    setFiltered(slugs)
+  }, [start, end, datasets])
+
+  // render the datasets!
   return (
     <section className={style.datasets}>
       <section style={{ maxWidth :'100%' }}>
@@ -69,8 +84,8 @@ const Datasets = () => {
           <div className={style.subjects}>
           <InputLabel>Subjects</InputLabel>
           <Select 
-            onChange={e => setSubjectFilter(e.target.value)} 
-            value={subjectFilter}>
+            onChange={e => setSubject(e.target.value)} 
+            value={subject}>
             <MenuItem value="All">All</MenuItem>
             {subjects.map(s => 
             <MenuItem key={s} value={s}>{s}
@@ -115,13 +130,13 @@ const Datasets = () => {
 
         <div className={style.summary}>
           <div className={style.recordCount}>
-            {datasets.length} Records <br/>
+            {filtered.length} Records <br/>
           </div>
           <div className={style.tweetCount}>
-            {datasets.map(d => d.tweets).reduce((a, b) => a + b, 0).toLocaleString()} Tweets
+            {datasets.filter(d => filtered.includes(d.slug)).map(d => d.tweets).reduce((a, b) => a + b, 0).toLocaleString()} Tweets
           </div>
           <div className={style.licenseNote}>
-            Note all metadata is shared under a CC0 license. Please read 
+            Note: all metadata is shared under a CC0 license. Please read 
             our <a href="https://github.com/docnow/code-of-conduct#readme">Code of Conduct</a> for
             more information about contributing datasets.
           </div>
@@ -140,8 +155,8 @@ const Datasets = () => {
               </TableRow>
             </TableHead>
             <TableBody>
-            {datasets.map(d => (
-              <TableRow key={d.slug}>
+            {datasets.filter(d => filtered.includes(d.slug)).map((d, i) => (
+              <TableRow key={`dataset-${i}`}>
                 <TableCell>{d.dates[0].start} - {d.dates[0].end}</TableCell>
                 <TableCell><Link to={`/datasets/${d.slug}/`}>{d.title}</Link></TableCell>
                 <TableCell align="right">{d.tweets.toLocaleString()}</TableCell>
@@ -157,6 +172,28 @@ const Datasets = () => {
     </section>
   )
 
+}
+
+function getSubjects(datasets) {
+  let subjects = new Set()
+  for (const d of datasets) {
+    for (const s of d.subjects) {
+      subjects.add(s)
+    }
+  }
+  subjects = Array.from(subjects).sort()
+  return subjects
+}
+
+function getEarliestDate(datasets) {
+  let start = null
+  for (const d of datasets) {
+    for (const r of d.dates) {
+      let s = new Date(r.start)
+      if (start == null || s < start) start = s
+    }
+  }
+  return moment(start).format('YYYY-MM-DD')
 }
 
 export default Datasets

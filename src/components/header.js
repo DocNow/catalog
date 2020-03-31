@@ -10,13 +10,13 @@ const Header = ({ siteTitle }) => (
   <header>
     <div className={style.docnow}>
       <a href="https://www.docnow.io">
-        <img title="Documenting the Now" src={DocNow} />
+        <img alt="Documenting the Now" title="Documenting the Now" src={DocNow} />
       </a>
     </div>
 
     <div className={style.catalog}>
       <Link className={style.catalog} to="/">
-        <img title={siteTitle} src={Catalog} />
+        <img alt={siteTitle} title={siteTitle} src={Catalog} />
       </Link>
     </div>
 

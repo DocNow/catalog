@@ -58,6 +58,7 @@ tr:nth-child(even) {
 }
 
 .licenseNote {
+  margin-left: 20px;
   color: gray;
 }
 
