@@ -3,10 +3,10 @@ added: 2017-12-11 07:40:01+00:00
 creators:
 - Nick Ruest
 dates:
-- end: 2017-06-21
-  start: 2017-05-07
-- end: 2020-03-21
-  start: 2017-06-23
+- end: '2017-06-21'
+  start: '2017-05-07'
+- end: '2020-03-21'
+  start: '2017-06-23'
 published: 2017-12-10
 slug: 20171211-tweets-to-donald-trump-realdonaldtrump
 subjects:

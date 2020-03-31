@@ -4,8 +4,8 @@ creators:
 - Aaron Beveridge
 - Nicholas M. Van Horn
 dates:
-- end: 2016-12-31
-  start: 2008-01-01
+- end: '2016-12-31'
+  start: '2008-01-01'
 published: 2019-06-20
 slug: 20190624-obama-hope-tweets
 subjects:

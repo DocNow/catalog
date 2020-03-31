@@ -5,8 +5,8 @@ creators:
 - Laura Wrubel
 - Daniel Kerchner
 dates:
-- end: 2016-11-10
-  start: 2016-07-13
+- end: '2016-11-10'
+  start: '2016-07-13'
 published: 2016-11-29
 slug: 20161223-2016-united-states-presidential-election-tweet-ids
 subjects:

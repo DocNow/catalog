@@ -3,8 +3,8 @@ added: 2019-09-17 16:08:01+00:00
 creators:
 - Sofia Papastamkou
 dates:
-- end: 2015-07-16
-  start: 2015-07-06
+- end: '2015-07-16'
+  start: '2015-07-06'
 published: 2017-09-09
 slug: 20190917-2015-greek-referendum-greferendum-tweets
 subjects:

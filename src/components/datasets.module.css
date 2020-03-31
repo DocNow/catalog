@@ -1,0 +1,63 @@
+.datasets {
+  margin: 25px;
+}
+
+div.filter {
+  margin-top: 40px;
+  margin-bottom: 0px;
+  display: flex;
+  flex-direction: row;
+}
+
+.subjects {
+  flex-grow: 1;
+}
+
+.tweetsStart {
+  flex-grow: 1;
+}
+
+.tweetsEnd {
+  flex-grow: 1;
+}
+
+.search {
+  flex-grow: 3;
+}
+
+.search input {
+  width: 350px;
+}
+
+.addRecord {
+  flex-grow: 1;
+  text-align: left;
+}
+
+.colHeader th {
+  font-weight: bold;
+}
+
+tr:nth-child(even) { 
+  background-color: #eee;
+} 
+
+.summary {
+  display: flex;
+  margin: 25px 0px 25px 0px;
+  font-size: 12pt;
+}
+
+.recordCount { 
+  font-weight: bold;
+  margin-right: 50px;
+}
+
+.tweetCount {
+  font-weight: bold;
+}
+
+.licenseNote {
+  color: gray;
+}
+

@@ -3,8 +3,8 @@ added: 2017-09-17 09:34:11-07:00
 creators:
 - Bergis Jules
 dates:
-- end: 2017-09-17
-  start: 2017-09-15
+- end: '2017-09-17'
+  start: '2017-09-15'
 published: 2017-09-17
 slug: 20170917-drawingwhileblack
 subjects:

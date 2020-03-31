@@ -1,0 +1,21 @@
+header {
+  border-bottom: 5px solid black;
+  display: flex;
+}
+
+header img {
+  height: 50px;
+}
+
+header .docnow {
+  flex-grow: 1;
+}
+
+header .catalog {
+  flex-grow: 1;
+  text-align: center;
+}
+
+header .right {
+  flex-grow: 1;
+}

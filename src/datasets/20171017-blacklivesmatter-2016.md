@@ -3,8 +3,8 @@ added: 2017-10-17 21:32:09+00:00
 creators:
 - Ed Summers
 dates:
-- end: 2017-03-18
-  start: 2016-01-29
+- end: '2017-03-18'
+  start: '2016-01-29'
 published: 2017-10-17
 slug: 20171017-blacklivesmatter-2016
 subjects:

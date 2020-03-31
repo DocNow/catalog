@@ -3,8 +3,8 @@ added: 2018-01-06 10:26:05+00:00
 creators:
 - Bergis Jules
 dates:
-- end: 2018-01-06
-  start: 2017-12-27
+- end: '2018-01-06'
+  start: '2017-12-27'
 published: 2018-01-06
 slug: 20180106-blktwitterstorians-january-2018-chat
 subjects:

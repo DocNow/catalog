@@ -3,8 +3,8 @@ added: 2020-03-12 06:04:14+00:00
 creators:
 - bigIR research group
 dates:
-- end: 2015-02-02
-  start: 2014-12-30
+- end: '2015-02-02'
+  start: '2014-12-30'
 published: 2017-12-21
 slug: 20200312-evetar-a-large-scale-multi-task-test-collection-over-arabic-tweets
 subjects:

@@ -3,8 +3,8 @@ added: 2017-08-24 21:16:00+00:00
 creators:
 - Laura Wrubel
 dates:
-- end: 2017-08-18
-  start: 2017-08-12
+- end: '2017-08-18'
+  start: '2017-08-12'
 published: 2017-08-18
 slug: 20170824-witbragday
 subjects:

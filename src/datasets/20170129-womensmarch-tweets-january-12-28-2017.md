@@ -3,8 +3,8 @@ added: 2017-01-29 17:39:38+00:00
 creators:
 - Nick Ruest
 dates:
-- end: 2017-01-28
-  start: 2017-01-12
+- end: '2017-01-28'
+  start: '2017-01-12'
 published: 2017-01-29
 slug: 20170129-womensmarch-tweets-january-12-28-2017
 subjects:

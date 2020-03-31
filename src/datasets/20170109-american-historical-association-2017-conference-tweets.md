@@ -3,8 +3,8 @@ added: 2017-01-09 07:05:07+00:00
 creators:
 - Ian Milligan
 dates:
-- end: 2017-01-09
-  start: 2017-01-04
+- end: '2017-01-09'
+  start: '2017-01-04'
 published: 2017-01-09
 slug: 20170109-american-historical-association-2017-conference-tweets
 subjects:

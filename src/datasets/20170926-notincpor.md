@@ -3,8 +3,8 @@ added: 2017-09-26 12:30:45+00:00
 creators:
 - Society of Catalan Archivists
 dates:
-- end: 2017-08-26
-  start: 2017-08-17
+- end: '2017-08-26'
+  start: '2017-08-17'
 published: 2017-09-26
 slug: 20170926-notincpor
 subjects:

@@ -5,8 +5,8 @@ creators:
 - Dan Kerchner
 - Laura Wrubel
 dates:
-- end: 2017-01-21
-  start: 2016-10-21
+- end: '2017-01-21'
+  start: '2016-10-21'
 published: 2017-08-30
 slug: 20170907-end-of-term-2016-u-s-government-twitter-archive
 subjects:

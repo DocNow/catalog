@@ -3,10 +3,10 @@ added: 2017-12-11 07:40:01+00:00
 creators:
 - Nick Ruest
 dates:
-- end: 2017-09-21
-  start: 2017-06-05
-- end: 2017-12-09
-  start: 2017-10-26
+- end: '2017-09-21'
+  start: '2017-06-05'
+- end: '2017-12-09'
+  start: '2017-10-26'
 published: 2017-12-10
 slug: 20171211-jeffsessions-tweets
 subjects:

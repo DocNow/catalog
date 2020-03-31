@@ -4,8 +4,8 @@ creators:
 - Justin Littman
 - Soomin Park
 dates:
-- end: 2017-01-23
-  start: 2016-12-19
+- end: '2017-01-23'
+  start: '2016-12-19'
 published: 2017-02-03
 slug: 20170203-women-s-march-tweet-ids
 subjects:

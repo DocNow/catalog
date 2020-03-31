@@ -18,7 +18,7 @@ def json_serial(obj):
 def unpack_date(s):
     dates = s.split(' - ')
     dates = list(map(lambda d: parse(d).date(), dates))
-    return {"start": dates[0], "end": dates[1]}
+    return {"start": dates[0].strftime('%Y-%m-%d'), "end": dates[1].strftime('%Y-%m-%d')}
 
 for d in datasets:
 

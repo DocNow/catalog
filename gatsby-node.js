@@ -13,15 +13,15 @@ async function makeDatasets(createPage, graphql, pathPrefix) {
           frontmatter {
             slug
             title
-            creator
+            creators
             added
             published
             dates {
               start
               end
             }
+            subjects
             tweets
-            tags
             url
           }
           html

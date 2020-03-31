@@ -3,8 +3,8 @@ added: 2018-10-10 15:59:07+00:00
 creators:
 - Urban Big Data Centre
 dates:
-- end: 2015-11-30
-  start: 2014-07-01
+- end: '2015-11-30'
+  start: '2014-07-01'
 published: 2018-10-10
 slug: 20181010-imcd-twitter-data
 subjects:

@@ -3,8 +3,8 @@ added: 2018-03-26 15:57:00+00:00
 creators:
 - Renato Gabriele
 dates:
-- end: 2017-10-24
-  start: 2017-10-01
+- end: '2017-10-24'
+  start: '2017-10-01'
 published: 2018-03-26
 slug: 20180326-estamosporti
 subjects:

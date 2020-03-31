@@ -3,8 +3,8 @@ added: 2016-12-31 09:46:22-05:00
 creators:
 - Nick Ruest
 dates:
-- end: 2016-09-22
-  start: 2016-08-12
+- end: '2016-09-22'
+  start: '2016-08-12'
 published: 2016-12-31
 slug: 20161231-tweet-ids-for-final-tragically-hip-concert
 subjects:

@@ -3,8 +3,8 @@ added: 2016-12-24 10:14:07-05:00
 creators:
 - Mark Phillips
 dates:
-- end: 2014-06-08
-  start: 2014-05-25
+- end: '2014-06-08'
+  start: '2014-05-25'
 published: 2014-06-08
 slug: 20161224-yes-all-women-twitter-dataset
 subjects:

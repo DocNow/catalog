@@ -3,8 +3,8 @@ added: 2020-03-28 14:35:43-05:45
 creators:
 - Rabindra Lamsal
 dates:
-- end: 2020-03-28
-  start: 2020-03-19
+- end: '2020-03-28'
+  start: '2020-03-19'
 published: 2020-03-13
 slug: 20200328-coronavirus-covid-19-tweets
 subjects:

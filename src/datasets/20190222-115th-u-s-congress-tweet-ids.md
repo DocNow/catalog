@@ -4,8 +4,8 @@ creators:
 - Justin Littman
 - Yonah Bromberg Graber
 dates:
-- end: 2019-01-02
-  start: 2017-01-27
+- end: '2019-01-02'
+  start: '2017-01-27'
 published: 2019-02-05
 slug: 20190222-115th-u-s-congress-tweet-ids
 subjects:

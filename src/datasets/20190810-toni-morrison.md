@@ -3,8 +3,8 @@ added: 2019-08-10 12:49:05+00:00
 creators:
 - Melanie Walsh
 dates:
-- end: 2019-08-09
-  start: 2019-08-06
+- end: '2019-08-09'
+  start: '2019-08-06'
 published: 2019-08-10
 slug: 20190810-toni-morrison
 subjects:

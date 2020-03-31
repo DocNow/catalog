@@ -3,8 +3,8 @@ added: 2018-03-27 13:25:00+00:00
 creators:
 - Renato Gabriele
 dates:
-- end: 2018-01-24
-  start: 2017-02-19
+- end: '2018-01-24'
+  start: '2017-02-19'
 published: 2018-03-27
 slug: 20180327-macerata-attack-2018
 subjects:

@@ -3,8 +3,8 @@ added: 2017-05-19 20:13:07+00:00
 creators:
 - Joel A. Blanco-Rivera
 dates:
-- end: 2017-05-18
-  start: 2017-04-11
+- end: '2017-05-18'
+  start: '2017-04-11'
 published: 2017-05-19
 slug: 20170519-huelgaupr-tweets-april-20-may-18-2017
 subjects:

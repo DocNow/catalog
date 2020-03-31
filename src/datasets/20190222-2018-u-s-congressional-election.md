@@ -5,8 +5,8 @@ creators:
 - Laura Wrubel
 - Dan Kerchner
 dates:
-- end: 2019-01-03
-  start: 2018-01-22
+- end: '2019-01-03'
+  start: '2018-01-22'
 published: 2019-02-05
 slug: 20190222-2018-u-s-congressional-election
 subjects:

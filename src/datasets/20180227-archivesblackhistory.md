@@ -3,8 +3,8 @@ added: 2018-02-27 11:49:00-05:00
 creators:
 - Ed Summers
 dates:
-- end: 2018-02-27
-  start: 2018-02-17
+- end: '2018-02-27'
+  start: '2018-02-17'
 published: 2018-02-27
 slug: 20180227-archivesblackhistory
 subjects:

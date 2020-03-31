@@ -3,8 +3,8 @@ added: 2018-05-11 10:14:07+00:00
 creators:
 - Bergis Jules
 dates:
-- end: 2018-05-10
-  start: 2018-05-01
+- end: '2018-05-10'
+  start: '2018-05-01'
 published: 2018-05-11
 slug: 20180511-blackwomanhood
 subjects:

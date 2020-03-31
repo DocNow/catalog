@@ -3,8 +3,8 @@ added: 2017-01-07 03:33:07+00:00
 creators:
 - Peter Binkley
 dates:
-- end: 2014-12-06
-  start: 2014-11-28
+- end: '2014-12-06'
+  start: '2014-11-28'
 published: 2017-01-06
 slug: 20170107-bill-10-twitter-ids
 subjects:

@@ -3,8 +3,8 @@ added: 2019-04-01 17:00:00+00:00
 creators:
 - Gevorg Poghosyan
 dates:
-- end: 2017-05-24
-  start: 2015-07-15
+- end: '2017-05-24'
+  start: '2015-07-15'
 published: 2019-04-01
 slug: 20190401-insight4news-hashtagged-tweet-dataset
 subjects:

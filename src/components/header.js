@@ -2,15 +2,27 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
+import DocNow from "../images/docnow.png"
+import Catalog from "../images/catalog.png"
+import style from "./header.module.css"
+
 const Header = ({ siteTitle }) => (
   <header>
-    <div>
-      <h1 style={{ margin: 0 }}>
-        <Link to="/">
-          {siteTitle}
-        </Link>
-      </h1>
+    <div className={style.docnow}>
+      <a href="https://www.docnow.io">
+        <img title="Documenting the Now" src={DocNow} />
+      </a>
     </div>
+
+    <div className={style.catalog}>
+      <Link className={style.catalog} to="/">
+        <img title={siteTitle} src={Catalog} />
+      </Link>
+    </div>
+
+    <div className={style.right}>
+    </div>
+
   </header>
 )
 

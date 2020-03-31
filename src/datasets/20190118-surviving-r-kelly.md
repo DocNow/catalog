@@ -4,8 +4,8 @@ creators:
 - Bergis Jules
 - Ed Summers
 dates:
-- end: 2019-01-05
-  start: 2018-12-25
+- end: '2019-01-05'
+  start: '2018-12-25'
 published: 2019-01-19
 slug: 20190118-surviving-r-kelly
 subjects:

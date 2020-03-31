@@ -3,8 +3,8 @@ added: 2018-12-04 10:14:07+00:00
 creators:
 - Twitter
 dates:
-- end: 2018-06-21
-  start: 2009-05-09
+- end: '2018-06-21'
+  start: '2009-05-09'
 published: 2018-10-17
 slug: 20181204-twitter-internet-research-agency-dataset
 subjects:

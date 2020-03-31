@@ -3,8 +3,8 @@ added: 2017-08-31 13:43:32+00:00
 creators:
 - Mark Phillips
 dates:
-- end: 2016-07-14
-  start: 2016-07-05
+- end: '2016-07-14'
+  start: '2016-07-05'
 published: 2017-08-31
 slug: 20170831-dallas-police-shooting-twitter-dataset
 subjects:

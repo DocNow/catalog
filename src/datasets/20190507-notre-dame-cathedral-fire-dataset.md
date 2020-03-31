@@ -3,8 +3,8 @@ added: 2019-05-07 00:00:00+00:00
 creators:
 - Mark Phillips
 dates:
-- end: 2019-04-29
-  start: 2019-04-08
+- end: '2019-04-29'
+  start: '2019-04-08'
 published: 2019-05-07
 slug: 20190507-notre-dame-cathedral-fire-dataset
 subjects:

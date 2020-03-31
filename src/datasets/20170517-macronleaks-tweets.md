@@ -3,8 +3,8 @@ added: 2017-05-17 13:57:22+00:00
 creators:
 - Ed Summers
 dates:
-- end: 2017-05-10
-  start: 2017-05-02
+- end: '2017-05-10'
+  start: '2017-05-02'
 published: 2017-05-17
 slug: 20170517-macronleaks-tweets
 subjects:

@@ -3,8 +3,8 @@ added: 2017-08-12 13:39:25+00:00
 creators:
 - Bergis Jules
 dates:
-- end: 2017-08-12
-  start: 2017-08-12
+- end: '2017-08-12'
+  start: '2017-08-12'
 published: 2017-08-12
 slug: 20170812-charlottesville
 subjects:

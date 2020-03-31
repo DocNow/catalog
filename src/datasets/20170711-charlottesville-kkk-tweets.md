@@ -3,8 +3,8 @@ added: 2017-07-11 19:35:27+00:00
 creators:
 - Jeremy Boggs
 dates:
-- end: 2017-07-11
-  start: 2017-06-28
+- end: '2017-07-11'
+  start: '2017-06-28'
 published: 2017-07-11
 slug: 20170711-charlottesville-kkk-tweets
 subjects:

@@ -3,8 +3,8 @@ added: 2017-11-21 18:55:30+00:00
 creators:
 - Ed Summers
 dates:
-- end: 2017-11-07
-  start: 2017-10-04
+- end: '2017-11-07'
+  start: '2017-10-04'
 published: 2017-11-21
 slug: 20171121-puertorico
 subjects:

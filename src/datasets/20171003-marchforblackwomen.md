@@ -3,8 +3,8 @@ added: 2017-10-03 16:12:39+00:00
 creators:
 - Bergis Jules
 dates:
-- end: 2017-10-03
-  start: 2017-09-24
+- end: '2017-10-03'
+  start: '2017-09-24'
 published: 2017-10-03
 slug: 20171003-marchforblackwomen
 subjects:

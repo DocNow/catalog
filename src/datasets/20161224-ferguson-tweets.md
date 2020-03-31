@@ -3,10 +3,10 @@ added: 2016-12-24 10:14:07-05:00
 creators:
 - Ed Summers
 dates:
-- end: 2014-08-27
-  start: 2014-08-10
-- end: 2014-12-08
-  start: 2014-11-11
+- end: '2014-08-27'
+  start: '2014-08-10'
+- end: '2014-12-08'
+  start: '2014-11-11'
 published: 2015-11-18
 slug: 20161224-ferguson-tweets
 subjects:

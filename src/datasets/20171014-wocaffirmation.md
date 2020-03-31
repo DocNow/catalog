@@ -3,8 +3,8 @@ added: 2017-10-14 09:20:23+00:00
 creators:
 - Bergis Jules
 dates:
-- end: 2017-10-14
-  start: 2017-10-13
+- end: '2017-10-14'
+  start: '2017-10-13'
 published: 2017-10-14
 slug: 20171014-wocaffirmation
 subjects:
