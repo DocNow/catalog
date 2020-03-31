@@ -6,6 +6,7 @@ dates:
 - end: '2013-04-30'
   start: '2013-04-01'
 published: 2019-01-24
+repository: GitHub
 slug: 20190828-german-twitter-snapshot
 subjects:
 - Germany

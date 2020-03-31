@@ -6,6 +6,7 @@ dates:
 - end: '2018-10-03'
   start: '2018-09-05'
 published: 2018-10-08
+repository: University of North Texas
 slug: 20181008-hurricane-florence-twitter-dataset
 subjects:
 - Hurricane

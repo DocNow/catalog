@@ -6,6 +6,7 @@ dates:
 - end: '2017-09-19'
   start: '2017-09-18'
 published: 2017-10-27
+repository: Dryad
 slug: 20171027-blacktheory
 subjects:
 - Black History

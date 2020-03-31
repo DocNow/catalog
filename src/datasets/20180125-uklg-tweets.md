@@ -6,6 +6,7 @@ dates:
 - end: '2018-01-24'
   start: '2018-01-14'
 published: 2018-01-25
+repository: Internet Archive
 slug: 20180125-uklg-tweets
 subjects:
 - Scifi

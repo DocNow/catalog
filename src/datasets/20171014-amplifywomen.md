@@ -6,6 +6,7 @@ dates:
 - end: '2017-10-14'
   start: '2017-10-11'
 published: 2017-10-14
+repository: Dryad
 slug: 20171014-amplifywomen
 subjects:
 - Black Women

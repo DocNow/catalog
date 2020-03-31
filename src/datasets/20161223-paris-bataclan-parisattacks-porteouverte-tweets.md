@@ -6,6 +6,7 @@ dates:
 - end: '2015-12-08'
   start: '2015-11-04'
 published: 2015-12-12
+repository: Scholars Portal Dataverse
 slug: 20161223-paris-bataclan-parisattacks-porteouverte-tweets
 subjects:
 - Politics

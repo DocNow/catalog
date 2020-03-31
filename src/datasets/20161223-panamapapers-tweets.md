@@ -6,6 +6,7 @@ dates:
 - end: '2016-04-29'
   start: '2016-04-04'
 published: 2016-04-13
+repository: Scholars Portal Dataverse
 slug: 20161223-panamapapers-tweets
 subjects:
 - Politics

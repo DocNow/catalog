@@ -20,6 +20,7 @@ async function makeDatasets(createPage, graphql, pathPrefix) {
               start
               end
             }
+            repository
             subjects
             tweets
             url

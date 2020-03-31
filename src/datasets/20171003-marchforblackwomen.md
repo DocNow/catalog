@@ -6,6 +6,7 @@ dates:
 - end: '2017-10-03'
   start: '2017-09-24'
 published: 2017-10-03
+repository: Dryad
 slug: 20171003-marchforblackwomen
 subjects:
 - Black Women

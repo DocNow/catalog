@@ -6,6 +6,7 @@ dates:
 - end: '2017-04-07'
   start: '2017-04-07'
 published: 2018-02-02
+repository: Internet Archive
 slug: 20180202-stockholm-attack-2017
 subjects:
 - Terrorism

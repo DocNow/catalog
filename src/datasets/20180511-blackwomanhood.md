@@ -6,6 +6,7 @@ dates:
 - end: '2018-05-10'
   start: '2018-05-01'
 published: 2018-05-11
+repository: Dryad
 slug: 20180511-blackwomanhood
 subjects:
 - Black Women

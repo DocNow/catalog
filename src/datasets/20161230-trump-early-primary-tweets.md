@@ -6,6 +6,7 @@ dates:
 - end: '2016-01-04'
   start: '2015-08-27'
 published: 2016-12-30
+repository: Internet Archive
 slug: 20161230-trump-early-primary-tweets
 subjects:
 - Politics

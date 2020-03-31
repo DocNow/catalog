@@ -6,6 +6,7 @@ dates:
 - end: '2017-08-26'
   start: '2017-08-17'
 published: 2017-09-26
+repository: Documenting the Now
 slug: 20170926-notincpor
 subjects:
 - Barcelona

@@ -6,6 +6,7 @@ dates:
 - end: '2014-06-08'
   start: '2014-05-25'
 published: 2014-06-08
+repository: University of North Texas
 slug: 20161224-yes-all-women-twitter-dataset
 subjects:
 - Harassment

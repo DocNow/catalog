@@ -6,6 +6,7 @@ dates:
 - end: '2016-06-25'
   start: '2016-05-01'
 published: 2016-08-21
+repository: Scholars Portal Dataverse
 slug: 20161223-ymmfire-tweets
 subjects:
 - Fort Mcmurry

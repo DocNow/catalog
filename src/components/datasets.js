@@ -32,6 +32,7 @@ const Datasets = () => {
       const url = withPrefix('/data/datasets.json')
       const resp = await fetch(url)
       const datasets = await resp.json()
+      datasets.sort((a, b) => new Date(b.added) - new Date(a.added))
       setDatasets(datasets)
 
       let subjects = new Set()
@@ -135,16 +136,18 @@ const Datasets = () => {
                 <TableCell align="right">TWEET COUNT</TableCell>
                 <TableCell>CREATOR</TableCell>
                 <TableCell>SUBJECTS</TableCell>
+                <TableCell>REPOSITORY</TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
             {datasets.map(d => (
               <TableRow key={d.slug}>
                 <TableCell>{d.dates[0].start} - {d.dates[0].end}</TableCell>
-                <TableCell>{d.title}</TableCell>
+                <TableCell><Link to={`/datasets/${d.slug}/`}>{d.title}</Link></TableCell>
                 <TableCell align="right">{d.tweets.toLocaleString()}</TableCell>
                 <TableCell>{d.creators.join(', ')}</TableCell>
                 <TableCell>{d.subjects.join(', ')}</TableCell>
+                <TableCell>{d.repository}</TableCell>
               </TableRow>
             ))}
             </TableBody>

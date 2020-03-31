@@ -6,6 +6,7 @@ dates:
 - end: '2018-02-27'
   start: '2018-02-17'
 published: 2018-02-27
+repository: Internet Archive
 slug: 20180227-archivesblackhistory
 subjects:
 - History

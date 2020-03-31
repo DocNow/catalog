@@ -8,6 +8,7 @@ dates:
 - end: '2014-12-08'
   start: '2014-11-11'
 published: 2015-11-18
+repository: Internet Archive
 slug: 20161224-ferguson-tweets
 subjects:
 - Activism

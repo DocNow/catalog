@@ -6,6 +6,7 @@ dates:
 - end: '2017-01-05'
   start: '2017-01-05'
 published: 2017-01-06
+repository: Dryad
 slug: 20170115-blmkidnapping
 subjects:
 - Blacklivesmatter

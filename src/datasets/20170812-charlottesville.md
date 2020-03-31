@@ -6,6 +6,7 @@ dates:
 - end: '2017-08-12'
   start: '2017-08-12'
 published: 2017-08-12
+repository: Dryad
 slug: 20170812-charlottesville
 subjects:
 - Racism

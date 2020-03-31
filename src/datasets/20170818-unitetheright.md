@@ -6,6 +6,7 @@ dates:
 - end: '2017-08-15'
   start: '2017-08-04'
 published: 2017-08-18
+repository: Internet Archive
 slug: 20170818-unitetheright
 subjects:
 - Racism

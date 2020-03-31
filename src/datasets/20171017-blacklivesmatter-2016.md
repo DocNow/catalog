@@ -6,6 +6,7 @@ dates:
 - end: '2017-03-18'
   start: '2016-01-29'
 published: 2017-10-17
+repository: Internet Archive
 slug: 20171017-blacklivesmatter-2016
 subjects:
 - Blacklivesmatter

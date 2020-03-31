@@ -6,6 +6,7 @@ dates:
 - end: '2017-11-07'
   start: '2017-10-04'
 published: 2017-11-21
+repository: Internet Archive
 slug: 20171121-puertorico
 subjects:
 - Puerto Rico

@@ -6,6 +6,7 @@ dates:
 - end: '2017-03-29'
   start: '2017-03-28'
 published: 2017-03-29
+repository: Dryad
 slug: 20170329-blackwomenatwork
 subjects:
 - Black Women

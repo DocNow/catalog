@@ -6,6 +6,7 @@ dates:
 - end: '2012-11-07'
   start: '2012-07-01'
 published: 2016-05-12
+repository: Microsoft
 slug: 20161223-election-2012-tweet-id-dataset
 subjects:
 - Politics

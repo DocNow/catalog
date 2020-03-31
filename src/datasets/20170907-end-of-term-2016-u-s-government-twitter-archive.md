@@ -8,6 +8,7 @@ dates:
 - end: '2017-01-21'
   start: '2016-10-21'
 published: 2017-08-30
+repository: Harvard Dataverse
 slug: 20170907-end-of-term-2016-u-s-government-twitter-archive
 subjects:
 - Government

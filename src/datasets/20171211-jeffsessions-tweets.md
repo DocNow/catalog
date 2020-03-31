@@ -8,6 +8,7 @@ dates:
 - end: '2017-12-09'
   start: '2017-10-26'
 published: 2017-12-10
+repository: Scholars Portal Dataverse
 slug: 20171211-jeffsessions-tweets
 subjects:
 - American Politics

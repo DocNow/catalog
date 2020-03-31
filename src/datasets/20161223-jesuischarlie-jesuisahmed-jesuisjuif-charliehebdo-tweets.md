@@ -6,6 +6,7 @@ dates:
 - end: '2015-01-28'
   start: '2015-01-07'
 published: 2015-01-14
+repository: Scholars Portal Dataverse
 slug: 20161223-jesuischarlie-jesuisahmed-jesuisjuif-charliehebdo-tweets
 subjects:
 - Politics

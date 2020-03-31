@@ -6,6 +6,7 @@ dates:
 - end: '2017-04-20'
   start: '2017-01-30'
 published: 2018-02-22
+repository: Harvard Dataverse
 slug: 20180222-immigration-and-travel-ban-tweet-ids
 subjects:
 - Immigration

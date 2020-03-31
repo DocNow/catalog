@@ -6,6 +6,7 @@ dates:
 - end: '2017-03-18'
   start: '2017-02-09'
 published: 2017-03-27
+repository: Internet Archive
 slug: 20170328-fake-news-tweets
 subjects:
 - Politics

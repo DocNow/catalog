@@ -6,6 +6,7 @@ dates:
 - end: '2019-08-09'
   start: '2019-08-06'
 published: 2019-08-10
+repository: Internet Archive
 slug: 20190810-toni-morrison
 subjects:
 - Literature

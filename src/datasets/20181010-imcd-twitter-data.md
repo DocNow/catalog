@@ -6,6 +6,7 @@ dates:
 - end: '2015-11-30'
   start: '2014-07-01'
 published: 2018-10-10
+repository: University of Glasgow
 slug: 20181010-imcd-twitter-data
 subjects:
 - Glasgow

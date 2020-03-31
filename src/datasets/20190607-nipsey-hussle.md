@@ -8,6 +8,7 @@ dates:
 - end: '2019-04-15'
   start: '2019-03-28'
 published: 2019-06-07
+repository: Internet Archive
 slug: 20190607-nipsey-hussle
 subjects:
 - Los Angeles

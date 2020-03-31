@@ -8,6 +8,7 @@ dates:
 - end: '2017-10-07'
   start: '2017-09-29'
 published: 2018-11-14
+repository: University of Las Vegas
 slug: 20181114-2017-shooting-in-las-vegas
 subjects:
 - Las Vegas

@@ -6,6 +6,7 @@ dates:
 - end: '2017-08-18'
   start: '2017-08-12'
 published: 2017-08-18
+repository: Harvard Dataverse
 slug: 20170824-witbragday
 subjects:
 - Women

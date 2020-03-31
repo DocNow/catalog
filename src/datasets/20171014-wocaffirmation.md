@@ -6,6 +6,7 @@ dates:
 - end: '2017-10-14'
   start: '2017-10-13'
 published: 2017-10-14
+repository: Dryad
 slug: 20171014-wocaffirmation
 subjects:
 - Black Women

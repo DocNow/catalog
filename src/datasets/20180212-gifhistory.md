@@ -6,6 +6,7 @@ dates:
 - end: '2018-02-12'
   start: '2018-02-09'
 published: 2018-02-11
+repository: Dryad
 slug: 20180212-gifhistory
 subjects:
 - Gifs
