@@ -51,47 +51,15 @@ const Datasets = () => {
     fetchData()
   }, [])
 
-  // filter by subject
   useEffect(() => {
-    if (subject !== 'All') {
-      console.log('subject:', subject)
-      const slugs = datasets
-        .filter(d => d.subjects.includes(subject))
-        .map(d => d.slug)
-      setFiltered(slugs)
-    }
-  }, [subject, datasets])
-
-  // filter by start, end
-  useEffect(() => {
-    const slugs = []
-    for (const dataset of datasets) {
-      for (const date of dataset.dates) {
-        if (date.start >= start && date.start <= end && date.end >= start && date.end <= end) {
-          slugs.push(dataset.slug)
-        }
-      }
-    }
+    let slugs = datasets.map(d => d.slug)
+    slugs = intersection(slugs, filterSubjects(datasets, subject))
+    slugs = intersection(slugs, filterDates(datasets, start, end))
+    slugs = intersection(slugs, filterSearch(datasets, search))
+    slugs = Array.from(new Set(slugs))
     setFiltered(slugs)
-  }, [start, end, datasets])
-
-  // search
-  useEffect(() => {
-    const slugs = []
-    const pattern = new RegExp(search, 'i')
-    for (const d of datasets) {
-      if (d.title.match(pattern)) {
-        slugs.push(d.slug)
-      } else if (d.description.match(pattern)) {
-        slugs.push(d.slug)
-      } else if (d.creators.join(' ').match(pattern)) {
-        slugs.push(d.slug)
-      } else if (d.repository.match(pattern)) {
-        slugs.push(d.slug)
-      }
-    }
-    setFiltered(slugs)
-  }, [search, datasets])
+    setSubjects(getSubjects(datasets.filter(d => slugs.includes(d.slug))))
+  }, [subject, start, end, search, datasets])
 
   // render the datasets!
   return (
@@ -212,6 +180,53 @@ function getEarliestDate(datasets) {
     }
   }
   return moment(start).format('YYYY-MM-DD')
+}
+
+function filterSubjects(datasets, subject) {
+  let slugs = []
+  if (subject !== 'All') {
+    slugs = datasets
+      .filter(d => d.subjects.includes(subject))
+      .map(d => d.slug)
+  } else {
+    slugs = datasets.map(d => d.slug)
+  }
+  return slugs
+}
+
+function filterDates(datasets, start, end) {
+  const slugs = []
+  for (const dataset of datasets) {
+    for (const date of dataset.dates) {
+      if (date.start >= start && date.start <= end && date.end >= start && date.end <= end) {
+        slugs.push(dataset.slug)
+      }
+    }
+  }
+  return slugs
+}
+
+function filterSearch(datasets, search) {
+  const pattern = new RegExp(search, 'i')
+  const slugs = []
+  for (const d of datasets) {
+    if (d.title.match(pattern)) {
+      slugs.push(d.slug)
+    } else if (d.description.match(pattern)) {
+      slugs.push(d.slug)
+    } else if (d.creators.join(' ').match(pattern)) {
+      slugs.push(d.slug)
+    } else if (d.repository.match(pattern)) {
+      slugs.push(d.slug)
+    } else if (d.subjects.join(' ').match(pattern)) {
+      slugs.push(d.slug)
+    }
+  }
+  return slugs
+}
+
+function intersection(a, b) {
+  return a.filter(value => -1 !== b.indexOf(value))
 }
 
 export default Datasets
