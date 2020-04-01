@@ -75,6 +75,24 @@ const Datasets = () => {
     setFiltered(slugs)
   }, [start, end, datasets])
 
+  // search
+  useEffect(() => {
+    const slugs = []
+    const pattern = new RegExp(search, 'i')
+    for (const d of datasets) {
+      if (d.title.match(pattern)) {
+        slugs.push(d.slug)
+      } else if (d.description.match(pattern)) {
+        slugs.push(d.slug)
+      } else if (d.creators.join(' ').match(pattern)) {
+        slugs.push(d.slug)
+      } else if (d.repository.match(pattern)) {
+        slugs.push(d.slug)
+      }
+    }
+    setFiltered(slugs)
+  }, [search, datasets])
+
   // render the datasets!
   return (
     <section className={style.datasets}>
