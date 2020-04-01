@@ -1,71 +1,5 @@
 [
   {
-    "slug": "20161223-cdnpoli-tweets-canadian-politics-2015",
-    "title": "#cdnpoli tweets (Canadian Politics, 2015)",
-    "creators": [
-      "Library and Archives Canada"
-    ],
-    "added": "2016-12-23T15:23:06.000Z",
-    "published": "2016-01-18T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2015-08-06",
-        "end": "2015-10-28"
-      }
-    ],
-    "repository": "Scholars Portal Dataverse",
-    "subjects": [
-      "Politics"
-    ],
-    "tweets": 2607886,
-    "url": "http://hdl.handle.net/10864/11348",
-    "description": "<p>Tweet IDs for tweets carrying the #cdnpoli hashtag, applied to Canadian politics, collected as part of a larger project centered on Canada's 42nd federal election.</p>"
-  },
-  {
-    "slug": "20161223-jesuischarlie-jesuisahmed-jesuisjuif-charliehebdo-tweets",
-    "title": "#JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets",
-    "creators": [
-      "Nick Ruest"
-    ],
-    "added": "2016-12-23T22:03:14.000Z",
-    "published": "2015-01-14T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2015-01-07",
-        "end": "2015-01-28"
-      }
-    ],
-    "repository": "Scholars Portal Dataverse",
-    "subjects": [
-      "Politics"
-    ],
-    "tweets": 13968293,
-    "url": "http://hdl.handle.net/10864/10830",
-    "description": "<p>Tweet ids for #JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets.</p>"
-  },
-  {
-    "slug": "20161223-election-2012-tweet-id-dataset",
-    "title": "Election 2012 Tweet ID dataset",
-    "creators": [
-      "Microsoft"
-    ],
-    "added": "2016-12-23T22:03:14.000Z",
-    "published": "2016-05-12T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2012-07-01",
-        "end": "2012-11-07"
-      }
-    ],
-    "repository": "Microsoft",
-    "subjects": [
-      "Politics"
-    ],
-    "tweets": 38000000,
-    "url": "https://www.microsoft.com/en-us/download/details.aspx?id=52598",
-    "description": "<p>This data set identifies 38M tweets collected for the analysis of social media messages related to the 2012 U.S. Presidential election. The data set provides tweet IDs for tweets containing the words \"obama\", \"romney\", or both (case-insensitive matching) during the period from July 1, 2012 through November 7, 2012. The paper, “Online and Social Media Data As an Imperfect Continuous Panel Survey.” PLoS ONE 11(1): e0145406 by Diaz et al.  provides further description of the dataset.</p>"
-  },
-  {
     "slug": "20161223-2016-united-states-presidential-election-tweet-ids",
     "title": "2016 United States Presidential Election Tweet Ids",
     "creators": [
@@ -90,26 +24,26 @@
     "description": "<p>This dataset contains the tweet ids of approximately 280 million tweets related to the 2016 United States presidential election. They were collected between July 13, 2016 and November 10, 2016 from the Twitter API using Social Feed Manager. These tweet ids are broken up into 12 collections. Each collection was collected either from the GET statuses/user_timeline method of the Twitter REST API or the POST statuses/filter method of the Twitter Stream API.</p>"
   },
   {
-    "slug": "20161223-paris-bataclan-parisattacks-porteouverte-tweets",
-    "title": "#paris #Bataclan #parisattacks #porteouverte tweets",
+    "slug": "20161223-cdnpoli-tweets-canadian-politics-2015",
+    "title": "#cdnpoli tweets (Canadian Politics, 2015)",
     "creators": [
-      "Nick Ruest"
+      "Library and Archives Canada"
     ],
-    "added": "2016-12-23T22:40:17.000Z",
-    "published": "2015-12-12T00:00:00.000Z",
+    "added": "2016-12-23T15:23:06.000Z",
+    "published": "2016-01-18T00:00:00.000Z",
     "dates": [
       {
-        "start": "2015-11-04",
-        "end": "2015-12-08"
+        "start": "2015-08-06",
+        "end": "2015-10-28"
       }
     ],
     "repository": "Scholars Portal Dataverse",
     "subjects": [
       "Politics"
     ],
-    "tweets": 14939154,
-    "url": "http://hdl.handle.net/10864/11312",
-    "description": "<p>Tweet ids for #paris #Bataclan #parisattacks #porteouverte tweets.</p>"
+    "tweets": 2607886,
+    "url": "http://hdl.handle.net/10864/11348",
+    "description": "<p>Tweet IDs for tweets carrying the #cdnpoli hashtag, applied to Canadian politics, collected as part of a larger project centered on Canada's 42nd federal election.</p>"
   },
   {
     "slug": "20161223-makedonalddrumpfagain-tweets",
@@ -134,26 +68,26 @@
     "description": "<p>Tweet ids for #MakeDonaldDrumpfAgain tweets.</p>"
   },
   {
-    "slug": "20161223-thechalkening-tweets",
-    "title": "#thechalkening tweets",
+    "slug": "20161223-ndp2016-tweets",
+    "title": "#NDP2016 tweets",
     "creators": [
       "Nick Ruest"
     ],
     "added": "2016-12-23T22:40:17.000Z",
-    "published": "2016-04-13T00:00:00.000Z",
+    "published": "2016-04-27T00:00:00.000Z",
     "dates": [
       {
-        "start": "2016-04-03",
-        "end": "2016-06-06"
+        "start": "2016-03-30",
+        "end": "2016-04-27"
       }
     ],
     "repository": "Scholars Portal Dataverse",
     "subjects": [
       "Politics"
     ],
-    "tweets": 115524,
-    "url": "http://hdl.handle.net/10864/11591",
-    "description": "<p>Tweet ids for #thechalkening tweets.</p>"
+    "tweets": 40279,
+    "url": "http://hdl.handle.net/10864/11674",
+    "description": "<p>Tweet ids for #NDP2016 tweets during the 2016 NDP Convention.</p>"
   },
   {
     "slug": "20161223-panamapapers-tweets",
@@ -178,26 +112,48 @@
     "description": "<p>Tweet ids for #panamapapers tweets.</p>"
   },
   {
-    "slug": "20161223-ndp2016-tweets",
-    "title": "#NDP2016 tweets",
+    "slug": "20161223-paris-bataclan-parisattacks-porteouverte-tweets",
+    "title": "#paris #Bataclan #parisattacks #porteouverte tweets",
     "creators": [
       "Nick Ruest"
     ],
     "added": "2016-12-23T22:40:17.000Z",
-    "published": "2016-04-27T00:00:00.000Z",
+    "published": "2015-12-12T00:00:00.000Z",
     "dates": [
       {
-        "start": "2016-03-30",
-        "end": "2016-04-27"
+        "start": "2015-11-04",
+        "end": "2015-12-08"
       }
     ],
     "repository": "Scholars Portal Dataverse",
     "subjects": [
       "Politics"
     ],
-    "tweets": 40279,
-    "url": "http://hdl.handle.net/10864/11674",
-    "description": "<p>Tweet ids for #NDP2016 tweets during the 2016 NDP Convention.</p>"
+    "tweets": 14939154,
+    "url": "http://hdl.handle.net/10864/11312",
+    "description": "<p>Tweet ids for #paris #Bataclan #parisattacks #porteouverte tweets.</p>"
+  },
+  {
+    "slug": "20161223-thechalkening-tweets",
+    "title": "#thechalkening tweets",
+    "creators": [
+      "Nick Ruest"
+    ],
+    "added": "2016-12-23T22:40:17.000Z",
+    "published": "2016-04-13T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2016-04-03",
+        "end": "2016-06-06"
+      }
+    ],
+    "repository": "Scholars Portal Dataverse",
+    "subjects": [
+      "Politics"
+    ],
+    "tweets": 115524,
+    "url": "http://hdl.handle.net/10864/11591",
+    "description": "<p>Tweet ids for #thechalkening tweets.</p>"
   },
   {
     "slug": "20161223-ymmfire-tweets",
@@ -246,6 +202,28 @@
     "description": "<p>This dataset contains Twitter JSON data for several Twitter search queries that were collected around the #YesAllWomen Twitter \"conversation\" between May 25, 2014 and June 8, 2014 using the twarc (<a href=\"https://github.com/edsu/twarc\">https://github.com/edsu/twarc</a>) package that makes use of Twitter's search API. A total of 2,805,763 Tweets and 34,532 images make up the combined dataset.</p>"
   },
   {
+    "slug": "20161224-elxn42-tweets-42nd-canadian-federal-election",
+    "title": "#elxn42 tweets (42nd Canadian Federal Election)",
+    "creators": [
+      "Nick Ruest"
+    ],
+    "added": "2016-12-24T15:14:07.000Z",
+    "published": "2015-11-19T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2015-07-25",
+        "end": "2015-11-05"
+      }
+    ],
+    "repository": "Scholars Portal Dataverse",
+    "subjects": [
+      "Politics"
+    ],
+    "tweets": 3039804,
+    "url": "http://hdl.handle.net/10864/11270",
+    "description": "<p>Tweet ids for #elxn42 tweets.</p>"
+  },
+  {
     "slug": "20161224-ferguson-tweets",
     "title": "Ferguson Tweets",
     "creators": [
@@ -271,28 +249,6 @@
     "tweets": 28560078,
     "url": "https://archive.org/details/ferguson-tweet-ids",
     "description": "<p>This item represents a collection of 13,480,000 tweet IDs that mentioned 'ferguson' from 2014-08-10 to 2014-08-27 and 15,080,078 tweet IDs that mention \"ferguson\" between 2014-11-11 and 2014-12-08.\nThe first set includes tweets for the two week period after the shooting of Michael Brown, and the second range includes tweets around the grand jury's decision not to indict police office Darren Wilson which was announced on 2014-11-24.\nThe first set of tweets were collected by Ed Summers at the University of Maryland and the second was a collaboration between Molly Loyd, Gregory Coleman, Kimberly Lamke, Benjamin Sugar and Ed Summers.</p>"
-  },
-  {
-    "slug": "20161224-elxn42-tweets-42nd-canadian-federal-election",
-    "title": "#elxn42 tweets (42nd Canadian Federal Election)",
-    "creators": [
-      "Nick Ruest"
-    ],
-    "added": "2016-12-24T15:14:07.000Z",
-    "published": "2015-11-19T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2015-07-25",
-        "end": "2015-11-05"
-      }
-    ],
-    "repository": "Scholars Portal Dataverse",
-    "subjects": [
-      "Politics"
-    ],
-    "tweets": 3039804,
-    "url": "http://hdl.handle.net/10864/11270",
-    "description": "<p>Tweet ids for #elxn42 tweets.</p>"
   },
   {
     "slug": "20161230-the-fall-of-aleppo-tweets-aleppo-2016-12-13-through-2016-12-29",
@@ -364,6 +320,28 @@
     "description": "<p>228,086 tweet ids for \"TheHip, hipinkingston\" captured during the Tragically Hip's final concert in Kingston, Ontario in August 2016. Tweets can be \"rehydrated\" with Documenting the Now's twarc (<a href=\"https://github.com/DocNow/twarc\">https://github.com/DocNow/twarc</a>). twarc.py --hydrate th<em>final</em>concert<em>kingston</em>tweet<em>ids.txt > th</em>final<em>concert</em>kingston.json</p>"
   },
   {
+    "slug": "20170107-bill-10-twitter-ids",
+    "title": "Bill 10 Twitter IDs",
+    "creators": [
+      "Peter Binkley"
+    ],
+    "added": "2017-01-07T03:33:07.000Z",
+    "published": "2017-01-06T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2014-11-28",
+        "end": "2014-12-06"
+      }
+    ],
+    "repository": "University of Alberta Dataverse",
+    "subjects": [
+      "Politics"
+    ],
+    "tweets": 24876,
+    "url": "http://dx.doi.org/10.7939/DVN/10971",
+    "description": "<p>A list of 24876 Twitter IDs for tweets harvested between Nov. 28 and Dec. 6 2014 containing the hashtag #bill10. Bill 10 in the Alberta legislature would have given public and Catholic school boards the right to refuse student requests to form gay-straight alliances in schools. Under intense public interest it was withdrawn by the Conservative government.</p>"
+  },
+  {
     "slug": "20170104-beyond-the-hashtags-ferguson-blacklivesmatter-and-the-online-struggle-for-offline-justice",
     "title": "Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice",
     "creators": [
@@ -388,28 +366,6 @@
     "description": "<p>This is a dataset of ids for tweets purchased from Twitter as part of the Beyond the Hashtags study <a href=\"http://cmsimpact.org/resource/beyond-hashtags-ferguson-blacklivesmatter-online-struggle-offline-justice/\">http://cmsimpact.org/resource/beyond-hashtags-ferguson-blacklivesmatter-online-struggle-offline-justice/</a> The dataset includes a year of tweets that mention one or more of 45 keywords associated with the BlackLivesMatter movement. This period covers a critical time in which social media was used to raise awareness about police killings of unarmed Black citizens in the United States.</p>"
   },
   {
-    "slug": "20170107-bill-10-twitter-ids",
-    "title": "Bill 10 Twitter IDs",
-    "creators": [
-      "Peter Binkley"
-    ],
-    "added": "2017-01-07T03:33:07.000Z",
-    "published": "2017-01-06T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2014-11-28",
-        "end": "2014-12-06"
-      }
-    ],
-    "repository": "University of Alberta Dataverse",
-    "subjects": [
-      "Politics"
-    ],
-    "tweets": 24876,
-    "url": "http://dx.doi.org/10.7939/DVN/10971",
-    "description": "<p>A list of 24876 Twitter IDs for tweets harvested between Nov. 28 and Dec. 6 2014 containing the hashtag #bill10. Bill 10 in the Alberta legislature would have given public and Catholic school boards the right to refuse student requests to form gay-straight alliances in schools. Under intense public interest it was withdrawn by the Conservative government.</p>"
-  },
-  {
     "slug": "20170109-american-historical-association-2017-conference-tweets",
     "title": "American Historical Association 2017 Conference Tweets",
     "creators": [
@@ -432,6 +388,30 @@
     "tweets": 10538,
     "url": "http://dx.doi.org/10.5683/SP/CFVF1F",
     "description": "<p>A list of 10,538 Twitter IDs for tweets harvested between 4 January at 11am and 9 January at 11am using Social Feed Manager. As this used the search API, the 4 January at 11am crawl went back about 5-9 days. Tweet IDs included, as is a log of the decisions made to curate this dataset.</p>"
+  },
+  {
+    "slug": "20170115-blmkidnapping",
+    "title": "#BLMKidnapping",
+    "creators": [
+      "Bergis Jules"
+    ],
+    "added": "2017-01-15T13:55:30.000Z",
+    "published": "2017-01-06T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2017-01-05",
+        "end": "2017-01-05"
+      }
+    ],
+    "repository": "Dryad",
+    "subjects": [
+      "Blacklivesmatter",
+      "Politics",
+      "Race"
+    ],
+    "tweets": 136990,
+    "url": "https://dx.doi.org/10.6086/D1CC7X",
+    "description": "<p>These 136,990 tweet ids represent reaction to a Facebook Live video that was posted on January 3rd, 2017, showing four African American men violently attacking a white, mentally disabled man. The tweets were collected on 01/05/2017. After the video surfaced, the Twitter hashtag, #BLMkidnapping, was created and used to incorrectly attribute the violent attack to members of the Black Lives Matter movement. Police in Chicago, where the attack took place, have found no evidence the attack has any connection to the Black Lives Matter movement. This link is to a CNN story documenting the police denial of Black Lives Matter connection: <a href=\"http://www.cnn.com/2017/01/05/us/black-lives-matter-chicago-facebook-live-beating/index.html\">http://www.cnn.com/2017/01/05/us/black-lives-matter-chicago-facebook-live-beating/index.html</a></p>"
   },
   {
     "slug": "20170112-north-carolina-house-bill-2-tweet-ids",
@@ -485,28 +465,27 @@
     "description": "<p>On January 12th, 2017 the Senate voted 51-48 to approve a budget resolution as the first step in repealing the Affordable Care Act. The hashtag #SaveACA began being used heavily on Twitter the same day as a response. This dataset includes tweet ids collected on four separate occasions on January 12th and 13th, 2017 for the hashtag #SaveACA</p>"
   },
   {
-    "slug": "20170115-blmkidnapping",
-    "title": "#BLMKidnapping",
+    "slug": "20170129-brexit-summer-2016",
+    "title": "#brexit: Summer 2016",
     "creators": [
-      "Bergis Jules"
+      "Dmitrijs Milajevs"
     ],
-    "added": "2017-01-15T13:55:30.000Z",
-    "published": "2017-01-06T00:00:00.000Z",
+    "added": "2017-01-29T20:23:00.000Z",
+    "published": "2017-01-29T00:00:00.000Z",
     "dates": [
       {
-        "start": "2017-01-05",
-        "end": "2017-01-05"
+        "start": "2016-05-06",
+        "end": "2016-08-24"
       }
     ],
-    "repository": "Dryad",
+    "repository": "Zeonodo",
     "subjects": [
-      "Blacklivesmatter",
-      "Politics",
-      "Race"
+      "Brexit",
+      "Politics"
     ],
-    "tweets": 136990,
-    "url": "https://dx.doi.org/10.6086/D1CC7X",
-    "description": "<p>These 136,990 tweet ids represent reaction to a Facebook Live video that was posted on January 3rd, 2017, showing four African American men violently attacking a white, mentally disabled man. The tweets were collected on 01/05/2017. After the video surfaced, the Twitter hashtag, #BLMkidnapping, was created and used to incorrectly attribute the violent attack to members of the Black Lives Matter movement. Police in Chicago, where the attack took place, have found no evidence the attack has any connection to the Black Lives Matter movement. This link is to a CNN story documenting the police denial of Black Lives Matter connection: <a href=\"http://www.cnn.com/2017/01/05/us/black-lives-matter-chicago-facebook-live-beating/index.html\">http://www.cnn.com/2017/01/05/us/black-lives-matter-chicago-facebook-live-beating/index.html</a></p>"
+    "tweets": 23733133,
+    "url": "https://zenodo.org/record/263584",
+    "description": "<h1>brexit tweets collected from the 5th of May to the 24th August 2016.</h1>"
   },
   {
     "slug": "20170129-womensmarch-tweets-january-12-28-2017",
@@ -531,29 +510,6 @@
     "tweets": 14478518,
     "url": "http://dx.doi.org/10.5683/SP/ZEL1Q6",
     "description": "<p>14,478,518 tweet ids for #WomensMarch collected with Documenting the Now's twarc from January 21-28, 2017. Tweets can be \"rehydrated\" with Documenting the Now's twarc (<a href=\"https://github.com/DocNow/twarc\">https://github.com/DocNow/twarc</a>). twarc.py –hydrate WomensMarch<em>tweet</em>ids.txt > WomensMarch.json Also included are the logs files for the Filter API and Search API queries. The Filter API query captures the cumulative number of dropped tweets.</p>"
-  },
-  {
-    "slug": "20170129-brexit-summer-2016",
-    "title": "#brexit: Summer 2016",
-    "creators": [
-      "Dmitrijs Milajevs"
-    ],
-    "added": "2017-01-29T20:23:00.000Z",
-    "published": "2017-01-29T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2016-05-06",
-        "end": "2016-08-24"
-      }
-    ],
-    "repository": "Zeonodo",
-    "subjects": [
-      "Brexit",
-      "Politics"
-    ],
-    "tweets": 23733133,
-    "url": "https://zenodo.org/record/263584",
-    "description": "<h1>brexit tweets collected from the 5th of May to the 24th August 2016.</h1>"
   },
   {
     "slug": "20170203-women-s-march-tweet-ids",
@@ -790,29 +746,6 @@
     "description": "<p>39,264 IDs for tweets related to the Charlottesville KKK rally on July 8, 2017.  These tweet IDs matched a search for 'Charlottesville KKK OR #charlottesvilleKKK OR #blocKKK or #blocKKKparty'. These tweet IDs were collected with the twarc command line tool from Documenting the Now. Using twarc's hydrate command, researchers can retrieve the full content of those tweets—with additional metadata provided by Twitter's API—provided the tweets still exist.</p>"
   },
   {
-    "slug": "20170809-ferguson-august-8-10-2014",
-    "title": "Ferguson (August 8-10, 2014)",
-    "creators": [
-      "Ed Summers"
-    ],
-    "added": "2017-08-09T19:35:27.000Z",
-    "published": "2015-05-07T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2014-08-08",
-        "end": "2014-08-10"
-      }
-    ],
-    "repository": "Internet Archive",
-    "subjects": [
-      "Blacklivesmatter",
-      "Activism"
-    ],
-    "tweets": 32056,
-    "url": "https://archive.org/details/ferguson-201408",
-    "description": "<p>This dataset contains 32,056 tweets that mention \"ferguson\" between August 8 and August 10, 2014. They were collected on May 7th, 2015 from the search form on Twitter's website. Some important side effects to be aware of is that the dataset does not include retweets and tweets that were deleted before May 7th, 2015.</p>"
-  },
-  {
     "slug": "20170812-charlottesville",
     "title": "#Charlottesville",
     "creators": [
@@ -835,6 +768,29 @@
     "tweets": 100000,
     "url": "https://dx.doi.org/10.6086/D10T0B",
     "description": "<p>On Friday, August 11th, 2017 a large groups of racist white nationalists carrying torches marched on the University of Virginia campus in Charlottesville, VA as an intimidation tactic against proponents for the removal of confederate statues of Robert E. Lee. The Friday evening march was held ahead of a much larger racist white nationalist rally in the center of Charlottesville planned for Saturday, August 12th, 2017. This dataset includes 100,000 tweet ids collected using the DocNow prototype <a href=\"http://app.docnow.io/\">http://app.docnow.io/</a> and includes tweets sent from 01:13:56 - 7:11:36 EDT on August 12.</p>"
+  },
+  {
+    "slug": "20170809-ferguson-august-8-10-2014",
+    "title": "Ferguson (August 8-10, 2014)",
+    "creators": [
+      "Ed Summers"
+    ],
+    "added": "2017-08-09T19:35:27.000Z",
+    "published": "2015-05-07T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2014-08-08",
+        "end": "2014-08-10"
+      }
+    ],
+    "repository": "Internet Archive",
+    "subjects": [
+      "Blacklivesmatter",
+      "Activism"
+    ],
+    "tweets": 32056,
+    "url": "https://archive.org/details/ferguson-201408",
+    "description": "<p>This dataset contains 32,056 tweets that mention \"ferguson\" between August 8 and August 10, 2014. They were collected on May 7th, 2015 from the search form on Twitter's website. Some important side effects to be aware of is that the dataset does not include retweets and tweets that were deleted before May 7th, 2015.</p>"
   },
   {
     "slug": "20170818-unitetheright",
@@ -907,29 +863,6 @@
     "description": "<p>This dataset contains Twitter JSON data for several Twitter search queries that were collected the week following the shooting of police officers in Dallas, Texas on July 7th 2017, using the twarc (<a href=\"https://github.com/edsu/twarc\">https://github.com/edsu/twarc</a>) package that makes use of Twitter's search API. See included README.txt for additional information.</p>"
   },
   {
-    "slug": "20170901-2017-eclipse",
-    "title": "2017 Eclipse",
-    "creators": [
-      "Ed Summers"
-    ],
-    "added": "2017-09-01T17:09:00.000Z",
-    "published": "2017-09-01T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2017-08-17",
-        "end": "2017-08-23"
-      }
-    ],
-    "repository": "Internet Archive",
-    "subjects": [
-      "Astronomy",
-      "Eclipse"
-    ],
-    "tweets": 13548321,
-    "url": "https://archive.org/details/eclipse-tweets.csv",
-    "description": "<p>The 2017 solar eclipse occurred on August 21 and and was total for Oregon, Idaho, Wyoming, Nebraska, Kansas, Missouri, Illinois, Kentucky, Tennessee, North Carolina, Georgia, and South Carolina.  This dataset includes 13,548,321 tweet identifiers for tweets that included any of the keywords solareclipse2017, solareclipse, eclipse2017, eclipseday or eclipse for the period August 17 to August 23, 2017.  The hashtags were were selected after watching Twitter's streaming API for the trending hashtag #solareclipse2017 and counting the most popular co-occurring hashtags. The search API was used instead of the filter stream API because the stream was emitting notifications that many tweets were not delivered, since the volume was so high.</p>"
-  },
-  {
     "slug": "20170907-end-of-term-2016-u-s-government-twitter-archive",
     "title": "End of Term 2016 U.S. Government Twitter Archive",
     "creators": [
@@ -953,6 +886,29 @@
     "tweets": 5655632,
     "url": "http://dx.doi.org/10.7910/DVN/TQBLWZ",
     "description": "<p>This dataset contains the tweet ids of 5,655,632 tweets that were collected from approximately 3000 Twitter accounts affiliated with the U.S. government. They were collected between October 21, 2016 and January 21, 2017 from the Twitter API using Social Feed Manager. This dataset was created as part of the End of Term Web Archiving initiative. The lists of accounts came from the U.S. Digital Registry and by public submissions.</p>"
+  },
+  {
+    "slug": "20170901-2017-eclipse",
+    "title": "2017 Eclipse",
+    "creators": [
+      "Ed Summers"
+    ],
+    "added": "2017-09-01T17:09:00.000Z",
+    "published": "2017-09-01T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2017-08-17",
+        "end": "2017-08-23"
+      }
+    ],
+    "repository": "Internet Archive",
+    "subjects": [
+      "Astronomy",
+      "Eclipse"
+    ],
+    "tweets": 13548321,
+    "url": "https://archive.org/details/eclipse-tweets.csv",
+    "description": "<p>The 2017 solar eclipse occurred on August 21 and and was total for Oregon, Idaho, Wyoming, Nebraska, Kansas, Missouri, Illinois, Kentucky, Tennessee, North Carolina, Georgia, and South Carolina.  This dataset includes 13,548,321 tweet identifiers for tweets that included any of the keywords solareclipse2017, solareclipse, eclipse2017, eclipseday or eclipse for the period August 17 to August 23, 2017.  The hashtags were were selected after watching Twitter's streaming API for the trending hashtag #solareclipse2017 and counting the most popular co-occurring hashtags. The search API was used instead of the filter stream API because the stream was emitting notifications that many tweets were not delivered, since the volume was so high.</p>"
   },
   {
     "slug": "20170908-news-outlet-tweet-ids",
@@ -983,31 +939,6 @@
     "description": "<p>This dataset contains the tweet ids of 39,695,156 tweets collected from the Twitter accounts of aproximately 4,500 news outlets, i.e., accounts of media organizations intended to disseminate news. The media organizations include everything from local U.S. newspapers to foreign television stations. They were collected between August 4, 2016 and July 20, 2018 from the Twitter API using Social Feed Manager. Note that not all accounts may have been collected for the entire duration and there may be tweets from before the time period. We intend to update this dataset periodically.</p>"
   },
   {
-    "slug": "20170917-drawingwhileblack",
-    "title": "#DrawingWhileBlack",
-    "creators": [
-      "Bergis Jules"
-    ],
-    "added": "2017-09-17T16:34:11.000Z",
-    "published": "2017-09-17T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2017-09-15",
-        "end": "2017-09-17"
-      }
-    ],
-    "repository": "Dryad",
-    "subjects": [
-      "Black",
-      "Artists",
-      "African Americans",
-      "Art"
-    ],
-    "tweets": 69236,
-    "url": "https://dx.doi.org/10.6086/D1DT02",
-    "description": "<p>The hashtag #DrawingWhileBlack was started by artist, Annabelle, on September 15th, 2017 to celebrate the work of Black artists. The dataset includes 69,236 tweet ids collected 09/17/2017. Annabelle's Tumblr website can be found at <a href=\"http://sparklyfawn.tumblr.com/\">http://sparklyfawn.tumblr.com/</a> and her Twitter profile is <a href=\"https://twitter.com/sparklyfawn\">@sparklyfawn</a>.</p>"
-  },
-  {
     "slug": "20170924-hurricane-harvey-twitter-dataset",
     "title": "Hurricane Harvey Twitter Dataset",
     "creators": [
@@ -1034,29 +965,29 @@
     "description": "<p>This dataset contains Twitter JSON data for Tweets related to Hurricane Harvey and the subsequent flooding along the Texas gulf region. This dataset was created using the twarc (<a href=\"https://github.com/edsu/twarc\">https://github.com/edsu/twarc</a>) package that makes use of Twitter's search API. A total of 7,041,866 Tweets make up the combined dataset. See included README.txt for additional information.</p>"
   },
   {
-    "slug": "20170926-notincpor",
-    "title": "#NoTincPor",
+    "slug": "20170917-drawingwhileblack",
+    "title": "#DrawingWhileBlack",
     "creators": [
-      "Society of Catalan Archivists"
+      "Bergis Jules"
     ],
-    "added": "2017-09-26T12:30:45.000Z",
-    "published": "2017-09-26T00:00:00.000Z",
+    "added": "2017-09-17T16:34:11.000Z",
+    "published": "2017-09-17T00:00:00.000Z",
     "dates": [
       {
-        "start": "2017-08-17",
-        "end": "2017-08-26"
+        "start": "2017-09-15",
+        "end": "2017-09-17"
       }
     ],
-    "repository": "Documenting the Now",
+    "repository": "Dryad",
     "subjects": [
-      "Barcelona",
-      "Cambrils",
-      "Attack",
-      "Terrorism"
+      "Black",
+      "Artists",
+      "African Americans",
+      "Art"
     ],
-    "tweets": 52808,
-    "url": "http://www.docnow.io/catalog/datasets/F48D674F-C859-4E4F-AC83-510181DA3545.csv.gz",
-    "description": "<p>2017 Catalonia attacks were a terrorism action against pedestrians who were at La Rambla (Barcelona) and beach promenade of Cambrils on the afternoon and night of 17-18th August 2017. We selected #NoTincPor hashtag because it was the motto of the demonstrations during that period and was the most positive message. No one knew how the situation would go so the best option was to collect the dataset using the search API and limit by time between August 17 - 26, which was the final demonstration in Barcelona for the victims.</p>"
+    "tweets": 69236,
+    "url": "https://dx.doi.org/10.6086/D1DT02",
+    "description": "<p>The hashtag #DrawingWhileBlack was started by artist, Annabelle, on September 15th, 2017 to celebrate the work of Black artists. The dataset includes 69,236 tweet ids collected 09/17/2017. Annabelle's Tumblr website can be found at <a href=\"http://sparklyfawn.tumblr.com/\">http://sparklyfawn.tumblr.com/</a> and her Twitter profile is <a href=\"https://twitter.com/sparklyfawn\">@sparklyfawn</a>.</p>"
   },
   {
     "slug": "20171003-marchforblackwomen",
@@ -1081,6 +1012,31 @@
     "tweets": 18646,
     "url": "https://dx.doi.org/10.6086/D14D4Z",
     "description": "<p>This dataset contains 18, 646 tweet ids documenting the March for Black Women which was held on September 30th, 2017 in Washington D.C. The dataset contains 2,925 tweet ids for tweets that included the hashtag #marchforblackwomen and 15,271 tweet ids for tweets that included the #hashtag M4BW. The march website is here: <a href=\"https://www.mamablack.org/march-for-black-women\">https://www.mamablack.org/march-for-black-women</a>.</p>"
+  },
+  {
+    "slug": "20170926-notincpor",
+    "title": "#NoTincPor",
+    "creators": [
+      "Society of Catalan Archivists"
+    ],
+    "added": "2017-09-26T12:30:45.000Z",
+    "published": "2017-09-26T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2017-08-17",
+        "end": "2017-08-26"
+      }
+    ],
+    "repository": "Documenting the Now",
+    "subjects": [
+      "Barcelona",
+      "Cambrils",
+      "Attack",
+      "Terrorism"
+    ],
+    "tweets": 52808,
+    "url": "http://www.docnow.io/catalog/datasets/F48D674F-C859-4E4F-AC83-510181DA3545.csv.gz",
+    "description": "<p>2017 Catalonia attacks were a terrorism action against pedestrians who were at La Rambla (Barcelona) and beach promenade of Cambrils on the afternoon and night of 17-18th August 2017. We selected #NoTincPor hashtag because it was the motto of the demonstrations during that period and was the most positive message. No one knew how the situation would go so the best option was to collect the dataset using the search API and limit by time between August 17 - 26, which was the final demonstration in Barcelona for the victims.</p>"
   },
   {
     "slug": "20171014-wocaffirmation",
@@ -1276,34 +1232,6 @@
     "description": "<p>1,797,260 tweet ids for #paradisepapers collected with Documenting the Now's twarc from November 5-26, 2017.</p>"
   },
   {
-    "slug": "20171211-tweets-to-donald-trump-realdonaldtrump",
-    "title": "Tweets to Donald Trump (@realDonaldTrump)",
-    "creators": [
-      "Nick Ruest"
-    ],
-    "added": "2017-12-11T07:40:01.000Z",
-    "published": "2017-12-10T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2017-05-07",
-        "end": "2017-06-21"
-      },
-      {
-        "start": "2017-06-23",
-        "end": "2020-03-21"
-      }
-    ],
-    "repository": "Scholars Portal Dataverse",
-    "subjects": [
-      "American Politics",
-      "Politics",
-      "Donald Trump"
-    ],
-    "tweets": 238991027,
-    "url": "http://dx.doi.org/10.5683/SP/8BAVQM",
-    "description": "<p>238,991,027 tweet ids for tweets directed at Donald Trump (@realDonaldTrump), collected with Documenting the Now's twarc. Tweets can be \"rehydrated\" with Documenting the Now's twarc, or Hydrator. twarc hydrate to<em>realdonaldtrump</em>ids.txt > to_donaltrump.jsonl. Tweets from May 7, 2017 - June 21, 2017 of the dataset used a combination of the Filter (Streaming) API and Search API. The Filter API failed on June 21, 2017. From June 23, 2017 forward only the Search API was used to collect. This is done every 5 days on a cron job. Collection is ongoing, and this dataset will be periodically updated with additional tweet ids sets.</p>"
-  },
-  {
     "slug": "20171211-jeffsessions-tweets",
     "title": "#JeffSessions tweets",
     "creators": [
@@ -1330,6 +1258,34 @@
     "tweets": 2278757,
     "url": "http://dx.doi.org/10.5683/SP/MQ3Y99",
     "description": "<p>2,278,757 tweet ids for #JeffSessions collected with Documenting the Now's twarc. Tweets can be “rehydrated” with Documenting the Now’s twarc, or Hydrator.</p>"
+  },
+  {
+    "slug": "20171211-tweets-to-donald-trump-realdonaldtrump",
+    "title": "Tweets to Donald Trump (@realDonaldTrump)",
+    "creators": [
+      "Nick Ruest"
+    ],
+    "added": "2017-12-11T07:40:01.000Z",
+    "published": "2017-12-10T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2017-05-07",
+        "end": "2017-06-21"
+      },
+      {
+        "start": "2017-06-23",
+        "end": "2020-03-21"
+      }
+    ],
+    "repository": "Scholars Portal Dataverse",
+    "subjects": [
+      "American Politics",
+      "Politics",
+      "Donald Trump"
+    ],
+    "tweets": 238991027,
+    "url": "http://dx.doi.org/10.5683/SP/8BAVQM",
+    "description": "<p>238,991,027 tweet ids for tweets directed at Donald Trump (@realDonaldTrump), collected with Documenting the Now's twarc. Tweets can be \"rehydrated\" with Documenting the Now's twarc, or Hydrator. twarc hydrate to<em>realdonaldtrump</em>ids.txt > to_donaltrump.jsonl. Tweets from May 7, 2017 - June 21, 2017 of the dataset used a combination of the Filter (Streaming) API and Search API. The Filter API failed on June 21, 2017. From June 23, 2017 forward only the Search API was used to collect. This is done every 5 days on a cron job. Collection is ongoing, and this dataset will be periodically updated with additional tweet ids sets.</p>"
   },
   {
     "slug": "20171214-docnow-digital-blackness",
@@ -1678,31 +1634,6 @@
     "description": "<p>This dataset contains tweets that were sent during the Ethics and Archiving the Web conference that was held at the New Museum in New York City, March 22 - 24, 2018. The total of 3,627 tweets included 3,155 tweets that used the hashtag #eaw18 and 472 replies to those tweets. More about the conference itself can be found at <a href=\"https://eaw.rhizome.org\">https://eaw.rhizome.org</a></p>"
   },
   {
-    "slug": "20180511-blackwomanhood",
-    "title": "#Blackwomanhood",
-    "creators": [
-      "Bergis Jules"
-    ],
-    "added": "2018-05-11T10:14:07.000Z",
-    "published": "2018-05-11T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2018-05-01",
-        "end": "2018-05-10"
-      }
-    ],
-    "repository": "Dryad",
-    "subjects": [
-      "Black Women",
-      "Black Queer Women",
-      "Black Trans Women",
-      "Black History"
-    ],
-    "tweets": 917,
-    "url": "https://dx.doi.org/10.6086/D1SM1S",
-    "description": "<p>The #blackwomanhood Twitter chat took place on May 10th, 2018. It was a discussion around the syllabus for the Black Womanhood course taught by Martha Jones and Jessica Marie Johnson at Johns Hopkins University. The discussion coincided with the end of the course. <a href=\"http://dh.jmjafrx.com/2018/01/27/black-womanhood-the-syllabus/\">http://dh.jmjafrx.com/2018/01/27/black-womanhood-the-syllabus/</a></p>"
-  },
-  {
     "slug": "20180521-event-datasets-2012-2016",
     "title": "Event datasets (2012-2016)",
     "creators": [
@@ -1727,6 +1658,31 @@
     "tweets": 147055035,
     "url": "https://figshare.com/articles/Twitter_event_datasets_2012-2016_/5100460",
     "description": "<p>This collection includes data for 30 different Twitter datasets associated with real world events. The datasets were collected between 2012 and 2016, always using the streaming API with a set of keywords. Topics include: Superbowl 2012, SXSW 2012, Euro 2012, Mexican election, Hurricane Sandy, Politics, Boston Marathon bombing, St. Patrick's Day, Gaza under attack, Ebola outbreak, Ferguson , Hong Kong, Ottawa, Typhoon Hagupit, Sydney , Charlie Hebdo, Nepal Earthquake, Refugees Welcome, Hurricane Patricia, Paris Attacks, Irish election, Brexit, Brussels Airport explossion, Lahore blast, Cyprus hijacked plane, Panama papers, and Sismo Ecuador. More information is available at <a href=\"https://doi.org/10.1002/asi.24026\">https://doi.org/10.1002/asi.24026</a></p>"
+  },
+  {
+    "slug": "20180511-blackwomanhood",
+    "title": "#Blackwomanhood",
+    "creators": [
+      "Bergis Jules"
+    ],
+    "added": "2018-05-11T10:14:07.000Z",
+    "published": "2018-05-11T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2018-05-01",
+        "end": "2018-05-10"
+      }
+    ],
+    "repository": "Dryad",
+    "subjects": [
+      "Black Women",
+      "Black Queer Women",
+      "Black Trans Women",
+      "Black History"
+    ],
+    "tweets": 917,
+    "url": "https://dx.doi.org/10.6086/D1SM1S",
+    "description": "<p>The #blackwomanhood Twitter chat took place on May 10th, 2018. It was a discussion around the syllabus for the Black Womanhood course taught by Martha Jones and Jessica Marie Johnson at Johns Hopkins University. The discussion coincided with the end of the course. <a href=\"http://dh.jmjafrx.com/2018/01/27/black-womanhood-the-syllabus/\">http://dh.jmjafrx.com/2018/01/27/black-womanhood-the-syllabus/</a></p>"
   },
   {
     "slug": "20180608-gaza",
@@ -1877,30 +1833,6 @@
     "description": "<p>This dataset contains Twitter JSON data for Tweets related to Hurricane Florence and the subsequent flooding along the Carolina coastal region. This dataset was created using the twarc (<a href=\"https://github.com/edsu/twarc\">https://github.com/edsu/twarc</a>) package that makes use of Twitter's search API. A total of 4,971,575 Tweets and 347,205 media files make up the combined dataset. See included README.txt for additional information.</p>"
   },
   {
-    "slug": "20181010-imcd-twitter-data",
-    "title": "iMCD Twitter Data",
-    "creators": [
-      "Urban Big Data Centre"
-    ],
-    "added": "2018-10-10T15:59:07.000Z",
-    "published": "2018-10-10T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2014-07-01",
-        "end": "2015-11-30"
-      }
-    ],
-    "repository": "University of Glasgow",
-    "subjects": [
-      "Glasgow",
-      "Scotland",
-      "Politics"
-    ],
-    "tweets": 65000000,
-    "url": "http://ubdc.gla.ac.uk/dataset/imcd-twitter-data",
-    "description": "<p>University of Glasgow’s unique Integrated Multimedia City Data (iMCD) Survey is a cross-sectional survey based on a sample of the general population in private residences across eight local authority areas of Glasgow and Clyde Valley. The purpose of the iMCD dataset was to provide a 360° overview of a life in the city, combining various datasets and methods of collection.\nThe survey fieldwork was run by Ipsos MORI and took place between 15th April 2015 and 21st November 2015. This project was funded by ESRC and it was a result of collaboration across the University of Glasgow, Newcastle and Sheffield. The intention was to provide new innovative datasets with new methods and methodologies that could be used by the policy makers.\niMCD consists of 5 main strands (Survey, GPS, life-logging devices, image analysis, textual media and multimedia data). The core of the iMCD is the Household Survey. Each of the five data strands are built on unique models of data sampling. As a part of the project, we also collected for example a sample of GPS and lifelogging sensors. Lifelogging sensors collected data through GPS devices and wearable cameras.\nConcurrent to the collection of the iMCD Household Survey data UBDC researchers have undertaken a significant information extraction exercise to capture data streams related to Glasgow from a variety of online sources. Twitter data comprises a large part of this collection, and this dataset comprises a selection of tweets during the period 1/12/14 - 30/11/2015 that arose from the greater Glasgow area. This, for example, may give insights into the citizens’ behaviour, reactions and moods in certain contexts or at particular times. The dataset can be queried through a bespoke online tool by specific hashtag or tweet term, in order to return statistical information or specific Tweet IDs.  Captured tweets were those geolocated in Glasgow (based on a polygon around the geography), those from certain known Glasgow accounts (e.g. @BBCWestScot; @policescotland) and containing certain terms or hashtags (e.g. glasgow, or #glasgow2014).\nTweets from Glasgow users: BBCWestScot, DailyMailUK, BBCScotWeather, GlasgowCC, Daily<em>Record, GLA</em>Airport, WeatherCast<em>UK, STVGlasgow, glabreakingnews, GreaterGlasgPol, OpenGlasgow, TheEveningTimes, trafficscotland, policescotland, Herald</em>editor, TheScotsman, scotairquality, GdnScotland, PeopleMakeGLA, EverttHerald, GlasgowSubway, newsundayherlad, EducationScot, TheSunNewspaper, TravelineScot, BBCTravelScot, CBItweets, MetroUK, FristinGlasgow, PeopleMakeGLA, FoEScot gtcs, WhatsOnGlasgow, scdiglobal, edhubSctoland, Heart_Glasgow\nTweet with certain terms or hashtags: glasgow, BetterTogether, GlasgowCC, Yougov, glasgow2014, CommonWealthGame, GlasgowRoads, scotnight, indyref, CWG2014, goforitscotland, BBCScotWeather, scotdecides, VoteYes, NoThanks, the45, Scotland, yesScotland, AlexSalmond, CommonWealthGames, NoBecause, VoteNo, Darling, train, undecided, HopeOverFear, PatronisingBTlady</p>"
-  },
-  {
     "slug": "20181114-2017-shooting-in-las-vegas",
     "title": "2017 Shooting in Las Vegas",
     "creators": [
@@ -1924,6 +1856,30 @@
     "tweets": 14108104,
     "url": "http://d.library.unlv.edu/digital/collection/p17304coll5/id/20087/rec/1",
     "description": "<p>This dataset contains 14,108,104 tweets that document the mass shooting that occurred in Las Vegas, Nevada on September 1, 2017. Data were gathered via concurrent queries to the Twitter search API for all tweets containing the term \"vegas\", occurring September 29 - October 7 before 5:00 PM PT. Because of the volume, and the fact that the tweets were being recorded after the event, but within the 7 day time window of the search API, the data was collected by limiting the search to a particular day, for example, \"vegas until:2017-10-03\", \"vegas until:2017-10-04\", \"vegas until:2017-10-05\", etc. The resulting JSON data was then deduplicated using twarc's deduplicate.py utility, the identifers were then sorted chronologically.</p>"
+  },
+  {
+    "slug": "20181010-imcd-twitter-data",
+    "title": "iMCD Twitter Data",
+    "creators": [
+      "Urban Big Data Centre"
+    ],
+    "added": "2018-10-10T15:59:07.000Z",
+    "published": "2018-10-10T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2014-07-01",
+        "end": "2015-11-30"
+      }
+    ],
+    "repository": "University of Glasgow",
+    "subjects": [
+      "Glasgow",
+      "Scotland",
+      "Politics"
+    ],
+    "tweets": 65000000,
+    "url": "http://ubdc.gla.ac.uk/dataset/imcd-twitter-data",
+    "description": "<p>University of Glasgow’s unique Integrated Multimedia City Data (iMCD) Survey is a cross-sectional survey based on a sample of the general population in private residences across eight local authority areas of Glasgow and Clyde Valley. The purpose of the iMCD dataset was to provide a 360° overview of a life in the city, combining various datasets and methods of collection.\nThe survey fieldwork was run by Ipsos MORI and took place between 15th April 2015 and 21st November 2015. This project was funded by ESRC and it was a result of collaboration across the University of Glasgow, Newcastle and Sheffield. The intention was to provide new innovative datasets with new methods and methodologies that could be used by the policy makers.\niMCD consists of 5 main strands (Survey, GPS, life-logging devices, image analysis, textual media and multimedia data). The core of the iMCD is the Household Survey. Each of the five data strands are built on unique models of data sampling. As a part of the project, we also collected for example a sample of GPS and lifelogging sensors. Lifelogging sensors collected data through GPS devices and wearable cameras.\nConcurrent to the collection of the iMCD Household Survey data UBDC researchers have undertaken a significant information extraction exercise to capture data streams related to Glasgow from a variety of online sources. Twitter data comprises a large part of this collection, and this dataset comprises a selection of tweets during the period 1/12/14 - 30/11/2015 that arose from the greater Glasgow area. This, for example, may give insights into the citizens’ behaviour, reactions and moods in certain contexts or at particular times. The dataset can be queried through a bespoke online tool by specific hashtag or tweet term, in order to return statistical information or specific Tweet IDs.  Captured tweets were those geolocated in Glasgow (based on a polygon around the geography), those from certain known Glasgow accounts (e.g. @BBCWestScot; @policescotland) and containing certain terms or hashtags (e.g. glasgow, or #glasgow2014).\nTweets from Glasgow users: BBCWestScot, DailyMailUK, BBCScotWeather, GlasgowCC, Daily<em>Record, GLA</em>Airport, WeatherCast<em>UK, STVGlasgow, glabreakingnews, GreaterGlasgPol, OpenGlasgow, TheEveningTimes, trafficscotland, policescotland, Herald</em>editor, TheScotsman, scotairquality, GdnScotland, PeopleMakeGLA, EverttHerald, GlasgowSubway, newsundayherlad, EducationScot, TheSunNewspaper, TravelineScot, BBCTravelScot, CBItweets, MetroUK, FristinGlasgow, PeopleMakeGLA, FoEScot gtcs, WhatsOnGlasgow, scdiglobal, edhubSctoland, Heart_Glasgow\nTweet with certain terms or hashtags: glasgow, BetterTogether, GlasgowCC, Yougov, glasgow2014, CommonWealthGame, GlasgowRoads, scotnight, indyref, CWG2014, goforitscotland, BBCScotWeather, scotdecides, VoteYes, NoThanks, the45, Scotland, yesScotland, AlexSalmond, CommonWealthGames, NoBecause, VoteNo, Darling, train, undecided, HopeOverFear, PatronisingBTlady</p>"
   },
   {
     "slug": "20181204-twitter-internet-research-agency-dataset",
@@ -2150,6 +2106,31 @@
     "description": "<p>This dataset contains the tweet ids of 39,622,026 tweets related to  climate change. They were collected between September 21, 2017 and  May 17, 2019 using Social Feed Manager. There is a gap in data collection  between January 7, 2019 and April 17, 2019. Tweets were collected using the  POST statuses/filter method of the Twitter Stream API, using the track  parameter with the following keywords:  #climatechange, #climatechangeisreal, #actonclimate, #globalwarming, #climatechangehoax,  #climatedeniers, #climatechangeisfalse, #globalwarminghoax, #climatechangenotreal,  climate change, global warming, climate hoax</p>"
   },
   {
+    "slug": "20190624-obama-hope-tweets",
+    "title": "Obama Hope Tweets",
+    "creators": [
+      "Aaron Beveridge",
+      "Nicholas M. Van Horn"
+    ],
+    "added": "2019-06-24T12:40:00.000Z",
+    "published": "2019-06-20T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2008-01-01",
+        "end": "2016-12-31"
+      }
+    ],
+    "repository": "Internet Archive",
+    "subjects": [
+      "Shepard Fairey",
+      "Obama Hope",
+      "Twitter"
+    ],
+    "tweets": 14588,
+    "url": "https://archive.org/details/obama_hope_tweet_IDs.txt",
+    "description": "<p>This dataset consists of 14,588 tweet IDs related to the \"Obama Hope\"  movement. Tweets matching the search phrase \"fairey AND hope\" were collected  to restrict the dataset to records referencing Sheppard Fairey's \"Obama Hope\"  image. This archive spans the date range 2008-2016 (inclusive).</p>"
+  },
+  {
     "slug": "20190607-nipsey-hussle",
     "title": "Nipsey Hussle",
     "creators": [
@@ -2175,31 +2156,6 @@
     "tweets": 11642103,
     "url": "https://archive.org/details/nipsey-hustle-tweets",
     "description": "<p>Nipsey Hussle was an American rapper, entrepreneur, and community activist from Los Angeles. On March 31, 2019, Hussle was fatally shot outside his store, Marathon Clothing, in South Los Angeles. Hussle’s memorial service was held on April 11 at the Staples Center in Los Angeles. The 25.5-mile (41.0 km) funeral procession wound through the streets of South L.A. including Watts where he spent some of his formative years. On Wed Apr 03, 2019 tweets with the following hashtags were collected from the Twitter streaming and search APIs: NipseyHussle, Nipsey, Nipsey Hussle, RIPNipseyHussle, RIPNipsey. The collection includes 11,642,103 tweet identifiers from March 28 until April 15. </p>"
-  },
-  {
-    "slug": "20190624-obama-hope-tweets",
-    "title": "Obama Hope Tweets",
-    "creators": [
-      "Aaron Beveridge",
-      "Nicholas M. Van Horn"
-    ],
-    "added": "2019-06-24T12:40:00.000Z",
-    "published": "2019-06-20T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2008-01-01",
-        "end": "2016-12-31"
-      }
-    ],
-    "repository": "Internet Archive",
-    "subjects": [
-      "Shepard Fairey",
-      "Obama Hope",
-      "Twitter"
-    ],
-    "tweets": 14588,
-    "url": "https://archive.org/details/obama_hope_tweet_IDs.txt",
-    "description": "<p>This dataset consists of 14,588 tweet IDs related to the \"Obama Hope\"  movement. Tweets matching the search phrase \"fairey AND hope\" were collected  to restrict the dataset to records referencing Sheppard Fairey's \"Obama Hope\"  image. This archive spans the date range 2008-2016 (inclusive).</p>"
   },
   {
     "slug": "20190714-bestofthrowbackblacktwitter",
@@ -2247,6 +2203,28 @@
     "description": "<p>This dataset contains tweets using the #ach2019 hashtag that were sent as part of the Association for Computers and the Humanities conference held between July 23 and July 26, 2019 in Pittsburgh, Pennsylvania. The dataset includes ids for 10,340 tweets that were collected with the DocNow application that were sent between July 15 and July 29. The zip file contains a minimal viewer that you can use by opening the index.html in your browser. To get the original tweet data you will want to rehydrate the tweet ids with a tool like the Hydrator <a href=\"https://github.com/docnow/hydrator\">https://github.com/docnow/hydrator</a></p>"
   },
   {
+    "slug": "20190828-german-twitter-snapshot",
+    "title": "German Twitter Snapshot",
+    "creators": [
+      "Tatjana Scheffler"
+    ],
+    "added": "2019-08-28T16:28:00.000Z",
+    "published": "2019-01-24T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2013-04-01",
+        "end": "2013-04-30"
+      }
+    ],
+    "repository": "GitHub",
+    "subjects": [
+      "Germany"
+    ],
+    "tweets": 24179871,
+    "url": "https://github.com/TScheffler/GermanTwitterApril2013",
+    "description": "<p>This corpus contains a snapshot of German-language Twitter posts from the month of April, 2013. The posts have been automatically collected and filtered by language (see paper). The collection method guarantees a near-complete (>90%) sample of all tweets in German sent during that time period. For more information see the paper that used this dataset to study <a href=\"http://www.lrec-conf.org/proceedings/lrec2014/pdf/1146_Paper.pdf\">http://www.lrec-conf.org/proceedings/lrec2014/pdf/1146_Paper.pdf</a></p>"
+  },
+  {
     "slug": "20190810-toni-morrison",
     "title": "Toni Morrison",
     "creators": [
@@ -2270,53 +2248,6 @@
     "tweets": 1170032,
     "url": "https://archive.org/details/toni-morrison-tweets",
     "description": "<p>On August 5, 2019, Toni Morrison, one of the greatest literary figures of the 20th and 21st centuries, died at the age of 88. She was the first Black woman to win the Nobel Prize in literature and the author of eleven novels, dozens of essays, as well as literary criticism. This dataset was collected using the streaming API with the keywords \"toni morrison\" and \"tonimorrison\" beginning on August 6 (when the news of Morrison's death was announced) and concluding on August 9. The dataset contains 1,170,032 tweets.</p>"
-  },
-  {
-    "slug": "20190828-german-twitter-snapshot",
-    "title": "German Twitter Snapshot",
-    "creators": [
-      "Tatjana Scheffler"
-    ],
-    "added": "2019-08-28T16:28:00.000Z",
-    "published": "2019-01-24T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2013-04-01",
-        "end": "2013-04-30"
-      }
-    ],
-    "repository": "GitHub",
-    "subjects": [
-      "Germany"
-    ],
-    "tweets": 24179871,
-    "url": "https://github.com/TScheffler/GermanTwitterApril2013",
-    "description": "<p>This corpus contains a snapshot of German-language Twitter posts from the month of April, 2013. The posts have been automatically collected and filtered by language (see paper). The collection method guarantees a near-complete (>90%) sample of all tweets in German sent during that time period. For more information see the paper that used this dataset to study <a href=\"http://www.lrec-conf.org/proceedings/lrec2014/pdf/1146_Paper.pdf\">http://www.lrec-conf.org/proceedings/lrec2014/pdf/1146_Paper.pdf</a></p>"
-  },
-  {
-    "slug": "20190917-2015-greek-referendum-greferendum-tweets",
-    "title": "2015 Greek Referendum (#greferendum) tweets",
-    "creators": [
-      "Sofia Papastamkou"
-    ],
-    "added": "2019-09-17T16:08:01.000Z",
-    "published": "2017-09-09T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2015-07-06",
-        "end": "2015-07-16"
-      }
-    ],
-    "repository": "Zeonodo",
-    "subjects": [
-      "Greece",
-      "2015 Greek Referendum",
-      "Greferendum",
-      "Grexit"
-    ],
-    "tweets": 204713,
-    "url": "https://zenodo.org/record/887993",
-    "description": "<p>This file provides the tweet identifiers of a dataset created after the July 5, 2015 Greek referendum. A sample of 204,713 tweets with the hashtag #greferendum were collected with NodeXL software from July 6 to July 16 2015. Thus, the dataset provides tweets produced in the aftermath of the Greek vote during the short period that led to a third financial assistance programme. </p>"
   },
   {
     "slug": "20190922-demdebate",
@@ -2364,6 +2295,55 @@
     "tweets": 1113759,
     "url": "https://archive.org/details/tweetsRickyRenuncia-final",
     "description": "<p>On July 24, 2019, after two weeks of mass protests in Puerto Rico, Governor Ricardo Roselló announced he was resigning from office effective August 2nd. This collection contains 1,113,759 IDs for tweets related to the protests, with the hashtags 'RickyRenuncia' and 'RickyVeteYa'.  Along with this collection, there's the \"#RickyRenuncia web collection\", part of the Internet Archive Global Events (<a href=\"https://archive-it.org/collections/12491\">https://archive-it.org/collections/12491</a>). / El 24 de julio de 2019, luego dos semanas de protestas masivas en Puerto Rico, el gobernador Ricardo Roselló anunció que renunciaba a su puesto efectivo el 2 de agosto. Esta colección contiene 1,113,759 identificadores de tuits relacionados a las protestas, con las etiquetas 'RickyRenuncia' y 'RickyVeteYa'. Además, puede acceder a la \"Colección Web #RickyRenuncia\", la cual es parte del Internet Archive Global Events (<a href=\"https://archive-it.org/collections/12491\">https://archive-it.org/collections/12491</a>).</p>"
+  },
+  {
+    "slug": "20190917-2015-greek-referendum-greferendum-tweets",
+    "title": "2015 Greek Referendum (#greferendum) tweets",
+    "creators": [
+      "Sofia Papastamkou"
+    ],
+    "added": "2019-09-17T16:08:01.000Z",
+    "published": "2017-09-09T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2015-07-06",
+        "end": "2015-07-16"
+      }
+    ],
+    "repository": "Zeonodo",
+    "subjects": [
+      "Greece",
+      "2015 Greek Referendum",
+      "Greferendum",
+      "Grexit"
+    ],
+    "tweets": 204713,
+    "url": "https://zenodo.org/record/887993",
+    "description": "<p>This file provides the tweet identifiers of a dataset created after the July 5, 2015 Greek referendum. A sample of 204,713 tweets with the hashtag #greferendum were collected with NodeXL software from July 6 to July 16 2015. Thus, the dataset provides tweets produced in the aftermath of the Greek vote during the short period that led to a third financial assistance programme. </p>"
+  },
+  {
+    "slug": "20191220-1619-project",
+    "title": "1619 Project",
+    "creators": [
+      "Ed Summers",
+      "Bergis Jules"
+    ],
+    "added": "2019-12-20T00:52:27.000Z",
+    "published": "2019-11-23T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2011-02-11",
+        "end": "2020-01-08"
+      }
+    ],
+    "repository": "Internet Archive",
+    "subjects": [
+      "History",
+      "African Americans"
+    ],
+    "tweets": 58506,
+    "url": "https://archive.org/details/1619project-tweets",
+    "description": "<p>The 1619 Project was developed by The New York Times Magazine in 2019 with the goal of re-examining the legacy of slavery in the United States and timed for the 400th anniversary of the arrival in America of the first enslaved people from West Africa. It is an interactive project by Nikole Hannah-Jones, a reporter for The New York Times, with contributions by the paper's writers, including essays, poems, short fiction, and a photo essay. Originally conceived of as a special issue for August 20, 2019, it was soon turned into a full-fledged project, including a special broadsheet section in the newspaper, live events, and a multi-episode podcast series. (from Wikipedia)\nThis bag contains metadata for 58,506 tweets related to the hashtag #1619project. They were collected on January 8, 2020 using twint and the keyword 1619project.\ntwint -s '1619project' --csv --output twint.csv\ntwint scrapes Twitter's search results and writes the results as CSV. The tweet identifiers were extracted from this CSV and included as the ids.txt file.</p>"
   },
   {
     "slug": "20191111-hurricane-dorian-tweets",
@@ -2415,28 +2395,29 @@
     "description": "<p>2,944,525 tweet ids for #elxn43 tweets. Tweets were collected via the Standard Search API on a cron job every five days from September 9, 2019 - November 23, 2019.</p>"
   },
   {
-    "slug": "20191220-1619-project",
-    "title": "1619 Project",
+    "slug": "20200319-covid-19",
+    "title": "#COVID-19",
     "creators": [
-      "Ed Summers",
-      "Bergis Jules"
+      "Emily Chen",
+      "Kristina Lerman",
+      "Emilio Ferrara"
     ],
-    "added": "2019-12-20T00:52:27.000Z",
-    "published": "2019-11-23T00:00:00.000Z",
+    "added": "2020-03-19T00:15:00.000Z",
+    "published": "2020-03-16T00:00:00.000Z",
     "dates": [
       {
-        "start": "2011-02-11",
-        "end": "2020-01-08"
+        "start": "2020-01-22",
+        "end": "2020-03-12"
       }
     ],
-    "repository": "Internet Archive",
+    "repository": "GitHub",
     "subjects": [
-      "History",
-      "African Americans"
+      "Health",
+      "Covid-19"
     ],
-    "tweets": 58506,
-    "url": "https://archive.org/details/1619project-tweets",
-    "description": "<p>The 1619 Project was developed by The New York Times Magazine in 2019 with the goal of re-examining the legacy of slavery in the United States and timed for the 400th anniversary of the arrival in America of the first enslaved people from West Africa. It is an interactive project by Nikole Hannah-Jones, a reporter for The New York Times, with contributions by the paper's writers, including essays, poems, short fiction, and a photo essay. Originally conceived of as a special issue for August 20, 2019, it was soon turned into a full-fledged project, including a special broadsheet section in the newspaper, live events, and a multi-episode podcast series. (from Wikipedia)\nThis bag contains metadata for 58,506 tweets related to the hashtag #1619project. They were collected on January 8, 2020 using twint and the keyword 1619project.\ntwint -s '1619project' --csv --output twint.csv\ntwint scrapes Twitter's search results and writes the results as CSV. The tweet identifiers were extracted from this CSV and included as the ids.txt file.</p>"
+    "tweets": 63589521,
+    "url": "https://github.com/echen102/COVID-19-TweetIDs",
+    "description": "<p>The dataset contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020. Twitter’s search API was used to gather historical Tweets from the preceding 7 days, leading to the first Tweets in our dataset dating back to January 22, 2020. Twitter’s streaming API was leveraged to follow specified accounts and also collect in real-time tweets that mention specific keywords, which include: Coronavirus, Koronavirus, Corona, CDC, Wuhancoronavirus, Wuhanlockdown, Ncov, Wuhan, N95, Kungflu, Epidemic, outbreak, Sinophobia, China, covid-19, corona virus, covid, covid19, sars-cov-2, COVIDー19, COVD, pandemic.</p>"
   },
   {
     "slug": "20200312-evetar-a-large-scale-multi-task-test-collection-over-arabic-tweets",
@@ -2466,31 +2447,6 @@
     "tweets": 355821033,
     "url": "http://qufaculty.qu.edu.qa/telsayed/evetar/",
     "description": "<p>EveTAR test collection, the first Arabic freely-available Test Collection  for multiple information retrieval tasks in Twitter. It supports  Event Detection (ED), Ad-hoc search (AS), Timeline generation (TTG), Real-time  summarization (RTS).  EveTAR includes a crawl of 355M Arabic tweets and covers  50 significant events for which about 62K tweets were judged with substantial  average inter-annotator agreement (Kappa value of 0.71). Besides the full  collection (EveTAR-F), we provide four different subsets of EveTAR:  (1) EveTAR-S: Random sample of 15M tweets (2) EveTAR-S.m: MSA tweets of the sample  (3) EveTAR-S.d: Dialectal tweets of the sample  (4) EveTAR-Q: Judged tweets only</p>"
-  },
-  {
-    "slug": "20200319-covid-19",
-    "title": "#COVID-19",
-    "creators": [
-      "Emily Chen",
-      "Kristina Lerman",
-      "Emilio Ferrara"
-    ],
-    "added": "2020-03-19T00:15:00.000Z",
-    "published": "2020-03-16T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2020-01-22",
-        "end": "2020-03-12"
-      }
-    ],
-    "repository": "GitHub",
-    "subjects": [
-      "Health",
-      "Covid-19"
-    ],
-    "tweets": 63589521,
-    "url": "https://github.com/echen102/COVID-19-TweetIDs",
-    "description": "<p>The dataset contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020. Twitter’s search API was used to gather historical Tweets from the preceding 7 days, leading to the first Tweets in our dataset dating back to January 22, 2020. Twitter’s streaming API was leveraged to follow specified accounts and also collect in real-time tweets that mention specific keywords, which include: Coronavirus, Koronavirus, Corona, CDC, Wuhancoronavirus, Wuhanlockdown, Ncov, Wuhan, N95, Kungflu, Epidemic, outbreak, Sinophobia, China, covid-19, corona virus, covid, covid19, sars-cov-2, COVIDー19, COVD, pandemic.</p>"
   },
   {
     "slug": "20200322-coronavirus-tweets",
@@ -2541,5 +2497,49 @@
     "tweets": 12278467,
     "url": "https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset",
     "description": "<p>This dataset includes more than 10 million tweet IDs related to the Coronavirus outbreak of 2019-2020. It is being added to over time, so the  numbers and dates may change. The tweets have been collected by the  LSTM model deployed at sentiment.live. The model monitors the real-time Twitter feed for corona virus-related tweets, using filters language \"en\" and keyword \"corona\". The CSV files include columns: tweet ID,  sentiment score. The dataset should be solely used for non-commercial research purpose.</p>"
+  },
+  {
+    "slug": "20161223-jesuischarlie-jesuisahmed-jesuisjuif-charliehebdo-tweets",
+    "title": "#JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets",
+    "creators": [
+      "Nick Ruest"
+    ],
+    "added": "2016-12-23T22:03:14.000Z",
+    "published": "2015-01-14T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2015-01-07",
+        "end": "2015-01-28"
+      }
+    ],
+    "repository": "Scholars Portal Dataverse",
+    "subjects": [
+      "Politics"
+    ],
+    "tweets": 13968293,
+    "url": "http://hdl.handle.net/10864/10830",
+    "description": "<p>Tweet ids for #JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets.</p>"
+  },
+  {
+    "slug": "20161223-election-2012-tweet-id-dataset",
+    "title": "Election 2012 Tweet ID dataset",
+    "creators": [
+      "Microsoft"
+    ],
+    "added": "2016-12-23T22:03:14.000Z",
+    "published": "2016-05-12T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2012-07-01",
+        "end": "2012-11-07"
+      }
+    ],
+    "repository": "Microsoft",
+    "subjects": [
+      "Politics"
+    ],
+    "tweets": 38000000,
+    "url": "https://www.microsoft.com/en-us/download/details.aspx?id=52598",
+    "description": "<p>This data set identifies 38M tweets collected for the analysis of social media messages related to the 2012 U.S. Presidential election. The data set provides tweet IDs for tweets containing the words \"obama\", \"romney\", or both (case-insensitive matching) during the period from July 1, 2012 through November 7, 2012. The paper, “Online and Social Media Data As an Imperfect Continuous Panel Survey.” PLoS ONE 11(1): e0145406 by Diaz et al.  provides further description of the dataset.</p>"
   }
 ]

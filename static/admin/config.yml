@@ -1,0 +1,77 @@
+backend:
+  name: git-gateway
+  branch: redesign
+
+media_folder: static/images
+public_folder: /images
+
+collections:
+  - name: datasets
+    label: Datasets
+    identifier_field: title
+    folder: src/datasets
+    extension: md
+    format: yaml-frontmatter
+    create: true
+    slug: "{{year}}{{month}}{{day}}-{{slug}}"
+    editor:
+      preview: true
+    fields:
+
+      - label: "Added"
+        name: "added"
+        widget: "datetime"
+
+      - label: "Creators"
+        name: "creators"
+        widget: "list"
+        fields:
+          - label: "Name"
+            name: "name"
+            widget: "string"
+          - label: "Email"
+            name: "email"
+            widget: "string"
+            required: false
+
+      - label: "Tweet Dates"
+        name: "dates"
+        widget: "list"
+        fields:
+          - label: "Start"
+            name: "start"
+            widget: "datetime"
+          - label: "End"
+            name: "end"
+            widget: "datetime"
+
+      - label: "Published"
+        name: "published"
+        widget: "datetime"
+
+      - label: "Repository"
+        name: "repository"
+        widget: "string"
+
+      - label: "Subjects"
+        name: "subjects"
+        widget: "list"
+
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Tweets"
+        name: "tweets"
+        widget: "number"
+
+      - label: "Dataset URL"
+        name: "url"
+        widget: "string"
+        pattern:
+          - "https?://.+"
+          - "Must be a URL"
+
+      - label: "Description"
+        name: "body"
+        widget: "markdown"
