@@ -1,7 +1,8 @@
 ---
 added: 2017-12-11 07:40:01+00:00
 creators:
-- Nick Ruest
+- email: ruestn@yorku.ca
+  name: Nick Ruest
 dates:
 - end: '2017-06-21'
   start: '2017-05-07'
@@ -9,7 +10,6 @@ dates:
   start: '2017-06-23'
 published: 2017-12-10
 repository: Scholars Portal Dataverse
-slug: 20171211-tweets-to-donald-trump-realdonaldtrump
 subjects:
 - American Politics
 - Politics

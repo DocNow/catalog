@@ -1,15 +1,17 @@
 ---
 added: 2017-09-07 12:00:00-05:00
 creators:
-- Justin Littman
-- Dan Kerchner
-- Laura Wrubel
+- email: null
+  name: Justin Littman
+- email: null
+  name: Dan Kerchner
+- email: null
+  name: Laura Wrubel
 dates:
 - end: '2017-01-21'
   start: '2016-10-21'
 published: 2017-08-30
 repository: Harvard Dataverse
-slug: 20170907-end-of-term-2016-u-s-government-twitter-archive
 subjects:
 - Government
 - Obama

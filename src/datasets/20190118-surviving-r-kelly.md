@@ -1,14 +1,15 @@
 ---
 added: 2019-01-18 10:14:07+00:00
 creators:
-- Bergis Jules
-- Ed Summers
+- email: bergis.jules@gmail.com
+  name: Bergis Jules
+- email: ehs@pobox.com
+  name: Ed Summers
 dates:
 - end: '2019-01-05'
   start: '2018-12-25'
 published: 2019-01-19
 repository: Internet Archive
-slug: 20190118-surviving-r-kelly
 subjects:
 - Sexual Violence
 - Black Women

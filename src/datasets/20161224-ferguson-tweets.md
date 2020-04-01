@@ -1,7 +1,8 @@
 ---
 added: 2016-12-24 10:14:07-05:00
 creators:
-- Ed Summers
+- email: ehs@pobox.com
+  name: Ed Summers
 dates:
 - end: '2014-08-27'
   start: '2014-08-10'
@@ -9,7 +10,6 @@ dates:
   start: '2014-11-11'
 published: 2015-11-18
 repository: Internet Archive
-slug: 20161224-ferguson-tweets
 subjects:
 - Activism
 - Blacklivesmatter

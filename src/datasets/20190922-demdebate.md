@@ -1,14 +1,15 @@
 ---
 added: 2019-09-22 15:12:01+00:00
 creators:
-- Ed Summers
-- Matthew Salzano
+- email: ehs@pobox.com
+  name: Ed Summers
+- email: null
+  name: Matthew Salzano
 dates:
 - end: '2019-09-14'
   start: '2019-09-12'
 published: 2017-09-22
 repository: Internet Archive
-slug: 20190922-demdebate
 subjects:
 - Politics
 title: demdebate

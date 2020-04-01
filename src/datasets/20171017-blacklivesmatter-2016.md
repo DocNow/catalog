@@ -1,13 +1,13 @@
 ---
 added: 2017-10-17 21:32:09+00:00
 creators:
-- Ed Summers
+- email: ehs@pobox.com
+  name: Ed Summers
 dates:
 - end: '2017-03-18'
   start: '2016-01-29'
 published: 2017-10-17
 repository: Internet Archive
-slug: 20171017-blacklivesmatter-2016
 subjects:
 - Blacklivesmatter
 - Activism

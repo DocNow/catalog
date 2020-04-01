@@ -1,13 +1,13 @@
 ---
 added: 2019-09-30 16:22:00+00:00
 creators:
-- Joel A. Blanco-Rivera
+- email: null
+  name: Joel A. Blanco-Rivera
 dates:
 - end: '2019-07-25'
   start: '2019-07-10'
 published: 2019-09-30
 repository: Internet Archive
-slug: 20190930-rickyrenuncia
 subjects:
 - Politics
 - Puerto Rico

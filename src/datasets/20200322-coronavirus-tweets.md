@@ -1,14 +1,15 @@
 ---
 added: 2020-03-22 00:15:00+00:00
 creators:
-- Dan Kerchner
-- Laura Wrubel
+- email: null
+  name: Dan Kerchner
+- email: null
+  name: Laura Wrubel
 dates:
 - end: '2020-03-19'
   start: '2020-03-03'
 published: 2020-03-21
 repository: Harvard Dataverse
-slug: 20200322-coronavirus-tweets
 subjects:
 - Covid-19
 - Coronavirus

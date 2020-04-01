@@ -1,13 +1,13 @@
 ---
 added: 2016-12-23 17:40:17-05:00
 creators:
-- Nick Ruest
+- email: ruestn@yorku.ca
+  name: Nick Ruest
 dates:
 - end: '2016-06-25'
   start: '2016-05-01'
 published: 2016-08-21
 repository: Scholars Portal Dataverse
-slug: 20161223-ymmfire-tweets
 subjects:
 - Fort Mcmurry
 - Wildfire

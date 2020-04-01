@@ -1,13 +1,13 @@
 ---
 added: 2017-08-24 21:16:00+00:00
 creators:
-- Laura Wrubel
+- email: null
+  name: Laura Wrubel
 dates:
 - end: '2017-08-18'
   start: '2017-08-12'
 published: 2017-08-18
 repository: Harvard Dataverse
-slug: 20170824-witbragday
 subjects:
 - Women
 - Technology

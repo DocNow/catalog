@@ -1,13 +1,13 @@
 ---
 added: 2016-12-23 17:40:17-05:00
 creators:
-- Nick Ruest
+- email: ruestn@yorku.ca
+  name: Nick Ruest
 dates:
 - end: '2016-04-29'
   start: '2016-04-04'
 published: 2016-04-13
 repository: Scholars Portal Dataverse
-slug: 20161223-panamapapers-tweets
 subjects:
 - Politics
 title: '#panamapapers tweets'

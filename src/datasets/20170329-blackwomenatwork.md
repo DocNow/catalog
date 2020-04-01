@@ -1,13 +1,13 @@
 ---
 added: 2017-03-29 14:10:10+00:00
 creators:
-- Bergis Jules
+- email: bergis.jules@gmail.com
+  name: Bergis Jules
 dates:
 - end: '2017-03-29'
   start: '2017-03-28'
 published: 2017-03-29
 repository: Dryad
-slug: 20170329-blackwomenatwork
 subjects:
 - Black Women
 - Race

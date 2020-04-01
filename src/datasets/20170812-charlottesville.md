@@ -1,13 +1,13 @@
 ---
 added: 2017-08-12 13:39:25+00:00
 creators:
-- Bergis Jules
+- email: bergis.jules@gmail.com
+  name: Bergis Jules
 dates:
 - end: '2017-08-12'
   start: '2017-08-12'
 published: 2017-08-12
 repository: Dryad
-slug: 20170812-charlottesville
 subjects:
 - Racism
 - White Nationalism

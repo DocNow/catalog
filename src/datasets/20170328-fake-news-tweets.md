@@ -1,13 +1,13 @@
 ---
 added: 2017-03-28 01:56:00+00:00
 creators:
-- Ed Summers
+- email: ehs@pobox.com
+  name: Ed Summers
 dates:
 - end: '2017-03-18'
   start: '2017-02-09'
 published: 2017-03-27
 repository: Internet Archive
-slug: 20170328-fake-news-tweets
 subjects:
 - Politics
 - Sociology

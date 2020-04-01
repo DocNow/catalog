@@ -1,13 +1,13 @@
 ---
 added: 2017-11-13 14:00:00-05:00
 creators:
-- Justin Littman
+- email: null
+  name: Justin Littman
 dates:
 - end: '2017-09-13'
   start: '2017-08-25'
 published: 2017-11-13
 repository: Harvard Dataverse
-slug: 20171113-hurricanes-harvey-and-irma-tweet-ids
 subjects:
 - Hurricanes
 - Natural Disasters

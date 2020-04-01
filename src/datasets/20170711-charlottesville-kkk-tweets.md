@@ -1,13 +1,13 @@
 ---
 added: 2017-07-11 19:35:27+00:00
 creators:
-- Jeremy Boggs
+- email: null
+  name: Jeremy Boggs
 dates:
 - end: '2017-07-11'
   start: '2017-06-28'
 published: 2017-07-11
 repository: University of Virginia Dataverse
-slug: 20170711-charlottesville-kkk-tweets
 subjects:
 - Charlottesville
 - Race

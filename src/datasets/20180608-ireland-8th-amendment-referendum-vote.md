@@ -1,13 +1,13 @@
 ---
 added: 2018-06-08 12:00:00-05:00
 creators:
-- Justin Littman
+- email: null
+  name: Justin Littman
 dates:
 - end: '2018-06-04'
   start: '2018-04-13'
 published: 2018-06-07
 repository: Harvard Dataverse
-slug: 20180608-ireland-8th-amendment-referendum-vote
 subjects:
 - Ireland
 - Abortion

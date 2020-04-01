@@ -1,13 +1,13 @@
 ---
 added: 2018-03-09 10:14:07+00:00
 creators:
-- Bergis Jules
+- email: bergis.jules@gmail.com
+  name: Bergis Jules
 dates:
 - end: '2018-03-08'
   start: '2018-03-08'
 published: 2018-03-09
 repository: Dryad
-slug: 20180309-twitterandnews
 subjects:
 - Media
 - Race - African Americans - Asian Americans - Feminism

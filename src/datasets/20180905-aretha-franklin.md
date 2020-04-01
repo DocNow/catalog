@@ -1,14 +1,15 @@
 ---
 added: 2018-09-05 01:22:00+00:00
 creators:
-- Bergis Jules
-- Ed Summers
+- email: bergis.jules@gmail.com
+  name: Bergis Jules
+- email: ehs@pobox.com
+  name: Ed Summers
 dates:
 - end: '2018-09-03'
   start: '2018-08-08'
 published: 2018-09-05
 repository: Internet Archive
-slug: 20180905-aretha-franklin
 subjects:
 - Music
 - Civil Rights Movement

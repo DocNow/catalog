@@ -1,13 +1,13 @@
 ---
 added: 2017-10-27 10:14:07+00:00
 creators:
-- Bergis Jules
+- email: bergis.jules@gmail.com
+  name: Bergis Jules
 dates:
 - end: '2017-09-19'
   start: '2017-09-18'
 published: 2017-10-27
 repository: Dryad
-slug: 20171027-blacktheory
 subjects:
 - Black History
 - Race

@@ -1,13 +1,13 @@
 ---
 added: 2019-07-14 12:31:00+00:00
 creators:
-- Bergis Jules
+- email: bergis.jules@gmail.com
+  name: Bergis Jules
 dates:
 - end: '2019-07-14'
   start: '2018-05-02'
 published: 2019-07-14
 repository: Dryad
-slug: 20190714-bestofthrowbackblacktwitter
 subjects:
 - Black Twitter
 title: BestofThrowBackBlackTwitter

@@ -1,13 +1,13 @@
 ---
 added: 2018-12-04 10:14:07+00:00
 creators:
-- Twitter
+- email: null
+  name: Twitter
 dates:
 - end: '2018-08-28'
   start: '2010-12-26'
 published: 2018-10-17
 repository: Internet Archive
-slug: 20181204-twitter-iran-dataset
 subjects:
 - Politics
 - Propaganda

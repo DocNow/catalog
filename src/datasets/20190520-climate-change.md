@@ -1,14 +1,15 @@
 ---
 added: 2019-05-20 09:00:00+00:00
 creators:
-- Justin Littman
-- Laura Wrubel
+- email: null
+  name: Justin Littman
+- email: null
+  name: Laura Wrubel
 dates:
 - end: '2019-05-17'
   start: '2017-09-21'
 published: 2019-05-20
 repository: Harvard Dataverse
-slug: 20190520-climate-change
 subjects:
 - Climate Change
 - Environment

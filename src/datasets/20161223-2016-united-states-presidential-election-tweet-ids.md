@@ -1,15 +1,17 @@
 ---
 added: 2016-12-23 17:03:14-05:00
 creators:
-- Justin Littman
-- Laura Wrubel
-- Daniel Kerchner
+- email: null
+  name: Justin Littman
+- email: null
+  name: Laura Wrubel
+- email: null
+  name: Daniel Kerchner
 dates:
 - end: '2016-11-10'
   start: '2016-07-13'
 published: 2016-11-29
 repository: Harvard Dataverse
-slug: 20161223-2016-united-states-presidential-election-tweet-ids
 subjects:
 - Politics
 title: 2016 United States Presidential Election Tweet Ids

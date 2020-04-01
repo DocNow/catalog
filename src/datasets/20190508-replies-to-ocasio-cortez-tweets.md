@@ -1,13 +1,13 @@
 ---
 added: 2019-05-08 10:29:00+00:00
 creators:
-- Nick Doiron
+- email: null
+  name: Nick Doiron
 dates:
 - end: '2019-04-28'
   start: '2017-05-03'
 published: 2019-05-08
 repository: GitHub
-slug: 20190508-replies-to-ocasio-cortez-tweets
 subjects:
 - Environment
 - Politics

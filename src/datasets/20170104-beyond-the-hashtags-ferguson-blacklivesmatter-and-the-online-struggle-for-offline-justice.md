@@ -1,13 +1,13 @@
 ---
 added: 2017-01-04 22:29:30+00:00
 creators:
-- Deen Freelon
+- email: null
+  name: Deen Freelon
 dates:
 - end: '2015-05-31'
   start: '2014-06-04'
 published: 2017-01-03
 repository: dreelon.org
-slug: 20170104-beyond-the-hashtags-ferguson-blacklivesmatter-and-the-online-struggle-for-offline-justice
 subjects:
 - Blacklivesmatter
 - Activism

@@ -1,13 +1,13 @@
 ---
 added: 2017-10-03 16:12:39+00:00
 creators:
-- Bergis Jules
+- email: bergis.jules@gmail.com
+  name: Bergis Jules
 dates:
 - end: '2017-10-03'
   start: '2017-09-24'
 published: 2017-10-03
 repository: Dryad
-slug: 20171003-marchforblackwomen
 subjects:
 - Black Women
 - Racial Justice

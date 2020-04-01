@@ -11,9 +11,11 @@ async function makeDatasets(createPage, graphql, pathPrefix) {
       allMarkdownRemark {
         nodes {
           frontmatter {
-            slug
             title
-            creators
+            creators {
+              name
+              email
+            }
             added
             published
             dates {
@@ -26,6 +28,12 @@ async function makeDatasets(createPage, graphql, pathPrefix) {
             url
           }
           html
+          parent {
+            ... on File {
+              id
+              name
+            }
+          }
         }
       }
     }
@@ -33,12 +41,14 @@ async function makeDatasets(createPage, graphql, pathPrefix) {
 
   const datasets = []
   for (let dataset of results.data.allMarkdownRemark.nodes) {
+    console.log(dataset.parent.name)
     const context = {
       ...dataset.frontmatter,
+      slug: dataset.parent.name,
       description: dataset.html
     }
     createPage({
-      path: `/datasets/${dataset.frontmatter.slug}/`,
+      path: `/datasets/${context.slug}/`,
       component: require.resolve(`./src/templates/dataset.js`),
       context: context
     })

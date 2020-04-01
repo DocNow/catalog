@@ -1,14 +1,15 @@
 ---
 added: 2019-02-22 00:00:00+00:00
 creators:
-- Justin Littman
-- Yonah Bromberg Graber
+- email: null
+  name: Justin Littman
+- email: null
+  name: Yonah Bromberg Graber
 dates:
 - end: '2019-01-02'
   start: '2017-01-27'
 published: 2019-02-05
 repository: Harvard Dataverse
-slug: 20190222-115th-u-s-congress-tweet-ids
 subjects:
 - Politics
 - Government

@@ -1,13 +1,13 @@
 ---
 added: 2019-08-10 12:49:05+00:00
 creators:
-- Melanie Walsh
+- email: null
+  name: Melanie Walsh
 dates:
 - end: '2019-08-09'
   start: '2019-08-06'
 published: 2019-08-10
 repository: Internet Archive
-slug: 20190810-toni-morrison
 subjects:
 - Literature
 - Humanities

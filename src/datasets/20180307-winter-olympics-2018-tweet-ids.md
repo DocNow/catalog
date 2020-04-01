@@ -1,13 +1,13 @@
 ---
 added: 2018-03-07 12:00:00-05:00
 creators:
-- Justin Littman
+- email: null
+  name: Justin Littman
 dates:
 - end: '2018-02-27'
   start: '2018-01-31'
 published: 2018-03-07
 repository: Harvard Dataverse
-slug: 20180307-winter-olympics-2018-tweet-ids
 subjects:
 - Olympics
 - South Korea

@@ -1,13 +1,13 @@
 ---
 added: 2016-12-30 01:36:05-05:00
 creators:
-- Nick Ruest
+- email: ruestn@yorku.ca
+  name: Nick Ruest
 dates:
 - end: '2016-12-29'
   start: '2016-12-05'
 published: 2016-12-29
 repository: Scholars Portal Dataverse
-slug: 20161230-the-fall-of-aleppo-tweets-aleppo-2016-12-13-through-2016-12-29
 subjects:
 - Aleppo
 - Syrian Civil War

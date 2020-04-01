@@ -1,15 +1,17 @@
 ---
 added: 2018-07-20 12:00:00-05:00
 creators:
-- Justin Littman
-- Dan Kerchner
-- Laura Wrubel
+- email: null
+  name: Justin Littman
+- email: null
+  name: Dan Kerchner
+- email: null
+  name: Laura Wrubel
 dates:
 - end: '2018-07-20'
   start: '2007-04-22'
 published: 2018-07-20
 repository: Harvard Dataverse
-slug: 20180720-u-s-government-tweet-ids
 subjects:
 - Government
 title: U.S. Government Tweet Ids

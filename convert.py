@@ -22,6 +22,12 @@ def unpack_date(s):
     dates = list(map(lambda d: parse(d).date(), dates))
     return {"start": dates[0].strftime('%Y-%m-%d'), "end": dates[1].strftime('%Y-%m-%d')}
 
+emails = {
+    "Ed Summers": "ehs@pobox.com",
+    "Bergis Jules": "bergis.jules@gmail.com",
+    "Nick Ruest": "ruestn@yorku.ca"
+}
+
 # a mapping of existing dataset urls to repository names
 repos = {
     "archive.org": "Internet Archive",
@@ -63,7 +69,10 @@ for d in datasets:
     d['subjects'] = subjects
     del d['tags']
 
-    d['creators'] = d['creator']
+    d['creators'] = []
+    for name in d['creator']:
+        email = emails.get(name, None)
+        d['creators'].append({'name': name, 'email': email})
     del d['creator']
 
     d['tweets'] = int(d['tweets'].replace(',', ''))
@@ -73,7 +82,7 @@ for d in datasets:
     slug = "{}-{}".format(dt, title)
     path = "src/datasets/{}.md".format(slug)
 
-    d['slug'] = slug
+    # d['slug'] = slug
 
     resp = requests.get(d['url'])
     host = urllib.parse.urlparse(resp.url).netloc

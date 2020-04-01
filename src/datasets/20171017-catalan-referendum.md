@@ -1,15 +1,17 @@
 ---
 added: 2017-10-17 18:25:22+00:00
 creators:
-- "Vicen\xE7 Ruiz G\xF3mez"
-- Aniol Maria
-- Ed Summers
+- email: null
+  name: "Vicen\xE7 Ruiz G\xF3mez"
+- email: null
+  name: Aniol Maria
+- email: ehs@pobox.com
+  name: Ed Summers
 dates:
 - end: '2017-10-05'
   start: '2017-09-19'
 published: 2017-10-17
 repository: Internet Archive
-slug: 20171017-catalan-referendum
 subjects:
 - Spain
 - Catalonia

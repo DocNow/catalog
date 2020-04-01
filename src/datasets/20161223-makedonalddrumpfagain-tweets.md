@@ -1,13 +1,13 @@
 ---
 added: 2016-12-23 17:40:17-05:00
 creators:
-- Nick Ruest
+- email: ruestn@yorku.ca
+  name: Nick Ruest
 dates:
 - end: '2016-04-08'
   start: '2016-02-29'
 published: 2016-03-03
 repository: Scholars Portal Dataverse
-slug: 20161223-makedonalddrumpfagain-tweets
 subjects:
 - Politics
 title: '#MakeDonaldDrumpfAgain tweets'

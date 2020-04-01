@@ -1,13 +1,13 @@
 ---
 added: 2019-11-23 14:05:00+00:00
 creators:
-- Nick Ruest
+- email: ruestn@yorku.ca
+  name: Nick Ruest
 dates:
 - end: '2019-11-23'
   start: '2019-09-01'
 published: 2019-11-23
 repository: Scholars Portal Dataverse
-slug: 20191123-elxn43-tweets-43rd-canadian-federal-election
 subjects:
 - Politics
 - Canada

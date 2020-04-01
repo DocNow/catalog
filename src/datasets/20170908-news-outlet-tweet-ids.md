@@ -1,16 +1,19 @@
 ---
 added: 2017-09-08 12:00:00-05:00
 creators:
-- Justin Littman
-- Laura Wrubel
-- Daniel Kerchner
-- Yonah Bromberg Gaber
+- email: null
+  name: Justin Littman
+- email: null
+  name: Laura Wrubel
+- email: null
+  name: Daniel Kerchner
+- email: null
+  name: Yonah Bromberg Gaber
 dates:
 - end: '2018-07-20'
   start: '2016-08-04'
 published: 2018-07-20
 repository: Harvard Dataverse
-slug: 20170908-news-outlet-tweet-ids
 subjects:
 - Media
 - News

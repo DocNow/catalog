@@ -1,13 +1,13 @@
 ---
 added: 2017-11-26 11:39:04+00:00
 creators:
-- Nick Ruest
+- email: ruestn@yorku.ca
+  name: Nick Ruest
 dates:
 - end: '2017-11-26'
   start: '2017-11-03'
 published: 2017-11-26
 repository: Scholars Portal Dataverse
-slug: 20171126-paradisepapers
 subjects:
 - Paradise Papers
 - Politics

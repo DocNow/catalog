@@ -24,8 +24,8 @@ collections:
 
       - label: "Creators"
         name: "creators"
-        widget: "list"
-        fields:
+        widget: "object"
+        field: 
           - label: "Name"
             name: "name"
             widget: "string"
@@ -36,7 +36,7 @@ collections:
 
       - label: "Tweet Dates"
         name: "dates"
-        widget: "list"
+        widget: "object"
         fields:
           - label: "Start"
             name: "start"

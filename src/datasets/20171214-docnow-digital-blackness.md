@@ -1,13 +1,13 @@
 ---
 added: 2017-12-14 03:34:00+00:00
 creators:
-- Bergis Jules
+- email: bergis.jules@gmail.com
+  name: Bergis Jules
 dates:
 - end: '2017-12-14'
   start: '2017-12-05'
 published: 2017-12-14
 repository: Dryad
-slug: 20171214-docnow-digital-blackness
 subjects:
 - African Americans
 - Archives

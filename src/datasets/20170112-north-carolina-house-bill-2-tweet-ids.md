@@ -1,14 +1,15 @@
 ---
 added: 2017-01-12 12:00:00+00:00
 creators:
-- Jason Casden
-- Brian Dietz
+- email: null
+  name: Jason Casden
+- email: null
+  name: Brian Dietz
 dates:
 - end: '2017-01-12'
   start: '2016-03-14'
 published: 2017-01-12
 repository: GitHub
-slug: 20170112-north-carolina-house-bill-2-tweet-ids
 subjects:
 - Lgbt
 - Hb2

@@ -146,7 +146,7 @@ const Datasets = () => {
                 <TableCell>{d.dates[0].start} - {d.dates[0].end}</TableCell>
                 <TableCell><Link to={`/datasets/${d.slug}/`}>{d.title}</Link></TableCell>
                 <TableCell align="right">{d.tweets.toLocaleString()}</TableCell>
-                <TableCell>{d.creators.join(', ')}</TableCell>
+                <TableCell>{d.creators.map(c => c.name).join(', ')}</TableCell>
                 <TableCell>{d.subjects.join(', ')}</TableCell>
                 <TableCell>{d.repository}</TableCell>
               </TableRow>
@@ -214,7 +214,7 @@ function filterSearch(datasets, search) {
       slugs.push(d.slug)
     } else if (d.description.match(pattern)) {
       slugs.push(d.slug)
-    } else if (d.creators.join(' ').match(pattern)) {
+    } else if (d.creators.map(c => c.name).join(' ').match(pattern)) {
       slugs.push(d.slug)
     } else if (d.repository.match(pattern)) {
       slugs.push(d.slug)

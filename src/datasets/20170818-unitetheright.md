@@ -1,13 +1,13 @@
 ---
 added: 2017-08-18 20:57:41+00:00
 creators:
-- Ed Summers
+- email: ehs@pobox.com
+  name: Ed Summers
 dates:
 - end: '2017-08-15'
   start: '2017-08-04'
 published: 2017-08-18
 repository: Internet Archive
-slug: 20170818-unitetheright
 subjects:
 - Racism
 - White Nationalism

@@ -1,15 +1,17 @@
 ---
 added: 2019-06-07 16:49:00+00:00
 creators:
-- Bergis Jules
-- Yusef Omowale
-- Ed Summers
+- email: bergis.jules@gmail.com
+  name: Bergis Jules
+- email: null
+  name: Yusef Omowale
+- email: ehs@pobox.com
+  name: Ed Summers
 dates:
 - end: '2019-04-15'
   start: '2019-03-28'
 published: 2019-06-07
 repository: Internet Archive
-slug: 20190607-nipsey-hussle
 subjects:
 - Los Angeles
 - Music

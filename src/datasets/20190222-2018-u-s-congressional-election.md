@@ -1,15 +1,17 @@
 ---
 added: 2019-02-22 19:00:00+00:00
 creators:
-- Justin Littman
-- Laura Wrubel
-- Dan Kerchner
+- email: null
+  name: Justin Littman
+- email: null
+  name: Laura Wrubel
+- email: null
+  name: Dan Kerchner
 dates:
 - end: '2019-01-03'
   start: '2018-01-22'
 published: 2019-02-05
 repository: Harvard Dataverse
-slug: 20190222-2018-u-s-congressional-election
 subjects:
 - Elections
 - Congress

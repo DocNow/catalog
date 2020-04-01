@@ -1,13 +1,13 @@
 ---
 added: 2017-09-26 12:30:45+00:00
 creators:
-- Society of Catalan Archivists
+- email: null
+  name: Society of Catalan Archivists
 dates:
 - end: '2017-08-26'
   start: '2017-08-17'
 published: 2017-09-26
 repository: Documenting the Now
-slug: 20170926-notincpor
 subjects:
 - Barcelona
 - Cambrils

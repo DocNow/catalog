@@ -1,13 +1,13 @@
 ---
 added: 2016-12-30 13:32:40-05:00
 creators:
-- Ed Summers
+- email: ehs@pobox.com
+  name: Ed Summers
 dates:
 - end: '2016-01-04'
   start: '2015-08-27'
 published: 2016-12-30
 repository: Internet Archive
-slug: 20161230-trump-early-primary-tweets
 subjects:
 - Politics
 - Trump

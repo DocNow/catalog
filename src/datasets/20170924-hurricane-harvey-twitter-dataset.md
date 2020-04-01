@@ -1,13 +1,13 @@
 ---
 added: 2017-09-24 12:55:24+00:00
 creators:
-- Mark Phillips
+- email: null
+  name: Mark Phillips
 dates:
 - end: '2017-09-22'
   start: '2017-08-18'
 published: 2017-09-24
 repository: University of North Texas
-slug: 20170924-hurricane-harvey-twitter-dataset
 subjects:
 - Hurricane
 - Disaster

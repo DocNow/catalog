@@ -1,15 +1,17 @@
 ---
 added: 2018-11-14 23:01:43+00:00
 creators:
-- Thomas Padilla
-- Miranda Barrie
-- Tammi Kim
+- email: null
+  name: Thomas Padilla
+- email: null
+  name: Miranda Barrie
+- email: null
+  name: Tammi Kim
 dates:
 - end: '2017-10-07'
   start: '2017-09-29'
 published: 2018-11-14
 repository: University of Las Vegas
-slug: 20181114-2017-shooting-in-las-vegas
 subjects:
 - Las Vegas
 - Mass Shooting

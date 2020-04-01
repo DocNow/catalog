@@ -1,13 +1,13 @@
 ---
 added: 2018-01-25 10:07:01-05:00
 creators:
-- Ed Summers
+- email: ehs@pobox.com
+  name: Ed Summers
 dates:
 - end: '2018-01-24'
   start: '2018-01-14'
 published: 2018-01-25
 repository: Internet Archive
-slug: 20180125-uklg-tweets
 subjects:
 - Scifi
 - Writers

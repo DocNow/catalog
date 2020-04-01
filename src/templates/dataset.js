@@ -17,7 +17,7 @@ const Dataset = ({ pageContext: dataset }) => (
           <dd>
             <ul>
             {dataset.creators.map(a => (
-              <li>{a}</li>
+              <li>{a.name}</li>
             ))}
             </ul>
           </dd>

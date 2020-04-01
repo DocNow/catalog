@@ -1,13 +1,13 @@
 ---
 added: 2018-05-11 10:14:07+00:00
 creators:
-- Bergis Jules
+- email: bergis.jules@gmail.com
+  name: Bergis Jules
 dates:
 - end: '2018-05-10'
   start: '2018-05-01'
 published: 2018-05-11
 repository: Dryad
-slug: 20180511-blackwomanhood
 subjects:
 - Black Women
 - Black Queer Women

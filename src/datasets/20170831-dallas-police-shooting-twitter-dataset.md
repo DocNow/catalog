@@ -1,13 +1,13 @@
 ---
 added: 2017-08-31 13:43:32+00:00
 creators:
-- Mark Phillips
+- email: null
+  name: Mark Phillips
 dates:
 - end: '2016-07-14'
   start: '2016-07-05'
 published: 2017-08-31
 repository: University of North Texas
-slug: 20170831-dallas-police-shooting-twitter-dataset
 subjects:
 - Policeshooting
 - Activism
