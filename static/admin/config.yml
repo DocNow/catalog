@@ -15,63 +15,57 @@ collections:
     create: true
     slug: "{{year}}{{month}}{{day}}-{{slug}}"
     editor:
-      preview: true
+      preview: false
     fields:
-
-      - label: "Added"
-        name: "added"
-        widget: "datetime"
-
-      - label: "Creators"
-        name: "creators"
-        widget: "object"
-        fields: 
-          - label: "Name"
-            name: "name"
-            widget: "string"
-          - label: "Email"
-            name: "email"
-            widget: "string"
-            required: false
-
-      - label: "Tweet Dates"
-        name: "dates"
-        widget: "object"
-        fields:
-          - label: "Start"
-            name: "start"
-            widget: "datetime"
-          - label: "End"
-            name: "end"
-            widget: "datetime"
-
-      - label: "Published"
-        name: "published"
-        widget: "datetime"
-
-      - label: "Repository"
-        name: "repository"
-        widget: "string"
-
-      - label: "Subjects"
-        name: "subjects"
-        widget: "list"
-
-      - label: "Title"
-        name: "title"
-        widget: "string"
-
-      - label: "Tweets"
-        name: "tweets"
-        widget: "number"
-
-      - label: "Dataset URL"
-        name: "url"
-        widget: "string"
+      - label: Title
+        name: title
+        widget: string
+      - label: Dataset URL
+        name: url
+        widget: string
         pattern:
-          - "https?://.+"
-          - "Must be a URL"
-
-      - label: "Description"
-        name: "body"
-        widget: "markdown"
+          - https?://.+
+          - Must be a URL
+      - label: Repository
+        name: repository
+        widget: string
+      - label: Number of Tweets
+        name: tweets
+        widget: number
+      - label: Creators
+        name: creators
+        widget: list
+        fields: 
+          - label: Name
+            name: name
+            widget: string
+          - label: Email
+            name: email
+            widget: string
+            required: false
+      - label: Tweet Dates
+        name: dates
+        widget: list
+        fields:
+          - label: Start
+            name: start
+            widget: datetime
+          - label: End
+            name: end
+            widget: datetime
+      - label: Date Published
+        name: published
+        widget: datetime
+      - label: Date Added
+        name: added
+        widget: datetime
+      - label: Subjects
+        name: subjects
+        widget: list
+        field: 
+          label: Subject
+          name: subject
+          widget: string
+      - label: Description
+        name: body
+        widget: markdown
