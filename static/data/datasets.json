@@ -2943,5 +2943,30 @@
     "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LW0BTB",
     "slug": "20200322-coronavirus-tweets",
     "description": "<p>This dataset contains the tweet ids of 51,798,932 tweets related to Coronavirus or  COVID-19. They were collected between March 3, 2020 and March 19, 2020 (midnight UTC-0)  from the Twitter API using Social Feed Manager. These tweets were collected using the  POST statuses/filter method of the Twitter Stream API, using the track parameter with  the following keywords: #Coronavirus, #Coronaoutbreak, #COVID19.  </p>"
+  },
+  {
+    "title": "Test",
+    "creators": [
+      {
+        "name": "Ed Summers",
+        "email": "ehs@pobox.com"
+      }
+    ],
+    "added": "2020-04-02T16:47:06.636Z",
+    "published": "2020-04-02T16:47:06.616Z",
+    "dates": [
+      {
+        "start": "2020-04-02T16:47:30.604Z",
+        "end": "2020-04-02T16:47:30.628Z"
+      }
+    ],
+    "repository": "Test",
+    "subjects": [
+      "Test"
+    ],
+    "tweets": 1000,
+    "url": "https://example.com",
+    "slug": "20200402-test",
+    "description": "<p>This is a </p>\n<ul>\n<li>test</li>\n<li>of </li>\n<li>markdown</li>\n</ul>\n<p>We can add <a href=\"https://docnow.io\">links</a> and images too (I think):</p>\n<p><img src=\"/images/sig.jpg\" alt=\"test\" title=\"test\"></p>"
   }
 ]

@@ -24,7 +24,7 @@ const Datasets = () => {
   const [filtered, setFiltered] = useState([])
   const [subjects, setSubjects] = useState([])
   const [start, setStart] = useState('2010-01-01')
-  const [end, setEnd] = useState(moment().format('YYYY-MM-DD'))
+  const [end, setEnd] = useState(moment().add(1, 'days').format('YYYY-MM-DD'))
   const [subject, setSubject] = useState('All')
   const [search, setSearch] = useState('')
 
