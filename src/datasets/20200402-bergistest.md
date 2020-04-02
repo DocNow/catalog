@@ -1,5 +1,5 @@
 ---
-title: bergistest
+title: bergis-test
 url: 'https://www.nytimes.com/2020/04/01/opinion/coronavirus-black-people.html'
 repository: UCR Dash
 tweets: 10000
