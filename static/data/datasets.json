@@ -2945,28 +2945,29 @@
     "description": "<p>This dataset contains the tweet ids of 51,798,932 tweets related to Coronavirus or  COVID-19. They were collected between March 3, 2020 and March 19, 2020 (midnight UTC-0)  from the Twitter API using Social Feed Manager. These tweets were collected using the  POST statuses/filter method of the Twitter Stream API, using the track parameter with  the following keywords: #Coronavirus, #Coronaoutbreak, #COVID19.  </p>"
   },
   {
-    "title": "Test",
+    "title": "ADM test",
     "creators": [
       {
-        "name": "Ed Summers",
-        "email": "ehs@pobox.com"
+        "name": "Alexandra Dolan-Mescal",
+        "email": "alex@docnow.io"
       }
     ],
-    "added": "2020-04-02T16:47:06.636Z",
-    "published": "2020-04-02T16:47:06.616Z",
+    "added": "2020-04-02T17:10:53.216Z",
+    "published": "2020-04-02T17:10:53.194Z",
     "dates": [
       {
-        "start": "2020-04-02T16:47:30.604Z",
-        "end": "2020-04-02T16:47:30.628Z"
+        "start": "2020-02-27T18:11:19.301Z",
+        "end": "2020-03-05T18:11:19.316Z"
       }
     ],
-    "repository": "Test",
+    "repository": "Dataverse",
     "subjects": [
-      "Test"
+      "art",
+      "science"
     ],
-    "tweets": 1000,
-    "url": "https://example.com",
-    "slug": "20200402-test",
-    "description": "<p>This is a </p>\n<ul>\n<li>test</li>\n<li>of </li>\n<li>markdown</li>\n</ul>\n<p>We can add <a href=\"https://docnow.io\">links</a> and images too (I think):</p>\n<p><img src=\"/images/sig.jpg\" alt=\"test\" title=\"test\"></p>"
+    "tweets": 12022020,
+    "url": "http://www.example.com",
+    "slug": "20200402-adm-test",
+    "description": "<blockquote>\n<p>testing out some <strong>HTML</strong> here</p>\n</blockquote>"
   }
 ]

@@ -22,21 +22,27 @@ collections:
       - label: Title
         name: title
         widget: string
+        hint: The title for your dataset.
       - label: Dataset URL
         name: url
         widget: string
         pattern:
           - https?://.+
           - Must be a URL
+        hint: The URL for where your dataset has been published.
       - label: Repository
         name: repository
         widget: string
+        hint: The name of the repository where your dataset has been published.
       - label: Number of Tweets
         name: tweets
         widget: number
+        hint: The total number of tweets in your dataset.
       - label: Creators
         name: creators
         widget: list
+        collapsed: false
+        hint: Names and optional email addresses for the creators of the dataset.
         fields: 
           - label: Name
             name: name
@@ -48,22 +54,31 @@ collections:
       - label: Tweet Dates
         name: dates
         widget: list
+        required: true
+        collapsed: false
+        hint: The date coverage for the tweets in your dataset.
         fields:
           - label: Start
             name: start
-            widget: datetime
+            widget: date
+            required: true
           - label: End
             name: end
-            widget: datetime
+            widget: date
+            required: true
       - label: Date Published
         name: published
         widget: datetime
+        hint: When the dataset was published in the repository.
       - label: Date Added
         name: added
         widget: datetime
+        hint: The date this Catalog record will be published.
       - label: Subjects
         name: subjects
         widget: list
+        collapsed: false
+        hint: A list of subject terms for the contents of your datasets.
         field: 
           label: Subject
           name: subject
@@ -71,3 +86,4 @@ collections:
       - label: Description
         name: body
         widget: markdown
+        hint: A description of how and why you created your dataset. Think about what kind of description will help researchers use your dataset.

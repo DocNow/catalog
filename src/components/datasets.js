@@ -109,7 +109,7 @@ const Datasets = () => {
           </div>
 
           <div className={style.addRecord}>
-            <a href="/admin/">
+            <a href="/admin/#/collections/datasets/new">
               <Button title="Add a record to the Catalog" variant="contained" color="primary">Add Record</Button>
             </a>
           </div>
