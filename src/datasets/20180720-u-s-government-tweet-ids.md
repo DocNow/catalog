@@ -1,11 +1,11 @@
 ---
 added: 2018-07-20 12:00:00-05:00
 creators:
-- email: ''
+- email: null
   name: Justin Littman
-- email: ''
+- email: null
   name: Dan Kerchner
-- email: ''
+- email: null
   name: Laura Wrubel
 dates:
 - end: '2018-07-20'

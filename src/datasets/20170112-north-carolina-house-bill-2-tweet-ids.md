@@ -1,9 +1,9 @@
 ---
 added: 2017-01-12 12:00:00+00:00
 creators:
-- email: ''
+- email: null
   name: Jason Casden
-- email: ''
+- email: null
   name: Brian Dietz
 dates:
 - end: '2017-01-12'

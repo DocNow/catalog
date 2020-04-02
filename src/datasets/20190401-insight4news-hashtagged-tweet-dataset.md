@@ -1,7 +1,7 @@
 ---
 added: 2019-04-01 17:00:00+00:00
 creators:
-- email: ''
+- email: null
   name: Gevorg Poghosyan
 dates:
 - end: '2017-05-24'

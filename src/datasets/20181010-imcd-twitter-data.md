@@ -1,7 +1,7 @@
 ---
 added: 2018-10-10 15:59:07+00:00
 creators:
-- email: ''
+- email: null
   name: Urban Big Data Centre
 dates:
 - end: '2015-11-30'

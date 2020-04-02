@@ -1,7 +1,7 @@
 ---
 added: 2020-03-12 06:04:14+00:00
 creators:
-- email: ''
+- email: null
   name: bigIR research group
 dates:
 - end: '2015-02-02'

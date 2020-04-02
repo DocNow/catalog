@@ -1,7 +1,7 @@
 ---
 added: 2018-10-08 13:44:00+00:00
 creators:
-- email: ''
+- email: null
   name: Mark Phillips
 dates:
 - end: '2018-10-03'

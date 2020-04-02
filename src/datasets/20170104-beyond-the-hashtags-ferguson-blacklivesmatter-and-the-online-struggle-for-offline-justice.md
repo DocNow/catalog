@@ -1,7 +1,7 @@
 ---
 added: 2017-01-04 22:29:30+00:00
 creators:
-- email: ''
+- email: null
   name: Deen Freelon
 dates:
 - end: '2015-05-31'

@@ -1,9 +1,9 @@
 ---
 added: 2017-02-03 20:25:38+00:00
 creators:
-- email: ''
+- email: null
   name: Justin Littman
-- email: ''
+- email: null
   name: Soomin Park
 dates:
 - end: '2017-01-23'

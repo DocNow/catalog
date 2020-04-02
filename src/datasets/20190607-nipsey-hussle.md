@@ -3,7 +3,7 @@ added: 2019-06-07 16:49:00+00:00
 creators:
 - email: bergis.jules@gmail.com
   name: Bergis Jules
-- email: ''
+- email: null
   name: Yusef Omowale
 - email: ehs@pobox.com
   name: Ed Summers

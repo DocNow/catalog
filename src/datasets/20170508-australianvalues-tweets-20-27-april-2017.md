@@ -1,7 +1,7 @@
 ---
 added: 2017-05-08 11:43:26+00:00
 creators:
-- email: ''
+- email: null
   name: Tim Sherratt
 dates:
 - end: '2017-04-27'

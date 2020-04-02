@@ -71,7 +71,7 @@ for d in datasets:
 
     d['creators'] = []
     for name in d['creator']:
-        email = emails.get(name, '')
+        email = emails.get(name, None)
         d['creators'].append({'name': name, 'email': email})
     del d['creator']
 

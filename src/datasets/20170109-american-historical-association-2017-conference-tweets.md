@@ -1,7 +1,7 @@
 ---
 added: 2017-01-09 07:05:07+00:00
 creators:
-- email: ''
+- email: null
   name: Ian Milligan
 dates:
 - end: '2017-01-09'

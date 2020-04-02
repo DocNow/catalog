@@ -1,13 +1,13 @@
 ---
 added: 2017-09-08 12:00:00-05:00
 creators:
-- email: ''
+- email: null
   name: Justin Littman
-- email: ''
+- email: null
   name: Laura Wrubel
-- email: ''
+- email: null
   name: Daniel Kerchner
-- email: ''
+- email: null
   name: Yonah Bromberg Gaber
 dates:
 - end: '2018-07-20'
