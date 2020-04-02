@@ -1,7 +1,7 @@
 ---
 added: 2019-09-30 16:22:00+00:00
 creators:
-- email: null
+- email: ''
   name: Joel A. Blanco-Rivera
 dates:
 - end: '2019-07-25'

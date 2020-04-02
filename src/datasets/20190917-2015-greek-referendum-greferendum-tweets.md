@@ -1,7 +1,7 @@
 ---
 added: 2019-09-17 16:08:01+00:00
 creators:
-- email: null
+- email: ''
   name: Sofia Papastamkou
 dates:
 - end: '2015-07-16'

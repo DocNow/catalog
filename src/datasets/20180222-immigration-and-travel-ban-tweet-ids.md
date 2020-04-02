@@ -1,7 +1,7 @@
 ---
 added: 2018-02-22 12:00:00-05:00
 creators:
-- email: null
+- email: ''
   name: Justin Littman
 dates:
 - end: '2017-04-20'

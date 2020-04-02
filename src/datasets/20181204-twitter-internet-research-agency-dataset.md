@@ -1,7 +1,7 @@
 ---
 added: 2018-12-04 10:14:07+00:00
 creators:
-- email: null
+- email: ''
   name: Twitter
 dates:
 - end: '2018-06-21'

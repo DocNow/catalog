@@ -1,7 +1,7 @@
 ---
 added: 2017-07-11 19:35:27+00:00
 creators:
-- email: null
+- email: ''
   name: Jeremy Boggs
 dates:
 - end: '2017-07-11'

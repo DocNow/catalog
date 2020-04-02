@@ -1,9 +1,9 @@
 ---
 added: 2019-02-22 00:00:00+00:00
 creators:
-- email: null
+- email: ''
   name: Justin Littman
-- email: null
+- email: ''
   name: Yonah Bromberg Graber
 dates:
 - end: '2019-01-02'

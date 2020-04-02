@@ -1,7 +1,7 @@
 ---
 added: 2019-08-28 16:28:00+00:00
 creators:
-- email: null
+- email: ''
   name: Tatjana Scheffler
 dates:
 - end: '2013-04-30'

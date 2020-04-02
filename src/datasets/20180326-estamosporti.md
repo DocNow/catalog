@@ -1,7 +1,7 @@
 ---
 added: 2018-03-26 15:57:00+00:00
 creators:
-- email: null
+- email: ''
   name: Renato Gabriele
 dates:
 - end: '2017-10-24'

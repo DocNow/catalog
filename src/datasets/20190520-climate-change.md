@@ -1,9 +1,9 @@
 ---
 added: 2019-05-20 09:00:00+00:00
 creators:
-- email: null
+- email: ''
   name: Justin Littman
-- email: null
+- email: ''
   name: Laura Wrubel
 dates:
 - end: '2019-05-17'

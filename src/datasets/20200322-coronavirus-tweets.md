@@ -1,9 +1,9 @@
 ---
 added: 2020-03-22 00:15:00+00:00
 creators:
-- email: null
+- email: ''
   name: Dan Kerchner
-- email: null
+- email: ''
   name: Laura Wrubel
 dates:
 - end: '2020-03-19'

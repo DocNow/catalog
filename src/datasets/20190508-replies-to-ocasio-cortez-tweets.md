@@ -1,7 +1,7 @@
 ---
 added: 2019-05-08 10:29:00+00:00
 creators:
-- email: null
+- email: ''
   name: Nick Doiron
 dates:
 - end: '2019-04-28'

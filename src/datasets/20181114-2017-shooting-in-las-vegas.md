@@ -1,11 +1,11 @@
 ---
 added: 2018-11-14 23:01:43+00:00
 creators:
-- email: null
+- email: ''
   name: Thomas Padilla
-- email: null
+- email: ''
   name: Miranda Barrie
-- email: null
+- email: ''
   name: Tammi Kim
 dates:
 - end: '2017-10-07'

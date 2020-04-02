@@ -1,7 +1,7 @@
 ---
 added: 2019-11-11 10:00:01+00:00
 creators:
-- email: null
+- email: ''
   name: Ben Rachunok
 dates:
 - end: '2019-09-16'

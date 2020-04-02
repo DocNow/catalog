@@ -1,11 +1,11 @@
 ---
 added: 2016-12-23 17:03:14-05:00
 creators:
-- email: null
+- email: ''
   name: Justin Littman
-- email: null
+- email: ''
   name: Laura Wrubel
-- email: null
+- email: ''
   name: Daniel Kerchner
 dates:
 - end: '2016-11-10'

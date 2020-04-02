@@ -1,9 +1,9 @@
 ---
 added: 2019-06-24 12:40:00+00:00
 creators:
-- email: null
+- email: ''
   name: Aaron Beveridge
-- email: null
+- email: ''
   name: Nicholas M. Van Horn
 dates:
 - end: '2016-12-31'

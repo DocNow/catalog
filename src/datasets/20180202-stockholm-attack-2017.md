@@ -1,7 +1,7 @@
 ---
 added: 2018-02-02 08:22:00+00:00
 creators:
-- email: null
+- email: ''
   name: Andreas Segerberg
 dates:
 - end: '2017-04-07'

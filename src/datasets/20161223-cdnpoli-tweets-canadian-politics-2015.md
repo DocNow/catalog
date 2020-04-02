@@ -1,7 +1,7 @@
 ---
 added: 2016-12-23 10:23:06-05:00
 creators:
-- email: null
+- email: ''
   name: Library and Archives Canada
 dates:
 - end: '2015-10-28'

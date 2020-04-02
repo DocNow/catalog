@@ -3,7 +3,7 @@ added: 2019-09-22 15:12:01+00:00
 creators:
 - email: ehs@pobox.com
   name: Ed Summers
-- email: null
+- email: ''
   name: Matthew Salzano
 dates:
 - end: '2019-09-14'

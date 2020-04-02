@@ -1,9 +1,9 @@
 ---
 added: 2017-10-17 18:25:22+00:00
 creators:
-- email: null
+- email: ''
   name: "Vicen\xE7 Ruiz G\xF3mez"
-- email: null
+- email: ''
   name: Aniol Maria
 - email: ehs@pobox.com
   name: Ed Summers
