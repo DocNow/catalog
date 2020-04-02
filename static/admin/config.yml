@@ -1,6 +1,11 @@
 backend:
   name: git-gateway
+  accept-roles:
+    - admin
+    - editor
   branch: redesign
+  site_url: https://catalog.docnow.io/
+  logo_url: https://catalog.docnow.io/images/docnow.png
 
 media_folder: static/images
 public_folder: /images
