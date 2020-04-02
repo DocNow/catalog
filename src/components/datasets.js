@@ -109,7 +109,9 @@ const Datasets = () => {
           </div>
 
           <div className={style.addRecord}>
-            <Button variant="contained" color="primary">Add Record</Button>
+            <a href="/admin/">
+              <Button title="Add a record to the Catalog" variant="contained" color="primary">Add Record</Button>
+            </a>
           </div>
 
         </FormControl>
