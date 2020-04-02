@@ -986,7 +986,9 @@
   published: 2017-12-10
   added: 2017-12-11T07:40:01Z
   tweets: "238,991,027"
-  dates: 2017-05-07 - 2017-06-21, 2017-06-23 - 2020-03-21
+  dates:
+    - 2017-05-07 - 2017-06-21
+    - 2017-06-23 - 2020-03-21
   tags:
     - American Politics
     - politics
@@ -1008,7 +1010,9 @@
   published: 2017-12-10
   added: 2017-12-11T07:40:01Z
   tweets: "2,278,757"
-  dates: 2017-06-05 - 2017-09-21, 2017-10-26 - 2017-12-09
+  dates: 
+    - 2017-06-05 - 2017-09-21
+    - 2017-10-26 - 2017-12-09
   tags:
     - American Politics
     - politics
@@ -1709,6 +1713,7 @@
   url: http://hdl.handle.net/10864/10830
   published: 2015-01-14
   added: 2016-12-23T17:03:14-05:00
+  dates: 2015-01-07 - 2015-01-28
   tweets: "13,968,293"
   tags:
     - politics
@@ -1726,7 +1731,7 @@
     - activism
     - blacklivesmatter
   dates:
-    - 2014-08-10 - 2014-08-27
+    - 2014-08-10 - 2014-08-27 
     - 2014-11-11 - 2014-12-08
   description: >
     This item represents a collection of 13,480,000 tweet IDs that mentioned
@@ -1747,6 +1752,7 @@
   url: http://hdl.handle.net/10864/11270
   published: 2015-11-19
   added: 2016-12-24T10:14:07-05:00
+  dates: 2015-07-25 - 2015-11-05
   tweets: "3,039,804"
   tags:
     - politics
@@ -1758,6 +1764,7 @@
   url: http://hdl.handle.net/10864/11312
   published: 2015-12-12
   added: 2016-12-23T17:40:17-05:00
+  dates: 2015-11-04 - 2015-12-08
   tweets: "14,939,154"
   tags:
     - politics
@@ -1769,6 +1776,7 @@
   url: http://hdl.handle.net/10864/11348
   published: 2016-01-18
   added: 2016-12-23T10:23:06-05:00
+  dates: 2015-08-06 - 2015-10-28
   tweets: "2,607,886"
   tags:
     - politics
@@ -1782,6 +1790,7 @@
   url: http://hdl.handle.net/10864/11491
   published: 2016-03-03
   added: 2016-12-23T17:40:17-05:00
+  dates: 2016-02-29 - 2016-04-08
   tweets: "1,828,643"
   tags:
     - politics
@@ -1793,6 +1802,7 @@
   url: http://hdl.handle.net/10864/11591
   published: 2016-04-13
   added: 2016-12-23T17:40:17-05:00
+  dates: 2016-04-03 - 2016-06-06
   tweets: "115,524"
   tags:
     - politics
@@ -1804,6 +1814,7 @@
   url: http://hdl.handle.net/10864/11592
   published: 2016-04-13
   added: 2016-12-23T17:40:17-05:00
+  dates: 2016-04-04 - 2016-04-29
   tweets: "4,976,094"
   tags:
     - politics
@@ -1815,6 +1826,7 @@
   url: http://hdl.handle.net/10864/11674
   published: 2016-04-27
   added: 2016-12-23T17:40:17-05:00
+  dates: 2016-03-30 - 2016-04-27
   tweets: "40,279"
   tags:
     - politics
@@ -2069,6 +2081,7 @@
   creator: Mark Phillips
   url: https://digital.library.unt.edu/ark:/67531/metadc1477117/
   published: 2019-05-07
+  added: 2019-05-07T00:00:00Z
   tweets: "8,046,185"
   dates: "2019-04-08 - 2019-04-29"
   tags:
