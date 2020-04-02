@@ -2174,35 +2174,6 @@
     "description": "<p>During the last political campaign in the Italian Election 2018 populism, racism and far-right acts raised, gaining attentions by international media. On February 3, a drive-by shooting targeted sub-Saharan Africans in Macerata, in central Italy, wounding at least 6 immigrants. Police charged the shooter of aggravated assault by the purpose of racism. The data set give a glimpse of debates, hate speeches, protests, unofficial and official marches. Including the national march held on Feb 10 in Macerata. The attached data set contains all conversations related with \"Macerata\"  and the shooter's name, collected since January 24, 2018 until February 19, 2018 (574,925 tweets by 116,586 users). More info at Oohmm (src: @remagio @Oohmminfo <a href=\"https://oohmm.info/about\">https://oohmm.info/about</a>).</p>"
   },
   {
-    "title": "Event datasets (2012-2016)",
-    "creators": [
-      {
-        "name": "Arkaitz Zubiaga",
-        "email": null
-      }
-    ],
-    "added": "2018-05-21T16:56:24.000Z",
-    "published": "2017-09-20T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2012-02-03",
-        "end": "2016-05-03"
-      }
-    ],
-    "repository": "Figshare",
-    "subjects": [
-      "Sports",
-      "Disasters",
-      "Activism",
-      "Shootings",
-      "Terrorism"
-    ],
-    "tweets": 147055035,
-    "url": "https://figshare.com/articles/Twitter_event_datasets_2012-2016_/5100460",
-    "slug": "20180521-event-datasets-2012-2016",
-    "description": "<p>This collection includes data for 30 different Twitter datasets associated with real world events. The datasets were collected between 2012 and 2016, always using the streaming API with a set of keywords. Topics include: Superbowl 2012, SXSW 2012, Euro 2012, Mexican election, Hurricane Sandy, Politics, Boston Marathon bombing, St. Patrick's Day, Gaza under attack, Ebola outbreak, Ferguson , Hong Kong, Ottawa, Typhoon Hagupit, Sydney , Charlie Hebdo, Nepal Earthquake, Refugees Welcome, Hurricane Patricia, Paris Attacks, Irish election, Brexit, Brussels Airport explossion, Lahore blast, Cyprus hijacked plane, Panama papers, and Sismo Ecuador. More information is available at <a href=\"https://doi.org/10.1002/asi.24026\">https://doi.org/10.1002/asi.24026</a></p>"
-  },
-  {
     "title": "Ireland 8th amendment referendum vote",
     "creators": [
       {
@@ -2969,5 +2940,82 @@
     "url": "http://www.example.com",
     "slug": "20200402-adm-test",
     "description": "<blockquote>\n<p>testing out some <strong>HTML</strong> here</p>\n</blockquote>"
+  },
+  {
+    "title": "A Twitter Dataset of 100+ million tweets related to COVID-19",
+    "creators": [
+      {
+        "name": "Juan M Banda",
+        "email": null
+      },
+      {
+        "name": "Ramya Tekumalla",
+        "email": null
+      },
+      {
+        "name": "Guanyu Wang",
+        "email": null
+      },
+      {
+        "name": "Jingyuan Yu",
+        "email": null
+      },
+      {
+        "name": "Tuo Liu",
+        "email": null
+      },
+      {
+        "name": "Yuning Ding",
+        "email": null
+      },
+      {
+        "name": "Gerardo Chowell",
+        "email": null
+      }
+    ],
+    "added": "2020-03-31T20:20:43.000Z",
+    "published": "2020-03-31T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2020-01-01",
+        "end": "2020-03-31"
+      }
+    ],
+    "repository": "Zeonodo",
+    "subjects": [
+      "Covid-19",
+      "Coronavirus",
+      "Twitter",
+      "Dataset"
+    ],
+    "tweets": 101400452,
+    "url": "https://doi.org/10.5281/zenodo.3723939",
+    "slug": "20200331-a-twitter-dataset-of-100-million-tweets-related-to-covid-19",
+    "description": "<p>Due to the relevance of the COVID-19 global pandemic, we are releasing our dataset of tweets acquired  from the Twitter Stream related to COVID-19 chatter. The first 9 weeks of data (from January 1st, 2020 to March 11th, 2020) contain very low tweet counts as we filtered other data we were collecting for other research purposes,  however, one can see the dramatic increase as the awareness for the virus spread. Dedicated data gathering  started from March 11th to March 30th which yielded over 4 million tweets a day.  We have added additional data provided by our new collaborators from January 27th to February 27th,  to provide extra longitudinal coverage.The data collected from the stream captures all languages,  but the higher prevalence are:  English, Spanish, and French. We include two different files. Full-dataset.tsv contains all the 100 million tweet ids where as full<em>dataset-clean.tsv contains only original tweets (with no retweets.) For NLP tasks we provide the top 1000 frequent terms  in frequent</em>terms.csv, the top 1000 bigrams in frequent<em>bigrams.csv, and the top 1000 trigrams in frequent</em>trigrams.csv.  Some general statistics per day are included for both datasets in the statistics-full<em>dataset.tsv and  statistics-full</em>dataset-clean.tsv files.</p>"
+  },
+  {
+    "title": "Event datasets (2012-2016)",
+    "creators": [
+      {
+        "name": "Arkaitz Zubiaga",
+        "email": null
+      }
+    ],
+    "added": "2018-05-21T16:56:24.000Z",
+    "published": "2017-09-20T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2012-02-03",
+        "end": "2016-05-03"
+      }
+    ],
+    "repository": "Figshare",
+    "subjects": [
+      "30 Different Events, See Readme File For Details On Events And Tags"
+    ],
+    "tweets": 147055035,
+    "url": "https://figshare.com/articles/Twitter_event_datasets_2012-2016_/5100460",
+    "slug": "20180521-event-datasets-2012-2016",
+    "description": "<p>This collection includes data for 30 different Twitter datasets associated with real world events. The datasets were collected between 2012 and 2016, always using the streaming API with a set of keywords. More on this paper: <a href=\"https://doi.org/10.1002/asi.24026\">https://doi.org/10.1002/asi.24026</a></p>"
   }
 ]
