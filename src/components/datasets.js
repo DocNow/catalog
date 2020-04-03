@@ -12,6 +12,7 @@ import TableCell from "@material-ui/core/TableCell"
 import TableContainer from "@material-ui/core/TableContainer"
 import TableHead from "@material-ui/core/TableHead"
 import TableRow from "@material-ui/core/TableRow"
+import TableSortLabel from "@material-ui/core/TableSortLabel"
 import Paper from "@material-ui/core/Paper"
 import moment from "moment"
 
@@ -39,7 +40,7 @@ const Datasets = () => {
       const datasets = await resp.json()
 
       // sort the datasets by added date, descending
-      datasets.sort((a, b) => new Date(b.dates[0].start) - new Date(a.dates[0].start))
+      datasets.sort((a, b) => new Date(b.added) - new Date(a.added))
 
       // update the display with latest data
       setDatasets(datasets)
@@ -134,6 +135,7 @@ const Datasets = () => {
           <Table>
             <TableHead>
               <TableRow className={style.colHeader}>
+                <TableCell>ADDED</TableCell>
                 <TableCell>DATE RANGE</TableCell>
                 <TableCell>TITLE</TableCell>
                 <TableCell align="right">TWEET COUNT</TableCell>
@@ -145,6 +147,7 @@ const Datasets = () => {
             <TableBody>
             {datasets.filter(d => filtered.includes(d.slug)).map((d, i) => (
               <TableRow key={`dataset-${i}`}>
+                <TableCell>{moment(d.added).format('YYYY-MM-DD')}</TableCell>
                 <TableCell>{d.dates[0].start} - {d.dates[0].end}</TableCell>
                 <TableCell><Link to={`/datasets/${d.slug}/`}>{d.title}</Link></TableCell>
                 <TableCell align="right">{d.tweets.toLocaleString()}</TableCell>
