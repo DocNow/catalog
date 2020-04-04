@@ -1478,33 +1478,6 @@
     "description": "<p>This dataset contains Twitter JSON data for several Twitter search queries that were collected around the #YesAllWomen Twitter \"conversation\" between May 25, 2014 and June 8, 2014 using the twarc (<a href=\"https://github.com/edsu/twarc\">https://github.com/edsu/twarc</a>) package that makes use of Twitter's search API. A total of 2,805,763 Tweets and 34,532 images make up the combined dataset.</p>"
   },
   {
-    "title": "Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice",
-    "creators": [
-      {
-        "name": "Deen Freelon",
-        "email": null
-      }
-    ],
-    "added": "2017-01-04T22:29:30.000Z",
-    "published": "2017-01-03T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2014-06-04",
-        "end": "2015-05-31"
-      }
-    ],
-    "repository": "dreelon.org",
-    "subjects": [
-      "Blacklivesmatter",
-      "Activism",
-      "Ferguson"
-    ],
-    "tweets": 40815975,
-    "url": "http://dfreelon.org/2017/01/03/beyond-the-hashtags-twitter-data/",
-    "slug": "20170104-beyond-the-hashtags-ferguson-blacklivesmatter-and-the-online-struggle-for-offline-justice",
-    "description": "<p>This is a dataset of ids for tweets purchased from Twitter as part of the Beyond the Hashtags study <a href=\"http://cmsimpact.org/resource/beyond-hashtags-ferguson-blacklivesmatter-online-struggle-offline-justice/\">http://cmsimpact.org/resource/beyond-hashtags-ferguson-blacklivesmatter-online-struggle-offline-justice/</a> The dataset includes a year of tweets that mention one or more of 45 keywords associated with the BlackLivesMatter movement. This period covers a critical time in which social media was used to raise awareness about police killings of unarmed Black citizens in the United States.</p>"
-  },
-  {
     "title": "American Historical Association 2017 Conference Tweets",
     "creators": [
       {
@@ -2916,32 +2889,6 @@
     "description": "<p>This dataset contains the tweet ids of 51,798,932 tweets related to Coronavirus or  COVID-19. They were collected between March 3, 2020 and March 19, 2020 (midnight UTC-0)  from the Twitter API using Social Feed Manager. These tweets were collected using the  POST statuses/filter method of the Twitter Stream API, using the track parameter with  the following keywords: #Coronavirus, #Coronaoutbreak, #COVID19.  </p>"
   },
   {
-    "title": "ADM test",
-    "creators": [
-      {
-        "name": "Alexandra Dolan-Mescal",
-        "email": "alex@docnow.io"
-      }
-    ],
-    "added": "2020-04-02T17:10:53.216Z",
-    "published": "2020-04-02T17:10:53.194Z",
-    "dates": [
-      {
-        "start": "2020-02-27T18:11:19.301Z",
-        "end": "2020-03-05T18:11:19.316Z"
-      }
-    ],
-    "repository": "Dataverse",
-    "subjects": [
-      "art",
-      "science"
-    ],
-    "tweets": 12022020,
-    "url": "http://www.example.com",
-    "slug": "20200402-adm-test",
-    "description": "<blockquote>\n<p>testing out some <strong>HTML</strong> here</p>\n</blockquote>"
-  },
-  {
     "title": "A Twitter Dataset of 100+ million tweets related to COVID-19",
     "creators": [
       {
@@ -3017,5 +2964,32 @@
     "url": "https://figshare.com/articles/Twitter_event_datasets_2012-2016_/5100460",
     "slug": "20180521-event-datasets-2012-2016",
     "description": "<p>This collection includes data for 30 different Twitter datasets associated with real world events. The datasets were collected between 2012 and 2016, always using the streaming API with a set of keywords. More on this paper: <a href=\"https://doi.org/10.1002/asi.24026\">https://doi.org/10.1002/asi.24026</a></p>"
+  },
+  {
+    "title": "Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice",
+    "creators": [
+      {
+        "name": "Deen Freelon",
+        "email": null
+      }
+    ],
+    "added": "2017-01-04T22:29:30.000Z",
+    "published": "2017-01-03T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2014-06-04",
+        "end": "2015-05-31"
+      }
+    ],
+    "repository": "dfreelon.org",
+    "subjects": [
+      "Blacklivesmatter",
+      "Activism",
+      "Ferguson"
+    ],
+    "tweets": 40815975,
+    "url": "http://dfreelon.org/2017/01/03/beyond-the-hashtags-twitter-data/",
+    "slug": "20170104-beyond-the-hashtags-ferguson-blacklivesmatter-and-the-online-struggle-for-offline-justice",
+    "description": "<p>This is a dataset of ids for tweets purchased from Twitter as part of the Beyond the Hashtags study <a href=\"http://cmsimpact.org/resource/beyond-hashtags-ferguson-blacklivesmatter-online-struggle-offline-justice/\">http://cmsimpact.org/resource/beyond-hashtags-ferguson-blacklivesmatter-online-struggle-offline-justice/</a> The dataset includes a year of tweets that mention one or more of 45 keywords associated with the BlackLivesMatter movement. This period covers a critical time in which social media was used to raise awareness about police killings of unarmed Black citizens in the United States.</p>"
   }
 ]

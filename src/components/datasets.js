@@ -28,6 +28,8 @@ const Datasets = () => {
   const [end, setEnd] = useState(moment().add(1, 'days').format('YYYY-MM-DD'))
   const [subject, setSubject] = useState('All')
   const [search, setSearch] = useState('')
+  const [orderBy, setOrderBy] = useState('added')
+  const [order, setOrder] = useState('desc')
 
   // load initial datasets data when the component mounts
   useEffect(() => {
@@ -61,6 +63,30 @@ const Datasets = () => {
     setFiltered(slugs)
     setSubjects(getSubjects(datasets.filter(d => slugs.includes(d.slug))))
   }, [subject, start, end, search, datasets])
+
+  /*
+  useEffect(() => {
+  }, [order, orderBy])
+  */
+
+  const updateOrder = (newOrderBy) => {
+    const newOrder = order === 'asc' ? 'desc' : 'asc'
+    setOrderBy(newOrderBy)
+    setOrder(newOrder)
+    const newDatasets = [...datasets]
+    newDatasets.sort(getComparator(newOrder, newOrderBy))
+    setDatasets(newDatasets)
+  }
+
+  const headCells = [
+    { id: 'added', numeric: false, label: 'ADDED' },
+    { id: 'dates', numeric: false, label: 'DATE RANGE' },
+    { id: 'title', numeric: false, label: 'TITLE' },
+    { id: 'tweets', numeric: true, label: 'TWEET COUNT' },
+    { id: 'creators', numeric: false, label: 'CREATORS' },
+    { id: 'subjects', numeric: false, label: 'SUBJECTS' },
+    { id: 'repository', numeric: false, label: 'REPOSITORY' }
+  ]
 
   // render the datasets!
   return (
@@ -133,17 +159,27 @@ const Datasets = () => {
 
         <TableContainer className={style.datasetsTable} component={Paper}>
           <Table>
+
             <TableHead>
-              <TableRow className={style.colHeader}>
-                <TableCell>ADDED</TableCell>
-                <TableCell>DATE RANGE</TableCell>
-                <TableCell>TITLE</TableCell>
-                <TableCell align="right">TWEET COUNT</TableCell>
-                <TableCell>CREATOR</TableCell>
-                <TableCell>SUBJECTS</TableCell>
-                <TableCell>REPOSITORY</TableCell>
+              <TableRow>
+                {headCells.map((headCell) => (
+                  <TableCell
+                    key={headCell.id}
+                    align={headCell.numeric ? 'right' : 'left'}
+                    sortDirection={orderBy === headCell.id ? order : false}
+                  >
+                    <TableSortLabel
+                      active={orderBy === headCell.id}
+                      direction={orderBy === headCell.id ? order : 'asc'}
+                      onClick={e => updateOrder(headCell.id)}
+                    >
+                      {headCell.label}
+                    </TableSortLabel>
+                  </TableCell>
+                ))}
               </TableRow>
             </TableHead>
+
             <TableBody>
             {datasets.filter(d => filtered.includes(d.slug)).map((d, i) => (
               <TableRow key={`dataset-${i}`}>
@@ -232,6 +268,39 @@ function filterSearch(datasets, search) {
 
 function intersection(a, b) {
   return a.filter(value => -1 !== b.indexOf(value))
+}
+
+function getComparator(order, orderBy) {
+  return order === 'desc'
+    ? (a, b) => descendingComparator(a, b, orderBy)
+    : (a, b) => -descendingComparator(a, b, orderBy)
+}
+
+function descendingComparator(a, b, orderBy) {
+  let vals = [ a[orderBy], b[orderBy] ]
+  // normalize the values based on what column they are
+  if (orderBy === 'dates') {
+    // sort by the first date in the range
+    vals = vals.map(d => d[0].start)
+  } else if (['title', 'repository'].includes(orderBy)) {
+    // sort by lower cased string
+    vals = vals.map(s => s.toLowerCase())
+  } else if (orderBy === 'creators') {
+    // sort by the first creator's name
+    vals = vals.map(c => c[0].name.toLowerCase())
+  } else if (orderBy === 'subjects') {
+    // sort by the first subject lower cased
+    vals = vals.map(l => l[0].toLowerCase())
+  }
+
+  // now we can compare
+  if (vals[1] < vals[0]) {
+    return -1;
+  }
+  if (vals[1] > vals[0]) {
+    return 1;
+  }
+  return 0;
 }
 
 export default Datasets
