@@ -49,4 +49,6 @@ const Dataset = ({ pageContext: dataset }) => (
   </Layout>
 )
 
+// Edit: /admin/#/collections/datasets/entries/20180521-event-datasets-2012-2016
+
 export default Dataset
