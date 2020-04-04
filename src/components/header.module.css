@@ -3,12 +3,18 @@ header {
   display: flex;
 }
 
-header img {
+header .docnow img {
   height: 50px;
 }
 
+header .catalog img {
+  height: 120px;
+}
+
 header .docnow {
-  flex-grow: 1;
+  flex-grow: .7;
+  padding-left: 10px;
+  padding-top: 30px;
 }
 
 header .catalog {
