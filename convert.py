@@ -37,7 +37,7 @@ repos = {
     "dataverse.lib.virginia.edu": "University of Virginia Dataverse",
     "dataverse.library.ualberta.ca": "University of Alberta Dataverse",
     "dataverse.scholarsportal.info": "Scholars Portal Dataverse",
-    "dfreelon.org": "dreelon.org",
+    "dfreelon.org": "dfreelon.org",
     "digital.library.unt.edu": "University of North Texas",
     "figshare.com": "Figshare",
     "github.com": "GitHub",

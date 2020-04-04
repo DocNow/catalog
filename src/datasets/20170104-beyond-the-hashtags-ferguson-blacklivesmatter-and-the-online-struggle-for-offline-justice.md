@@ -7,7 +7,7 @@ dates:
 - end: '2015-05-31'
   start: '2014-06-04'
 published: 2017-01-03
-repository: dreelon.org
+repository: dfreelon.org
 subjects:
 - Blacklivesmatter
 - Activism
