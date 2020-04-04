@@ -11,7 +11,7 @@ class IndexPage extends React.Component {
       <Layout>
         <SEO title="Home" />
         <div className={style.summary}>
-          The DocNow Catalog is a collectively contributed listing of Twitter datasets. Public datasets are shared as Tweet IDs, which can be hydrated back into full datasets using our <a href="https://github.com/docnow/hydrator#readme">Hydrator</a> desktop application.
+          The DocNow Catalog is a collectively curated listing of Twitter datasets. Public datasets are shared as Tweet IDs, which can be hydrated back into full datasets using our <a href="https://github.com/docnow/hydrator#readme">Hydrator</a> desktop application.
         </div>
         <Datasets />
       </Layout>

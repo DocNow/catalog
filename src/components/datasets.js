@@ -102,22 +102,26 @@ const Datasets = () => {
           </Select>
           </div>
 
-          <div className={style.tweetsStart}>
-          <TextField
-            id="start"
-            label="Tweets Start"
-            type="date"
-            onChange={e => setStart(e.target.value)}
-            value={start} />
-          </div>
+          <div className={style.dates}>
 
-          <div className={style.tweetsEnd}>
-          <TextField
-            id="end"
-            label="Tweets End"
-            type="date"
-            onChange={e => setEnd(e.target.value)}
-            value={end} />
+            <div className={style.tweetsStart}>
+            <TextField
+              id="start"
+              label="Tweets Start"
+              type="date"
+              onChange={e => setStart(e.target.value)}
+              value={start} />
+            </div>
+
+            <div className={style.tweetsEnd}>
+            <TextField
+              id="end"
+              label="Tweets End"
+              type="date"
+              onChange={e => setEnd(e.target.value)}
+              value={end} />
+            </div>
+
           </div>
 
           <div className={style.search}>

@@ -6,10 +6,17 @@ div.filter {
   margin-top: 40px;
   margin-bottom: 0px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .subjects {
+  margin-top: 10px;
+  flex-grow: 1;
+}
+
+.dates {
+  margin-top: 10px;
+  display: flex;
   flex-grow: 1;
 }
 
@@ -22,6 +29,7 @@ div.filter {
 }
 
 .search {
+  margin-top: 10px;
   flex-grow: 3;
 }
 
@@ -30,6 +38,8 @@ div.filter {
 }
 
 .addRecord {
+  margin-top: 10px;
+  display: none;
   flex-grow: 1;
   text-align: left;
 }
@@ -60,5 +70,17 @@ tr:nth-child(even) {
 .licenseNote {
   margin-left: 20px;
   color: gray;
+  display: none;
 }
 
+@media only screen and (min-width: 768px) {
+  div.filter {
+    flex-direction: row;
+  }
+  .addRecord {
+    display: inline;
+  }
+  .licenseNote {
+    display: block;
+  }
+}
