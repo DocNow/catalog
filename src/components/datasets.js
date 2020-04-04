@@ -64,11 +64,6 @@ const Datasets = () => {
     setSubjects(getSubjects(datasets.filter(d => slugs.includes(d.slug))))
   }, [subject, start, end, search, datasets])
 
-  /*
-  useEffect(() => {
-  }, [order, orderBy])
-  */
-
   const updateOrder = (newOrderBy) => {
     const newOrder = order === 'asc' ? 'desc' : 'asc'
     setOrderBy(newOrderBy)
