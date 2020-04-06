@@ -13,7 +13,6 @@ repository: Scholars Portal Dataverse
 subjects:
 - American Politics
 - Politics
-- Jeff Sessions
 title: '#JeffSessions tweets'
 tweets: 2278757
 url: http://dx.doi.org/10.5683/SP/MQ3Y99

@@ -10,9 +10,7 @@ published: 2018-02-02
 repository: Internet Archive
 subjects:
 - Terrorism
-- Attack
 - Sweden
-- Stockholm
 title: Stockholm Attack 2017
 tweets: 1067963
 url: https://archive.org/details/StockholmAttack2017Ids

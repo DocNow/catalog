@@ -9,7 +9,6 @@ dates:
 published: 2016-12-31
 repository: Scholars Portal Dataverse
 subjects:
-- Tragically Hip
 - Music
 title: Tweet ids for final Tragically Hip concert
 tweets: 228086

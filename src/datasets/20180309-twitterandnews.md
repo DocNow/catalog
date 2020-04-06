@@ -10,7 +10,10 @@ published: 2018-03-09
 repository: Dryad
 subjects:
 - Media
-- Race - African Americans - Asian Americans - Feminism
+- Race
+- African Americans
+- Asian Americans
+- Feminism
 title: '#twitterandnews'
 tweets: 364
 url: https://dx.doi.org/10.6086/D1337P

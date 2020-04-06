@@ -13,7 +13,6 @@ repository: Harvard Dataverse
 subjects:
 - Politics
 - Government
-- Congress
 title: 115th U.S. Congress Tweet Ids
 tweets: 2041399
 url: http://dx.doi.org/10.7910/DVN/UIVHQR

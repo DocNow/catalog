@@ -10,8 +10,7 @@ published: 2018-02-22
 repository: Harvard Dataverse
 subjects:
 - Immigration
-- Travel Ban
-- Executive Order
+- American Politics
 title: Immigration and Travel Ban Tweet Ids
 tweets: 16875766
 url: http://dx.doi.org/10.7910/DVN/5CFLLJ

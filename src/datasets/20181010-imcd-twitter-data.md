@@ -9,7 +9,6 @@ dates:
 published: 2018-10-10
 repository: University of Glasgow
 subjects:
-- Glasgow
 - Scotland
 - Politics
 title: iMCD Twitter Data

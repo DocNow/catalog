@@ -17,8 +17,6 @@ repository: Harvard Dataverse
 subjects:
 - Media
 - News
-- Television
-- Newspapers
 title: News Outlet Tweet Ids
 tweets: 39695156
 url: http://dx.doi.org/10.7910/DVN/2FIFLH

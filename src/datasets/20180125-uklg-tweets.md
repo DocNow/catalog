@@ -9,7 +9,7 @@ dates:
 published: 2018-01-25
 repository: Internet Archive
 subjects:
-- Scifi
+- Literature
 - Writers
 - Memorial
 title: UKLG Tweets

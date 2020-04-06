@@ -23,8 +23,6 @@ repository: Zeonodo
 subjects:
 - Covid-19
 - Coronavirus
-- Twitter
-- Dataset
 title: A Twitter Dataset of 100+ million tweets related to COVID-19
 tweets: 101400452
 url: https://doi.org/10.5281/zenodo.3723939

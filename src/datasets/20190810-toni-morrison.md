@@ -11,8 +11,8 @@ repository: Internet Archive
 subjects:
 - Literature
 - Humanities
-- Nobel Laureate
-- Black Women Writers
+- Black Women
+- Writers
 title: Toni Morrison
 tweets: 1170032
 url: https://archive.org/details/toni-morrison-tweets

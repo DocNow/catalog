@@ -12,6 +12,7 @@ subjects:
 - Racism
 - White Nationalism
 - Politics
+- Charlottesville
 title: '#UniteTheRight'
 tweets: 200113
 url: https://archive.org/details/unitetheright-ids

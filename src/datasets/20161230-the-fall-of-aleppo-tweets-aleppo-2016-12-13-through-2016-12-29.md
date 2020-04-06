@@ -9,7 +9,6 @@ dates:
 published: 2016-12-29
 repository: Scholars Portal Dataverse
 subjects:
-- Aleppo
 - Syrian Civil War
 title: The fall of Aleppo tweets; Aleppo 2016-12-13 through 2016-12-29
 tweets: 8595589

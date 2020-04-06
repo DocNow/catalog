@@ -9,8 +9,7 @@ dates:
 published: 2016-08-21
 repository: Scholars Portal Dataverse
 subjects:
-- Fort Mcmurry
-- Wildfire
+- Natural Disasters
 title: '#YMMfire tweets'
 tweets: 782495
 url: http://hdl.handle.net/10864/12033

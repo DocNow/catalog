@@ -11,7 +11,7 @@ dates:
 published: 2017-02-03
 repository: Harvard Dataverse
 subjects:
-- Womensmarch
+- Women
 - Activism
 - Politics
 title: Women's March Tweet Ids

@@ -9,7 +9,6 @@ dates:
 published: 2018-02-11
 repository: Dryad
 subjects:
-- Gifs
 - Memes
 title: '#GifHistory'
 tweets: 31929

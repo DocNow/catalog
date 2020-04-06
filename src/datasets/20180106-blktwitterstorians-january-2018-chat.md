@@ -10,8 +10,7 @@ published: 2018-01-06
 repository: Dryad
 subjects:
 - African Americans
-- Literatire
-- Twitter
+- Literature
 - History
 title: BLKTwitterstorians January 2018 Chat
 tweets: 400

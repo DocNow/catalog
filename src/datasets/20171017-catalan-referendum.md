@@ -14,7 +14,6 @@ published: 2017-10-17
 repository: Internet Archive
 subjects:
 - Spain
-- Catalonia
 - Activism
 - Politics
 title: Catalan Referendum

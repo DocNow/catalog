@@ -11,7 +11,6 @@ repository: Dryad
 subjects:
 - African Americans
 - Archives
-- Social Media
 title: DocNow Digital Blackness
 tweets: 4883
 url: https://dx.doi.org/10.6086/D1808K

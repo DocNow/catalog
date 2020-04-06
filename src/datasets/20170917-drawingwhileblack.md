@@ -10,7 +10,6 @@ published: 2017-09-17
 repository: Dryad
 subjects:
 - Black
-- Artists
 - African Americans
 - Art
 title: '#DrawingWhileBlack'

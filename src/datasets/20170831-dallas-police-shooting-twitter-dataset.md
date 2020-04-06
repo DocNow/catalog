@@ -9,7 +9,7 @@ dates:
 published: 2017-08-31
 repository: University of North Texas
 subjects:
-- Policeshooting
+- Police
 - Activism
 title: Dallas Police Shooting Twitter Dataset
 tweets: 7146993

@@ -10,8 +10,7 @@ published: 2018-05-11
 repository: Dryad
 subjects:
 - Black Women
-- Black Queer Women
-- Black Trans Women
+- LGBTQ
 - Black History
 title: '#Blackwomanhood'
 tweets: 917

@@ -11,9 +11,8 @@ dates:
 published: 2019-06-20
 repository: Internet Archive
 subjects:
-- Shepard Fairey
-- Obama Hope
-- Twitter
+- Art
+- Obama
 title: Obama Hope Tweets
 tweets: 14588
 url: https://archive.org/details/obama_hope_tweet_IDs.txt

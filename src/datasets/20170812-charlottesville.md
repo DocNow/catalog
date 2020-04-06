@@ -12,6 +12,7 @@ subjects:
 - Racism
 - White Nationalism
 - Politics
+- Charlottesville
 title: '#Charlottesville'
 tweets: 100000
 url: https://dx.doi.org/10.6086/D10T0B

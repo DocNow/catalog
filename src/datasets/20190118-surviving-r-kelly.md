@@ -13,7 +13,6 @@ repository: Internet Archive
 subjects:
 - Sexual Violence
 - Black Women
-- R Kelly
 title: Surviving R Kelly
 tweets: 1431655
 url: https://archive.org/details/SurvivingRKellyTweets

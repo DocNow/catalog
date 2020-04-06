@@ -12,8 +12,6 @@ subjects:
 - Politics
 - Propaganda
 - Russia
-- Twitter
-- Social Media
 title: Twitter Internet Research Agency Dataset
 tweets: 9041309
 url: https://archive.org/details/twitter-ira

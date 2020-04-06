@@ -9,7 +9,7 @@ dates:
 published: 2017-01-29
 repository: Scholars Portal Dataverse
 subjects:
-- Womensmarch
+- Women
 - Activism
 - Politics
 title: '#WomensMarch tweets January 12-28, 2017'
