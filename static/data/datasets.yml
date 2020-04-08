@@ -40,15 +40,15 @@
   url: https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset
   published: 2020-03-13
   added: 2020-03-28T14:35:43-05:45
-  tweets: "12,278,467"
-  dates: 2020-03-19 - 2020-03-28
+  tweets: "20,392,947"
+  dates: 2020-03-19 - 2020-04-08
   tags:
      - COVID-19
      - Coronavirus
      - Sentiment Analysis
      - Machine Learning
   description: >
-    This dataset includes more than 10 million tweet IDs related to the
+    This dataset includes more than 20 million tweet IDs related to the
     Coronavirus outbreak of 2019-2020. It is being added to over time, so the 
     numbers and dates may change. The tweets have been collected by the 
     LSTM model deployed at sentiment.live. The model monitors the real-time
@@ -64,15 +64,15 @@
   url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LW0BTB
   published: 2020-03-21
   added: 2020-03-22T00:15:00Z
-  tweets: "51,798,932"
-  dates: 2020-03-03 - 2020-03-19
+  tweets: "100,063,982"
+  dates: 2020-03-03 - 2020-03-31
   tags:
      - COVID-19
      - Coronavirus
      - Epidemiology
   description: >
-    This dataset contains the tweet ids of 51,798,932 tweets related to Coronavirus or 
-    COVID-19. They were collected between March 3, 2020 and March 19, 2020 (midnight UTC-0) 
+    This dataset contains the tweet ids of 100,063,982 tweets related to Coronavirus or 
+    COVID-19. They were collected between March 3, 2020 and March 31, 2020 (midnight UTC-0) 
     from the Twitter API using Social Feed Manager. These tweets were collected using the 
     POST statuses/filter method of the Twitter Stream API, using the track parameter with 
     the following keywords: #Coronavirus, #Coronaoutbreak, #COVID19.  
