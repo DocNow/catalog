@@ -1,9 +1,9 @@
 backend:
   name: git-gateway
   branch: redesign
-  site_url: https://catalog.docnow.io/
-  logo_url: https://catalog.docnow.io/images/docnow.png
-
+display_url: https://catalog.docnow.io/
+site_url: https://catalog.docnow.io/
+logo_url: https://catalog.docnow.io/images/docnow.png
 media_folder: static/images
 public_folder: /images
 
@@ -87,3 +87,33 @@ collections:
         name: body
         widget: markdown
         hint: A description of how and why you created your dataset. Think about what kind of description will help researchers use your dataset.
+      - label: Public Share?
+        name: public
+        widget: select
+        options: ["Yes", "No"]
+        hint: Did you publicly (on Twitter) share that you were collecting this content?
+        required: true
+      - label: Opt-Out?
+        name: optout
+        widget: select
+        options: ["Yes", "No"]
+        hint:  Do content creators have the option to opt out of your collecting or remove their content after collection has taken place?
+        required: true
+      - label: Contact?
+        name: contact
+        widget: select
+        options: ["Yes", "No"]
+        hint: Do you have an easy-to-find way for content creators to reach out about your collecting project?
+        required: true
+      - label: Analyzed Threats?
+        name: threat
+        widget: select
+        options: ["Yes", "No"]
+        hint: Have you analyzed the tweet dataset for potential threats to those whose content has been collected?
+        required: true
+      - label: Collection Development?
+        name: collecting
+        widget: select
+        options: ["Yes", "No"]
+        hint: Is this tweet dataset part of a larger collecting effort of topical materials, including oral histories, web archiving, or physical materials?
+        required: true
