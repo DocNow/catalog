@@ -187,8 +187,8 @@ const Datasets = () => {
             <TableBody>
             {datasets.filter(d => filtered.includes(d.slug)).map((d, i) => (
               <TableRow key={`dataset-${i}`}>
-                <TableCell>{moment(d.added).format('YYYY-MM-DD')}</TableCell>
-                <TableCell>{d.dates[0].start} - {d.dates[0].end}</TableCell>
+                <TableCell>{moment(d.added).format('L')}</TableCell>
+                <TableCell align="center">{moment(d.dates[0].start).format('L')}<br />to<br /> {moment(d.dates[0].end).format('L')}</TableCell>
                 <TableCell><Link to={`/datasets/${d.slug}/`}>{d.title}</Link></TableCell>
                 <TableCell align="right">{d.tweets.toLocaleString()}</TableCell>
                 <TableCell>{d.creators.map(c => c.name).join(', ')}</TableCell>
