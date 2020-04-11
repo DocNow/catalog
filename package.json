@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "docnow-catalog",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A clearinghouse for tweet datasets",
   "version": "0.0.1",
   "author": "Documenting the Now <info@docnow.io>",
   "dependencies": {
@@ -20,8 +20,6 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
-    "react-redux": "^7.2.0",
-    "redux": "^4.0.5"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
