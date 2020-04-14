@@ -41,6 +41,7 @@ repos = {
     "digital.library.unt.edu": "University of North Texas",
     "figshare.com": "Figshare",
     "github.com": "GitHub",
+    "gitlab.com": "GitLab",
     "ieee-dataport.org": "IEEE",
     "purr.purdue.edu": "Purdue University",
     "qufaculty.qu.edu.qa": "Qatar University",
