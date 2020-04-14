@@ -1,3 +1,35 @@
+@board Please suggest edits (if needed) for the following information needed for Twitter ID catalog:
+
+- title: ArCOV-19: The First Arabic COVID-19 Twitter Dataset with Propagation Networks
+  creator: 
+    - Fatima Haouari
+    - Maram Hasanain
+    - Reem Suwaileh
+    - Tamer Elsayed
+  url: https://gitlab.com/bigirqu/ArCOV-19
+  published: 2020-04-14
+  added: 2020-04-14T13:00:00-01:00
+  tweets: "747,599"
+  dates: 2020-01-27 - 2020-03-31
+  tags:
+     - Coronavirus pandemic
+     - popular tweets
+     - spread analysis
+     - misinformation
+     - conversational threads
+     - retweets
+     - social analytics
+
+  description: >
+  ArCOV-19 is an Arabic COVID-19 Twitter dataset that covers the period from the 27th of January till the 31st of March 2020. 
+  It is the first publicly-available Arabic Twitter dataset covering the COVID-19 pandemic that includes around 748k popular tweets 
+  (according to Twitter search criterion) alongside the propagation networks of the most-popular subset of them. 
+  The propagation networks include both retweets and conversational threads (i.e., threads of replies). 
+  ArCOV-19 is designed to enable research under several domains including natural language processing, information retrieval, 
+  and social computing, among others. In addition to that, ArCOV-19 contains the search queries and the 
+  language-independent crawler used to collect the tweets to encourage the curation of similar datasets.
+  
+  
 - title: A Twitter Dataset of 100+ million tweets related to COVID-19
   creator: 
     - Juan M Banda
