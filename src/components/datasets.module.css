@@ -5,7 +5,7 @@
 div.summary {
   display: flex;
   flex-direction: row;
-  max-width: 700px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -23,8 +23,11 @@ div.recordCount {
 }
 
 div.filter {
-  margin-top: 40px;
+  max-width: 1200px;
+  margin-top: 20px;
   margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
   display: flex;
   flex-direction: column;
 }
@@ -51,11 +54,11 @@ div.filter {
 }
 
 .search input {
-  min-width: 400px;
+  min-width: 600px;
 }
 
 .licenseNote {
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 20px;
   color: gray;
   display: none;
@@ -68,7 +71,7 @@ div.filter {
 }
 
 div.datasetsTable {
-  margin-top: 40px;
+  margin-top: 20px;
   border-top: thin inset #ccc;
 }
 
