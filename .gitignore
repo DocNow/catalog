@@ -3,3 +3,4 @@ public
 *.log
 .cache
 .vscode
+Pipfile*
