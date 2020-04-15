@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: redesign
+  branch: master
 display_url: https://catalog.docnow.io/
 site_url: https://catalog.docnow.io/
 logo_url: https://catalog.docnow.io/images/docnow.png
