@@ -2,20 +2,41 @@
   margin: 25px;
 }
 
+div.summary {
+  display: flex;
+  flex-direction: row;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.recordCount {
+  margin-top: 5px;
+  flex-grow: 2;
+  font-weight: bold;
+  font-size: 18pt;
+}
+
+.addRecord {
+  flex-grow: 1;
+  text-align: left;
+}
+
 div.filter {
-  margin-top: 40px;
+  max-width: 1200px;
+  margin-top: 20px;
   margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
   display: flex;
   flex-direction: column;
 }
 
 .subjects {
-  margin-top: 10px;
   flex-grow: 1;
 }
 
 .dates {
-  margin-top: 10px;
   display: flex;
   flex-grow: 1;
 }
@@ -29,49 +50,34 @@ div.filter {
 }
 
 .search {
-  margin-top: 10px;
-  flex-grow: 3;
+  flex-grow: 2;
 }
 
 .search input {
-  width: 350px;
+  min-width: 600px;
 }
 
-.addRecord {
+.licenseNote {
   margin-top: 10px;
+  margin-bottom: 20px;
+  color: gray;
   display: none;
-  flex-grow: 1;
-  text-align: left;
+  font-size: 12pt;
+  text-align: center;
 }
 
 .colHeader th {
   font-weight: bold;
 }
 
+div.datasetsTable {
+  margin-top: 20px;
+  border-top: thin inset #ccc;
+}
+
 tr:nth-child(even) { 
   background-color: #eee;
 } 
-
-.summary {
-  display: flex;
-  margin: 25px 0px 25px 0px;
-  font-size: 12pt;
-}
-
-.recordCount { 
-  font-weight: bold;
-  margin-right: 50px;
-}
-
-.tweetCount {
-  font-weight: bold;
-}
-
-.licenseNote {
-  margin-left: 20px;
-  color: gray;
-  display: none;
-}
 
 @media only screen and (min-width: 768px) {
   div.filter {

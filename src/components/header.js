@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import React from "react"
 
 import DocNow from "../images/docnow.png"
-import Catalog from "../images/catalog.png"
+import Catalog from "../images/cataloglogofinal.png"
 import style from "./header.module.css"
 
 const Header = ({ siteTitle }) => (

@@ -4,17 +4,17 @@ header {
 }
 
 header .docnow img {
-  height: 50px;
+  height: 40px;
 }
 
 header .catalog img {
-  height: 100px;
+  height: 60px;
 }
 
 header .docnow {
   flex-grow: .7;
   padding-left: 10px;
-  padding-top: 30px;
+  padding-top: 10px;
 }
 
 header .catalog {

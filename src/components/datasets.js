@@ -83,23 +83,43 @@ const Datasets = () => {
     { id: 'repository', numeric: false, label: 'REPOSITORY' }
   ]
 
+  const numTweets = datasets
+    .filter(d => filtered.includes(d.slug))
+    .map(d => d.tweets)
+    .reduce((a, b) => a + b, 0)
+    .toLocaleString() 
+
   // render the datasets!
+
   return (
     <section className={style.datasets}>
-      <section style={{ maxWidth :'100%' }}>
+
+      <div className={style.summary}>
+        <div className={style.recordCount}>
+          {filtered.length} Records comprising {numTweets} tweets
+        </div>
+        <div className={style.addRecord}>
+          <a href="/admin/#/collections/datasets/new">
+            <Button title="Add a record to the Catalog" variant="contained" color="primary">Add Record</Button>
+          </a>
+        </div>
+      </div>
+
+      <div style={{ maxWidth :'100%' }}>
+
         <FormControl className={style.filter}>
 
           <div className={style.subjects}>
-          <InputLabel>Subjects</InputLabel>
-          <Select 
-            onChange={e => setSubject(e.target.value)} 
-            value={subject}>
-            <MenuItem value="All">All</MenuItem>
-            {subjects.map(s => 
-            <MenuItem key={s} value={s}>{s}
-            </MenuItem>
-            )}
-          </Select>
+            <InputLabel>Subjects</InputLabel>
+            <Select 
+              onChange={e => setSubject(e.target.value)} 
+              value={subject}>
+              <MenuItem value="All">All</MenuItem>
+              {subjects.map(s => 
+              <MenuItem key={s} value={s}>{s}
+              </MenuItem>
+              )}
+            </Select>
           </div>
 
           <div className={style.dates}>
@@ -125,7 +145,6 @@ const Datasets = () => {
           </div>
 
           <div className={style.search}>
-            
             <TextField 
               id="search"
               label="Search"
@@ -134,26 +153,12 @@ const Datasets = () => {
               onChange={e => setSearch(e.target.value)} />
           </div>
 
-          <div className={style.addRecord}>
-            <a href="/admin/#/collections/datasets/new">
-              <Button title="Add a record to the Catalog" variant="contained" color="primary">Add Record</Button>
-            </a>
-          </div>
-
         </FormControl>
 
-        <div className={style.summary}>
-          <div className={style.recordCount}>
-            {filtered.length} Records <br/>
-          </div>
-          <div className={style.tweetCount}>
-            {datasets.filter(d => filtered.includes(d.slug)).map(d => d.tweets).reduce((a, b) => a + b, 0).toLocaleString()} Tweets
-          </div>
-          <div className={style.licenseNote}>
-            Note: all metadata is shared under a CC0 license. Please read 
-            our <a href="https://github.com/docnow/code-of-conduct#readme">Code of Conduct</a> for
-            more information about contributing datasets.
-          </div>
+        <div className={style.licenseNote}>
+          Note: all metadata is shared under a CC0 license. Please read 
+          our <a href="https://github.com/docnow/code-of-conduct#readme">Code of Conduct</a> for
+          more information about contributing datasets.
         </div>
 
         <TableContainer className={style.datasetsTable} component={Paper}>
@@ -182,8 +187,8 @@ const Datasets = () => {
             <TableBody>
             {datasets.filter(d => filtered.includes(d.slug)).map((d, i) => (
               <TableRow key={`dataset-${i}`}>
-                <TableCell>{moment(d.added).format('YYYY-MM-DD')}</TableCell>
-                <TableCell>{d.dates[0].start} - {d.dates[0].end}</TableCell>
+                <TableCell>{moment(d.added).format('L')}</TableCell>
+                <TableCell align="center">{moment(d.dates[0].start).format('L')}<br />to<br /> {moment(d.dates[0].end).format('L')}</TableCell>
                 <TableCell><Link to={`/datasets/${d.slug}/`}>{d.title}</Link></TableCell>
                 <TableCell align="right">{d.tweets.toLocaleString()}</TableCell>
                 <TableCell>{d.creators.map(c => c.name).join(', ')}</TableCell>
@@ -194,7 +199,9 @@ const Datasets = () => {
             </TableBody>
           </Table>
         </TableContainer>
-      </section>
+
+      </div>
+
     </section>
   )
 
