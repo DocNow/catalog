@@ -10,7 +10,7 @@ published: 2017-10-03
 repository: Dryad
 subjects:
 - Black Women
-- Racial Justice
+- Race
 - Activism
 title: '#MarchForBlackWomen'
 tweets: 18646

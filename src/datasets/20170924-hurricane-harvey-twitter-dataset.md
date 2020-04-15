@@ -9,10 +9,7 @@ dates:
 published: 2017-09-24
 repository: University of North Texas
 subjects:
-- Hurricane
-- Disaster
-- Flooding
-- Houston
+- Natural Disasters
 - Texas
 title: Hurricane Harvey Twitter Dataset
 tweets: 7041866

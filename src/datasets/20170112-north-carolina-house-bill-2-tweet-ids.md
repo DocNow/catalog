@@ -11,10 +11,8 @@ dates:
 published: 2017-01-12
 repository: GitHub
 subjects:
-- Lgbt
-- Hb2
+- LGBTQ
 - North Carolina
-- Legal
 - Government
 - Politics
 title: North Carolina House Bill 2 Tweet IDs

@@ -11,8 +11,6 @@ repository: IEEE
 subjects:
 - Covid-19
 - Coronavirus
-- Sentiment Analysis
-- Machine Learning
 title: Coronavirus (COVID-19) Tweets
 tweets: 20392947
 url: https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset

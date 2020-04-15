@@ -10,14 +10,10 @@ published: 2018-03-27
 repository: Internet Archive
 subjects:
 - Italy
-- Macerata
-- Election
-- Election 2018
-- Comprop
+- Elections
 - Racism
 - Immigrant
 - Terrorism
-- Oohmm
 title: Macerata Attack 2018
 tweets: 574925
 url: https://archive.org/details/MacerataOohmm20180327574925Ids

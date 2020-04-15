@@ -75,9 +75,9 @@ div.datasetsTable {
   border-top: thin inset #ccc;
 }
 
-tr:nth-child(even) { 
+tr:nth-child(even) {
   background-color: #eee;
-} 
+}
 
 @media only screen and (min-width: 768px) {
   div.filter {
@@ -88,5 +88,6 @@ tr:nth-child(even) {
   }
   .licenseNote {
     display: block;
+    padding-top: 10px;
   }
 }

@@ -9,10 +9,7 @@ dates:
 published: 2019-11-11
 repository: Purdue University
 subjects:
-- Disasters
-- Hurricanes
-- Dorian
-- Weather
+- Natural Disasters
 title: Hurricane Dorian Tweets
 tweets: 9186118
 url: https://doi.org/10.4231/CPGM-E419

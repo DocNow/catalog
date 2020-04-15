@@ -9,9 +9,7 @@ dates:
 published: 2018-10-08
 repository: University of North Texas
 subjects:
-- Hurricane
-- Disaster
-- Flooding
+- Natural Disasters
 - North Carolina
 - South Carolina
 title: Hurricane Florence Twitter Dataset

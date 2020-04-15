@@ -11,7 +11,6 @@ repository: Scholars Portal Dataverse
 subjects:
 - Paradise Papers
 - Politics
-- Leaks
 title: '#paradisepapers'
 tweets: 1797260
 url: http://dx.doi.org/10.5683/SP/D7R2WB

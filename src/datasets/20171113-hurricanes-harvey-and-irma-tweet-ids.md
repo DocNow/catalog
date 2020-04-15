@@ -9,7 +9,6 @@ dates:
 published: 2017-11-13
 repository: Harvard Dataverse
 subjects:
-- Hurricanes
 - Natural Disasters
 title: Hurricanes Harvey and Irma Tweet Ids
 tweets: 35596281

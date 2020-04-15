@@ -10,13 +10,8 @@ published: 2017-12-21
 repository: Qatar University
 subjects:
 - Arabic
-- Twitter
 - Microblogs
-- Event Detection
-- Ad-hoc Search
-- Real-time Summarization
-- Timeline Generation
-- Dialects
+- Events
 title: 'EveTAR: a large-scale multi-task test collection over Arabic tweets'
 tweets: 355821033
 url: http://qufaculty.qu.edu.qa/telsayed/evetar/

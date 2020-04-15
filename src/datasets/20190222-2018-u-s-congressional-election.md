@@ -14,7 +14,6 @@ published: 2019-02-05
 repository: Harvard Dataverse
 subjects:
 - Elections
-- Congress
 - Politics
 title: 2018 U.S. Congressional Election
 tweets: 171248476

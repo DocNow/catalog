@@ -11,7 +11,7 @@ repository: Harvard Dataverse
 subjects:
 - Ireland
 - Abortion
-- Referendum
+- Politics
 title: Ireland 8th amendment referendum vote
 tweets: 2279396
 url: https://doi.org/10.7910/DVN/PYCLPE

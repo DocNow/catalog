@@ -9,10 +9,8 @@ dates:
 published: 2018-03-26
 repository: Internet Archive
 subjects:
-- Catalunya
 - Spain
-- Comprop
-- Oohmm
+- Politics
 title: '#EstamosporTI'
 tweets: 18831
 url: https://archive.org/details/EstamosporTIOohmm2018032618831Ids

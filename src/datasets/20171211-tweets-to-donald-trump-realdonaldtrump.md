@@ -13,7 +13,7 @@ repository: Scholars Portal Dataverse
 subjects:
 - American Politics
 - Politics
-- Donald Trump
+- Trump
 title: Tweets to Donald Trump (@realDonaldTrump)
 tweets: 238991027
 url: http://dx.doi.org/10.5683/SP/8BAVQM

@@ -9,9 +9,7 @@ dates:
 published: 2017-09-26
 repository: Documenting the Now
 subjects:
-- Barcelona
-- Cambrils
-- Attack
+- Spain
 - Terrorism
 title: '#NoTincPor'
 tweets: 52808

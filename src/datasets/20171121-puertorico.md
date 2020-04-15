@@ -10,8 +10,7 @@ published: 2017-11-21
 repository: Internet Archive
 subjects:
 - Puerto Rico
-- Hurricane
-- Disaster
+- Natural Disasters
 - Climate Change
 title: '#PuertoRico'
 tweets: 987938

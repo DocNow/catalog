@@ -12,8 +12,6 @@ subjects:
 - Politics
 - Propaganda
 - Iran
-- Twitter
-- Social Media
 title: Twitter Iran Dataset
 tweets: 1122937
 url: https://archive.org/details/twitter-iran
