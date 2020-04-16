@@ -1,4 +1,5 @@
 const fs = require('fs')
+const RSS = require('rss')
 const path = require('path')
 
 exports.createPages = async ({ actions: { createPage }, graphql, pathPrefix }) => {
@@ -8,7 +9,12 @@ exports.createPages = async ({ actions: { createPage }, graphql, pathPrefix }) =
 async function makeDatasets(createPage, graphql, pathPrefix) {
   const results = await graphql(`
     query {
-      allMarkdownRemark {
+      allMarkdownRemark(
+        sort: {
+          order: DESC,
+          fields: frontmatter___added
+        }
+      ) {
         nodes {
           frontmatter {
             title
@@ -55,4 +61,29 @@ async function makeDatasets(createPage, graphql, pathPrefix) {
     datasets.push(context)
   }
   fs.writeFileSync(`static/data/datasets.json`, JSON.stringify(datasets, null, 2))
+  await writeRss(datasets)
+}
+
+function writeRss(datasets) {
+  const feed = new RSS({
+    title: `Documenting the Now Tweet Catalog`,
+    description: `A clearinhouse for Twitter datasets`,
+    feed_url: `https://catalog.docnow.io/feed.xml`,
+    site_url: `https://catalog.docnow.io`,
+    image_url: `https://catalog.docnow.io/images/docnow.png`,
+  })
+
+  datasets.forEach(dataset => {
+    const url = `https://catalog.docnow.io/datasets/${dataset.slug}/`
+    const description = `${dataset.description}<p>This dataset is published at ${dataset.url}</p>`
+    feed.item({
+      title: dataset.title,
+      date: dataset.addedDate,
+      description: description,
+      url: url,
+    })
+  })
+
+  // write out the podcast url
+  fs.writeFileSync('./static/feed.xml', feed.xml())
 }
