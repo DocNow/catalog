@@ -23,6 +23,7 @@ collections:
         name: title
         widget: string
         hint: The title for your dataset.
+        required: true
       - label: Dataset URL
         name: url
         widget: string
@@ -30,14 +31,17 @@ collections:
           - https?://.+
           - Must be a URL
         hint: The URL for where your dataset has been published.
+        required: true
       - label: Repository
         name: repository
         widget: string
         hint: The name of the repository where your dataset has been published.
+        required: true
       - label: Number of Tweets
         name: tweets
         widget: number
         hint: The total number of tweets in your dataset.
+        required: true
       - label: Creators
         name: creators
         widget: list
@@ -70,14 +74,17 @@ collections:
         name: published
         widget: datetime
         hint: When the dataset was published in the repository.
+        required: true
       - label: Date Added
         name: added
         widget: datetime
         hint: The date this Catalog record will be published.
+        required: true
       - label: Subjects
         name: subjects
         widget: list
         collapsed: false
+        required: true
         hint: A list of subject terms for the contents of your datasets.
         field: 
           label: Subject
@@ -87,28 +94,29 @@ collections:
         name: body
         widget: markdown
         hint: Please provide a description of how and why you created your dataset. Think about what kind of description will help researchers use your dataset.
+        required: true
       - label: Public Notification 
         name: notification
         widget: text
         hint: Did you publicly share (on Twitter) that you were collecting this content?
-        required: true
+        required: false
       - label: Opt-Out?
         name: optout
         widget: text
         hint:  Do content creators have the option to opt out of your collecting or remove their content after collection has taken place?
-        required: true
+        required: false
       - label: Contact?
         name: contact
         widget: text
         hint: Do you have an easy-to-find way for content creators to reach out to you or your organization about your collecting project?
-        required: true
+        required: false
       - label: Analyzed Threats?
         name: threat
-        widget: text
+        widget: false
         hint: Have you analyzed the tweet dataset for potential threats to those whose content has been collected?
-        required: true
+        required: false
       - label: Collection Development?
         name: collecting
         widget: text
         hint: Is this tweet dataset part of a larger collecting effort of topical materials, including oral histories, web archiving, or physical materials?
-        required: true
+        required: false
