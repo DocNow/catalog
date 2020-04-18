@@ -112,7 +112,7 @@ collections:
         required: false
       - label: Analyzed Threats?
         name: threat
-        widget: false
+        widget: text
         hint: Have you analyzed the tweet dataset for potential threats to those whose content has been collected?
         required: false
       - label: Collection Development?
