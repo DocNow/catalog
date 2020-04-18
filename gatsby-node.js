@@ -61,7 +61,7 @@ async function makeDatasets(createPage, graphql, pathPrefix) {
     datasets.push(context)
   }
   fs.writeFileSync(`static/data/datasets.json`, JSON.stringify(datasets, null, 2))
-  await writeRss(datasets)
+  writeRss(datasets)
 }
 
 function writeRss(datasets) {
