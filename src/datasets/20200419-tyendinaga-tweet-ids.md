@@ -22,6 +22,7 @@ subjects:
   - 2020 Canadian pipeline and railway protests
   - Wet'suwet'en opposition
 notification: 'https://twitter.com/edsu/status/1229887517790494722'
+optout: 'yes'
 ---
 371,755 tweet ids for Wet'suwet'en tweets, collected with [Documenting the Now's](http://www.docnow.io/) twarc. Tweets can be “[rehydrated](https://medium.com/on-archivy/on-forgetting-e01a2b95272)” with Documenting the Now’s [twarc](https://github.com/DocNow/twarc), or [Hydrator.](https://github.com/DocNow/hydrator)
 
