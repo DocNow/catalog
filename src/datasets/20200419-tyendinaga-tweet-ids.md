@@ -8,6 +8,8 @@ dates:
     end: 2020-04-15T13:46:51.377Z
 published: 2020-04-19T13:48:00.000Z
 added: 2020-04-19T13:48:00.000Z
+creators:
+  - name: Nick Ruest
 subjects:
   - Climate change
   - Climate action
