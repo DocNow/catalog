@@ -3,14 +3,14 @@ title: Coronavirus Tweets
 url: >-
   https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LW0BTB
 repository: Harvard Dataverse
-tweets: 155206805
+tweets: 188026475
 creators:
   - email: null
     name: Dan Kerchner
   - email: null
     name: Laura Wrubel
 dates:
-  - end: 2020-04-16T04:00:00.000Z
+  - end: 2020-05-01T04:00:00.000Z
     start: '2020-03-03'
 published: 2020-03-21T00:00:00.000Z
 added: 2020-03-22T00:15:00.000Z
@@ -18,7 +18,9 @@ subjects:
   - Covid-19
   - Coronavirus
   - Epidemiology
-notification: 'Yes, via @SocialFeedMgr, once the initial dataset was collected. '
+notification: >-
+  Yes, via @SocialFeedMgr, once the initial dataset was collected and in tweets
+  announcing updates to the dataset. 
 optout: 'Not currently. '
 contact: >-
   Yes, we direct content creators to email sfm@gwu.edu or they can contact us
