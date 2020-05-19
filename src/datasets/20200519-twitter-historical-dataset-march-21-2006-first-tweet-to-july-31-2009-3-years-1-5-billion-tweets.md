@@ -1,7 +1,6 @@
 ---
 title: >-
-  Twitter historical dataset: March 21, 2006 (first tweet) to July 31, 2009 (3
-  years, 1.5 billion tweets)
+  Twitter Historical Dataset
 url: 'https://doi.org/10.5281/zenodo.3833781'
 repository: Zenodo
 tweets: 1499896115
@@ -13,10 +12,21 @@ dates:
     end: 2009-07-31T16:04:15.808Z
 published: 2016-11-24T17:02:00.000Z
 added: 2020-05-19T16:02:55.382Z
+subjects:
+- Social Media
+- History
+- Twitter
+- Politics
+- Languages
+notification: 'No'
+optout: 'No'
+contact: 'Yes'
+threat: 'No'
+collecting: 'No'
 ---
-**Disclaimer:** This dataset is distributed by Daniel Gayo-Avello, an associate professor at the Department of Computer Science in the University of Oviedo, for the sole purpose of non-commercial research and it just includes tweet ids.
+This dataset is distributed by Daniel Gayo-Avello, an associate professor at the Department of Computer Science in the University of Oviedo, for the sole purpose of non-commercial research and it just includes tweet ids.
 
-The dataset contains tweet IDs for **all the published tweets** (in any language) **bettween March 21, 2006 and July 31, 2009** thus comprising the first whole three years of Twitter from its creation, that is, about **1.5 billion tweets** (see file *Twitter-historical-20060321-20090731.zip*).
+The dataset contains tweet IDs for all the published tweets (in any language) between March 21, 2006 and July 31, 2009 thus comprising the first whole three years of Twitter from its creation, that is, about 1.5 billion tweets (see file *Twitter-historical-20060321-20090731.zip*).
 
 It covers several defining issues in Twitter, such as the invention of hashtags, retweets and trending topics, and it includes tweets related to the 2008 US Presidential Elections, the first Obama’s inauguration speech or the 2009 Iran Election protests (one of the so-called Twitter Revolutions).
 
@@ -26,7 +36,7 @@ The dataset was completed in November 2016 and, therefore, the tweet IDs it cont
 
 To make easier to understand the decay of tweet IDs in the dataset a number of representative samples (99% confidence level and 0.5 confidence interval) are provided.
 
-In general terms, **85.5% ±0.5 of the historical tweets are available as of May 19, 2020** (see file*Twitter-historical-20060321-20090731-sample.txt*). However, since the amount of tweets vary greatly throughout the period of three years covered in the dataset, additional representative samples are provided for 90-day intervals (see the file*90-day-samples.zip*).
+In general terms, 85.5% ±0.5 of the historical tweets are available as of May 19, 2020 (see file*Twitter-historical-20060321-20090731-sample.txt*). However, since the amount of tweets vary greatly throughout the period of three years covered in the dataset, additional representative samples are provided for 90-day intervals (see the file*90-day-samples.zip*).
 
 In that regard, the ratio of publicly available tweets (as of May 19, 2020) is as follows:
 
@@ -53,7 +63,7 @@ In other words, what you see in that period (April to July, 2008) is not actuall
 
 Additionally, given that not everybody will need the whole period of time the earliest tweet ID for each date is provided in the file *date-tweet-id.tsv*.
 
-For additional details regarding this dataset please see: **Gayo-Avello, Daniel. "How I Stopped Worrying about the Twitter Archive at the Library of Congress and Learned to Build a Little One for Myself." *arXiv preprint arXiv:1611.08144* (2016)**.
+For additional details regarding this dataset please see: Gayo-Avello, Daniel. (2016) *[How I Stopped Worrying about the Twitter Archive at the Library of Congress and Learned to Build a Little One for Myself](https://arxiv.org/abs/1611.08144)*. arXiv preprint arXiv:1611.08144.
 
 **If you use this dataset in any way please cite that preprint** (in addition to the dataset itself).
 
