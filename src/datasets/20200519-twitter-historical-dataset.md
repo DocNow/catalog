@@ -1,6 +1,5 @@
 ---
-title: >-
-  Twitter Historical Dataset
+title: Twitter Historical Dataset
 url: 'https://doi.org/10.5281/zenodo.3833781'
 repository: Zenodo
 tweets: 1499896115
