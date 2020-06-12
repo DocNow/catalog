@@ -2,7 +2,7 @@
 title: Tweets to Donald Trump (@realDonaldTrump)
 url: 'http://dx.doi.org/10.5683/SP/8BAVQM'
 repository: Scholars Portal Dataverse
-tweets: 238991027
+tweets: 272080622
 creators:
   - email: ruestn@yorku.ca
     name: Nick Ruest
