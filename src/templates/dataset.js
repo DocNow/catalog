@@ -1,4 +1,5 @@
 import React from 'react'
+import moment from 'moment'
 import Layout from '../components/layout'
 import style from './dataset.module.css'
 
@@ -33,7 +34,7 @@ const Dataset = ({ pageContext: dataset }) => (
           <dd>
             <ul>
             {dataset.dates.map(d => (
-              <li>{`${d.start} - ${d.end}`}</li>
+              <li>{`${moment(d.start).format('L')} - ${moment(d.end).format('L')}`}</li>
             ))}
             </ul>
           </dd>
