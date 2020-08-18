@@ -4,7 +4,7 @@ url: 'https://digital.library.unt.edu/ark:/67531/metadc1706011/'
 repository: UNT Digital Library
 tweets: 6870881
 creators:
-  - name: 'Phillips, Mark Edward'
+  - name: Mark Phillips
     email: mark.phillips@unt.edu
 dates:
   - start: 2020-07-10T05:00:00.000Z
