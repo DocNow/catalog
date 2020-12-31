@@ -21,4 +21,4 @@ This dataset contains 364,170 identifiers for tweets containing the keyword "sol
 
 Tweets were collected from Twitter's Search API using [twarc](https://github.com/docnow/twarc). Collection started at 2020-12-18 19:20:50 EST and finished at 2020-12-19 23:16:13 EST.
 
-In addition to the tweet identifiers (ids.txt) the dataset includes a file urls.csv which is a count of URLs linked to from the tweets. The URLs were unshortened using the [unshrtn](https://github.com/docnow/unshrtn).
+In addition to the tweet identifiers (ids.txt) the dataset includes a file urls.csv which is a count of URLs linked to from the tweets. The URLs were unshortened using the [unshrtn](https://github.com/docnow/unshrtn) utility.
