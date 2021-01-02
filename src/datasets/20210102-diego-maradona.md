@@ -12,6 +12,9 @@ dates:
     end: 2020-12-01T02:00:34.399Z
 published: 2021-01-02T01:58:17.734Z
 added: 2021-01-02T01:58:17.765Z
+subjects:
+  - Football
+  - Argentina
 notification: 'No'
 optout: 'No'
 contact: ehs@pobox.com
