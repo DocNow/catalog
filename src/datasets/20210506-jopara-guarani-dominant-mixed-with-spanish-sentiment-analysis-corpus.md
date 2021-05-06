@@ -22,6 +22,10 @@ threat: No
 ---
 We created two Corpora: balanced and unbalanced. The balanced (1526) was created from the unbalanced (3941).
 
+Baselines:
+
+https://github.com/mmaguero/josa-corpus
+
 Reference:
 
 Marvin M. Agüero-Torales, David Vilares, Antonio G. López-Herrera (2021). On the logistical difficulties and findings of Jopara Sentiment Analysis. In Proceedings on *CALCS 2021 (co-located with NAACL 2021) - Fifth Workshop on Computational Approaches to Linguistic Code Switching*, to appear (June).
