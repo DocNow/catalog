@@ -1,7 +1,7 @@
 ---
-title: Jopara (Guarani-dominant mixed with Spanish) sentiment analysis corpus.
+title: JOSA - Jopara (Guarani-dominant mixed with Spanish) Sentiment Analysis corpus.
 url: https://doi.org/10.7910/DVN/GLDX14
-repository: josa-corpus
+repository: Harvard Dataverse
 tweets: 3941
 creators:
   - name: Agüero-Torales, Marvin M.
@@ -24,7 +24,7 @@ We created two Corpora: balanced and unbalanced. The balanced (1526) was created
 
 Baselines:
 
-https://github.com/mmaguero/josa-corpus
+<https://github.com/mmaguero/josa-corpus>
 
 Reference:
 
