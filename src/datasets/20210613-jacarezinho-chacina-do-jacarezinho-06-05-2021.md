@@ -1,5 +1,6 @@
 ---
-title: Jacarezinho - Chacina do Jacarezinho (06/05/2021)
+title: "Jacarezinho - Chacina do Jacarezinho (Rio de Janeiro, 06/05/2021).
+  Slaughter in Jacarezinho "
 url: https://archive.org/details/chacina-do-jacarezinho-maio-de-2021
 repository: Internet Archive
 tweets: 49300
