@@ -13,8 +13,8 @@ dates:
 published: 2021-06-10T01:37:30.465Z
 added: 2021-06-10T01:37:30.482Z
 subjects:
-  - " #Jacarezinho, #Operação Exceptis, #Rio de Janeiro, #Chacina, #Massacre,
-    #Favela"
+  - " Jacarezinho; Operação Exceptis; Rio de Janeiro; Chacina; Massacre; Favela;
+    Slaughter; Brazil"
 ---
 Tweets about the biggest massacre in the State of Rio de Janeiro (Brazil) that took place on May 6, 2021 during a police operation (Operation Exceptis) that left 29 dead. The archiving of posts with the word “Jacarezinho” between May 6 and 8, 2021, a period in which the term was among the trending topics in Brazil. And the data was collected on 05/21/2021 and resulted in 533 MB of digital documents that, when downloaded in WACZ format to the desktop, are 288,049 KB.
 
