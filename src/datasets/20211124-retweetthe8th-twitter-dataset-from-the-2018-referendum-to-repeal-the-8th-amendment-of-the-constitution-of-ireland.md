@@ -1,6 +1,5 @@
 ---
-title: "#retweetthe8th: twitter dataset from the 2018 Referendum to repeal the
-  8th Amendment of the Constitution of Ireland"
+title: "#retweetthe8th: twitter dataset from the 2018 Referendum to repeal the 8th Amendment of the Constitution of Ireland"
 url: https://zenodo.org/record/3842013#.YZ5iUvGnzUr
 repository: Zenodo
 tweets: 2108784
@@ -15,10 +14,8 @@ published: 2021-11-24T16:02:59.542Z
 added: 2021-11-24T16:02:59.567Z
 subjects:
   - Ireland
-  - ", constitution"
-  - abortion
-  - referendum
-  - repeal
+  - Politics
+  - Abortion
 collecting: "See: archivingthe8th.ucd.ie"
 ---
 This dataset contains the tweet ids of 2,108,782 tweets related to the referendum to repeal the 8th Amendment of the Constitution of Ireland and replace it with the Thirty-sixth Amendment of the Constitution of Ireland on May 25, 2018. 

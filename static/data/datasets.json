@@ -1,5 +1,315 @@
 [
   {
+    "title": "#retweetthe8th: twitter dataset from the 2018 Referendum to repeal the 8th Amendment of the Constitution of Ireland",
+    "creators": [
+      {
+        "name": "Emmet Ó Briain",
+        "email": "emmet@quiddity.ie"
+      },
+      {
+        "name": "Jennifer Foster",
+        "email": null
+      }
+    ],
+    "added": "2021-11-24T16:02:59.567Z",
+    "published": "2021-11-24T16:02:59.542Z",
+    "dates": [
+      {
+        "start": "2018-03-09T00:00:00.000Z",
+        "end": "2018-05-29T23:00:00.000Z"
+      }
+    ],
+    "repository": "Zenodo",
+    "subjects": [
+      "Ireland",
+      "Politics",
+      "Abortion"
+    ],
+    "tweets": 2108784,
+    "url": "https://zenodo.org/record/3842013#.YZ5iUvGnzUr",
+    "slug": "20211124-retweetthe8th-twitter-dataset-from-the-2018-referendum-to-repeal-the-8th-amendment-of-the-constitution-of-ireland",
+    "description": "<p>This dataset contains the tweet ids of 2,108,782 tweets related to the referendum to repeal the 8th Amendment of the Constitution of Ireland and replace it with the Thirty-sixth Amendment of the Constitution of Ireland on May 25, 2018. </p>\n<p>They were collected between March 9th, 2018 and May 30th, 2018 from the Twitter filter stream API using Twarc (<a href=\"https://github.com/DocNow/twarc\">https://github.com/DocNow/twarc</a>). The set of terms that were used for the search were: #repealthe8th, #together4yes, #8thref, #savethe8th, #hometovote, #togetherforyes, #repealedthe8th, #loveboth, #voteyes, #voteno, #lovebothvoteno, #repealtheeighth.</p>\n<p>Note that the terms changed during the course of data collection and that the searches were not exhaustive.</p>\n<p>The GET statuses/lookup method supports retrieving the complete tweet for a tweet id (known as hydrating). Twarc can also be used to hydrate tweets.</p>\n<p>Per Twitter’s Developer Policy, tweet ids may be publicly shared for academic purposes; tweets may not.</p>\n<p>There are several practical reasons to leave the retweets, as it allows researchers to trace important tweets and their dissemination. </p>\n<p>However, for researchers that might be interested in NLP tasks for which retweets are not required, a set of 411,213 tweet ids without their retweets is also included in the zip file.</p>\n<p>Questions about this dataset can be sent to Emmet Ó Briain: <a href=\"mailto:emmet@quiddity.ie\">emmet@quiddity.ie</a> .</p>"
+  },
+  {
+    "title": "#Tumindig",
+    "creators": [
+      {
+        "name": "Paul Jason Perez",
+        "email": "pj@slis.upd.edu.ph"
+      },
+      {
+        "name": "Igor Brigadir",
+        "email": null
+      }
+    ],
+    "added": "2021-10-26T05:36:37.057Z",
+    "published": "2021-10-26T05:36:37.030Z",
+    "dates": [
+      {
+        "start": "2006-03-20T16:00:00.000Z",
+        "end": "2021-10-25T05:37:46.125Z"
+      }
+    ],
+    "repository": "GitHub",
+    "subjects": [
+      "Phillipines",
+      "Art",
+      "Politics"
+    ],
+    "tweets": 72444,
+    "url": "https://github.com/pvperez1/tumindig_tweet_ids",
+    "slug": "20211026-tumindig",
+    "description": "<p>The tweet_ids.txt contains the tweet IDs of those that used #tumindig. The word tumindig is a Filipino word that means \"to stand up\". In July 2021, the graphic artist <a href=\"https://twitter.com/KevinKalbo\">@KevinKalbo</a> used the hashtag to depict a fist standing up in a sea of other fists kneeling down. This artwork inspired other artists and other users to include their personalized cartooned fist, posting it on social media with the hashtag \"tumindig\"</p>"
+  },
+  {
+    "title": "#MMIWG (Missing and Murdered Indigenous Women and Girls) Tweets",
+    "creators": [
+      {
+        "name": "Danielle Dolan-Sanchez",
+        "email": null
+      },
+      {
+        "name": "Lindsay Montgomery",
+        "email": null
+      },
+      {
+        "name": "Jennifer Byram",
+        "email": null
+      }
+    ],
+    "added": "2021-09-24T23:41:39.780Z",
+    "published": "2021-09-24T23:41:39.769Z",
+    "dates": [
+      {
+        "start": "2018-11-15T07:00:00.000Z",
+        "end": "2020-10-12T07:00:00.000Z"
+      }
+    ],
+    "repository": "GitHub",
+    "subjects": [
+      "Indigenous women",
+      "Violence ",
+      "Settler colonialism"
+    ],
+    "tweets": 9845,
+    "url": "https://github.com/dolansanchez/MMIWG-Project/blob/main/mmiwg-tweet-ids.txt",
+    "slug": "20210924-mmiwg-missing-and-murdered-indigenous-women-and-girls-tweets",
+    "description": "<p>Indigenous women and girls are murdered or missing at alarmingly high rates in the U.S. and Canada. Social media activism surrounding this <a href=\"https://www.csvanw.org/mmiw\">epidemic of violence </a>first emerged in 2012 after Sheila North Wilson, the former Grand Chief of Manitoba Keewatinowi Okimakanak, created the hashtag #MMIW (Missing and Murdered Indigenous Women). Since this time, Indigenous-led social justice activism has expanded on Twitter, which has become a key platform for the expression of anti-colonial politics on a global stage and to facilitate peaceful protest action surrounding the MMIW crisis. As part of a broader effort to curate data surrounding the MMIW crisis, this dataset contains identifiers for historic tweets associated with the movement collected between November 2018 and October 2020. </p>\n<p>Tweets were collected from Twitter's <a href=\"https://developer.twitter.com/en/docs/twitter-api/premium/search-api/overview\">Premium Search API</a> using <a href=\"https://github.com/docnow/twarc\">twarc</a>. Historical tweets between November 2018 - October 2020 were collected within dates that were chosen based on events or legislation in the U.S. related to the MMIWG movement, including Savanna’s Act, the Not Invisible Act, and investigation into the death of Joyce Echaquan. Tweets contained one or more of the following hashtags: mmiwg, mmiwg2s, nomorestolensisters, notinvisible. In searches related to Savanna’s Act, the hashtag SavannasAct was also included. Tweets can be “<a href=\"https://medium.com/on-archivy/on-forgetting-e01a2b95272\">rehydrated</a>” with Documenting the Now’s <a href=\"https://github.com/DocNow/hydrator\">Hydrator</a>.</p>"
+  },
+  {
+    "title": "2016 US presidential post-election transition, first 100 days of the Trump administration",
+    "creators": [
+      {
+        "name": "Jonathan Wheeler",
+        "email": "jwheel01@unm.edu"
+      },
+      {
+        "name": "Teresa Y. Neely",
+        "email": null
+      }
+    ],
+    "added": "2021-08-19T18:17:51.717Z",
+    "published": "2021-08-09T18:13:00.000Z",
+    "dates": [
+      {
+        "start": "2016-11-28T07:00:00.000Z",
+        "end": "2017-05-01T06:00:00.000Z"
+      }
+    ],
+    "repository": "Dryad",
+    "subjects": [
+      "United States",
+      "politics",
+      "Trump"
+    ],
+    "tweets": 218273152,
+    "url": "https://doi.org/10.5061/dryad.d2547d83h",
+    "slug": "20210819-2016-us-presidential-post-election-transition-first-100-days-of-the-trump-administration",
+    "description": "<p>This dataset consists of tweet identifiers for tweets harvested between November 28, 2016, following the election of Donald Trump through the end of the first 100 days of his administration. Data were collected to capture trends in populist or hate speech resulting from use of the terms \"make America great again\" or \"MAGA.\"</p>"
+  },
+  {
+    "title": "Marielle Franco 2021",
+    "creators": [
+      {
+        "name": "Alejandra Josiowicz",
+        "email": null
+      },
+      {
+        "name": "Ed Summers",
+        "email": "ehs@pobox.com"
+      }
+    ],
+    "added": "2021-08-12T16:05:47.131Z",
+    "published": "2021-08-12T16:05:47.105Z",
+    "dates": [
+      {
+        "start": "2021-03-06T05:00:00.000Z",
+        "end": "2021-03-18T04:00:00.000Z"
+      }
+    ],
+    "repository": "Internet Archive",
+    "subjects": [
+      "Politics",
+      "Brazil",
+      "Human Rights"
+    ],
+    "tweets": 2405917,
+    "url": "https://archive.org/details/marielle-franco-tweets-2021",
+    "slug": "20210812-marielle-franco-2021",
+    "description": "<p>This dataset includes 2,405,917 tweet ids for tweets related to Marielle Franco that were sent between 2021-03-06 and 2021-03-18. Marielle Franco was a Brazilian politician, sociologist, feminist, socialist, and human rights activist. She was an open critic of police brutality and extrajudicial killings. On March 14, 2018 she was killed in her car after giving a speech north of Rio de Janeiro. In March 2019 two former police officers were arrested for the murder. On the anniversary of her death in 2021 Twitter users were remembering her life.</p>\n<p>In order to determine what to keywords and hashtags to collect an initial sample of 6500 tweets matching \"Marielle Franco\" sent between 2021-03-04 and 2021-03-21 was collected. 7 of the top 10 hashtags used in these tweets were used along with her name to collect data from Twitter's Search API (2021-03-06 - 2021-03-12) and from the Streaming API (2021-03-12 - 2021-03-18). The API query included any tweet that mentioned: \"marielle franco\", Quemmandoumatarmarielle, 8m2021, Mariellefranco, Mariellepresente, 12marzo, Whorderedtheassassinationof, Felizdiadamulher.</p>\n<p>The data was collected as part of a collaboration between Alejandra Josiowicz at Rio de Janeiro State University and Ed Summers at the University of Maryland.</p>"
+  },
+  {
+    "title": "2020 United States Presidential Election",
+    "creators": [
+      {
+        "name": "Laura Wrubel",
+        "email": "lwrubel@gwu.edu"
+      },
+      {
+        "name": "Dan Kerchner",
+        "email": "kerchner@gwu.edu"
+      }
+    ],
+    "added": "2021-06-21T18:38:58.443Z",
+    "published": "2021-06-21T18:38:58.430Z",
+    "dates": [
+      {
+        "start": "2007-10-24T04:00:00.000Z",
+        "end": "2021-02-10T19:40:19.048Z"
+      }
+    ],
+    "repository": "Harvard Dataverse",
+    "subjects": [
+      "Elections",
+      "Politics",
+      "United States",
+      "Government"
+    ],
+    "tweets": 278326832,
+    "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UCJUUZ",
+    "slug": "20210621-2020-united-states-presidential-election",
+    "description": "<p>This dataset contains the tweet ids of 295,670,111 tweets related to the 2020 United States Presidential Election. They were collected during 2020 and 2021 from the Twitter API using <a href=\"https://gwu-libraries.github.io/sfm-ui\">Social Feed Manager</a>.  The tweet ids are broken up into eleven collections. Each collection was collected either from the GET statuses/user_timeline method of the Twitter REST API or the POST statuses/filter method of the Twitter Stream API.  See each collection's README for dates of collection, accounts, and hashtags used in queries. The collections are:</p>\n<ul>\n<li>Democratic candidates (Twitter user timeline)</li>\n<li>Republican candidates (Twitter user timeline)</li>\n<li>Democratic candidates filter (Twitter filter)</li>\n<li>Republican candidates filter (Twitter filter)</li>\n<li>Election 2020 hashtags (Twitter filter)</li>\n<li>Democratic Convention (Twitter filter)</li>\n<li>Republican Convention (Twitter filter)</li>\n<li>First presidential debate (Twitter filter)</li>\n<li>Second presidential debate (Twitter filter)</li>\n<li>Vice Presidential debate (Twitter filter)</li>\n<li>Election Day (Twitter filter)</li>\n</ul>\n<p>There is a README.txt file for each collection containing additional documentation on how it was collected.</p>\n<p>For tweets collected from the Twitter filter stream, this is not a complete set of tweets that match the filter. Gaps may exist because:</p>\n<ul>\n<li>Twitter limits the number of tweets returned by the filter at any point in time.</li>\n<li>Social Feed Manager stops and starts the Twitter filter stream every 30 minutes.</li>\n<li>In Social Feed Manager, collecting is turned off while a user is making changes to the collection criteria.</li>\n<li>There were some operational issues, e.g., network interruptions and maintenance, during the collection period.</li>\n</ul>\n<p>Because candidate user timelines were collected and Twitter provides roughly the most recent 3,200 tweets, user timeline collections may includes tweets as early as 2007.</p>"
+  },
+  {
+    "title": "Jacarezinho - Chacina do Jacarezinho (Rio de Janeiro, 06/05/2021). Slaughter in Jacarezinho ",
+    "creators": [
+      {
+        "name": "Cleice de Souza Menezes (UnB)",
+        "email": "cleice.menezesarquivo@gmail.com"
+      }
+    ],
+    "added": "2021-06-10T01:37:30.482Z",
+    "published": "2021-06-10T01:37:30.465Z",
+    "dates": [
+      {
+        "start": "2021-05-07T01:45:34.558Z",
+        "end": "2021-05-09T01:45:34.570Z"
+      }
+    ],
+    "repository": "Internet Archive",
+    "subjects": [
+      " Jacarezinho; Operação Exceptis; Rio de Janeiro; Chacina; Massacre; Favela; Slaughter; Brazil"
+    ],
+    "tweets": 49300,
+    "url": "https://archive.org/details/my-web-archive-2",
+    "slug": "20210613-jacarezinho-chacina-do-jacarezinho-06-05-2021",
+    "description": "<p>Tweets about the biggest massacre in the State of Rio de Janeiro (Brazil) that took place on May 6, 2021 during a police operation (Operation Exceptis) that left 29 dead. The archiving of posts with the word “Jacarezinho” between May 6 and 8, 2021, a period in which the term was among the trending topics in Brazil. And the data was collected on 05/21/2021 and resulted in 533 MB of digital documents that, when downloaded in WACZ format to the desktop, are 288,049 KB.</p>\n<p>Tweets sobre o maior massacre no Estado do Rio de Janeiro (Brasil) ocorrido em 6 de maio de 2021 durante uma operação policial (Operação Exceptis) que deixou 29 mortos. O arquivamento das postagens com a palavra “Jacarezinho” entre os dias 6 e 8 de maio de 2021, período em que o termo esteve entre os tópicos de tendência no Brasil. E os dados foram coletados em 21/05/2021 e resultaram em 533 MB de documentos digitais que, quando baixados em formato WACZ para o desktop, têm 288.049 KB.</p>"
+  },
+  {
+    "title": "JOSA - Jopara (Guarani-dominant mixed with Spanish) Sentiment Analysis corpus.",
+    "creators": [
+      {
+        "name": "Agüero-Torales, Marvin M.",
+        "email": null
+      },
+      {
+        "name": "Vilares, David",
+        "email": null
+      },
+      {
+        "name": "López-Herrera, Antonio G.",
+        "email": null
+      }
+    ],
+    "added": "2021-05-06T08:36:34.237Z",
+    "published": "2021-05-06T08:36:32.328Z",
+    "dates": [
+      {
+        "start": "2006-03-21T23:00:00.000Z",
+        "end": "2021-01-31T09:35:12.050Z"
+      }
+    ],
+    "repository": "Harvard Dataverse",
+    "subjects": [
+      "jopara",
+      "guarani",
+      "sentiment analysis",
+      "code-switching",
+      "natural language processing"
+    ],
+    "tweets": 3941,
+    "url": "https://doi.org/10.7910/DVN/GLDX14",
+    "slug": "20210506-jopara-guarani-dominant-mixed-with-spanish-sentiment-analysis-corpus",
+    "description": "<p>We created two Corpora: balanced and unbalanced. The balanced (1526) was created from the unbalanced (3941).</p>\n<p>Baselines:</p>\n<p><a href=\"https://github.com/mmaguero/josa-corpus\">https://github.com/mmaguero/josa-corpus</a></p>\n<p>Reference:</p>\n<p>Marvin M. Agüero-Torales, David Vilares, Antonio G. López-Herrera (2021). On the logistical difficulties and findings of Jopara Sentiment Analysis. In Proceedings on <em>CALCS 2021 (co-located with NAACL 2021) - Fifth Workshop on Computational Approaches to Linguistic Code Switching</em>, to appear (June).</p>"
+  },
+  {
+    "title": "Fortune 100 response to 2020 BLM Protests",
+    "creators": [
+      {
+        "name": "Kevin McElwee",
+        "email": "kmcelwee@princeton.edu"
+      }
+    ],
+    "added": "2021-01-29T20:27:31.607Z",
+    "published": "2021-01-29T20:27:31.583Z",
+    "dates": [
+      {
+        "start": "2020-05-25T04:00:00.000Z",
+        "end": "2020-07-25T04:00:00.000Z"
+      }
+    ],
+    "repository": "GitHub",
+    "subjects": [
+      "Black Lives Matter",
+      "Fortune 100"
+    ],
+    "tweets": 6184,
+    "url": "https://github.com/kmcelwee/fortune-100-blm-dataset",
+    "slug": "20210129-fortune-100-response-to-2020-blm-protests",
+    "description": "<p>Twitter data from Fortune 100 companies from May 25 to July 25, 2020, the two months following the death of George Floyd. All tweets have been manually categorized to help analyze the corporate response to the #BlackLivesMatter protests.</p>\n<p>IDs are found in the <code>data/ids</code> folder.</p>"
+  },
+  {
+    "title": "2020 US Presidential Election",
+    "creators": [
+      {
+        "name": "Elizabeth Chen",
+        "email": "echen920@usc.edu."
+      },
+      {
+        "name": "Emilio Ferrara",
+        "email": "Emilio Ferrara at emiliofe@usc.edu"
+      }
+    ],
+    "added": "2021-01-03T21:46:28.786Z",
+    "published": "2021-01-03T21:46:28.755Z",
+    "dates": [
+      {
+        "start": "2020-03-01T21:58:30.546Z",
+        "end": "2020-12-31T21:58:30.586Z"
+      }
+    ],
+    "repository": "GitHub",
+    "subjects": [
+      "United States",
+      "Politics",
+      "Elections"
+    ],
+    "tweets": 965620919,
+    "url": "https://github.com/echen102/us-pres-elections-2020",
+    "slug": "20210103-2020-us-presidential-election",
+    "description": "<p>The integrity of democratic political discourse is at the core of guaranteeing free and fair elections. With social media often dictating the tones and trends of politics-related discussion, it is of paramount importance to be able to study online chatter, especially in the run up to important voting events, like in the case of the upcoming November 3, 2020 U.S. Presidential Election. Limited access to social media data is often the first barrier to impede, hinder, or slow down progress, and ultimately our understanding of online political discourse.</p>\n<p>To mitigate this issue and try to empower the Computational Social Science research community, we decided to publicly release a massive-scale, longitudinal dataset of U.S. politics and election related tweets. This multilingual dataset that we have been collecting for over one year encompasses hundreds of millions of tweets and tracks all salient U.S. politics trends, actors, and events between 2019 and 2020. The dataset predates and spans the whole period of Republican and Democratic primaries, with real-time tracking of all presidential contenders of both sides of the isle. After that, it focuses on presidential and vice-presidential candidates. </p>\n<p>Our dataset release is curated, documented and will be constantly updated on a weekly-basis, until the November 3, 2020 election and beyond. We hope that the academic community, computational journalists, and research practitioners alike will all take advantage of our dataset to study relevant scientific and social issues, including problems like misinformation, information manipulation, interference, and distortion of online political discourse that have been prevalent in the context of recent election events in the United States and worldwide.</p>\n<p>See <a href=\"https://arxiv.org/abs/2010.00600\">#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election</a> for details about how and why this dataset was assembled. To learn more about its ongoing maintenance consult the projects GitHub page.</p>"
+  },
+  {
     "title": "Diego Maradona",
     "creators": [
       {
@@ -1526,7 +1836,7 @@
     ],
     "tweets": 9673959,
     "url": "https://doi.org/10.7910/DVN/2N3HHD",
-    "slug": "20180720-us-government-tweet-ids",
+    "slug": "20180720-u-s-government-tweet-ids",
     "description": "<p>This dataset contains the tweet ids of 9,673,959 tweets for approximately 3400 U.S. government accounts. These are accounts that are associated with federal government agencies, not individuals. They were collected between January 20, 2017 and July 20, 2018 from the GET statuses/user_timeline method of the Twitter API using Social Feed Manager.</p>"
   },
   {
@@ -1559,7 +1869,7 @@
     ],
     "tweets": 9673959,
     "url": "https://doi.org/10.7910/DVN/2N3HHD",
-    "slug": "20180720-u-s-government-tweet-ids",
+    "slug": "20180720-us-government-tweet-ids",
     "description": "<p>This dataset contains the tweet ids of 9,673,959 tweets for approximately 3400 U.S. government accounts. These are accounts that are associated with federal government agencies, not individuals. They were collected between January 20, 2017 and July 20, 2018 from the GET statuses/user_timeline method of the Twitter API using Social Feed Manager.</p>"
   },
   {
@@ -2072,37 +2382,6 @@
     "description": "<p>This dataset includes 2,995 tweets collected using the keyword \"BlackDigArchive\" and 1,888 tweets collected using the hashtag \"#BlackDigArchive\". The second Documenting the Now symposium, \"Digital Blackness in the Archive\", was held on December 11th and 12th, 2017 and addressed issues at the intersection of archival practice and the existence of Black people on the web and social media. Invited speakers discussed their work on the Black experience in online spaces including research on joy and creativity expressed by Black people on the web, cultural and social expression, activism and other acts of resistance, the Black experience with state sponsored online surveillance, and racism and bias in algorithm and social media platform design. The program was an opportunity for the general public, activists, archivists, library and museum professionals, and the academic community, to learn and share together in conversations about digital culture and digital archives that center blackness.</p>"
   },
   {
-    "title": "Tweets to Donald Trump (@realDonaldTrump)",
-    "creators": [
-      {
-        "name": "Nick Ruest",
-        "email": "ruestn@yorku.ca"
-      }
-    ],
-    "added": "2017-12-11T07:40:01.000Z",
-    "published": "2017-12-10T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2017-05-07",
-        "end": "2017-06-21"
-      },
-      {
-        "start": "2017-06-23",
-        "end": "2020-06-06T04:00:00.000Z"
-      }
-    ],
-    "repository": "Scholars Portal Dataverse",
-    "subjects": [
-      "American Politics",
-      "Politics",
-      "Trump"
-    ],
-    "tweets": 272080622,
-    "url": "http://dx.doi.org/10.5683/SP/8BAVQM",
-    "slug": "20171211-tweets-to-donald-trump-realdonaldtrump",
-    "description": "<p>272,080,622 tweet ids for tweets directed at Donald Trump (@realDonaldTrump), collected with Documenting the Now's twarc. Tweets can be \"rehydrated\" with Documenting the Now's twarc, or Hydrator. twarc hydrate to<em>realdonaldtrump</em>ids.txt > to_donaltrump.jsonl. Tweets from May 7, 2017 - June 21, 2017 of the dataset used a combination of the Filter (Streaming) API and Search API. The Filter API failed on June 21, 2017. From June 23, 2017 forward only the Search API was used to collect. This is done every 5 days on a cron job. Collection is ongoing, and this dataset will be periodically updated with additional tweet ids sets.</p>"
-  },
-  {
     "title": "#JeffSessions tweets",
     "creators": [
       {
@@ -2131,6 +2410,37 @@
     "url": "http://dx.doi.org/10.5683/SP/MQ3Y99",
     "slug": "20171211-jeffsessions-tweets",
     "description": "<p>2,278,757 tweet ids for #JeffSessions collected with Documenting the Now's twarc. Tweets can be “rehydrated” with Documenting the Now’s twarc, or Hydrator.</p>"
+  },
+  {
+    "title": "Tweets to Donald Trump (@realDonaldTrump)",
+    "creators": [
+      {
+        "name": "Nick Ruest",
+        "email": "ruestn@yorku.ca"
+      }
+    ],
+    "added": "2017-12-11T07:40:01.000Z",
+    "published": "2017-12-10T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2017-05-07T00:00:00.000Z",
+        "end": "2017-06-21T00:00:00.000Z"
+      },
+      {
+        "start": "2017-06-23T00:00:00.000Z",
+        "end": "2021-01-20T05:00:00.000Z"
+      }
+    ],
+    "repository": "Scholars Portal Dataverse",
+    "subjects": [
+      "American Politics",
+      "Politics",
+      "Trump"
+    ],
+    "tweets": 362464578,
+    "url": "http://dx.doi.org/10.5683/SP/8BAVQM",
+    "slug": "20171211-tweets-to-donald-trump-realdonaldtrump",
+    "description": "<p>362,464,578 tweet ids for tweets directed at Donald Trump (@realDonaldTrump), collected with <a href=\"http://www.docnow.io/\">Documenting the Now's</a> twarc. Tweets can be “<a href=\"https://medium.com/on-archivy/on-forgetting-e01a2b95272\">rehydrated</a>” with Documenting the Now’s <a href=\"https://github.com/DocNow/twarc\">twarc</a>, or <a href=\"https://github.com/DocNow/hydrator\">Hydrator.</a></p>\n<p><code>twarc hydrate to_realdonaldtrump_20210120_ids.txt > to_realdonaldtrump_20210120.jsonl</code>.</p>\n<p>Collection notes:</p>\n<ul>\n<li>Tweets from May 7, 2017 - October 16, 2018 of the dataset used a combination of the Filter (Streaming) API and Search API.</li>\n<li>The Filter API failed on June 21, 2017.</li>\n<li>From June 23, 2017 forward only the Search API was used to collect.</li>\n<li>Collection was done every 5 days on a cron job, and periodically deduplicated.</li>\n<li>There is a data gap from <code>Tue Jul 28 13:53:50 +0000 2020</code> through <code>Thu Aug 06 09:36:23 +0000 2020</code> due to a collection error.</li>\n</ul>\n<p>This dataset also includes a number of derivative csv files from the original <code>jsonl</code> collected. This includes:</p>\n<ul>\n<li>A user csv file created with <a href=\"https://stedolan.github.io/jq/\">jq</a> (see below).</li>\n<li><a href=\"https://github.com/archivesunleashed/twut/blob/main/docs/usage.md#extract-user-information\">twut userInfo</a></li>\n<li><a href=\"https://github.com/archivesunleashed/twut/blob/main/docs/usage.md#extract-tweet-language\">twut language</a></li>\n<li><a href=\"https://github.com/archivesunleashed/twut/blob/main/docs/usage.md#extract-tweet-times\">twut times</a></li>\n<li><a href=\"https://github.com/archivesunleashed/twut/blob/main/docs/usage.md#extract-tweet-sources\">twut sources</a></li>\n<li><a href=\"https://github.com/archivesunleashed/twut/blob/main/docs/usage.md#extract-hashtags\">twut hashtags</a></li>\n<li><a href=\"https://github.com/archivesunleashed/twut/blob/main/docs/usage.md#extract-urls\">twut urls</a></li>\n<li><a href=\"https://github.com/archivesunleashed/twut/blob/main/docs/usage.md#extract-animated-gif-urls\">twut animatedGifUrls</a></li>\n<li><a href=\"https://github.com/archivesunleashed/twut/blob/main/docs/usage.md#extract-image-urls\">twut imageUrls</a></li>\n<li><a href=\"https://github.com/archivesunleashed/twut/blob/main/docs/usage.md#extract-media-urls\">twut mediaUrls</a></li>\n<li><a href=\"https://github.com/archivesunleashed/twut/blob/main/docs/usage.md#extract-video-urls\">twut videoUrls</a></li>\n</ul>\n<p>User csv:</p>\n<p><code>jq -r '[.id_str, .created_at, .user.screen_name, .retweeted_status != null] | @csv' to_realdonaldtrump_20190130.jsonl > to_realdonaldtrump_20190130_users.jsonl</code></p>"
   },
   {
     "title": "#paradisepapers",
@@ -2501,7 +2811,7 @@
     ],
     "tweets": 5655632,
     "url": "http://dx.doi.org/10.7910/DVN/TQBLWZ",
-    "slug": "20170907-end-of-term-2016-u-s-government-twitter-archive",
+    "slug": "20170907-end-of-term-2016-us-government-twitter-archive",
     "description": "<p>This dataset contains the tweet ids of 5,655,632 tweets that were collected from approximately 3000 Twitter accounts affiliated with the U.S. government. They were collected between October 21, 2016 and January 21, 2017 from the Twitter API using Social Feed Manager. This dataset was created as part of the End of Term Web Archiving initiative. The lists of accounts came from the U.S. Digital Registry and by public submissions.</p>"
   },
   {
@@ -2535,7 +2845,7 @@
     ],
     "tweets": 5655632,
     "url": "http://dx.doi.org/10.7910/DVN/TQBLWZ",
-    "slug": "20170907-end-of-term-2016-us-government-twitter-archive",
+    "slug": "20170907-end-of-term-2016-u-s-government-twitter-archive",
     "description": "<p>This dataset contains the tweet ids of 5,655,632 tweets that were collected from approximately 3000 Twitter accounts affiliated with the U.S. government. They were collected between October 21, 2016 and January 21, 2017 from the Twitter API using Social Feed Manager. This dataset was created as part of the End of Term Web Archiving initiative. The lists of accounts came from the U.S. Digital Registry and by public submissions.</p>"
   },
   {
@@ -3002,13 +3312,13 @@
     ],
     "repository": "Harvard Dataverse",
     "subjects": [
-      "Women",
+      "Womensmarch",
       "Activism",
       "Politics"
     ],
     "tweets": 7275228,
     "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5ZVMOR",
-    "slug": "20170203-women-s-march-tweet-ids",
+    "slug": "20170203-womens-march-tweet-ids",
     "description": "<p>This dataset contains the tweet ids of 7,275,228 tweets related to the Women's March on January 21, 2017.  They were collected between December 19, 2016 and January 23, 2017 from the Twitter API using Social Feed Manager. See included README.txt for additional information.</p>"
   },
   {
@@ -3033,13 +3343,13 @@
     ],
     "repository": "Harvard Dataverse",
     "subjects": [
-      "Womensmarch",
+      "Women",
       "Activism",
       "Politics"
     ],
     "tweets": 7275228,
     "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5ZVMOR",
-    "slug": "20170203-womens-march-tweet-ids",
+    "slug": "20170203-women-s-march-tweet-ids",
     "description": "<p>This dataset contains the tweet ids of 7,275,228 tweets related to the Women's March on January 21, 2017.  They were collected between December 19, 2016 and January 23, 2017 from the Twitter API using Social Feed Manager. See included README.txt for additional information.</p>"
   },
   {
@@ -3096,32 +3406,6 @@
     "description": "<p>14,478,518 tweet ids for #WomensMarch collected with Documenting the Now's twarc from January 21-28, 2017. Tweets can be \"rehydrated\" with Documenting the Now's twarc (<a href=\"https://github.com/DocNow/twarc\">https://github.com/DocNow/twarc</a>). twarc.py –hydrate WomensMarch<em>tweet</em>ids.txt > WomensMarch.json Also included are the logs files for the Filter API and Search API queries. The Filter API query captures the cumulative number of dropped tweets.</p>"
   },
   {
-    "title": "#SaveACA",
-    "creators": [
-      {
-        "name": "Bergis Jules",
-        "email": "bergis.jules@gmail.com"
-      }
-    ],
-    "added": "2017-01-15T13:55:30.000Z",
-    "published": "2017-01-14T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2017-01-12",
-        "end": "2017-01-13"
-      }
-    ],
-    "repository": "Dryad",
-    "subjects": [
-      "Blacklivesmatter",
-      "Activism"
-    ],
-    "tweets": 409887,
-    "url": "https://dx.doi.org/10.6086/D17P4N",
-    "slug": "20170115-saveaca",
-    "description": "<p>On January 12th, 2017 the Senate voted 51-48 to approve a budget resolution as the first step in repealing the Affordable Care Act. The hashtag #SaveACA began being used heavily on Twitter the same day as a response. This dataset includes tweet ids collected on four separate occasions on January 12th and 13th, 2017 for the hashtag #SaveACA</p>"
-  },
-  {
     "title": "#BLMKidnapping",
     "creators": [
       {
@@ -3147,6 +3431,32 @@
     "url": "https://dx.doi.org/10.6086/D1CC7X",
     "slug": "20170115-blmkidnapping",
     "description": "<p>These 136,990 tweet ids represent reaction to a Facebook Live video that was posted on January 3rd, 2017, showing four African American men violently attacking a white, mentally disabled man. The tweets were collected on 01/05/2017. After the video surfaced, the Twitter hashtag, #BLMkidnapping, was created and used to incorrectly attribute the violent attack to members of the Black Lives Matter movement. Police in Chicago, where the attack took place, have found no evidence the attack has any connection to the Black Lives Matter movement. This link is to a CNN story documenting the police denial of Black Lives Matter connection: <a href=\"http://www.cnn.com/2017/01/05/us/black-lives-matter-chicago-facebook-live-beating/index.html\">http://www.cnn.com/2017/01/05/us/black-lives-matter-chicago-facebook-live-beating/index.html</a></p>"
+  },
+  {
+    "title": "#SaveACA",
+    "creators": [
+      {
+        "name": "Bergis Jules",
+        "email": "bergis.jules@gmail.com"
+      }
+    ],
+    "added": "2017-01-15T13:55:30.000Z",
+    "published": "2017-01-14T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2017-01-12",
+        "end": "2017-01-13"
+      }
+    ],
+    "repository": "Dryad",
+    "subjects": [
+      "Blacklivesmatter",
+      "Activism"
+    ],
+    "tweets": 409887,
+    "url": "https://dx.doi.org/10.6086/D17P4N",
+    "slug": "20170115-saveaca",
+    "description": "<p>On January 12th, 2017 the Senate voted 51-48 to approve a budget resolution as the first step in repealing the Affordable Care Act. The hashtag #SaveACA began being used heavily on Twitter the same day as a response. This dataset includes tweet ids collected on four separate occasions on January 12th and 13th, 2017 for the hashtag #SaveACA</p>"
   },
   {
     "title": "North Carolina House Bill 2 Tweet IDs",
@@ -3442,31 +3752,6 @@
     "description": "<p>Tweet ids for #MakeDonaldDrumpfAgain tweets.</p>"
   },
   {
-    "title": "#panamapapers tweets",
-    "creators": [
-      {
-        "name": "Nick Ruest",
-        "email": "ruestn@yorku.ca"
-      }
-    ],
-    "added": "2016-12-23T22:40:17.000Z",
-    "published": "2016-04-13T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2016-04-04",
-        "end": "2016-04-29"
-      }
-    ],
-    "repository": "Scholars Portal Dataverse",
-    "subjects": [
-      "Politics"
-    ],
-    "tweets": 4976094,
-    "url": "http://hdl.handle.net/10864/11592",
-    "slug": "20161223-panamapapers-tweets",
-    "description": "<p>Tweet ids for #panamapapers tweets.</p>"
-  },
-  {
     "title": "#NDP2016 tweets",
     "creators": [
       {
@@ -3490,6 +3775,31 @@
     "url": "http://hdl.handle.net/10864/11674",
     "slug": "20161223-ndp2016-tweets",
     "description": "<p>Tweet ids for #NDP2016 tweets during the 2016 NDP Convention.</p>"
+  },
+  {
+    "title": "#panamapapers tweets",
+    "creators": [
+      {
+        "name": "Nick Ruest",
+        "email": "ruestn@yorku.ca"
+      }
+    ],
+    "added": "2016-12-23T22:40:17.000Z",
+    "published": "2016-04-13T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2016-04-04",
+        "end": "2016-04-29"
+      }
+    ],
+    "repository": "Scholars Portal Dataverse",
+    "subjects": [
+      "Politics"
+    ],
+    "tweets": 4976094,
+    "url": "http://hdl.handle.net/10864/11592",
+    "slug": "20161223-panamapapers-tweets",
+    "description": "<p>Tweet ids for #panamapapers tweets.</p>"
   },
   {
     "title": "#thechalkening tweets",
@@ -3567,29 +3877,29 @@
     "description": "<p>Tweet ids for #YMMfire tweets captured during the 2016 Fort McMurray Wildfire from 2016-05-01 to 2016-06-25.</p>"
   },
   {
-    "title": "#JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets",
+    "title": "Election 2012 Tweet ID dataset",
     "creators": [
       {
-        "name": "Nick Ruest",
-        "email": "ruestn@yorku.ca"
+        "name": "Microsoft",
+        "email": null
       }
     ],
     "added": "2016-12-23T22:03:14.000Z",
-    "published": "2015-01-14T00:00:00.000Z",
+    "published": "2016-05-12T00:00:00.000Z",
     "dates": [
       {
-        "start": "2015-01-07",
-        "end": "2015-01-28"
+        "start": "2012-07-01",
+        "end": "2012-11-07"
       }
     ],
-    "repository": "Scholars Portal Dataverse",
+    "repository": "Microsoft",
     "subjects": [
       "Politics"
     ],
-    "tweets": 13968293,
-    "url": "http://hdl.handle.net/10864/10830",
-    "slug": "20161223-jesuischarlie-jesuisahmed-jesuisjuif-charliehebdo-tweets",
-    "description": "<p>Tweet ids for #JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets.</p>"
+    "tweets": 38000000,
+    "url": "https://www.microsoft.com/en-us/download/details.aspx?id=52598",
+    "slug": "20161223-election-2012-tweet-id-dataset",
+    "description": "<p>This data set identifies 38M tweets collected for the analysis of social media messages related to the 2012 U.S. Presidential election. The data set provides tweet IDs for tweets containing the words \"obama\", \"romney\", or both (case-insensitive matching) during the period from July 1, 2012 through November 7, 2012. The paper, “Online and Social Media Data As an Imperfect Continuous Panel Survey.” PLoS ONE 11(1): e0145406 by Diaz et al.  provides further description of the dataset.</p>"
   },
   {
     "title": "2016 United States Presidential Election Tweet Ids",
@@ -3625,29 +3935,29 @@
     "description": "<p>This dataset contains the tweet ids of approximately 280 million tweets related to the 2016 United States presidential election. They were collected between July 13, 2016 and November 10, 2016 from the Twitter API using Social Feed Manager. These tweet ids are broken up into 12 collections. Each collection was collected either from the GET statuses/user_timeline method of the Twitter REST API or the POST statuses/filter method of the Twitter Stream API.</p>"
   },
   {
-    "title": "Election 2012 Tweet ID dataset",
+    "title": "#JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets",
     "creators": [
       {
-        "name": "Microsoft",
-        "email": null
+        "name": "Nick Ruest",
+        "email": "ruestn@yorku.ca"
       }
     ],
     "added": "2016-12-23T22:03:14.000Z",
-    "published": "2016-05-12T00:00:00.000Z",
+    "published": "2015-01-14T00:00:00.000Z",
     "dates": [
       {
-        "start": "2012-07-01",
-        "end": "2012-11-07"
+        "start": "2015-01-07",
+        "end": "2015-01-28"
       }
     ],
-    "repository": "Microsoft",
+    "repository": "Scholars Portal Dataverse",
     "subjects": [
       "Politics"
     ],
-    "tweets": 38000000,
-    "url": "https://www.microsoft.com/en-us/download/details.aspx?id=52598",
-    "slug": "20161223-election-2012-tweet-id-dataset",
-    "description": "<p>This data set identifies 38M tweets collected for the analysis of social media messages related to the 2012 U.S. Presidential election. The data set provides tweet IDs for tweets containing the words \"obama\", \"romney\", or both (case-insensitive matching) during the period from July 1, 2012 through November 7, 2012. The paper, “Online and Social Media Data As an Imperfect Continuous Panel Survey.” PLoS ONE 11(1): e0145406 by Diaz et al.  provides further description of the dataset.</p>"
+    "tweets": 13968293,
+    "url": "http://hdl.handle.net/10864/10830",
+    "slug": "20161223-jesuischarlie-jesuisahmed-jesuisjuif-charliehebdo-tweets",
+    "description": "<p>Tweet ids for #JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets.</p>"
   },
   {
     "title": "#cdnpoli tweets (Canadian Politics, 2015)",
