@@ -7,7 +7,7 @@ dates:
 - end: '2021-11-27'
   start: '2020-11-12'
 published: 2021-11-30
-repository: 
+repository: GitHub
 subjects: 
 - coronavirus 
 - pandemia 
@@ -18,7 +18,7 @@ subjects:
 - church 
 - border crisis 
 - vaccinations
-title: the Social Archive of the Polish Web
+title: The Social Archive of the Polish Web
 tweets: 4617353
 url: https://github.com/mw0000/aspw-twitter-dataset-2021-11-30
 ---

@@ -257,13 +257,13 @@ function filterSearch(datasets, search) {
   const pattern = new RegExp(search, 'i')
   const slugs = []
   for (const d of datasets) {
-    if (d.title.match(pattern)) {
+    if (d.title && d.title.match(pattern)) {
       slugs.push(d.slug)
-    } else if (d.description.match(pattern)) {
+    } else if (d.description && d.description.match(pattern)) {
       slugs.push(d.slug)
     } else if (d.creators.map(c => c.name).join(' ').match(pattern)) {
       slugs.push(d.slug)
-    } else if (d.repository.match(pattern)) {
+    } else if (d.repository && d.repository.match(pattern)) {
       slugs.push(d.slug)
     } else if (d.subjects.join(' ').match(pattern)) {
       slugs.push(d.slug)

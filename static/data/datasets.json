@@ -1,5 +1,38 @@
 [
   {
+    "title": "The Social Archive of the Polish Web",
+    "creators": [
+      {
+        "name": "Marcin Wilkowski",
+        "email": "aspw[at]wilkowski.org"
+      }
+    ],
+    "added": "2021-11-30T23:42:14.000Z",
+    "published": "2021-11-30T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2020-11-12",
+        "end": "2021-11-27"
+      }
+    ],
+    "repository": "GitHub",
+    "subjects": [
+      "coronavirus",
+      "pandemia",
+      "politics",
+      "media",
+      "cities",
+      "LGBT",
+      "church",
+      "border crisis",
+      "vaccinations"
+    ],
+    "tweets": 4617353,
+    "url": "https://github.com/mw0000/aspw-twitter-dataset-2021-11-30",
+    "slug": "aspw-twitter-dataset-2021-11-30",
+    "description": "<p>4617353 tweets IDs (4398351 unique) in Polish language covering topics like: coronavirus pandemia, politics, media, cities, LGBT, church, border crisis, vaccinations. For details, see meta.csv in every directory. All this data together with the URLs of web pages linked within that tweets can be accessed in <a href=\"https://github.com/mw0000/aspw-public-archive\">https://github.com/mw0000/aspw-public-archive</a> or <a href=\"https://aspw.pl/pakiety\">https://aspw.pl/pakiety</a>.</p>"
+  },
+  {
     "title": "#retweetthe8th: 2018 Referendum to repeal the 8th Amendment of the Constitution of Ireland",
     "creators": [
       {
@@ -2811,7 +2844,7 @@
     ],
     "tweets": 5655632,
     "url": "http://dx.doi.org/10.7910/DVN/TQBLWZ",
-    "slug": "20170907-end-of-term-2016-us-government-twitter-archive",
+    "slug": "20170907-end-of-term-2016-u-s-government-twitter-archive",
     "description": "<p>This dataset contains the tweet ids of 5,655,632 tweets that were collected from approximately 3000 Twitter accounts affiliated with the U.S. government. They were collected between October 21, 2016 and January 21, 2017 from the Twitter API using Social Feed Manager. This dataset was created as part of the End of Term Web Archiving initiative. The lists of accounts came from the U.S. Digital Registry and by public submissions.</p>"
   },
   {
@@ -2845,7 +2878,7 @@
     ],
     "tweets": 5655632,
     "url": "http://dx.doi.org/10.7910/DVN/TQBLWZ",
-    "slug": "20170907-end-of-term-2016-u-s-government-twitter-archive",
+    "slug": "20170907-end-of-term-2016-us-government-twitter-archive",
     "description": "<p>This dataset contains the tweet ids of 5,655,632 tweets that were collected from approximately 3000 Twitter accounts affiliated with the U.S. government. They were collected between October 21, 2016 and January 21, 2017 from the Twitter API using Social Feed Manager. This dataset was created as part of the End of Term Web Archiving initiative. The lists of accounts came from the U.S. Digital Registry and by public submissions.</p>"
   },
   {
@@ -3312,13 +3345,13 @@
     ],
     "repository": "Harvard Dataverse",
     "subjects": [
-      "Womensmarch",
+      "Women",
       "Activism",
       "Politics"
     ],
     "tweets": 7275228,
     "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5ZVMOR",
-    "slug": "20170203-womens-march-tweet-ids",
+    "slug": "20170203-women-s-march-tweet-ids",
     "description": "<p>This dataset contains the tweet ids of 7,275,228 tweets related to the Women's March on January 21, 2017.  They were collected between December 19, 2016 and January 23, 2017 from the Twitter API using Social Feed Manager. See included README.txt for additional information.</p>"
   },
   {
@@ -3343,13 +3376,13 @@
     ],
     "repository": "Harvard Dataverse",
     "subjects": [
-      "Women",
+      "Womensmarch",
       "Activism",
       "Politics"
     ],
     "tweets": 7275228,
     "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5ZVMOR",
-    "slug": "20170203-women-s-march-tweet-ids",
+    "slug": "20170203-womens-march-tweet-ids",
     "description": "<p>This dataset contains the tweet ids of 7,275,228 tweets related to the Women's March on January 21, 2017.  They were collected between December 19, 2016 and January 23, 2017 from the Twitter API using Social Feed Manager. See included README.txt for additional information.</p>"
   },
   {
@@ -3646,31 +3679,6 @@
     "description": "<p>8,595,589 tweet ids for aleppo tweets captured during the fall of Aleppo in December 2016. Tweets can be \"rehydrated\" with Documenting the Now's twarc (<a href=\"https://github.com/DocNow/twarc\">https://github.com/DocNow/twarc</a>). twarc.py --hydrate aleppo<em>tweet</em>ids.txt > aleppo.json</p>"
   },
   {
-    "title": "#elxn42 tweets (42nd Canadian Federal Election)",
-    "creators": [
-      {
-        "name": "Nick Ruest",
-        "email": "ruestn@yorku.ca"
-      }
-    ],
-    "added": "2016-12-24T15:14:07.000Z",
-    "published": "2015-11-19T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2015-07-25",
-        "end": "2015-11-05"
-      }
-    ],
-    "repository": "Scholars Portal Dataverse",
-    "subjects": [
-      "Politics"
-    ],
-    "tweets": 3039804,
-    "url": "http://hdl.handle.net/10864/11270",
-    "slug": "20161224-elxn42-tweets-42nd-canadian-federal-election",
-    "description": "<p>Tweet ids for #elxn42 tweets.</p>"
-  },
-  {
     "title": "Ferguson Tweets",
     "creators": [
       {
@@ -3699,6 +3707,31 @@
     "url": "https://archive.org/details/ferguson-tweet-ids",
     "slug": "20161224-ferguson-tweets",
     "description": "<p>This item represents a collection of 13,480,000 tweet IDs that mentioned 'ferguson' from 2014-08-10 to 2014-08-27 and 15,080,078 tweet IDs that mention \"ferguson\" between 2014-11-11 and 2014-12-08.\nThe first set includes tweets for the two week period after the shooting of Michael Brown, and the second range includes tweets around the grand jury's decision not to indict police office Darren Wilson which was announced on 2014-11-24.\nThe first set of tweets were collected by Ed Summers at the University of Maryland and the second was a collaboration between Molly Loyd, Gregory Coleman, Kimberly Lamke, Benjamin Sugar and Ed Summers.</p>"
+  },
+  {
+    "title": "#elxn42 tweets (42nd Canadian Federal Election)",
+    "creators": [
+      {
+        "name": "Nick Ruest",
+        "email": "ruestn@yorku.ca"
+      }
+    ],
+    "added": "2016-12-24T15:14:07.000Z",
+    "published": "2015-11-19T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2015-07-25",
+        "end": "2015-11-05"
+      }
+    ],
+    "repository": "Scholars Portal Dataverse",
+    "subjects": [
+      "Politics"
+    ],
+    "tweets": 3039804,
+    "url": "http://hdl.handle.net/10864/11270",
+    "slug": "20161224-elxn42-tweets-42nd-canadian-federal-election",
+    "description": "<p>Tweet ids for #elxn42 tweets.</p>"
   },
   {
     "title": "Yes All Women Twitter Dataset",
@@ -3802,31 +3835,6 @@
     "description": "<p>Tweet ids for #panamapapers tweets.</p>"
   },
   {
-    "title": "#thechalkening tweets",
-    "creators": [
-      {
-        "name": "Nick Ruest",
-        "email": "ruestn@yorku.ca"
-      }
-    ],
-    "added": "2016-12-23T22:40:17.000Z",
-    "published": "2016-04-13T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2016-04-03",
-        "end": "2016-06-06"
-      }
-    ],
-    "repository": "Scholars Portal Dataverse",
-    "subjects": [
-      "Politics"
-    ],
-    "tweets": 115524,
-    "url": "http://hdl.handle.net/10864/11591",
-    "slug": "20161223-thechalkening-tweets",
-    "description": "<p>Tweet ids for #thechalkening tweets.</p>"
-  },
-  {
     "title": "#paris #Bataclan #parisattacks #porteouverte tweets",
     "creators": [
       {
@@ -3852,6 +3860,31 @@
     "description": "<p>Tweet ids for #paris #Bataclan #parisattacks #porteouverte tweets.</p>"
   },
   {
+    "title": "#thechalkening tweets",
+    "creators": [
+      {
+        "name": "Nick Ruest",
+        "email": "ruestn@yorku.ca"
+      }
+    ],
+    "added": "2016-12-23T22:40:17.000Z",
+    "published": "2016-04-13T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2016-04-03",
+        "end": "2016-06-06"
+      }
+    ],
+    "repository": "Scholars Portal Dataverse",
+    "subjects": [
+      "Politics"
+    ],
+    "tweets": 115524,
+    "url": "http://hdl.handle.net/10864/11591",
+    "slug": "20161223-thechalkening-tweets",
+    "description": "<p>Tweet ids for #thechalkening tweets.</p>"
+  },
+  {
     "title": "#YMMfire tweets",
     "creators": [
       {
@@ -3875,31 +3908,6 @@
     "url": "http://hdl.handle.net/10864/12033",
     "slug": "20161223-ymmfire-tweets",
     "description": "<p>Tweet ids for #YMMfire tweets captured during the 2016 Fort McMurray Wildfire from 2016-05-01 to 2016-06-25.</p>"
-  },
-  {
-    "title": "Election 2012 Tweet ID dataset",
-    "creators": [
-      {
-        "name": "Microsoft",
-        "email": null
-      }
-    ],
-    "added": "2016-12-23T22:03:14.000Z",
-    "published": "2016-05-12T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2012-07-01",
-        "end": "2012-11-07"
-      }
-    ],
-    "repository": "Microsoft",
-    "subjects": [
-      "Politics"
-    ],
-    "tweets": 38000000,
-    "url": "https://www.microsoft.com/en-us/download/details.aspx?id=52598",
-    "slug": "20161223-election-2012-tweet-id-dataset",
-    "description": "<p>This data set identifies 38M tweets collected for the analysis of social media messages related to the 2012 U.S. Presidential election. The data set provides tweet IDs for tweets containing the words \"obama\", \"romney\", or both (case-insensitive matching) during the period from July 1, 2012 through November 7, 2012. The paper, “Online and Social Media Data As an Imperfect Continuous Panel Survey.” PLoS ONE 11(1): e0145406 by Diaz et al.  provides further description of the dataset.</p>"
   },
   {
     "title": "2016 United States Presidential Election Tweet Ids",
@@ -3933,6 +3941,31 @@
     "url": "http://hdl.handle.net/10.7910/DVN/PDI7IN",
     "slug": "20161223-2016-united-states-presidential-election-tweet-ids",
     "description": "<p>This dataset contains the tweet ids of approximately 280 million tweets related to the 2016 United States presidential election. They were collected between July 13, 2016 and November 10, 2016 from the Twitter API using Social Feed Manager. These tweet ids are broken up into 12 collections. Each collection was collected either from the GET statuses/user_timeline method of the Twitter REST API or the POST statuses/filter method of the Twitter Stream API.</p>"
+  },
+  {
+    "title": "Election 2012 Tweet ID dataset",
+    "creators": [
+      {
+        "name": "Microsoft",
+        "email": null
+      }
+    ],
+    "added": "2016-12-23T22:03:14.000Z",
+    "published": "2016-05-12T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2012-07-01",
+        "end": "2012-11-07"
+      }
+    ],
+    "repository": "Microsoft",
+    "subjects": [
+      "Politics"
+    ],
+    "tweets": 38000000,
+    "url": "https://www.microsoft.com/en-us/download/details.aspx?id=52598",
+    "slug": "20161223-election-2012-tweet-id-dataset",
+    "description": "<p>This data set identifies 38M tweets collected for the analysis of social media messages related to the 2012 U.S. Presidential election. The data set provides tweet IDs for tweets containing the words \"obama\", \"romney\", or both (case-insensitive matching) during the period from July 1, 2012 through November 7, 2012. The paper, “Online and Social Media Data As an Imperfect Continuous Panel Survey.” PLoS ONE 11(1): e0145406 by Diaz et al.  provides further description of the dataset.</p>"
   },
   {
     "title": "#JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets",

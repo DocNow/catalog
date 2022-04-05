@@ -4,6 +4,9 @@
   "description": "A clearinghouse for tweet datasets",
   "version": "0.0.2",
   "author": "Documenting the Now <info@docnow.io>",
+  "engines": {
+    "node": "12"
+  },
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/styles": "^4.11.2",
