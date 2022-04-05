@@ -5,6 +5,7 @@ You can read a blog post about the rationale for the Catalog, including what its
 
 https://news.docnow.io/introducing-the-catalog-v2-80557eeb8421
 
+The DocNow catalog has been developed with generous support from the [Mellon Foundation].
 
 ## Develop
 
@@ -16,3 +17,5 @@ cd catalog
 npm install
 npm run start
 ```
+
+[Mellon Foundation]: https://mellon.org/
