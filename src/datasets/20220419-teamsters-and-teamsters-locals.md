@@ -11,14 +11,13 @@ creators:
 published: 2022-04-19
 added: 2022-04-20T16:00:00-05:00
 subjects:
-  - labor unions
+  - Labor Unions
   - International Brotherhood of Teamsters
-  - workplace safety
+  - Workplace Safety
   - Twitter
   - COVID-19
   - Coronavirus
-  - pandemic
-  - COVID19
+  - Pandemic
 dates:
   - start: '2009-04-15'
     end: '2022-02-23'
