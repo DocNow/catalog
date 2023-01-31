@@ -1,6 +1,6 @@
 ---
-title: "BILLIONCOV: AN ENRICHED BILLION-SCALE COLLECTION OF COVID-19 TWEETS FOR
-  EFFICIENT HYDRATION"
+title: "BillionCov: An enriched billion-scale collection of COVID-19 tweets for
+  efficient hydration"
 url: https://ieee-dataport.org/open-access/billioncov-enriched-billion-scale-collection-covid-19-tweets-efficient-hydration
 repository: IEEE
 tweets: 1410446121
@@ -16,6 +16,6 @@ added: 2023-01-18T03:27:12.890Z
 subjects:
   - COVID-19
 ---
-***BillionCOV*** is a global billion-scale English-language COVID-19 tweets dataset with more than 1.4 billion tweets originating from 240 countries and territories between October 2019 and April 2022. This dataset has been curated by hydrating 2 billion tweets present in ***[COV19Tweets](https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset)**.*
+BillionCOV is a global billion-scale English-language COVID-19 tweets dataset with more than 1.4 billion tweets originating from 240 countries and territories between October 2019 and April 2022. This dataset has been curated by hydrating 2 billion tweets present in [COV19Tweets](https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset).
 
-M﻿ore description: https://ieee-dataport.org/open-access/billioncov-enriched-billion-scale-collection-covid-19-tweets-efficient-hydration
+More description: https://ieee-dataport.org/open-access/billioncov-enriched-billion-scale-collection-covid-19-tweets-efficient-hydration
