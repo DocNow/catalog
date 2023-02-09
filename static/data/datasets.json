@@ -1,5 +1,98 @@
 [
   {
+    "title": "TwitterDev",
+    "creators": [
+      {
+        "name": "Ed Summers",
+        "email": null
+      }
+    ],
+    "added": "2023-02-09T15:37:12.000Z",
+    "published": "2023-02-09T15:37:12.000Z",
+    "dates": [
+      {
+        "start": "2009-04-08T00:00:00.000Z",
+        "end": "2023-02-08T00:00:00.000Z"
+      }
+    ],
+    "repository": "Github",
+    "subjects": [
+      "Twitter"
+    ],
+    "tweets": 420824,
+    "url": "http://www.docnow.io/catalog/datasets/613AE0A2-CF8F-42F8-9932-2A07C121059B.csv.gz",
+    "slug": "20230208-twitterdev",
+    "description": "<p>These tweets mentioning @twitterdev were collected the day before Twitter was <a href=\"https://web.archive.org/web/20230208013239/https://twitter.com/TwitterDev/status/1621026986784337922\">reportedly</a> going to turn off free access to their API. They were collected from the historical search API using twarc.</p>"
+  },
+  {
+    "title": "BillionCov: An enriched billion-scale collection of COVID-19 tweets for efficient hydration",
+    "creators": [
+      {
+        "name": "Rabindra Lamsal",
+        "email": null
+      },
+      {
+        "name": "Maria Rodriguez Read",
+        "email": null
+      },
+      {
+        "name": "Shanika Karunasekera",
+        "email": null
+      }
+    ],
+    "added": "2023-01-18T03:27:12.890Z",
+    "published": "2023-01-31T03:27:12.879Z",
+    "dates": [
+      {
+        "start": "2019-09-30T14:00:00.000Z",
+        "end": "2022-04-26T14:00:00.000Z"
+      }
+    ],
+    "repository": "IEEE",
+    "subjects": [
+      "COVID-19"
+    ],
+    "tweets": 1410446121,
+    "url": "https://ieee-dataport.org/open-access/billioncov-enriched-billion-scale-collection-covid-19-tweets-efficient-hydration",
+    "slug": "20230131-billioncov-an-enriched-billion-scale-collection-of-covid-19-tweets-for-efficient-hydration",
+    "description": "<p>BillionCOV is a global billion-scale English-language COVID-19 tweets dataset with more than 1.4 billion tweets originating from 240 countries and territories between October 2019 and April 2022. This dataset has been curated by hydrating 2 billion tweets present in <a href=\"https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset\">COV19Tweets</a>.</p>\n<p>More description: <a href=\"https://ieee-dataport.org/open-access/billioncov-enriched-billion-scale-collection-covid-19-tweets-efficient-hydration\">https://ieee-dataport.org/open-access/billioncov-enriched-billion-scale-collection-covid-19-tweets-efficient-hydration</a></p>"
+  },
+  {
+    "title": "Teamsters and Teamsters Locals",
+    "creators": [
+      {
+        "name": "Vakil Smallen",
+        "email": null
+      },
+      {
+        "name": "Daniel Kerchner",
+        "email": "sfm@gwu.edu"
+      }
+    ],
+    "added": "2022-04-20T21:00:00.000Z",
+    "published": "2022-04-19T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2009-04-15",
+        "end": "2022-02-23"
+      }
+    ],
+    "repository": "Harvard Dataverse",
+    "subjects": [
+      "Labor Unions",
+      "International Brotherhood of Teamsters",
+      "Workplace Safety",
+      "Twitter",
+      "COVID-19",
+      "Coronavirus",
+      "Pandemic"
+    ],
+    "tweets": 63707,
+    "url": "https://doi.org/10.7910/DVN/UOJ6KG",
+    "slug": "20220419-teamsters-and-teamsters-locals",
+    "description": "<p>This dataset contains the tweet ids of 63,707 tweets posted by the Twitter accounts of the International Brotherhood of Teamsters as well as affiliated locals. The purpose of the collection was to document the experience of Teamsters members as front line workers, as well as the union's role in supporting its members, during the COVID-19 pandemic. This data was collected as part of the IBT COVID-19 Response Collection at George Washington University Libraries Special Collections (<a href=\"https://searcharchives.library.gwu.edu/repositories/2/resources/856\">https://searcharchives.library.gwu.edu/repositories/2/resources/856</a>). Tweets were collected between May 8, 2020 and Feb. 23, 2022, from the GET statuses/user_timeline method of the Twitter v1 REST API using Social Feed Manager. Collecting from the Twitter timelines harvested some tweets that were posted prior to the collection date, so this collection includes tweets posted as far back as 2009.</p>"
+  },
+  {
     "title": "The Social Archive of the Polish Web",
     "creators": [
       {
@@ -17,19 +110,20 @@
     ],
     "repository": "GitHub",
     "subjects": [
-      "coronavirus",
-      "pandemia",
-      "politics",
-      "media",
-      "cities",
+      "COVID-19",
+      "Coronavirus",
+      "Pandemic",
+      "Politics",
+      "Media",
+      "Cities",
       "LGBT",
-      "church",
-      "border crisis",
-      "vaccinations"
+      "Church",
+      "Immigration",
+      "Vaccinations"
     ],
     "tweets": 4617353,
     "url": "https://github.com/mw0000/aspw-twitter-dataset-2021-11-30",
-    "slug": "aspw-twitter-dataset-2021-11-30",
+    "slug": "20211130-aspw",
     "description": "<p>4617353 tweets IDs (4398351 unique) in Polish language covering topics like: coronavirus pandemia, politics, media, cities, LGBT, church, border crisis, vaccinations. For details, see meta.csv in every directory. All this data together with the URLs of web pages linked within that tweets can be accessed in <a href=\"https://github.com/mw0000/aspw-public-archive\">https://github.com/mw0000/aspw-public-archive</a> or <a href=\"https://aspw.pl/pakiety\">https://aspw.pl/pakiety</a>.</p>"
   },
   {
@@ -956,7 +1050,7 @@
     "dates": [
       {
         "start": "2020-03-19",
-        "end": "2020-04-08"
+        "end": "2020-05-20"
       }
     ],
     "repository": "IEEE",
@@ -964,10 +1058,10 @@
       "Covid-19",
       "Coronavirus"
     ],
-    "tweets": 20392947,
-    "url": "https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset",
+    "tweets": 102650603,
+    "url": "https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset",
     "slug": "20200328-coronavirus-covid-19-tweets",
-    "description": "<p>This dataset includes more than 20 million tweet IDs related to the Coronavirus outbreak of 2019-2020. It is being added to over time, so the  numbers and dates may change. The tweets have been collected by the  LSTM model deployed at sentiment.live. The model monitors the real-time Twitter feed for corona virus-related tweets, using filters language \"en\" and keyword \"corona\". The CSV files include columns: tweet ID,  sentiment score. The dataset should be solely used for non-commercial research purpose.</p>"
+    "description": "<p>This dataset includes more than 100 million tweet IDs related to the Coronavirus outbreak of 2019-2020. It is being added to over time, so the  numbers and dates may change. The tweets have been collected by the LSTM model deployed at sentiment.live. The model monitors the real-time Twitter feed for coronavirus-related tweets, using filters: language “en”, and keywords “corona”, \"coronavirus\", \"covid\", \"covid19\" and variants of \"sarscov2\". The CSV files include columns: tweet ID,  sentiment score. The dataset should be solely used for non-commercial research purpose.</p>"
   },
   {
     "title": "Coronavirus Tweets",
@@ -1534,11 +1628,12 @@
     "repository": "Harvard Dataverse",
     "subjects": [
       "Elections",
+      "Congress",
       "Politics"
     ],
     "tweets": 171248476,
     "url": "https://doi.org/10.7910/DVN/AEZPLU",
-    "slug": "20190222-2018-u-s-congressional-election",
+    "slug": "20190222-2018-us-congressional-election",
     "description": "<p>This dataset contains the tweet ids of 171,248,476 tweets related to  the 2018 U.S. Congressional Election, collected between January 22,  2018 and January 3, 2019. The collection includes tweets by Senate  candidates, tweets by House candidates, election-related hashags,  partisan Republican hashtags, and partisan Democratic hashtags.</p>"
   },
   {
@@ -1568,12 +1663,11 @@
     "repository": "Harvard Dataverse",
     "subjects": [
       "Elections",
-      "Congress",
       "Politics"
     ],
     "tweets": 171248476,
     "url": "https://doi.org/10.7910/DVN/AEZPLU",
-    "slug": "20190222-2018-us-congressional-election",
+    "slug": "20190222-2018-u-s-congressional-election",
     "description": "<p>This dataset contains the tweet ids of 171,248,476 tweets related to  the 2018 U.S. Congressional Election, collected between January 22,  2018 and January 3, 2019. The collection includes tweets by Senate  candidates, tweets by House candidates, election-related hashags,  partisan Republican hashtags, and partisan Democratic hashtags.</p>"
   },
   {
@@ -2844,7 +2938,7 @@
     ],
     "tweets": 5655632,
     "url": "http://dx.doi.org/10.7910/DVN/TQBLWZ",
-    "slug": "20170907-end-of-term-2016-u-s-government-twitter-archive",
+    "slug": "20170907-end-of-term-2016-us-government-twitter-archive",
     "description": "<p>This dataset contains the tweet ids of 5,655,632 tweets that were collected from approximately 3000 Twitter accounts affiliated with the U.S. government. They were collected between October 21, 2016 and January 21, 2017 from the Twitter API using Social Feed Manager. This dataset was created as part of the End of Term Web Archiving initiative. The lists of accounts came from the U.S. Digital Registry and by public submissions.</p>"
   },
   {
@@ -2878,7 +2972,7 @@
     ],
     "tweets": 5655632,
     "url": "http://dx.doi.org/10.7910/DVN/TQBLWZ",
-    "slug": "20170907-end-of-term-2016-us-government-twitter-archive",
+    "slug": "20170907-end-of-term-2016-u-s-government-twitter-archive",
     "description": "<p>This dataset contains the tweet ids of 5,655,632 tweets that were collected from approximately 3000 Twitter accounts affiliated with the U.S. government. They were collected between October 21, 2016 and January 21, 2017 from the Twitter API using Social Feed Manager. This dataset was created as part of the End of Term Web Archiving initiative. The lists of accounts came from the U.S. Digital Registry and by public submissions.</p>"
   },
   {
@@ -3679,6 +3773,32 @@
     "description": "<p>8,595,589 tweet ids for aleppo tweets captured during the fall of Aleppo in December 2016. Tweets can be \"rehydrated\" with Documenting the Now's twarc (<a href=\"https://github.com/DocNow/twarc\">https://github.com/DocNow/twarc</a>). twarc.py --hydrate aleppo<em>tweet</em>ids.txt > aleppo.json</p>"
   },
   {
+    "title": "Yes All Women Twitter Dataset",
+    "creators": [
+      {
+        "name": "Mark Phillips",
+        "email": null
+      }
+    ],
+    "added": "2016-12-24T15:14:07.000Z",
+    "published": "2014-06-08T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2014-05-25",
+        "end": "2014-06-08"
+      }
+    ],
+    "repository": "University of North Texas",
+    "subjects": [
+      "Harassment",
+      "Discrimination"
+    ],
+    "tweets": 2805763,
+    "url": "http://digital.library.unt.edu/ark:/67531/metadc304853/",
+    "slug": "20161224-yes-all-women-twitter-dataset",
+    "description": "<p>This dataset contains Twitter JSON data for several Twitter search queries that were collected around the #YesAllWomen Twitter \"conversation\" between May 25, 2014 and June 8, 2014 using the twarc (<a href=\"https://github.com/edsu/twarc\">https://github.com/edsu/twarc</a>) package that makes use of Twitter's search API. A total of 2,805,763 Tweets and 34,532 images make up the combined dataset.</p>"
+  },
+  {
     "title": "Ferguson Tweets",
     "creators": [
       {
@@ -3732,32 +3852,6 @@
     "url": "http://hdl.handle.net/10864/11270",
     "slug": "20161224-elxn42-tweets-42nd-canadian-federal-election",
     "description": "<p>Tweet ids for #elxn42 tweets.</p>"
-  },
-  {
-    "title": "Yes All Women Twitter Dataset",
-    "creators": [
-      {
-        "name": "Mark Phillips",
-        "email": null
-      }
-    ],
-    "added": "2016-12-24T15:14:07.000Z",
-    "published": "2014-06-08T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2014-05-25",
-        "end": "2014-06-08"
-      }
-    ],
-    "repository": "University of North Texas",
-    "subjects": [
-      "Harassment",
-      "Discrimination"
-    ],
-    "tweets": 2805763,
-    "url": "http://digital.library.unt.edu/ark:/67531/metadc304853/",
-    "slug": "20161224-yes-all-women-twitter-dataset",
-    "description": "<p>This dataset contains Twitter JSON data for several Twitter search queries that were collected around the #YesAllWomen Twitter \"conversation\" between May 25, 2014 and June 8, 2014 using the twarc (<a href=\"https://github.com/edsu/twarc\">https://github.com/edsu/twarc</a>) package that makes use of Twitter's search API. A total of 2,805,763 Tweets and 34,532 images make up the combined dataset.</p>"
   },
   {
     "title": "#MakeDonaldDrumpfAgain tweets",
@@ -3835,31 +3929,6 @@
     "description": "<p>Tweet ids for #panamapapers tweets.</p>"
   },
   {
-    "title": "#paris #Bataclan #parisattacks #porteouverte tweets",
-    "creators": [
-      {
-        "name": "Nick Ruest",
-        "email": "ruestn@yorku.ca"
-      }
-    ],
-    "added": "2016-12-23T22:40:17.000Z",
-    "published": "2015-12-12T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2015-11-04",
-        "end": "2015-12-08"
-      }
-    ],
-    "repository": "Scholars Portal Dataverse",
-    "subjects": [
-      "Politics"
-    ],
-    "tweets": 14939154,
-    "url": "http://hdl.handle.net/10864/11312",
-    "slug": "20161223-paris-bataclan-parisattacks-porteouverte-tweets",
-    "description": "<p>Tweet ids for #paris #Bataclan #parisattacks #porteouverte tweets.</p>"
-  },
-  {
     "title": "#thechalkening tweets",
     "creators": [
       {
@@ -3885,6 +3954,31 @@
     "description": "<p>Tweet ids for #thechalkening tweets.</p>"
   },
   {
+    "title": "#paris #Bataclan #parisattacks #porteouverte tweets",
+    "creators": [
+      {
+        "name": "Nick Ruest",
+        "email": "ruestn@yorku.ca"
+      }
+    ],
+    "added": "2016-12-23T22:40:17.000Z",
+    "published": "2015-12-12T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2015-11-04",
+        "end": "2015-12-08"
+      }
+    ],
+    "repository": "Scholars Portal Dataverse",
+    "subjects": [
+      "Politics"
+    ],
+    "tweets": 14939154,
+    "url": "http://hdl.handle.net/10864/11312",
+    "slug": "20161223-paris-bataclan-parisattacks-porteouverte-tweets",
+    "description": "<p>Tweet ids for #paris #Bataclan #parisattacks #porteouverte tweets.</p>"
+  },
+  {
     "title": "#YMMfire tweets",
     "creators": [
       {
@@ -3908,6 +4002,31 @@
     "url": "http://hdl.handle.net/10864/12033",
     "slug": "20161223-ymmfire-tweets",
     "description": "<p>Tweet ids for #YMMfire tweets captured during the 2016 Fort McMurray Wildfire from 2016-05-01 to 2016-06-25.</p>"
+  },
+  {
+    "title": "#JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets",
+    "creators": [
+      {
+        "name": "Nick Ruest",
+        "email": "ruestn@yorku.ca"
+      }
+    ],
+    "added": "2016-12-23T22:03:14.000Z",
+    "published": "2015-01-14T00:00:00.000Z",
+    "dates": [
+      {
+        "start": "2015-01-07",
+        "end": "2015-01-28"
+      }
+    ],
+    "repository": "Scholars Portal Dataverse",
+    "subjects": [
+      "Politics"
+    ],
+    "tweets": 13968293,
+    "url": "http://hdl.handle.net/10864/10830",
+    "slug": "20161223-jesuischarlie-jesuisahmed-jesuisjuif-charliehebdo-tweets",
+    "description": "<p>Tweet ids for #JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets.</p>"
   },
   {
     "title": "2016 United States Presidential Election Tweet Ids",
@@ -3966,31 +4085,6 @@
     "url": "https://www.microsoft.com/en-us/download/details.aspx?id=52598",
     "slug": "20161223-election-2012-tweet-id-dataset",
     "description": "<p>This data set identifies 38M tweets collected for the analysis of social media messages related to the 2012 U.S. Presidential election. The data set provides tweet IDs for tweets containing the words \"obama\", \"romney\", or both (case-insensitive matching) during the period from July 1, 2012 through November 7, 2012. The paper, “Online and Social Media Data As an Imperfect Continuous Panel Survey.” PLoS ONE 11(1): e0145406 by Diaz et al.  provides further description of the dataset.</p>"
-  },
-  {
-    "title": "#JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets",
-    "creators": [
-      {
-        "name": "Nick Ruest",
-        "email": "ruestn@yorku.ca"
-      }
-    ],
-    "added": "2016-12-23T22:03:14.000Z",
-    "published": "2015-01-14T00:00:00.000Z",
-    "dates": [
-      {
-        "start": "2015-01-07",
-        "end": "2015-01-28"
-      }
-    ],
-    "repository": "Scholars Portal Dataverse",
-    "subjects": [
-      "Politics"
-    ],
-    "tweets": 13968293,
-    "url": "http://hdl.handle.net/10864/10830",
-    "slug": "20161223-jesuischarlie-jesuisahmed-jesuisjuif-charliehebdo-tweets",
-    "description": "<p>Tweet ids for #JeSuisCharlie, #JeSuisAhmed, #JeSuisJuif, #CharlieHebdo tweets.</p>"
   },
   {
     "title": "#cdnpoli tweets (Canadian Politics, 2015)",
